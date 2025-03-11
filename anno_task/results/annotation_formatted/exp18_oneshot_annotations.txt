@@ -1,0 +1,28 @@
+Here are the annotations for the provided text in dictionary output format:
+
+[
+  {
+    "tag_name": "order",
+    "start": 0,
+    "end": 37881,
+    "text": "Ich war ein junger Mann, der auf einem Reisezettel nach Arkadien unterwegs war. Als ich mich dem Blocksberg näherte, sah ich einen Professor und dessen Pegasus in einer großen Eile um die Wette fliegen."
+  },
+  {
+    "tag_name": "order",
+    "start": 37881,
+    "end": 39239,
+    "text": ". Eins nach dem anderen streckte neugierig den Kopf hervor, und da es so lustig herging draußen, rüttelten und schüttelten sie und brachen den ganzen Plunder entzwei. Da sah man dort einen dürren Paragraphen, dort ein schweres Korollarium, hier einen luftigen Heischesatz aus den Trümmern steigen, und kaum fühlten sie sich frei, so lagen sie einander auch schon wieder in den Haaren und stürzten raufend in das dickste Getümmel.\nNun entstand eine allgemeine Schlägerei, da wußte keiner mehr, wer Freund oder Feind war! Dazwischen raste der Sturm, Besen flogen, tiefer unten krähte der rote Hahn wieder, bliesen die sieben Pfeifer, schrie der Wirt, die Bühne suchte die alte Freiheit und rührte und reckte sich in wilde Nebelqualme auseinander, ein entsetzliches übermenschliches Lachen ging durch die Lüfte, der ganze Berg schien auf einmal sich in die Runde zu drehen, erst langsam, dann geschwinder und immer geschwinder – mir vergingen die Gedanken, ich stürzte besinnungslos zu Boden."
+  },
+  {
+    "tag_name": "order",
+    "start": 39239,
+    "end": 43619,
+    "text": "Als ich die Augen wieder aufschlug, lag ich ruhig in dem Gasthofe »Zum goldenen Zeitgeist« im Bett. Die Sonne schien schon hell ins Zimmer, der fatale Kellner stand neben mir und lächelte wieder so ironisch, daß ich mich schämte, nach dem Professor, dem Pegasus und dem Blocksberg zu fragen. Ich griff verwirrt nach meinem Kopf: ich fühlte so etwas von Katzenjammer."
+  },
+  {
+    "tag_name": "order",
+    "start": 43619,
+    "end": 44351,
+    "text": "Und in der Tat, da ich's jetzt recht betrachte, ich weiß nicht, ob nicht am Ende alles bloß ein Traum war, der mir, wie eine Fata Morgana, die duftigen Küsten jenes volksersehnten Eldorados vorgespiegelt. Dem aber sei nun wie ihm wolle, genug: »Auch ich war in Arkadien!«"
+  }
+]

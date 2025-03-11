@@ -1,0 +1,738 @@
+[
+  {
+    "anno_id": "ea42365a-3587-4006-8fd9-a230d4a1a4cc",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 64,
+    "end": 108,
+    "text": "Die Stra\u00dfe kam ihm vor wie ein langer Strich"
+  },
+  {
+    "anno_id": "df4052f2-9596-4a4a-8267-54bba8422407",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 110,
+    "end": 119,
+    "text": "die Leute"
+  },
+  {
+    "anno_id": "df4052f2-9596-4a4a-8267-54bba8422407",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 146,
+    "end": 196,
+    "text": " schienen ihm wie lauter aufgeblasene wei\u00dfe Puppen"
+  },
+  {
+    "anno_id": "c8a0c0eb-5e58-4af0-ac43-f0b3ad757e4b",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 121,
+    "end": 145,
+    "text": "die an ihm vor\u00fcbergingen"
+  },
+  {
+    "anno_id": "603aa0a2-c26b-48f3-971d-dee6a5231602",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 198,
+    "end": 238,
+    "text": "Was wu\u00dften sie auch von seiner Seligkeit"
+  },
+  {
+    "anno_id": "6aa58a00-0f29-4760-8786-3983e3a23ae2",
+    "tag_id": "115083cf-9e1c-4fa0-9542-e7388f01a576",
+    "tag_name": "pluperfect",
+    "start": 240,
+    "end": 260,
+    "text": "Er hatte sie gefragt"
+  },
+  {
+    "anno_id": "3afe56a3-54f4-4b2a-a5ce-89edcc74ed2b",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 263,
+    "end": 282,
+    "text": "Darf ich Sie k\u00fcssen"
+  },
+  {
+    "anno_id": "f9dd3051-c8f5-4e58-a490-10be22e7624a",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 286,
+    "end": 302,
+    "text": "der kleine Junge"
+  },
+  {
+    "anno_id": "abe8a0c1-3604-483b-9a02-6f08c13988c5",
+    "tag_id": "115083cf-9e1c-4fa0-9542-e7388f01a576",
+    "tag_name": "pluperfect",
+    "start": 304,
+    "end": 344,
+    "text": "und sie hatte ihm ihren Mund hingehalten"
+  },
+  {
+    "anno_id": "fa898e12-60d0-4d4d-b7d0-7b32307002a3",
+    "tag_id": "115083cf-9e1c-4fa0-9542-e7388f01a576",
+    "tag_name": "pluperfect",
+    "start": 346,
+    "end": 369,
+    "text": "und er hatte sie gek\u00fc\u00dft"
+  },
+  {
+    "anno_id": "a6c3addf-fe62-4e09-8ce8-ed301179841f",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 371,
+    "end": 421,
+    "text": "Und dieser Ku\u00df brannte ihm tief in das Herz hinein"
+  },
+  {
+    "anno_id": "a0045bc1-eb2a-4ff5-bd93-7664d55b6fc3",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 423,
+    "end": 450,
+    "text": "wie eine gro\u00dfe reine Flamme"
+  },
+  {
+    "anno_id": "a1ad4972-70f3-4c7f-bb6a-5885dc158040",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 452,
+    "end": 467,
+    "text": "die ihn erl\u00f6ste"
+  },
+  {
+    "anno_id": "a28d311e-e796-41e6-948b-967101bdacab",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 469,
+    "end": 493,
+    "text": "die ihn gl\u00fccklich machte"
+  },
+  {
+    "anno_id": "c6819d7b-bfb7-405a-b15b-c7f59b911018",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 495,
+    "end": 515,
+    "text": "die ihn selig machte"
+  },
+  {
+    "anno_id": "7c0d7096-7026-44d1-bac1-fc51a462a77e",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 517,
+    "end": 560,
+    "text": "G\u00f6tter, er h\u00e4tte tanzen m\u00f6gen vor Seligkeit"
+  },
+  {
+    "anno_id": "06e50531-c0cc-4008-bd43-1a05a53e793e",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 562,
+    "end": 625,
+    "text": "Und der Himmel lief \u00fcber ihn dahin wie eine gro\u00dfe, blaue Stra\u00dfe"
+  },
+  {
+    "anno_id": "02acabc4-6527-41e3-8a4b-951081cfdefc",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 627,
+    "end": 678,
+    "text": "das Licht reiste nach Westen wie ein feuriger Wagen"
+  },
+  {
+    "anno_id": "a4e93bb5-40da-4f76-b729-2b2f795fa600",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 680,
+    "end": 755,
+    "text": "und alle die gl\u00fchenden H\u00e4user schienen sein gl\u00fchendes Feuer widerzustrahlen"
+  },
+  {
+    "anno_id": "99db17da-4762-4fee-bae7-b54a9a3da07a",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 758,
+    "end": 809,
+    "text": "Er hatte das Gef\u00fchl eines starken brausenden Lebens"
+  },
+  {
+    "anno_id": "8de0f44b-dd0f-4f46-966b-b2cc3021331b",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 811,
+    "end": 975,
+    "text": "als h\u00e4tte er noch nie so gelebt, als schw\u00e4mme er wie ein Vogel hoch in der Luft, versunken in ewigem \u00c4ther, grenzenlos frei, grenzenlos gl\u00fccklich, grenzenlos einsam"
+  },
+  {
+    "anno_id": "beeb6ac9-b436-4615-a8df-0ad46be3df0e",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 978,
+    "end": 1058,
+    "text": "Und das unsichtbare Diadem der Gl\u00fcckseligkeit lag auf seiner eckigen Kinderstirn"
+  },
+  {
+    "anno_id": "54b5f442-a49c-430d-9960-1f46b4574ef1",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1059,
+    "end": 1077,
+    "text": "und versch\u00f6nte sie"
+  },
+  {
+    "anno_id": "b8d1cdb5-c3a0-41a6-bd15-dc906d65244b",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1079,
+    "end": 1151,
+    "text": "wie eine n\u00e4chtliche Landschaft unter dem weiten Aufbrechen eines Blitzes"
+  },
+  {
+    "anno_id": "6d55929a-4eeb-476b-8c26-4e217f64c836",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1155,
+    "end": 1161,
+    "text": "G\u00f6tter"
+  },
+  {
+    "anno_id": "5edf0be3-f6e1-47fe-8f47-9959b37d29f4",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1163,
+    "end": 1180,
+    "text": "ich werde geliebt"
+  },
+  {
+    "anno_id": "edf5137d-9b20-46f8-9df0-51d74a1038c4",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1182,
+    "end": 1199,
+    "text": "ich werde geliebt"
+  },
+  {
+    "anno_id": "10a9b436-1abf-4f51-b764-ac79c3ed1553",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1201,
+    "end": 1229,
+    "text": "wie man mich nur lieben kann"
+  },
+  {
+    "anno_id": "1c64bc20-06c7-4a03-8194-1d9f982f86d1",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1232,
+    "end": 1249,
+    "text": "Er ging schneller"
+  },
+  {
+    "anno_id": "64595eeb-b410-4f4d-87ac-ed0e4d718005",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1251,
+    "end": 1268,
+    "text": "er kam ins Laufen"
+  },
+  {
+    "anno_id": "18b1e090-4d3b-4dba-ba4f-85aa27692bad",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1270,
+    "end": 1339,
+    "text": "als w\u00e4re die gew\u00f6hnliche, gemessene Bewegung zu langsam f\u00fcr den Sturm"
+  },
+  {
+    "anno_id": "2349224f-318d-4f6f-9d93-faaa1a1a96dd",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1341,
+    "end": 1369,
+    "text": "der in seinem Herzen brauste"
+  },
+  {
+    "anno_id": "4f384413-c947-4439-b198-f82198dc99c2",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1371,
+    "end": 1416,
+    "text": "Und so rannte er die Stra\u00dfe herab zum Strande"
+  },
+  {
+    "anno_id": "573c6a87-bf05-4ef3-a817-a8349e47e266",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1417,
+    "end": 1444,
+    "text": "und setzte sich an das Meer"
+  },
+  {
+    "anno_id": "e4dc912c-70e2-4e10-b268-fb5451693073",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1448,
+    "end": 1460,
+    "text": "O Meer, Meer"
+  },
+  {
+    "anno_id": "4716cea6-c6f1-49fc-8e1b-0e205ced2074",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1463,
+    "end": 1501,
+    "text": "und er erz\u00e4hlte dem Meer sein Erlebnis"
+  },
+  {
+    "anno_id": "6b7766fb-6c3d-4b24-bb1f-ef02938ab44e",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1503,
+    "end": 1594,
+    "text": "in einem kurzen Jauchzen, in einem zitternden Fl\u00fcstern, in dem Taumel einer stummen Sprache"
+  },
+  {
+    "anno_id": "1c33ca78-0c74-4c7c-8c89-314588a71e92",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1596,
+    "end": 1621,
+    "text": "Und das Meer verstand ihn"
+  },
+  {
+    "anno_id": "06664e73-ff16-4947-a0ab-99e68d0fe5fb",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1622,
+    "end": 1638,
+    "text": "und h\u00f6rte ihm zu"
+  },
+  {
+    "anno_id": "76ef110a-a0f1-48d7-b298-646df3c7495a",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1640,
+    "end": 1648,
+    "text": "das Meer"
+  },
+  {
+    "anno_id": "55e285a5-a84d-4cd0-85f1-aa50ed00c5b9",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1650,
+    "end": 1772,
+    "text": "auf dessen blauer dr\u00f6hnender Weite seit so vielen Jahrtausenden der Orkan der Freude und das Lallen der Qualen widerhallte"
+  },
+  {
+    "anno_id": "e2adbb4e-9659-4d07-b00b-a381f4928423",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1774,
+    "end": 1834,
+    "text": "wie ein ewiger Wirbelsturm \u00fcber einer ewig unber\u00fchrten Tiefe"
+  },
+  {
+    "anno_id": "3d93f9df-2126-43d3-90d7-a27201874a08",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1837,
+    "end": 1875,
+    "text": "Er beh\u00fctete \u00e4ngstlich seine Einsamkeit"
+  },
+  {
+    "anno_id": "9c5d7518-0a1e-47c8-b769-eac33d5e56c5",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1877,
+    "end": 1896,
+    "text": "Wenn Menschen kamen"
+  },
+  {
+    "anno_id": "1f3c22f4-6ce5-4a33-8a0a-f47455222dfe",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1898,
+    "end": 1911,
+    "text": "sprang er auf"
+  },
+  {
+    "anno_id": "cf9a88dd-09cf-47c4-bf13-d53425fba91a",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1913,
+    "end": 1926,
+    "text": "lief er davon"
+  },
+  {
+    "anno_id": "ffc90037-5056-44f9-afd7-1280abeda187",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1927,
+    "end": 1949,
+    "text": "und kroch in die D\u00fcnen"
+  },
+  {
+    "anno_id": "8624e14f-efa7-4af1-a813-2c28d65c86ae",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1951,
+    "end": 1967,
+    "text": "Waren sie vorbei"
+  },
+  {
+    "anno_id": "0dd9487f-d1c0-4583-be31-9acd929d18b1",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1969,
+    "end": 2002,
+    "text": "so lief er wieder hervor ans Meer"
+  },
+  {
+    "anno_id": "5ac97211-750e-4ce2-bdf1-d84e05421521",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2004,
+    "end": 2049,
+    "text": "dessen gewaltige Weite der einzige Becher war"
+  },
+  {
+    "anno_id": "dc136e07-08a0-4ee3-9549-7bdb4627b4f2",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2051,
+    "end": 2115,
+    "text": "in den er die Flut seines unendlichen \u00dcberma\u00dfes fortgeben konnte"
+  },
+  {
+    "anno_id": "fd71af04-5f3e-4c2d-8619-c1dc904aba0c",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2118,
+    "end": 2154,
+    "text": "Allm\u00e4hlich wurde der Strand belebter"
+  },
+  {
+    "anno_id": "51a0bbee-0393-4c3f-babe-91314bc232af",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2156,
+    "end": 2221,
+    "text": "Allenthalben blinkten wei\u00dfe Kleider zwischen den Strandk\u00f6rben vor"
+  },
+  {
+    "anno_id": "acafb94c-1030-4dc9-a55f-513b8ea983f3",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2223,
+    "end": 2265,
+    "text": "alte Damen kamen mit B\u00fcchern unter dem Arm"
+  },
+  {
+    "anno_id": "cbb3294c-1739-4876-9f98-5de0179afa5f",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2267,
+    "end": 2322,
+    "text": "Helle Sonnenschirme wippten auf den schmalen Holzg\u00e4ngen"
+  },
+  {
+    "anno_id": "9d8ade80-89a0-4f5d-a652-0c686bed250f",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2324,
+    "end": 2381,
+    "text": "und die Kinder f\u00fcllten wieder scharenweise die Sandburgen"
+  },
+  {
+    "anno_id": "a7d88b98-adfa-4bb3-93b4-b701be6a8c20",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2383,
+    "end": 2404,
+    "text": "Ruderboote fuhren aus"
+  },
+  {
+    "anno_id": "c9b7d91b-5937-4155-98d0-b051df517549",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2406,
+    "end": 2455,
+    "text": "an den gro\u00dfen Segelk\u00e4hnen wurden die Segel gehi\u00dft"
+  },
+  {
+    "anno_id": "001ce1b1-2d74-4bfa-a411-807e5c8e6fd0",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2457,
+    "end": 2536,
+    "text": "Ein Photograph watete durch den Sand mit dem Kasten am Riemen \u00fcber der Schulter"
+  },
+  {
+    "anno_id": "6912d451-bcee-42f7-9723-e37e63c4cacd",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2539,
+    "end": 2558,
+    "text": "Er sah nach der Uhr"
+  },
+  {
+    "anno_id": "d1c6a7d5-64ea-4ae5-907d-fd87df939d59",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2560,
+    "end": 2611,
+    "text": "Noch eine halbe Stunde, noch neunundzwanzig Minuten"
+  },
+  {
+    "anno_id": "735aecf3-6e45-485f-945a-83c2939336b3",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 2613,
+    "end": 2637,
+    "text": "dann wird er sie treffen"
+  },
+  {
+    "anno_id": "546fafe1-ebad-4e8a-8c50-8b8bf5097193",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 2639,
+    "end": 2669,
+    "text": "Er wird sie an der Hand nehmen"
+  },
+  {
+    "anno_id": "f37c8f2b-7438-4b5a-a158-327858782157",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 2671,
+    "end": 2708,
+    "text": "sie werden zusammen in den Wald gehen"
+  },
+  {
+    "anno_id": "cf495f22-ae81-4d6d-8167-1620e693781b",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2710,
+    "end": 2733,
+    "text": "da wo es ganz still ist"
+  },
+  {
+    "anno_id": "83612a8f-ec1e-413d-86c0-1d1f6e1ed6a6",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 2735,
+    "end": 2773,
+    "text": "Und sie werden sich zusammen hinsetzen"
+  },
+  {
+    "anno_id": "dd8bba32-007a-4508-a57a-d8fb85ae2e2b",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2775,
+    "end": 2817,
+    "text": "Hand in Hand, verborgen im gr\u00fcnen Dickicht"
+  },
+  {
+    "anno_id": "ef420fd9-7c46-4421-8047-2097c40bc9e8",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2820,
+    "end": 2849,
+    "text": "Aber was soll er zu ihr reden"
+  },
+  {
+    "anno_id": "04a85ccf-b385-4da5-a2a2-35ba564ec8f4",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2851,
+    "end": 2888,
+    "text": "damit sie ihn nicht langweilig findet"
+  },
+  {
+    "anno_id": "5e6236c1-d676-4385-9caf-cee7f3d07f96",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2890,
+    "end": 2929,
+    "text": "Denn sie ist schon wie eine kleine Dame"
+  },
+  {
+    "anno_id": "b9cbf989-6b3f-4015-b606-2b645751224b",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2931,
+    "end": 2954,
+    "text": "man mu\u00df sie unterhalten"
+  },
+  {
+    "anno_id": "7ef28fa6-ea4a-4bb8-b061-6feff01384ad",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2956,
+    "end": 2976,
+    "text": "man mu\u00df Witze machen"
+  },
+  {
+    "anno_id": "eb08d41e-87ec-466f-8f51-839cfe16fb04",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2979,
+    "end": 3008,
+    "text": "Was soll er blo\u00df zu ihr reden"
+  },
+  {
+    "anno_id": "7e7b48e2-fa81-4218-b90e-4a381da7caf7",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3011,
+    "end": 3014,
+    "text": "Ach"
+  },
+  {
+    "anno_id": "99248c96-65b8-401c-a106-2cb553ac63a9",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 3016,
+    "end": 3049,
+    "text": "er wird \u00fcberhaupt nichts sprechen"
+  },
+  {
+    "anno_id": "2a6dbf21-e211-4dcd-aebe-a4e5ef5ca268",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 3051,
+    "end": 3081,
+    "text": "sie wird ihn auch so verstehen"
+  },
+  {
+    "anno_id": "b7880197-51f8-492d-9362-0cef86700d43",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 3083,
+    "end": 3117,
+    "text": "Sie werden sich in die Augen sehen"
+  },
+  {
+    "anno_id": "9692e126-9324-4a10-b8d2-094aad776cfb",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 3119,
+    "end": 3146,
+    "text": "die werden sich genug sagen"
+  },
+  {
+    "anno_id": "3e89bdbc-eb24-4fa4-9949-441aad42b5a1",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 3149,
+    "end": 3198,
+    "text": "Und dann wird sie ihm wieder ihren Mund hinhalten"
+  },
+  {
+    "anno_id": "f28184d6-5457-4d5f-aec0-a8c1613241be",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3200,
+    "end": 3248,
+    "text": "er ihren Kopf leise in seinen Arm nehmen, so, so"
+  },
+  {
+    "anno_id": "80fbf564-e3d5-4073-a45a-0f3fbbdf5ab1",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 3251,
+    "end": 3289,
+    "text": "er probierte es an einer Ginsterstaude"
+  },
+  {
+    "anno_id": "952104db-1132-4661-abd2-fcaafdbb543b",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 3293,
+    "end": 3320,
+    "text": "und dann wird er sie k\u00fcssen"
+  },
+  {
+    "anno_id": "95d51269-2eb4-4f0f-ae69-2bfe961298b2",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3322,
+    "end": 3343,
+    "text": "ganz leise, ganz zart"
+  },
+  {
+    "anno_id": "bb4f376e-0df4-4380-8739-ff658e0d1d3d",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 3346,
+    "end": 3391,
+    "text": "Und so werden sie beieinander sitzen im Walde"
+  },
+  {
+    "anno_id": "06957eb6-9838-4de6-8771-658a2f5e127f",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3393,
+    "end": 3470,
+    "text": "beieinander bis es dunkel wird; o wie sch\u00f6n, wie sch\u00f6n, wie unerme\u00dflich selig"
+  },
+  {
+    "anno_id": "372807fa-9300-4b48-9a65-253825aad6a4",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 3473,
+    "end": 3507,
+    "text": "Sie werden sich nie mehr verlassen"
+  },
+  {
+    "anno_id": "67e13de7-9848-489e-a1d1-3477d11fb914",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 3509,
+    "end": 3531,
+    "text": "Er wird immer arbeiten"
+  },
+  {
+    "anno_id": "28f0a21d-7aa2-41e2-afac-26634bb4e8a9",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 3533,
+    "end": 3563,
+    "text": "dann wird er schnell studieren"
+  },
+  {
+    "anno_id": "b2e664ce-4717-4027-b0ce-6e8389fb2918",
+    "tag_id": "7a909b62-01c0-4f69-beb3-15e7098ae054",
+    "tag_name": "future",
+    "start": 3565,
+    "end": 3601,
+    "text": "und eines Tages wird er sie heiraten"
+  },
+  {
+    "anno_id": "3f1f9d19-6a14-4fe1-b273-b8fb906f4c6f",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 3603,
+    "end": 3664,
+    "text": "Und das Leben erschien dem Kinde wie eine klare gerade Stra\u00dfe"
+  },
+  {
+    "anno_id": "fe6c9824-4ae4-4941-9e88-251cdd4806ea",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3666,
+    "end": 3708,
+    "text": "die in einem Himmel von ewiger Bl\u00e4ue zieht"
+  },
+  {
+    "anno_id": "cbd7511e-dac1-4639-aed3-e31ad0c0ecde",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3710,
+    "end": 3763,
+    "text": "kurz, einfach, ohne Ereignisse, wie ein ewiger Garten"
+  }
+]

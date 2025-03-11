@@ -1,0 +1,354 @@
+[
+  {
+    "anno_id": "98020e10-7d27-451a-a885-eb48069a6249",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 1280,
+    "end": 1552,
+    "text": "Er hatte das M\u00e4dchen immer seinen Morgenstern genannt und sich ihrer sanften, erquickenden Sch\u00f6nheit innig erfreut; niemals jedoch war ihm der Gedanke gekommen, sich um ihre Liebe zu bewerben, er hatte sich kaum gedrungen gef\u00fchlt, hin und wieder ein Wort mit ihr zu reden."
+  },
+  {
+    "anno_id": "33aee366-3fc3-457e-ac44-c85b1c6ad09f",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 2618,
+    "end": 2672,
+    "text": "die ihn in seiner Krankheit notd\u00fcrftig verpflegt hatte"
+  },
+  {
+    "anno_id": "5ce5239c-d240-4930-ab4c-50d61d4d79bd",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 2996,
+    "end": 3083,
+    "text": "als er sie zu irgendeiner Zeit, die h\u00f6chsten Festtage nicht ausgenommen, erblickt hatte"
+  },
+  {
+    "anno_id": "a0c85431-e782-40a4-8d6d-a9899f6fbe16",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 4021,
+    "end": 4077,
+    "text": "ich sagte es gewi\u00df nicht, um deines Ungl\u00fccks zu spotten!"
+  },
+  {
+    "anno_id": "9d62ead2-48a5-4a2c-814e-c55cb623785e",
+    "tag_id": "eeccc55e-96a1-4e00-8217-02661717b1e0",
+    "tag_name": "prolepse",
+    "start": 4459,
+    "end": 4497,
+    "text": "Sieh, morgen feire ich meine Hochzeit;"
+  },
+  {
+    "anno_id": "9b8da22c-a52d-46b1-8367-b3636b0a208b",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 5284,
+    "end": 5311,
+    "text": "ich emp\u00f6rte mich gegen dich"
+  },
+  {
+    "anno_id": "f94327ac-3d27-40d7-b825-465f66e2d1d6",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 5947,
+    "end": 6032,
+    "text": "Matteo war ja ein h\u00fcbscher, frischer Bursch mit einem Gesicht, das man recht gern sah"
+  },
+  {
+    "anno_id": "7a9f886d-78db-428b-aa05-810d9420581e",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 6078,
+    "end": 6092,
+    "text": "Ich war krank!"
+  },
+  {
+    "anno_id": "30736833-f566-4e58-a661-dab025e92c90",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 6790,
+    "end": 6837,
+    "text": "Wer so aussieht, der mu\u00df sich selbst verachten!"
+  },
+  {
+    "anno_id": "37fb9e3f-2871-4d55-9f68-7d10601e226a",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 7103,
+    "end": 7192,
+    "text": "wo er sich vor seiner Krankheit auf diese oder jene Weise n\u00fctzlich zu machen gewu\u00dft hatte"
+  },
+  {
+    "anno_id": "0467e8c2-4ea8-475e-9bd1-853681be9eac",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 7242,
+    "end": 7299,
+    "text": "weil inzwischen ein anderer an seine Stelle getreten war,"
+  },
+  {
+    "anno_id": "4ae0ba69-95b7-4fe7-a6ab-d45442f78e9d",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 9232,
+    "end": 9313,
+    "text": "mein Vater, als er starb, mir doch lieber einen Dolch hinterlie\u00df, als gar nichts!"
+  },
+  {
+    "anno_id": "5b779cac-4b91-4157-92a2-29d3978dff55",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 9341,
+    "end": 9422,
+    "text": "Als ich ihn zum letzten Mal schliff, geschah es nur, weil er rostig geworden war."
+  },
+  {
+    "anno_id": "6e8d27b8-3697-4a5f-a5ef-3ac29d16af3d",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 9440,
+    "end": 9465,
+    "text": "da\u00df ich es beizeiten tat!"
+  },
+  {
+    "anno_id": "dc58f1ab-4e1d-423f-b06b-08ce6101bb56",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 9886,
+    "end": 9913,
+    "text": "ich habs im Spiel gewonnen!"
+  },
+  {
+    "anno_id": "4b516491-0ef0-4c9f-8710-1a7d6f12db04",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 10688,
+    "end": 10772,
+    "text": "Matteo hatte den ganzen Tag verschlafen, um sich, um die Welt und Gott zu vergessen."
+  },
+  {
+    "anno_id": "4194c2e8-d926-4c68-a9f9-fd65fbafe6cd",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 10804,
+    "end": 10968,
+    "text": "Die anst\u00e4ndigste, ger\u00e4uschloseste Art des Selbstmordes, das stille Erhungern, das ein Gemi\u00dfhandelter oft gern w\u00e4hlen w\u00fcrde, ist leider zugleich auch die schwerste, "
+  },
+  {
+    "anno_id": "940f2a4b-ef17-4eb2-b39b-19d1fc15f02a",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 11080,
+    "end": 11161,
+    "text": "den er schon in der Fr\u00fche des Morgens bei seiner ehemaligen Wirtin abgeholt hatte"
+  },
+  {
+    "anno_id": "185e5d1e-6d29-46ba-9c10-6b88031fa68d",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 11613,
+    "end": 11668,
+    "text": "Man wird nicht ohnm\u00e4chtig, wenn man Blut flie\u00dfen sieht!"
+  },
+  {
+    "anno_id": "def7a3b4-d553-4b4e-a2c7-85e3675046c9",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 11949,
+    "end": 12045,
+    "text": "die ihn in seiner Krankheit verpflegt und ihm auch nachher noch von ihrer Armut mitgeteilt hatte"
+  },
+  {
+    "anno_id": "20c6d57d-cd31-479b-b625-5b26d94f6335",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 13709,
+    "end": 13730,
+    "text": "Die Liebe hat Fl\u00fcgel!"
+  },
+  {
+    "anno_id": "9a7be70c-264b-4743-b409-a35f3a281421",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 13781,
+    "end": 13867,
+    "text": "sie f\u00fcrchtet sich nicht, den Hals zu brechen und klettert, wie die Katzen, \u00fcbers Dach."
+  },
+  {
+    "anno_id": "56ae7ce7-e1a0-411b-b687-cced3c2ced3f",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 16539,
+    "end": 16566,
+    "text": "da\u00df Ihr krank gewesen seid,"
+  },
+  {
+    "anno_id": "7a20bb57-9586-4e53-94fa-1eba745b57a8",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 16694,
+    "end": 16750,
+    "text": "einer meiner Freunde hat mir viel Gutes von Euch gesagt,"
+  },
+  {
+    "anno_id": "a7b4176a-aec3-4d16-8c7d-e2385d265cbb",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 17405,
+    "end": 17452,
+    "text": "dem er den Tod von seiner Faust bestimmt hatte,"
+  },
+  {
+    "anno_id": "009a3135-d7d1-4ed8-b72b-a72b190e06a9",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 17557,
+    "end": 17685,
+    "text": "da\u00df der Mutwille der Unschuld ihm das Mord-Instrument spielend raubte, weil den Kindesblick der falsche Glanz desselben bestach,"
+  },
+  {
+    "anno_id": "36de524b-ef52-44e1-96f1-32d8a2cd4dd4",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 17719,
+    "end": 17765,
+    "text": "womit er seinen Vater hatte durchbohren wollen"
+  },
+  {
+    "anno_id": "e54f38c1-f847-4b9f-aab5-e241911881d8",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 19528,
+    "end": 19590,
+    "text": "der sich in demselben Augenblick m\u00f6rderisch angefallen sieht, "
+  },
+  {
+    "anno_id": "e54f38c1-f847-4b9f-aab5-e241911881d8",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 19590,
+    "end": 19658,
+    "text": "wo er in sich selbst einen grimmigen Mordgedanken niedergek\u00e4mpft hat"
+  },
+  {
+    "anno_id": "5ac8a5a9-60e8-44fd-8b26-4fad5c4af257",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 19590,
+    "end": 19658,
+    "text": "wo er in sich selbst einen grimmigen Mordgedanken niedergek\u00e4mpft hat"
+  },
+  {
+    "anno_id": "55a3e26b-3067-42d1-8a71-3d3285073ae0",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 21180,
+    "end": 21198,
+    "text": "was er getan habe,"
+  },
+  {
+    "anno_id": "199b398b-161d-4f4c-90d1-29e25d4dce30",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 21826,
+    "end": 21868,
+    "text": "der, wie ein Licht, \u00fcber die Erde wandelte"
+  },
+  {
+    "anno_id": "d480b9b8-c62e-4036-8f73-61f2337a60c3",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 22108,
+    "end": 22150,
+    "text": "der den Geliebten meiner Seele niederstie\u00df"
+  },
+  {
+    "anno_id": "848d7f26-73fe-4dac-b973-f968d28ba058",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 22786,
+    "end": 22839,
+    "text": "der die Frau inzwischen bei der Gurgel gepackt hatte,"
+  },
+  {
+    "anno_id": "91d69af1-4d48-4d1d-8839-0082cc461505",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 23242,
+    "end": 23283,
+    "text": "weil der eigene Vater ihn umgebracht hat!"
+  },
+  {
+    "anno_id": "0af4c7e3-003e-4d88-bb2c-0f7d7b4dbf72",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 23932,
+    "end": 24046,
+    "text": "die ein Weib, das die ehelichen Schranken leichtsinnig \u00fcberspringt, in alle menschliche Verh\u00e4ltnisse hineinbringt."
+  },
+  {
+    "anno_id": "dd8ff053-ad0f-4743-9501-9511098110c6",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 24270,
+    "end": 24442,
+    "text": "\u2013 er hat den Argwohn, den ich gegen mein schlechtes Weib hegte, zwar schrecklich best\u00e4tigt, aber er hat mir doch zugleich auch die \u00dcberzeugung gegeben, da\u00df der Knabe hier, "
+  },
+  {
+    "anno_id": "dd8ff053-ad0f-4743-9501-9511098110c6",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 24442,
+    "end": 24541,
+    "text": "den ich oft, wenn ich ihn k\u00fcssen wollte, mit eiskaltem Schauder wieder niedersetzte, ohne es zu tun"
+  },
+  {
+    "anno_id": "dd8ff053-ad0f-4743-9501-9511098110c6",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 24541,
+    "end": 24566,
+    "text": ", wirklich der meine ist,"
+  },
+  {
+    "anno_id": "57c5fe8a-9485-4382-b636-ff89aca16bc8",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 24442,
+    "end": 24541,
+    "text": "den ich oft, wenn ich ihn k\u00fcssen wollte, mit eiskaltem Schauder wieder niedersetzte, ohne es zu tun"
+  },
+  {
+    "anno_id": "6bdcf39b-c1a2-4cbe-b0ae-98532f9d5a9c",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 24845,
+    "end": 24894,
+    "text": "erst deine Tat hat mich \u00fcber die meinige belehrt,"
+  },
+  {
+    "anno_id": "ae499886-f5ae-4530-8923-b8bdc301fac7",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 24960,
+    "end": 24988,
+    "text": "als ich ihn je geliebt habe."
+  },
+  {
+    "anno_id": "41ea3df8-e955-47ad-beb0-9675bb82f540",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 25602,
+    "end": 25629,
+    "text": "den ich gestern gehen lie\u00df,"
+  },
+  {
+    "anno_id": "7adbfe52-810b-4b13-b28a-153950129520",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 26171,
+    "end": 26320,
+    "text": "die den Reif, innerhalb dessen ein menschliches Dasein sich bewegt, wohl zuweilen zerbricht, aber ihn doch auch zur rechten Zeit wieder zusammenf\u00fcgt,"
+  }
+]

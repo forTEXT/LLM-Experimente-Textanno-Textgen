@@ -1,0 +1,18 @@
+[
+  {
+    "anno_id": "ece98f34-b61e-474c-9add-ca349d8cfdca",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 3336,
+    "end": 3386,
+    "text": "Gruber lacht und scheint etwas antworten zu wollen"
+  },
+  {
+    "anno_id": "86d9747d-8423-44de-9929-6874cc66bc8c",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 3624,
+    "end": 3659,
+    "text": "und lacht wieder und will was sagen"
+  }
+]

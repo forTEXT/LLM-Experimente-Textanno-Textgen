@@ -1,0 +1,1 @@
+Dieser Unterordner enthält alle Prompts und Dateien, die im Rahmen der Experimentreihe zur Textgenerierung mit ChatGPT für den Beitrag "Literaturwissenschaftlich Arbeiten mit großen Sprachmodellen?" genutzt wurden. 

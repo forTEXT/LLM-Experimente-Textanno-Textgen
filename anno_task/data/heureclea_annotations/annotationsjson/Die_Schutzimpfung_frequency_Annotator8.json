@@ -1,0 +1,50 @@
+[
+  {
+    "anno_id": "2c4a576e-8952-4d3d-89fb-e302b1913761",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 1782,
+    "end": 1851,
+    "text": "sagte ich ihm auch schon ganz offen ins Gesicht, da\u00df ich dich liebe. "
+  },
+  {
+    "anno_id": "2c4a576e-8952-4d3d-89fb-e302b1913761",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 1851,
+    "end": 2219,
+    "text": "Seitdem wiederhole ich es ihm t\u00e4glich beim Aufstehen und beim Schlafengehen. Du hast allen Grund, sage ich, eifers\u00fcchtig auf den lieben Jungen zu sein; ich habe ihn wirklich von Herzen gern, und weder dein noch mein Verdienst ist es, wenn ich mich nicht gegen meine Pflichten vers\u00fcndige, sondern es liegt nur an ihm selber, da\u00df ich dir so unersch\u00fctterlich treu bleibe."
+  },
+  {
+    "anno_id": "e36b606f-9935-44c7-a284-47d7b967276f",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 1851,
+    "end": 2219,
+    "text": "Seitdem wiederhole ich es ihm t\u00e4glich beim Aufstehen und beim Schlafengehen. Du hast allen Grund, sage ich, eifers\u00fcchtig auf den lieben Jungen zu sein; ich habe ihn wirklich von Herzen gern, und weder dein noch mein Verdienst ist es, wenn ich mich nicht gegen meine Pflichten vers\u00fcndige, sondern es liegt nur an ihm selber, da\u00df ich dir so unersch\u00fctterlich treu bleibe."
+  },
+  {
+    "anno_id": "f53c059f-9031-4dd5-ad05-7dbfbee67ad2",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 2259,
+    "end": 2433,
+    "text": "warum mich ihr Mann bei all seiner Liebensw\u00fcrdigkeit manchmal, wenn er sich von mir nicht beobachtet glaubte, mit einem so eigent\u00fcmlich mitleidig ver\u00e4chtlichen L\u00e4cheln ansah."
+  },
+  {
+    "anno_id": "4fd0730e-867b-464e-9ba8-016acef4d10c",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 2944,
+    "end": 3006,
+    "text": "hatte die Gewohnheit, bis in den hellen Tag hinein zu schlafen"
+  },
+  {
+    "anno_id": "49a02eb7-312e-4541-bdf2-d91bc1b33ff1",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 10273,
+    "end": 10317,
+    "text": "Jeden Tag gestehst du mir, da\u00df du ihn liebst"
+  }
+]

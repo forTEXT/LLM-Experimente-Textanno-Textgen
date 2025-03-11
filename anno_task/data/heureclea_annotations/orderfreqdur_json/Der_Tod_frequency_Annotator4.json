@@ -1,0 +1,122 @@
+[
+  {
+    "anno_id": "d12ab32f-bbdb-4770-8302-5fad28e12383",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 31,
+    "end": 53,
+    "text": "Nun ist der Herbst da,"
+  },
+  {
+    "anno_id": "d0aa16b1-6d7f-47b6-8601-b86c98226c51",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 209,
+    "end": 376,
+    "text": "Als ich das heute morgen sah, habe ich vom Sommer Abschied genommen und den Herbst begr\u00fc\u00dft, meinen vierzigsten Herbst, der nun wirklich unerbittlich heraufgezogen ist."
+  },
+  {
+    "anno_id": "532cea33-206c-4027-9bb9-4b46658022f9",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 2708,
+    "end": 2718,
+    "text": "weinte es,"
+  },
+  {
+    "anno_id": "8c77c220-d068-45f4-9dcc-fb1d68fa6e3a",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 4870,
+    "end": 4914,
+    "text": "Ich halte Sie n\u00e4mlich f\u00fcr einen Philosophen,"
+  },
+  {
+    "anno_id": "35bc824b-5989-48d0-810e-016fe13ab6f6",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 5475,
+    "end": 5540,
+    "text": "denn es ist Wind aufgekommen, und das Meer und der Regen rauscht."
+  },
+  {
+    "anno_id": "140f71f0-0266-46e6-9ddc-c2964a12a129",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 5625,
+    "end": 5672,
+    "text": "Doktor Gudehus h\u00e4lt mich f\u00fcr einen Philosophen,"
+  },
+  {
+    "anno_id": "4f3d0157-2bb0-4ee5-a87b-bec5086d5073",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 6139,
+    "end": 6168,
+    "text": "er werde \u00bbsub flore\u00ab sterben."
+  },
+  {
+    "anno_id": "d9dddcf0-b3d7-4baf-a527-eee475b4587b",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 6262,
+    "end": 6275,
+    "text": "und er starb."
+  },
+  {
+    "anno_id": "9bd67230-702c-426d-93fb-98414b01f165",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 9712,
+    "end": 9779,
+    "text": "Da schmiegte sie ihr K\u00f6pfchen an meine Brust und weinte bitterlich."
+  },
+  {
+    "anno_id": "de34d2b3-b721-459d-aff0-e6ac17af6848",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 10105,
+    "end": 10152,
+    "text": "\u00bbEs ist am besten, wenn wir es gleich abmachen\u00ab"
+  },
+  {
+    "anno_id": "ccca660c-43f3-48de-924b-af29be7e8bb6",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 10250,
+    "end": 10298,
+    "text": "\u00bbEs ist am besten, wenn wir es gleich abmachen!\u00ab"
+  },
+  {
+    "anno_id": "70549023-8c51-4d94-9984-4ac487d25ecc",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 11025,
+    "end": 11107,
+    "text": "\u00bbDas ist ein Herzschlag\u00ab, sagte er und nickte wie einer, der nicht \u00fcberrascht ist."
+  },
+  {
+    "anno_id": "bdb299d0-5fa1-4d3d-9cb6-2d190de65baf",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 11230,
+    "end": 11263,
+    "text": "drau\u00dfen rauschten Regen und Meer,"
+  },
+  {
+    "anno_id": "990fe8da-7f83-4b83-be4d-a5f2013e441f",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 11713,
+    "end": 11754,
+    "text": "Aber er ist zuerst zu dem Kinde gegangen,"
+  },
+  {
+    "anno_id": "ad2c3869-4275-4e0e-922b-6aa286db1cb4",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 12335,
+    "end": 12387,
+    "text": "\u00bbEs ist am besten, wenn wir es gleich abmachen ... \u00ab"
+  }
+]

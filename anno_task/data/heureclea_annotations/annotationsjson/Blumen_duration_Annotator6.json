@@ -1,0 +1,1178 @@
+[
+  {
+    "anno_id": "be5df2ab-59e6-4724-8cab-271c216840a8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 10,
+    "end": 132,
+    "text": "Da bin ich nun den ganzen Nachmittag in den Stra\u00dfen herumspaziert, auf die stiller wei\u00dfer Schnee langsam herunterschwebte,"
+  },
+  {
+    "anno_id": "b7033157-6d54-4ea3-83f5-d14070be926d",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 132,
+    "end": 135,
+    "text": " \u2013 "
+  },
+  {
+    "anno_id": "6a401ca2-ce7d-4d1a-b95a-1befc15caa38",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 135,
+    "end": 156,
+    "text": "und bin nun zu Hause,"
+  },
+  {
+    "anno_id": "f21422ff-d8cd-4101-acba-cecf7616c511",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 157,
+    "end": 308,
+    "text": "und die Lampe brennt, und die Zigarre ist angez\u00fcndet, und die B\u00fccher liegen da, und alles ist bereit, da\u00df ich mich so recht behaglich f\u00fchlen k\u00f6nnte ..."
+  },
+  {
+    "anno_id": "44320afb-8802-4a78-9737-2af7f8b8b77a",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 309,
+    "end": 379,
+    "text": "Aber es ist ganz vergeblich, und ich mu\u00df immer nur an dasselbe denken."
+  },
+  {
+    "anno_id": "85143a44-a8a3-46a6-9be5-ca721a3e732f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 381,
+    "end": 526,
+    "text": "War sie nicht l\u00e4ngst f\u00fcr mich gestorben? ... ja, tot, oder gar, wie ich mit dem kindischen Pathos der Betrogenen dachte, \u00bbschlimmer als tot\u00ab? ..."
+  },
+  {
+    "anno_id": "1be149b1-550b-48e5-9bc5-63e4e4a5565e",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 527,
+    "end": 608,
+    "text": "Und nun, seit ich wei\u00df, da\u00df sie nicht \u00bbschlimmer als tot\u00ab ist, nein, einfach tot,"
+  },
+  {
+    "anno_id": "c3316adf-58c0-4387-8ca7-95ace93373fa",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 609,
+    "end": 833,
+    "text": "so wie die vielen anderen, die drau\u00dfen liegen, tief unter der Erde, immer, immer, wenn der Fr\u00fchling da ist, und wenn der schw\u00fcle Sommer kommt, und wenn der Schnee f\u00e4llt wie heute ... so ohne jede Hoffnung des Wiederkommens \u2013"
+  },
+  {
+    "anno_id": "354ccd11-3fab-462a-8a13-3997b5c5748e",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 834,
+    "end": 945,
+    "text": "seither wei\u00df ich, da\u00df sie auch f\u00fcr mich um keinen Augenblick fr\u00fcher gestorben ist als f\u00fcr die anderen Menschen."
+  },
+  {
+    "anno_id": "3ab8fada-273e-4429-ae87-80e6f3190674",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 946,
+    "end": 1195,
+    "text": "Schmerz? \u2013 Nein. Es ist ja doch nur der allgemeine Schauer, der uns fa\u00dft, wenn etwas ins Grab sinkt, das uns einmal geh\u00f6rt hat, und dessen Wesen uns noch immer ganz deutlich vor Augen steht, mit dem Leuchten des Blickes und mit dem Klang der Stimme."
+  },
+  {
+    "anno_id": "49c3ff75-2a64-40a6-8e8f-d2cd1a468ed8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 1197,
+    "end": 1265,
+    "text": "Es war ja gewi\u00df sehr traurig, als ich damals ihren Betrug entdeckte;"
+  },
+  {
+    "anno_id": "22e81a71-cfc3-49ad-94b0-143f2c5f1eb3",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 1266,
+    "end": 1415,
+    "text": "... aber was war da noch alles dabei! ... Die Wut und der pl\u00f6tzliche Ha\u00df und der Ekel vor dem Dasein und \u2013 ach ja gewi\u00df! \u2013 die gekr\u00e4nkte Eitelkeit; \u2013"
+  },
+  {
+    "anno_id": "29ab282d-ab55-4933-b49b-865591bb703b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 1416,
+    "end": 1471,
+    "text": "ich bin ja erst nach und nach auf den Schmerz gekommen!"
+  },
+  {
+    "anno_id": "f632f805-d817-474e-a9cf-3a0018217c25",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 1472,
+    "end": 1734,
+    "text": "Und dann war ein Trost da, der zur Wohltat wurde: da\u00df sie selbst leiden mu\u00dfte. \u2013 Ich habe sie noch alle, jeden Augenblick kann ich sie wieder lesen, die Dutzende Briefe, die um Verzeihung flehten, schluchzten, jammerten! \u2013 \u2013 Und ich sehe sie selbst noch vor mir,"
+  },
+  {
+    "anno_id": "3ca1c7df-4d4a-4f73-8036-3c2f478772c7",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 1735,
+    "end": 1916,
+    "text": "in dem dunkeln, englischen Kleide, mit dem kleinen Strohhut, wie sie an der Ecke der Stra\u00dfe stand, in der Abendd\u00e4mmerung, wenn ich aus dem Haustore trat, ... und mir nachschaute ..."
+  },
+  {
+    "anno_id": "4d38b5a3-48c1-4c8f-bca4-72646667e916",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 1917,
+    "end": 1969,
+    "text": "Und auch an jenes letzte Wiedersehen denk' ich noch,"
+  },
+  {
+    "anno_id": "8b0bd3ec-c5ee-4f2c-94bd-1abd32d6997a",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 1970,
+    "end": 2090,
+    "text": "wie sie vor mir stand mit den gro\u00dfen, staunenden Augen in dem runden Kindergesicht, das nun so bla\u00df und verh\u00e4rmt war ..."
+  },
+  {
+    "anno_id": "0ba28cad-c4fd-430a-b411-59422d746f19",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 2091,
+    "end": 2275,
+    "text": "Ich habe ihr nicht die Hand gegeben, als sie ging; \u2013 als sie zum letzten Male ging. \u2013 Und vom Fenster aus hab' ich sie noch bis zur Stra\u00dfenecke gehen sehen, und da ist sie verschwunden"
+  },
+  {
+    "anno_id": "069c5b8a-94fa-43d7-a1ec-28efe86b5622",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 2276,
+    "end": 2330,
+    "text": "\u2013 \u2013 \u2013 f\u00fcr immer. Jetzt kann sie nicht wiederkommen ..."
+  },
+  {
+    "anno_id": "07405562-e20d-4f1d-b25a-c69246394d09",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 2332,
+    "end": 2423,
+    "text": "Da\u00df ich es \u00fcberhaupt wei\u00df, ist ein Zufall. Es h\u00e4tte auch noch Wochen, Monate dauern k\u00f6nnen."
+  },
+  {
+    "anno_id": "8116c0c9-282b-4e17-b543-c1254bba257b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 2424,
+    "end": 2461,
+    "text": "Ich begegnete vormittags ihrem Onkel,"
+  },
+  {
+    "anno_id": "549acc41-afd4-4136-9c3c-b832e7f12230",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 2462,
+    "end": 2509,
+    "text": "den ich wohl ein Jahr lang nicht gesehen hatte,"
+  },
+  {
+    "anno_id": "c69996f6-43e7-43f6-b980-fcf788fac712",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 2510,
+    "end": 2974,
+    "text": "und der sich nur selten in Wien aufh\u00e4lt. Nur ein paarmal habe ich ihn fr\u00fcher gesprochen. Zuerst, vor drei Jahren, an einem \u00bbKegelabend\u00ab, zu welchem auch sie mit ihrer Mutter hingekommen war. \u2013 Und dann im Sommer drauf: da war ich mit ein paar Freunden im Prater, in der \u00bbCsarda\u00ab. Und an dem Tisch neben uns sa\u00df der Onkel mit zwei oder drei Herren, sehr gem\u00fctlich, beinahe fidel, und trank mir zu. Und bevor er den Garten verlie\u00df, blieb er noch bei mir stehen, und,"
+  },
+  {
+    "anno_id": "f0a67f04-dded-47e1-ac0f-6cfab2b03f0e",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 2975,
+    "end": 3000,
+    "text": "wie ein gro\u00dfes Geheimnis,"
+  },
+  {
+    "anno_id": "82df617f-6913-42d5-89e3-b59ceb6d8b11",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 3001,
+    "end": 3185,
+    "text": "teilte er mir mit, da\u00df seine Nichte f\u00fcr mich schw\u00e4rme! \u2013 Und mir kam das so im Halbdusel eigent\u00fcmlich und lustig und beinahe abenteuerlich vor, da\u00df der alte Mann mir das hier erz\u00e4hlte,"
+  },
+  {
+    "anno_id": "54888a0b-cb7d-41db-aa60-d5ffea40d726",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 3186,
+    "end": 3240,
+    "text": "unter den Kl\u00e4ngen des Cymbals und der hellen Geigen, \u2013"
+  },
+  {
+    "anno_id": "c7e7c34a-cf81-4c0a-b0e6-9c18a9b1e832",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 3241,
+    "end": 3333,
+    "text": "mir, der ich das so gut wu\u00dfte, und dem noch der Duft ihres letzten Kusses auf den Lippen lag"
+  },
+  {
+    "anno_id": "40cd807a-84fe-4c6e-bf5d-819fe98875c3",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 3333,
+    "end": 3338,
+    "text": " ... "
+  },
+  {
+    "anno_id": "a5dd80de-e50f-4f94-8da0-86589aa0ff53",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 3338,
+    "end": 3697,
+    "text": "Und nun, heute vormittag! Fast w\u00e4r' ich an ihm vorbeigegangen. Ich fragte ihn nach seiner Nichte, mehr aus H\u00f6flichkeit als aus Interesse .... Ich wu\u00dfte ja nichts mehr von ihr; auch die Briefe waren schon l\u00e4ngst nicht mehr gekommen; nur Blumen schickte sie regelm\u00e4\u00dfig. Erinnerungen an einen unserer seligsten Tage; einmal jeden Monat kamen sie; kein Wort dazu,"
+  },
+  {
+    "anno_id": "17df342b-64ce-4f5d-bd85-1bc2dd5b7073",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 3698,
+    "end": 3732,
+    "text": "schweigende, dem\u00fctige Blumen ... \u2013"
+  },
+  {
+    "anno_id": "bb01595c-5238-4eaa-b6ad-2368eae00e30",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 3733,
+    "end": 3989,
+    "text": "Und wie ich den Alten fragte, war er ganz erstaunt. Sie wissen nicht, da\u00df das arme Kind vor einer Woche gestorben ist? Ich erschrak heftig. \u2013 Er erz\u00e4hlte mir dann noch mehr. Da\u00df sie lange gekr\u00e4nkelt habe, da\u00df sie aber kaum acht Tage zu Bett gelegen sei ..."
+  },
+  {
+    "anno_id": "bf1595f6-f8b0-468c-9ef2-c5193b9ec3d4",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 3990,
+    "end": 4019,
+    "text": "Und was ihr gefehlt habe? ..."
+  },
+  {
+    "anno_id": "df160955-63cd-4e92-85a5-f7792b27eb26",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4020,
+    "end": 4092,
+    "text": "\u00bbGem\u00fctskrankheit ... Blutarmut ... Die \u00c4rzte wissen ja nie was Rechtes.\u00ab"
+  },
+  {
+    "anno_id": "ee568f41-2148-42b0-9448-98c0cddfa921",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 4092,
+    "end": 4239,
+    "text": " \u2013\r\nIch bin noch lange auf der Stelle stehen geblieben, wo mich der alte Mann verlassen hatte;  \u2013 ich war abgespannt, als l\u00e4gen M\u00fchen hinter mir. \u2013"
+  },
+  {
+    "anno_id": "be787238-06ad-4ed6-b161-a279a4995032",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4240,
+    "end": 4372,
+    "text": "Und jetzt ist mir, als m\u00fc\u00dfte ich den heutigen Tag als einen betrachten, der einen Abschnitt meines Lebens bedeutete. Warum? \u2013 Warum?"
+  },
+  {
+    "anno_id": "70f61cdf-8667-40a1-aee3-70cd0d8645f4",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 4373,
+    "end": 4631,
+    "text": "Mir ist nur etwas \u00c4u\u00dferliches begegnet. Ich habe nichts mehr f\u00fcr sie empfunden, ich habe kaum noch ihrer gedacht. Und da\u00df ich alles dies niederschrieb, hat mir wohlgetan: ich bin ruhiger geworden ... Ich beginne die Behaglichkeit meines Heims zu empfinden. \u2013"
+  },
+  {
+    "anno_id": "a4ce1e18-dd9f-4228-bd54-c8b3ad76235c",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4632,
+    "end": 4783,
+    "text": "Es ist \u00fcberfl\u00fcssig und selbstqu\u00e4lerisch, weiter dar\u00fcber zu denken ... Es wird schon irgendwen geben, der tieferen Grund hat, heute zu trauern, als ich."
+  },
+  {
+    "anno_id": "fe317b89-98d5-4313-90b0-0a4e5e6661f9",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 4787,
+    "end": 4822,
+    "text": "Ich habe einen Spaziergang gemacht."
+  },
+  {
+    "anno_id": "45117bc2-7153-4b43-b797-d8c6467a92b4",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4823,
+    "end": 4906,
+    "text": "Heiterer Wintertag. Der Himmel so bla\u00df, so kalt, so weit .. Und ich bin sehr ruhig."
+  },
+  {
+    "anno_id": "427464c6-8b9b-4784-9700-b3cb0e2c70d5",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 4907,
+    "end": 5102,
+    "text": "Der alte Mann, den ich gestern traf, ... mir ist, als wenn es vor vielen Wochen gewesen w\u00e4re. \u2013 Und wenn ich an sie denke, kann ich sie mir in eigent\u00fcmlich scharfen, fertigen Umrissen vorstellen;"
+  },
+  {
+    "anno_id": "40fa1e9d-b3ce-497d-a400-20ad379f6242",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 5103,
+    "end": 5384,
+    "text": "und nur eins fehlt: der Zorn, der sich noch bis in die letzte Zeit meiner Erinnerung beigesellte. Eine wirkliche Vorstellung davon, da\u00df sie nicht mehr auf der Welt ist, da\u00df sie in einem Sarg liegt, da\u00df man sie begraben hat, habe ich eigentlich nicht ... Es ist gar kein Weh in mir."
+  },
+  {
+    "anno_id": "4c3e56bd-178f-4839-bb2d-2842885d010b",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 5385,
+    "end": 5517,
+    "text": "Die Welt kam mir heute stiller vor. Ich habe in irgendeinem Augenblick gewu\u00dft, da\u00df es \u00fcberhaupt weder Freuden noch Schmerzen gibt; \u2013"
+  },
+  {
+    "anno_id": "46318c1e-40f3-432a-ac0c-7b023eb2f01f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 5518,
+    "end": 5854,
+    "text": "nein, es gibt nur Grimassen der Lust und der Trauer; wir lachen und weinen und laden unsere Seele dazu ein. Ich k\u00f6nnte mich nun hinsetzen und sehr tiefe, ernste B\u00fccher lesen, und dr\u00e4nge bald in all ihre Weisheit ein. Oder ich k\u00f6nnte vor alte Bilder treten, die mir fr\u00fcher nichts gesagt, und jetzt ginge mir ihre dunkle Sch\u00f6nheit auf ..."
+  },
+  {
+    "anno_id": "fd859d70-94b7-4993-91ce-1631f8b6d412",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 5855,
+    "end": 6008,
+    "text": "Und wenn ich an manche lieben Menschen denke, die mir gestorben sind, so krampft sich das Herz nicht wie sonst \u2013 der Tod ist etwas Freundliches geworden;"
+  },
+  {
+    "anno_id": "4ecc4375-ce88-47a9-81b7-9d7862063bf9",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6009,
+    "end": 6063,
+    "text": "er geht unter uns herum und will uns nichts B\u00f6ses tun."
+  },
+  {
+    "anno_id": "f0f7810a-895b-473b-bba5-f54de3ed9a93",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6065,
+    "end": 6112,
+    "text": "Schnee, hoher, wei\u00dfer Schnee auf allen Stra\u00dfen."
+  },
+  {
+    "anno_id": "a0cd9f95-7354-435d-ba3b-ab29cfea3e8b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 6113,
+    "end": 6329,
+    "text": "Da ist das kleine Gretel zu mir gekommen und hat gefunden, wir m\u00fcssen endlich einmal eine Schlittenpartie machen. Und da waren wir nun auf dem Land und sind auf glatten, hellen Wegen mit Schellengeklingel hingesaust,"
+  },
+  {
+    "anno_id": "5a545aa5-d84d-4362-a7b4-8663c134a056",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6330,
+    "end": 6361,
+    "text": "den bla\u00dfgrauen Himmel \u00fcber uns,"
+  },
+  {
+    "anno_id": "73991a9d-0eba-4c21-bffa-1235125c6734",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 6362,
+    "end": 6381,
+    "text": "rasch, rasch dahin,"
+  },
+  {
+    "anno_id": "3b2274c1-5fce-43f9-a5a0-b64f0af3c7b5",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6382,
+    "end": 6417,
+    "text": "zwischen wei\u00dfen, gl\u00e4nzenden H\u00fcgeln."
+  },
+  {
+    "anno_id": "95119619-68e6-461a-8724-dcb34903dce5",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 6418,
+    "end": 6539,
+    "text": "Und Gretel lehnte mir an der Schulter; sah mit vergn\u00fcgten Augen auf die lange Stra\u00dfe vor uns. Wir kamen in ein Wirtshaus,"
+  },
+  {
+    "anno_id": "f8462990-cf32-493f-a833-0bd3d5cadb53",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6540,
+    "end": 6746,
+    "text": "das wir gut vom Sommer her kannten, aus der Zeit, da es mitten im Gr\u00fcnen lag, und das nun so ver\u00e4ndert aussah, so einsam, so ohne Zusammenhang mit der \u00fcbrigen Welt, als m\u00fc\u00dfte man's erst von neuem entdecken."
+  },
+  {
+    "anno_id": "dca70c04-c4a9-4d0b-96b8-2c1b99ae6340",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 6747,
+    "end": 7089,
+    "text": "Und der geheizte Ofen in der Wirtsstube gl\u00fchte, da\u00df wir den Tisch weit weg r\u00fccken mu\u00dften; weil die linke Wange und das Ohr der kleinen Gretel ganz rot geworden waren. Da mu\u00dft' ich ihr die blassere Wange k\u00fcssen. Dann die R\u00fcckfahrt, schon im halben Dunkel. Wie sich Gretel ganz nahe an mich schmiegte und meine beiden H\u00e4nde in die ihren nahm. \u2013"
+  },
+  {
+    "anno_id": "311bdda5-c145-40d6-a4f8-5e7912132e2d",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 7090,
+    "end": 7105,
+    "text": "Dann sagte sie:"
+  },
+  {
+    "anno_id": "31a3d8cb-5420-42f6-bed6-61ede959d0ba",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 7106,
+    "end": 7141,
+    "text": "\u00bbHeut hab ich dich endlich wieder.\u00ab"
+  },
+  {
+    "anno_id": "d3a81dae-fea3-400a-ae82-55b262b180c7",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 7142,
+    "end": 7226,
+    "text": "Sie hatte so ohne alles Gr\u00fcbeln das rechte Wort gefunden, was mich ganz froh machte."
+  },
+  {
+    "anno_id": "061da27c-893c-408b-bd1e-59aa7c3c43aa",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 7227,
+    "end": 7316,
+    "text": "Vielleicht auch hat die herbe Schneeluft auf dem Lande meine Sinne wieder freier gemacht,"
+  },
+  {
+    "anno_id": "501e116f-9a43-4f16-8939-4dba0acc41aa",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 7317,
+    "end": 7384,
+    "text": "denn freier und leichter f\u00fchle ich mich, als alle die letzten Tage."
+  },
+  {
+    "anno_id": "ccaf2868-ba89-4864-bf1c-ac0c163b8f78",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 7384,
+    "end": 7390,
+    "text": " \u2013\r\n\r\n"
+  },
+  {
+    "anno_id": "89d5fa2b-7a07-4516-8b88-924646d6dbfd",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 7390,
+    "end": 7512,
+    "text": "Neulich wieder einmal, w\u00e4hrend ich nachmittags auf dem Divan im Halbschlummer lag, beschlich mich ein sonderbarer Gedanke."
+  },
+  {
+    "anno_id": "ae3e50e0-cf01-4066-b06a-036c723b52f3",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 7513,
+    "end": 7805,
+    "text": "Ich kam mir kalt und hart vor. Wie einer, der ohne Tr\u00e4nen, ja ohne jede F\u00e4higkeit des F\u00fchlens an einem Grabe steht, in das man ein geliebtes Wesen gesenkt hat. Wie einer, der so hart geworden ist, da\u00df ihn nicht einmal die Schauer eines jungen Todes vers\u00f6hnen ... Ja, unvers\u00f6hnlich, das war es"
+  },
+  {
+    "anno_id": "903d81ac-a7a3-45e4-b066-30dae3dcf916",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 7805,
+    "end": 7813,
+    "text": " ...\r\n\r\n"
+  },
+  {
+    "anno_id": "cf0807f8-aac3-4f81-b8af-101f4a4e6af5",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 7813,
+    "end": 7911,
+    "text": "Vorbei, ganz vorbei. Das Leben, das Vergn\u00fcgen und das bi\u00dfchen Liebe jagt all das dumme Zeug davon."
+  },
+  {
+    "anno_id": "28072bc2-6ce0-4edf-9bbf-a997d86603d8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 7912,
+    "end": 7966,
+    "text": "Ich bin wieder mehr unter Menschen. Ich habe sie gern,"
+  },
+  {
+    "anno_id": "28072bc2-6ce0-4edf-9bbf-a997d86603d8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 7985,
+    "end": 8034,
+    "text": "sie plaudern von allen m\u00f6glichen heiteren Dingen."
+  },
+  {
+    "anno_id": "3563d462-5e00-4afe-9bb2-c2e74a435438",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 7967,
+    "end": 7984,
+    "text": "sie sind harmlos,"
+  },
+  {
+    "anno_id": "3d32186e-056a-4567-a471-82aa80fc0f24",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8035,
+    "end": 8225,
+    "text": "Und Gretel ist ein liebes, z\u00e4rtliches Gesch\u00f6pf, und am sch\u00f6nsten ist sie, wenn sie so bei mir in der Fensternische steht, nachmittags, und auf ihrem blonden Kopf die Sonnenstrahlen glitzern."
+  },
+  {
+    "anno_id": "5558e2d4-ad52-4794-9cce-c095d1837a8a",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 8225,
+    "end": 8227,
+    "text": "\r\n"
+  },
+  {
+    "anno_id": "856ebdc1-623c-47f9-818a-316acc85f66b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 8227,
+    "end": 8695,
+    "text": "Etwas Seltsames ist heute geschehen ... Es ist der Tag, an welchem sie mir allmonatlich die Blumen schickte ... Und die Blumen sind wieder gekommen, als ... als h\u00e4tte sich nichts ver\u00e4ndert. \u2013 Sie kamen fr\u00fchmorgens mit der Post in einem wei\u00dfen, langen, schmalen Karton. Es war noch ganz fr\u00fch; noch lag mir der Schlaf \u00fcber Stirn und Augen. Und erst wie ich daran war, den Karton zu \u00f6ffnen, kam mir die volle Besinnung ... Da bin ich beinahe erschrocken ... Und da lagen,"
+  },
+  {
+    "anno_id": "d73bcaea-56da-4bf5-860a-959984985d67",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8696,
+    "end": 8744,
+    "text": "zierlich durch einen Goldfaden zusammengehalten,"
+  },
+  {
+    "anno_id": "27bb2f17-0008-4a16-9cfc-81291f3c9212",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 8745,
+    "end": 8768,
+    "text": "Nelken und Veilchen ..."
+  },
+  {
+    "anno_id": "3a56611b-015d-402f-a5cf-38caa5fd23d5",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8769,
+    "end": 8801,
+    "text": "Wie in einem Sarge lagen sie da."
+  },
+  {
+    "anno_id": "7287beea-9e79-4940-9e1b-f36d3eab009f",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 8802,
+    "end": 8929,
+    "text": "Und wie ich die Blumen in die Hand nahm, ging mir ein Schauer durchs Herz. \u2013 Ich wei\u00df, wieso sie auch heute noch gekommen sind."
+  },
+  {
+    "anno_id": "165aa435-f536-4be3-bd21-1d460661abad",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8930,
+    "end": 9238,
+    "text": "Wie sie ihre Krankheit nahen, wie sie vielleicht schon eine Ahnung des nahen Todes f\u00fchlte, hat sie noch den gewohnten Auftrag in der Blumenhandlung gegeben. Ich sollte ihre Z\u00e4rtlichkeit nicht vermissen. \u2013 Gewi\u00df, so ist die Sendung zu erkl\u00e4ren; als etwas v\u00f6llig Nat\u00fcrliches, als etwas R\u00fchrendes vielleicht ..."
+  },
+  {
+    "anno_id": "6005dac6-5184-41f7-baf4-ed25832c5578",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 9239,
+    "end": 9435,
+    "text": "Und doch, wie ich sie in der Hand hielt, diese Blumen, und wie sie zu zittern und sich zu neigen schienen, da mu\u00dft' ich sie wider alle Vernunft und allen Willen als etwas Gespenstisches empfinden,"
+  },
+  {
+    "anno_id": "4443fc0c-8121-4bff-aa76-932650cce71f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9436,
+    "end": 9760,
+    "text": "als k\u00e4men sie von ihr, als w\u00e4r' es ihr Gru\u00df ... als wollte sie noch immer, auch jetzt noch, als Tote, von ihrer Liebe, von ihrer \u2013 versp\u00e4teten Treue erz\u00e4hlen. \u2013 Ach, wir verstehen den Tod nicht, nie verstehen wir ihn; und jedes Wesen ist in Wahrheit erst dann tot, wenn auch alle die gestorben sind, die es gekannt haben ..."
+  },
+  {
+    "anno_id": "16778dc8-5af3-4170-8854-8be44820da45",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 9761,
+    "end": 9968,
+    "text": "Ich habe die Blumen heute auch anders in die Hand genommen als sonst, zarter, als k\u00f6nnte man ihnen ein Leids antun, wenn man sie zu hart anfa\u00dfte ... als k\u00f6nnten ihre stillen Seelen leise zu wimmern anfangen."
+  },
+  {
+    "anno_id": "8309a920-3f22-4f94-ace8-17673e05f829",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 9968,
+    "end": 9969,
+    "text": " "
+  },
+  {
+    "anno_id": "1aea0f97-de25-484a-b156-30139324b425",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9969,
+    "end": 10482,
+    "text": "Und wie sie jetzt vor mir auf dem Schreibtisch stehn, in einem schlanken, mattgr\u00fcnen Glas, da ist mir, als neigten sich die Bl\u00fcten zu traurigem Dank. Das ganze Weh einer nutzlosen Sehnsucht duftet mir aus ihnen entgegen, und ich glaube, da\u00df sie mir etwas erz\u00e4hlen k\u00f6nnten, wenn wir die Sprache alles Lebendigen und nicht nur die alles \u2013 Redenden verst\u00e4nden.\r\nIch will mich nicht beirren lassen. Es sind Blumen, weiter nichts. Es sind Gr\u00fc\u00dfe aus dem Jenseits ... Es ist kein Rufen, nein, kein Rufen aus dem Grabe. \u2013"
+  },
+  {
+    "anno_id": "72ebed68-78a1-49e5-baa4-dc5290db154c",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 10483,
+    "end": 10682,
+    "text": "Blumen sind es, und irgendeine Verk\u00e4uferin in einem Blumengesch\u00e4ft hat sie ganz mechanisch zusammengebunden, ein bi\u00dfchen Watte drum getan, in die wei\u00dfe Schachtel gelegt und dann auf die Post gegeben."
+  },
+  {
+    "anno_id": "cafb74eb-6652-4c4f-bb27-6021133063a4",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 10682,
+    "end": 10685,
+    "text": " \u2013 "
+  },
+  {
+    "anno_id": "9a55c71f-3849-40a5-b2cd-69809c8dfedd",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10685,
+    "end": 10739,
+    "text": "Und nun sind sie eben da, warum denk' ich dr\u00fcber nach?"
+  },
+  {
+    "anno_id": "d556a378-857e-411d-9da2-02ad6e280293",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 10739,
+    "end": 10742,
+    "text": " \u2013\r"
+  },
+  {
+    "anno_id": "dc0d40df-68c3-46af-9d6a-1cbd51057d61",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 10745,
+    "end": 11025,
+    "text": "Ich bin viel im Freien, mache weite, einsame Spazierg\u00e4nge. Wenn ich unter Menschen bin, f\u00fchle ich keinen rechten Zusammenhang mit ihnen; die F\u00e4den alle rei\u00dfen ab. Das merk' ich auch, wenn das liebe, blonde M\u00e4del in meinem Zimmer sitzt und mir da alles M\u00f6gliche vorplaudert von ..."
+  },
+  {
+    "anno_id": "5e989f64-1b09-4459-b8a0-a7ec0abbc382",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 11026,
+    "end": 11029,
+    "text": "ja,"
+  },
+  {
+    "anno_id": "9ea1799d-86d8-4a6e-b2a7-b6c9c1f52afa",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 11030,
+    "end": 11142,
+    "text": "ich wei\u00df gar nicht wovon. Denn wie sie wieder fort ist, da ist sie gleich, im ersten Augenblicke schon, so fern,"
+  },
+  {
+    "anno_id": "7c2db426-b65d-4f06-860e-1a43c8b2d759",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 11143,
+    "end": 11315,
+    "text": "als w\u00e4re sie weit weg, als n\u00e4hme die Flut der Menschen sie gleich auf immer mit, als w\u00e4re sie spurlos verschwunden. Wenn sie nicht wiederk\u00e4me, k\u00f6nnte ich mich kaum wundern."
+  },
+  {
+    "anno_id": "b20695f4-2e94-4f55-81d4-bc424674a6cb",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 11319,
+    "end": 11465,
+    "text": "Die Blumen stehen in dem schlanken, gr\u00fcn schimmernden Glas, ihre Stengel ragen ins Wasser, und das Zimmer duftet davon. \u2013 Sie duften noch immer, \u2013"
+  },
+  {
+    "anno_id": "702920e4-b200-483e-9e54-a62d07d30cf1",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 11466,
+    "end": 11612,
+    "text": "obwohl sie schon eine Woche in meinem Zimmer sind und langsam zu welken beginnen. \u2013 Und ich begreife allen m\u00f6glichen Unsinn, den ich belacht habe,"
+  },
+  {
+    "anno_id": "ef2987cf-b8be-4ee7-a815-0203b94bcfcb",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 11613,
+    "end": 11991,
+    "text": "ich begreife das Zwiesprachpflegen mit Gegenst\u00e4nden der Natur ... ich begreife, da\u00df man auf Antwort warten kann, wenn man mit Wolken und Quellen spricht; denn auch ich starre ja diese Blumen an und warte, da\u00df sie anfangen zu reden ... Ach nein, ich wei\u00df ja, da\u00df sie immer reden ... auch jetzt ... da\u00df sie immerfort reden und klagen, und da\u00df ich nahe daran bin, sie zu verstehen."
+  },
+  {
+    "anno_id": "c7ba6947-f06f-4edc-9277-0dc88b3bd23d",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 11993,
+    "end": 11995,
+    "text": "\r\n"
+  },
+  {
+    "anno_id": "4eefc218-96af-47f3-aea9-4820e082ed23",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 11995,
+    "end": 12381,
+    "text": "Wie froh bin ich, da\u00df nun der starre Winter zu Ende geht. Schon schwimmt ein Ahnen des nahen Fr\u00fchlings in der Luft. Die Zeit geht ganz eigen hin. Ich lebe nicht anders als sonst, und doch ist mir manchmal, als w\u00e4ren die Umrisse meines Daseins weniger fest gezeichnet. Schon das Gestern verschwimmt, und alles, was ein paar Tage zur\u00fcckliegt, bekommt den Charakter eines unklaren Traumes."
+  },
+  {
+    "anno_id": "0f4eeaa3-07e8-465e-9739-0b5992784c63",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 12382,
+    "end": 12491,
+    "text": "Immer von neuem, wenn Gretel mich verl\u00e4\u00dft, und insbesondere wenn ich sie mehrere Tage nicht sehe, da ist mir,"
+  },
+  {
+    "anno_id": "d8fe1313-d414-4fcf-a08e-8b25b546f58c",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 12492,
+    "end": 12552,
+    "text": "als w\u00e4re das eine Geschichte, die l\u00e4ngst, l\u00e4ngst vorbei ist."
+  },
+  {
+    "anno_id": "0fda862c-2cf3-4e81-9a72-8069e6df5213",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 12553,
+    "end": 12921,
+    "text": "Sie kommt immer von so weit, so weit! \u2013 Wenn sie dann zu plaudern anfangt, ist's freilich bald wieder beim alten, und ich habe ein deutliches Empfinden der Gegenwart und des Daseins. Und fast sind die Worte dann zu laut und die Farben zu grell; und wie das liebe Kind, kaum da\u00df sie mich verl\u00e4\u00dft, in eine uns\u00e4gliche Ferne entr\u00fcckt ist, so j\u00e4h und gl\u00fchend ist ihre N\u00e4he."
+  },
+  {
+    "anno_id": "db246ce7-5c87-496a-9578-30a807dc596a",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 12922,
+    "end": 13024,
+    "text": "Sonst blieb mir doch noch ein Nachklang und ein Nachbild zur\u00fcck von t\u00f6nenden und lichten Augenblicken;"
+  },
+  {
+    "anno_id": "7484fad6-8c94-4e9b-9496-34048d6dd89c",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 13025,
+    "end": 13105,
+    "text": "jetzt aber verhallt und verlischt alles, pl\u00f6tzlich, wie in einer dumpfen Grotte."
+  },
+  {
+    "anno_id": "ff1f2019-d451-4b94-9ee0-2b0432879c1d",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 13105,
+    "end": 13150,
+    "text": " \u2013 Und dann bin ich allein mit meinen Blumen."
+  },
+  {
+    "anno_id": "da151b63-4077-4ce1-88b7-7790c22d9689",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 13151,
+    "end": 13212,
+    "text": "Sie sind schon welk, ganz welk. Sie haben keinen Duft mehr. \u2013"
+  },
+  {
+    "anno_id": "90f45b2c-231e-41f9-81ca-322eecb6b74e",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 13213,
+    "end": 13318,
+    "text": "Gretel hatte sie bisher nicht beachtet; heute das erstemal weilte ihr Blick lange auf ihnen, und mir war,"
+  },
+  {
+    "anno_id": "20940dda-0d3b-45a2-9765-28b782623eb7",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 13319,
+    "end": 13408,
+    "text": "als wollte sie mich fragen. Und pl\u00f6tzlich schien sie eine geheime Scheu davon abzuhalten;"
+  },
+  {
+    "anno_id": "ddb721f1-89f2-4e01-bdbb-7d428ae59de1",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 13409,
+    "end": 13484,
+    "text": "\u2013 sie sprach \u00fcberhaupt kein Wort mehr, nahm bald Abschied von mir und ging."
+  },
+  {
+    "anno_id": "a5f6b8b1-06f6-4f91-88d7-73fd39d8441b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 13488,
+    "end": 13512,
+    "text": "Sie bl\u00e4ttern langsam ab."
+  },
+  {
+    "anno_id": "1fac2ff1-3940-4ed2-970c-3c91b646ed2c",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 13513,
+    "end": 13588,
+    "text": "Ich r\u00fchre sie nie an; auch w\u00fcrden sie zwischen den Fingern zu Staub werden."
+  },
+  {
+    "anno_id": "59b71f72-a568-48c3-877d-f0a5ab247fcc",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 13589,
+    "end": 13633,
+    "text": "Es tut mir uns\u00e4glich weh, da\u00df sie welk sind."
+  },
+  {
+    "anno_id": "77a64563-cc5f-4295-b6ad-8f612cca223e",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 13634,
+    "end": 13717,
+    "text": "Warum ich nicht die Kraft habe, dem bl\u00f6den Spuk ein Ende zu machen, wei\u00df ich nicht."
+  },
+  {
+    "anno_id": "9525fb4d-24e8-40e6-8c9f-782a6da21527",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 13718,
+    "end": 14138,
+    "text": "Sie machen mich krank, diese toten Blumen. Ich kann es zuweilen nicht aushalten, ich st\u00fcrze davon. Und mitten auf der Stra\u00dfe packt es mich dann, und ich mu\u00df zur\u00fcck, mu\u00df nach ihnen sehen. Und da find' ich sie dann in demselben gr\u00fcnen Glas, wie ich sie verlassen, m\u00fcd' und traurig. Gestern abend hab' ich vor ihnen geweint, wie man auf einem Grabe weint, und habe gar nicht an die gedacht, von der sie eigentlich kommen. \u2013"
+  },
+  {
+    "anno_id": "d701f2a5-9c07-4fc9-9903-1b852c4b43bd",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 14139,
+    "end": 14262,
+    "text": "Vielleicht irre ich mich! aber mir ist, als f\u00fchlte auch Gretel die Anwesenheit von irgend etwas Seltsamem in meinem Zimmer."
+  },
+  {
+    "anno_id": "43d0d435-af52-4982-9440-2fe4ea31e1d6",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 14263,
+    "end": 14952,
+    "text": "Sie lacht nicht mehr, wenn sie bei mir ist. Sie spricht nicht so laut, nicht mit dieser frischen, lebhaften Stimme, die ich gewohnt war. Ich empfange sie freilich nicht mehr wie fr\u00fcher. Auch qu\u00e4lt mich eine stete Angst, da\u00df sie mich doch einmal fragen k\u00f6nnte; und ich wei\u00df, da\u00df mir jede Frage unertr\u00e4glich w\u00e4re.\r\nOft nimmt sie ihre Handarbeit mit zu mir, und wenn ich noch \u00fcber den B\u00fcchern bin, sitzt sie still am Tisch, h\u00e4kelt oder stickt, wartet geduldig, bis ich die B\u00fccher weglege und aufstehe und zu ihr treten, ihr die Arbeit aus der Hand zu nehmen. Dann entferne ich den gr\u00fcnen Schirm von der Lampe, bei der sie gesessen, und durchs ganze Zimmer flie\u00dft das freundliche, milde Licht."
+  },
+  {
+    "anno_id": "ee3b63a1-0252-4fae-a4f8-68f28ca42170",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 14953,
+    "end": 15008,
+    "text": "Ich habe es nicht gern, wenn die Ecken im Dunkeln sind."
+  },
+  {
+    "anno_id": "7cd479c3-8639-4945-935d-78daaa4fc752",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 15008,
+    "end": 15012,
+    "text": "\r\n\r\n"
+  },
+  {
+    "anno_id": "df1d74e0-d676-4315-a10c-11552841220c",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 15012,
+    "end": 15054,
+    "text": "Fr\u00fchling! \u2013 Weit offen steht mein Fenster."
+  },
+  {
+    "anno_id": "dfc9ca02-3923-4a6c-b66c-f6a60b5a7899",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 15055,
+    "end": 15128,
+    "text": "Am sp\u00e4ten Abend hab' ich mit Gretel auf die dunkle Stra\u00dfe hinausgeschaut."
+  },
+  {
+    "anno_id": "9e649333-4c85-48fc-933a-9260b64c82fd",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 15129,
+    "end": 15164,
+    "text": "Die Luft um uns war weich und warm."
+  },
+  {
+    "anno_id": "e5949764-9282-4c14-8109-8ed8d9bcd459",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 15165,
+    "end": 15200,
+    "text": "Und wie ich zur Stra\u00dfenecke hinsah,"
+  },
+  {
+    "anno_id": "0b962584-1dfc-43fb-a1a3-091006687de7",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 15201,
+    "end": 15256,
+    "text": "wo die Laterne ist, die ein schwaches Licht verbreitet,"
+  },
+  {
+    "anno_id": "5daf0c51-c363-42d3-bfda-27859d6e23fc",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 15257,
+    "end": 15325,
+    "text": "stand pl\u00f6tzlich ein Schatten dort. Ich sah ihn und sah ihn nicht ..."
+  },
+  {
+    "anno_id": "9007372c-0eba-4a68-9368-d1c406cdd625",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 15326,
+    "end": 15355,
+    "text": "Ich wei\u00df, da\u00df ich ihn sah ..."
+  },
+  {
+    "anno_id": "9a79ca0b-ac6b-4116-899e-9d2854f8bf15",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 15356,
+    "end": 15377,
+    "text": "Ich schlo\u00df die Augen."
+  },
+  {
+    "anno_id": "51b441ff-f13c-44ab-aa37-997237c5357a",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 15378,
+    "end": 15681,
+    "text": "Und durch die geschlossenen Lider konnte ich pl\u00f6tzlich sehen, und da stand das elende Gesch\u00f6pf, im schwachen Licht der Laterne, und ich sah das Gesicht unheimlich deutlich, als wenn es von einer gelben Sonne beleuchtet w\u00fcrde, und sah in dem verh\u00e4rmten, blassen Gesicht die gro\u00dfen, verwunderten Augen ..."
+  },
+  {
+    "anno_id": "a5914083-a030-4967-aefa-9cd88258a8e3",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 15682,
+    "end": 15929,
+    "text": "Da ging ich langsam vom Fenster weg und setzte mich zum Schreibtisch; auf dem flackerte das Kerzenlicht im Windhauch, der von drau\u00dfen kam. Und ich blieb regungslos sitzen; denn ich wu\u00dfte, da\u00df das arme Gesch\u00f6pf an der Stra\u00dfenecke stand und wartete;"
+  },
+  {
+    "anno_id": "5f6abb23-2e4c-4a3c-b7c9-b417e9b99912",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 15930,
+    "end": 16049,
+    "text": "und wenn ich gewagt h\u00e4tte, die toten Blumen anzufassen, so h\u00e4tt' ich sie aus dem Glas genommen und sie ihr gebracht ..."
+  },
+  {
+    "anno_id": "506fde04-aa20-4fe6-8e12-7bc217c97154",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 16050,
+    "end": 16294,
+    "text": "So dacht' ich, dacht' es ganz fest, und wu\u00dfte zugleich, da\u00df es unsinnig war. Gretel verlie\u00df nun auch das Fenster und blieb einen Augenblick hinter meinem Sessel stehen und ber\u00fchrte mit ihren Lippen mein Haar. Dann ging sie, lie\u00df mich allein ..."
+  },
+  {
+    "anno_id": "f0941539-7c41-4553-aea1-204f4df95272",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 16296,
+    "end": 16322,
+    "text": "Ich starrte die Blumen an."
+  },
+  {
+    "anno_id": "e78db16d-74f5-46f8-b4cb-0fee546acf42",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 16323,
+    "end": 16408,
+    "text": "Es sind gar keine mehr, es sind fast nur mehr nackte Stengel, d\u00fcrr und erb\u00e4rmlich ..."
+  },
+  {
+    "anno_id": "112743e4-a7ea-4d08-80ce-517e2584f53a",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 16409,
+    "end": 16444,
+    "text": "Sie machen mich krank und rasend. \u2013"
+  },
+  {
+    "anno_id": "c4263caf-588c-4d3d-86b3-904992d1263b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 16525,
+    "end": 16617,
+    "text": "aber sie f\u00fchlt es ja auch \u2013 sie flieht zuweilen, als wenn Gespenster im meinem Zimmer w\u00e4ren."
+  },
+  {
+    "anno_id": "f3fbf47d-dfb8-4549-8382-b62aa9b06ec1",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 16617,
+    "end": 16623,
+    "text": " \u2013\r\n\r\n"
+  },
+  {
+    "anno_id": "744927c1-96bc-4619-859f-e1d4b1d994eb",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 16623,
+    "end": 17721,
+    "text": "Gespenster! \u2013 Sie sind, sie sind! \u2013 Tote Dinge spielen das Leben. Und wenn welkende Blumen nach Moder riechen, so ist es nur Erinnerung an die Zeit, wo sie bl\u00fchten und dufteten. Und Gestorbene kommen wieder, so lang wir sie nicht vergessen. \u2013 Was hilft's, da\u00df sie nicht mehr sprechen kann; \u2013 ich kann sie ja noch h\u00f6ren! Sie erscheint nicht mehr, aber ich kann sie noch sehen! \u2013 \u2013 Und der Fr\u00fchling drau\u00dfen, und die Sonne, die hell \u00fcber meinen Teppich flie\u00dft, und der Hauch von frischem Flieder, der vom nahen Parke hereinkommt, und die Menschen, die unten vorbeigehen, und die mich nichts k\u00fcmmern, gerade das ist das Lebendige? Ich kann die Vorh\u00e4nge herablassen, und die Sonne ist tot. Ich will von all diesen Menschen nichts mehr wissen, und sie sind tot. Ich schlie\u00dfe das Fenster, kein Fliederduft mehr weht um mich, und der Fr\u00fchling ist tot. Ich bin m\u00e4chtiger als die Sonne und die Menschen und der Fr\u00fchling. Aber m\u00e4chtiger als ich ist die Erinnerung, die kommt, wann sie will, und vor der es kein Fliehen gibt. Und diese d\u00fcrren Stengel im Glas sind m\u00e4chtiger als aller Fliederduft und Fr\u00fchling.\r"
+  },
+  {
+    "anno_id": "b523de3f-f3e8-4168-85cc-430f104e17f4",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 17724,
+    "end": 17896,
+    "text": "\u00dcber diesen Bl\u00e4ttern bin ich gesessen, als Gretel hereintrat. Noch nie war sie so fr\u00fch am Tag gekommen; selten vor Eintritt der D\u00e4mmerung. Ich war erstaunt, fast betroffen."
+  },
+  {
+    "anno_id": "d5577a32-8a4e-496e-9d72-0e05d00c5fae",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 17897,
+    "end": 17990,
+    "text": "Ein paar Sekunden blieb sie in der T\u00fcre stehen; und ich schaute sie an, ohne sie zu begr\u00fc\u00dfen."
+  },
+  {
+    "anno_id": "8f9281b6-07d1-4dd2-b45d-1179c7588be9",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 17991,
+    "end": 18261,
+    "text": "Da l\u00e4chelte sie und trat n\u00e4her. Sie trug einen Strau\u00df frischer Blumen in der Hand. Dann ist sie, ohne ein Wort zu reden, bis zu meinem Schreibtisch gekommen und hat die Blumen vor mich hingelegt. Und in der n\u00e4chsten Sekunde greift sie nach den verwelkten im gr\u00fcnen Glas."
+  },
+  {
+    "anno_id": "a4953951-2ff9-4a35-991a-8708dc80f3a9",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 18262,
+    "end": 18301,
+    "text": "Mir war, als griffe man mir ins Herz; \u2013"
+  },
+  {
+    "anno_id": "dc01bc68-eff7-4e59-9e56-f317cce33925",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 18302,
+    "end": 18551,
+    "text": "aber ich konnte nichts sagen ... Und wie ich aufstehen will, das M\u00e4del beim Arm packen, schaut sie mich lachend an. Und h\u00e4lt den Arm mit den welken Blumen hoch, eilt hinter dem Schreibtisch zum Fenster, und wirft sie einfach hinunter auf die Stra\u00dfe."
+  },
+  {
+    "anno_id": "ee069b6f-0d8e-4314-b1fe-acfe63dfcb19",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 18552,
+    "end": 18586,
+    "text": "Mir ist, als m\u00fc\u00dft' ich ihnen nach;"
+  },
+  {
+    "anno_id": "5fe14aca-6d19-43e3-bce0-98fc272b791b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 18587,
+    "end": 18663,
+    "text": "aber da steht das M\u00e4del, an die Br\u00fcstung gelehnt, das Gesicht mir zugewandt."
+  },
+  {
+    "anno_id": "0cc26339-1760-4bba-9f2b-f6934c67fb33",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 18664,
+    "end": 18927,
+    "text": "Und \u00fcber ihren blonden Kopf flie\u00dft die Sonne, die warme, die lebendige ..... Und reicher Fliederduft kommt von dr\u00fcben. Und ich sehe auf das leere gr\u00fcne Glas, das auf dem Schreibtisch steht; ich wei\u00df nicht, wie mir ist; freier glaub' ich, \u2013 viel freier als fr\u00fcher."
+  },
+  {
+    "anno_id": "3e504592-b03d-4d27-a677-283d4b7de16a",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 18928,
+    "end": 19036,
+    "text": "Da kommt Gretel herzu, nimmt ihren kleinen Strau\u00df und h\u00e4lt ihn mir vor's Gesicht; k\u00fchlen, wei\u00dfen Flieder ..."
+  },
+  {
+    "anno_id": "98864b05-c017-4604-9927-03a1fa037555",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 19037,
+    "end": 19172,
+    "text": "Ein so gesunder frischer Duft; \u2013 so weich, so k\u00fchl; ich wollte mein Gesicht ganz darin vergraben. \u2013 Lachende, wei\u00dfe, k\u00fcssende Blumen. \u2013"
+  },
+  {
+    "anno_id": "64c56f74-1f5e-4162-b858-5d592b6ed00e",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 19173,
+    "end": 19286,
+    "text": "Und ich f\u00fchlte, da\u00df der Spuk vorbei war. \u2013 Gretel stand hinter mir und fuhr mir mit ihren wilden H\u00e4nden ins Haar."
+  },
+  {
+    "anno_id": "28fbe5a2-5a8d-491a-b3a3-c9f8f887f309",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 19287,
+    "end": 19302,
+    "text": "Du lieber Narr,"
+  },
+  {
+    "anno_id": "5353cc73-933d-438b-88b1-68edfc85892d",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 19303,
+    "end": 19345,
+    "text": "sagte sie. \u2013 Wu\u00dfte sie, was sie getan? ..."
+  },
+  {
+    "anno_id": "c7a052a5-59ef-438f-a35b-7a7de46146bc",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 19346,
+    "end": 19380,
+    "text": "Ich nahm ihre H\u00e4nde und k\u00fc\u00dfte sie."
+  },
+  {
+    "anno_id": "bc906d82-8aae-473f-b035-d2a9012d75c5",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 19380,
+    "end": 19384,
+    "text": " \u2013 \u2013"
+  },
+  {
+    "anno_id": "0a46e5bf-2c7d-4de6-9462-bd1235649e81",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 19385,
+    "end": 19733,
+    "text": "Und abends sind wir ins Freie hinaus, in den Fr\u00fchling. Eben bin ich mit ihr zur\u00fcckgekommen. Die Kerze habe ich angez\u00fcndet; wir sind viel gegangen, und Gretel ist so m\u00fcde geworden, da\u00df sie auf dem Lehnstuhle neben dem Ofen eingeschlummert ist. Sie ist sehr sch\u00f6n, wie sie da im Schlummer l\u00e4chelt.\r\nVor mir im schlanken gr\u00fcnen Glas steht der Flieder."
+  },
+  {
+    "anno_id": "5ff69167-965b-4fbe-b03e-bbc0117395e0",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 19736,
+    "end": 19756,
+    "text": "Unten auf der Stra\u00dfe"
+  },
+  {
+    "anno_id": "75609204-f47f-4fb8-9b7d-f94a632e57b1",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 19759,
+    "end": 19862,
+    "text": "nein, nein, sie liegen l\u00e4ngst nicht mehr da unten. Schon hat sie der Wind mit dem andern Staub verweht."
+  }
+]

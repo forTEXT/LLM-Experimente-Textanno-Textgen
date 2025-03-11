@@ -1,0 +1,698 @@
+[
+  {
+    "anno_id": "4f4b792b-0ce4-43a1-848e-fbfcd4c71393",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 17,
+    "end": 64,
+    "text": "In der Milit\u00e4rschule zu Sankt Severin. Turnsaal"
+  },
+  {
+    "anno_id": "dc50cbcd-93c1-4cc4-bffd-f872fb906c9d",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 66,
+    "end": 113,
+    "text": "Der Jahrgang steht in den hellen Zwillichblusen"
+  },
+  {
+    "anno_id": "dc50cbcd-93c1-4cc4-bffd-f872fb906c9d",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 139,
+    "end": 166,
+    "text": " unter den gro\u00dfen Gaskronen"
+  },
+  {
+    "anno_id": "d4c623a3-436f-41ff-8101-315449537077",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 115,
+    "end": 138,
+    "text": "in zwei Reihen geordnet"
+  },
+  {
+    "anno_id": "ecd4b959-217a-4712-b9f5-8f7a26a89899",
+    "tag_id": "76d1f581-d10e-4855-a722-b377486a0a3d",
+    "tag_name": "perfect",
+    "start": 168,
+    "end": 182,
+    "text": "Der Turnlehrer"
+  },
+  {
+    "anno_id": "ecd4b959-217a-4712-b9f5-8f7a26a89899",
+    "tag_id": "76d1f581-d10e-4855-a722-b377486a0a3d",
+    "tag_name": "perfect",
+    "start": 252,
+    "end": 280,
+    "text": " hat Frei\u00fcbungen kommandiert"
+  },
+  {
+    "anno_id": "7467ca11-ee37-446c-8e01-ba76cea84942",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 184,
+    "end": 251,
+    "text": "ein junger Offizier mit hartem braunen Gesicht und h\u00f6hnischen Augen"
+  },
+  {
+    "anno_id": "64c5789a-bb3d-41cf-9fb2-afa9a57e881d",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 281,
+    "end": 308,
+    "text": "und verteilt nun die Riegen"
+  },
+  {
+    "anno_id": "f2abd3d5-0001-43ef-a78e-fbd41563ea2a",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 311,
+    "end": 400,
+    "text": "Erste Riege Reck, zweite Riege Barren, dritte Riege Bock, vierte Riege Klettern! Abtreten"
+  },
+  {
+    "anno_id": "bfa5b723-020a-4729-8256-2e691aa574ff",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 403,
+    "end": 412,
+    "text": "Und rasch"
+  },
+  {
+    "anno_id": "bfa5b723-020a-4729-8256-2e691aa574ff",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 467,
+    "end": 494,
+    "text": " zerstreuen sich die Knaben"
+  },
+  {
+    "anno_id": "f0ba9a47-839f-448a-aab0-88bca567e42a",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 414,
+    "end": 466,
+    "text": "auf den leichten, mit Kolophonium isolierten Schuhen"
+  },
+  {
+    "anno_id": "ff7ba8ff-cea5-4241-a217-837bf907ba33",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 496,
+    "end": 533,
+    "text": "Einige bleiben mitten im Saale stehen"
+  },
+  {
+    "anno_id": "f3a65d43-c462-4bfd-9155-3896fbfc2213",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 535,
+    "end": 562,
+    "text": "z\u00f6gernd, gleichsam unwillig"
+  },
+  {
+    "anno_id": "16ce8e0d-3f0d-4cf7-82e3-339267a75bbe",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 564,
+    "end": 587,
+    "text": "Es ist die vierte Riege"
+  },
+  {
+    "anno_id": "0a6fe927-a3c5-4715-ae45-1017d42565dd",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 589,
+    "end": 610,
+    "text": "die schlechten Turner"
+  },
+  {
+    "anno_id": "b20de532-2fc0-4117-b60f-e7bea740642e",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 612,
+    "end": 666,
+    "text": "die keine Freude haben an der Bewegung bei den Ger\u00e4ten"
+  },
+  {
+    "anno_id": "ffcd6e0d-748f-4386-9672-fc7430ad1916",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 667,
+    "end": 713,
+    "text": "und schon m\u00fcde sind von den zwanzig Kniebeugen"
+  },
+  {
+    "anno_id": "b15c724e-0d96-4f70-a7f6-e78b59bfa8c4",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 714,
+    "end": 748,
+    "text": "und ein wenig verwirrt und atemlos"
+  },
+  {
+    "anno_id": "6d4e5e45-d8b4-4c84-9df5-66cc6b6eeade",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 751,
+    "end": 760,
+    "text": "Nur Einer"
+  },
+  {
+    "anno_id": "6d4e5e45-d8b4-4c84-9df5-66cc6b6eeade",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 828,
+    "end": 862,
+    "text": " steht schon an den Kletterstangen"
+  },
+  {
+    "anno_id": "7a3b7889-ff24-43ca-a492-bf7b0f267c9c",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 762,
+    "end": 814,
+    "text": "der sonst der Allerletzte blieb bei solchen Anl\u00e4ssen"
+  },
+  {
+    "anno_id": "2ee76e4b-ca27-4618-a86c-cf947731213b",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 816,
+    "end": 827,
+    "text": "Karl Gruber"
+  },
+  {
+    "anno_id": "e7da7c2f-1a2e-4c25-8335-e914ca2fef33",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 864,
+    "end": 909,
+    "text": "die in einer etwas d\u00e4mmerigen Ecke des Saales"
+  },
+  {
+    "anno_id": "e7da7c2f-1a2e-4c25-8335-e914ca2fef33",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 977,
+    "end": 993,
+    "text": " angebracht sind"
+  },
+  {
+    "anno_id": "969818b3-75be-4945-97f1-2dcfd3c507bb",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 911,
+    "end": 931,
+    "text": "hart vor den Nischen"
+  },
+  {
+    "anno_id": "e2ba0dd3-2d8f-46f6-a63c-0eff4ef1561c",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 933,
+    "end": 976,
+    "text": "in denen die abgelegten Uniformr\u00f6cke h\u00e4ngen"
+  },
+  {
+    "anno_id": "c657242a-0078-4ae7-8a8b-79b397b706bc",
+    "tag_id": "76d1f581-d10e-4855-a722-b377486a0a3d",
+    "tag_name": "perfect",
+    "start": 995,
+    "end": 1027,
+    "text": "Er hat die n\u00e4chste Stange erfa\u00dft"
+  },
+  {
+    "anno_id": "dc602898-bdb4-4b78-a98a-6e9bfa5fc0f6",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1028,
+    "end": 1076,
+    "text": "und zieht sie mit ungew\u00f6hnlicher Kraft nach vorn"
+  },
+  {
+    "anno_id": "dc602898-bdb4-4b78-a98a-6e9bfa5fc0f6",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1078,
+    "end": 1137,
+    "text": "so da\u00df sie frei an dem zur \u00dcbung geeigneten Platze schwankt"
+  },
+  {
+    "anno_id": "3a9ca787-8ce7-40b3-b61d-4b01adf649de",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1139,
+    "end": 1181,
+    "text": "Gruber l\u00e4\u00dft nicht einmal die H\u00e4nde von ihr"
+  },
+  {
+    "anno_id": "94d670b4-f6b4-4cb5-89c5-8f6ff99d67b1",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1183,
+    "end": 1197,
+    "text": "er springt auf"
+  },
+  {
+    "anno_id": "b65a0efe-45c6-4ec1-ae50-de0c61e10144",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1198,
+    "end": 1208,
+    "text": "und bleibt"
+  },
+  {
+    "anno_id": "b65a0efe-45c6-4ec1-ae50-de0c61e10144",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1322,
+    "end": 1343,
+    "text": " an der Stange h\u00e4ngen"
+  },
+  {
+    "anno_id": "bd795d20-a8d5-4593-b2f8-0dcc9d336327",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1210,
+    "end": 1282,
+    "text": "ziemlich hoch, die Beine ganz unwillk\u00fcrlich im Kletterschlu\u00df verschr\u00e4nkt"
+  },
+  {
+    "anno_id": "4f7d785d-4172-4863-8a66-c471ab724ad2",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1284,
+    "end": 1321,
+    "text": "den er sonst niemals begreifen konnte"
+  },
+  {
+    "anno_id": "fa1a1ff9-8d63-497a-9f85-5a0aa1496da9",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1345,
+    "end": 1369,
+    "text": "So erwartet er die Riege"
+  },
+  {
+    "anno_id": "fb091b34-fecd-4c3a-9d75-887b0c575828",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1370,
+    "end": 1384,
+    "text": "und betrachtet"
+  },
+  {
+    "anno_id": "fb091b34-fecd-4c3a-9d75-887b0c575828",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1403,
+    "end": 1487,
+    "text": " mit besonderem Vergn\u00fcgen den erstaunten \u00c4rger des kleinen polnischen Unteroffiziers"
+  },
+  {
+    "anno_id": "ad1689ed-eae9-473b-a410-94e996be9eec",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1387,
+    "end": 1401,
+    "text": "wie es scheint"
+  },
+  {
+    "anno_id": "c9883e4f-cea7-4c09-931f-ffdcfc70b5c9",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1489,
+    "end": 1503,
+    "text": "der ihm zuruft"
+  },
+  {
+    "anno_id": "e5da8f0d-6136-4037-85b6-955cfa9a8e91",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1505,
+    "end": 1517,
+    "text": "abzuspringen"
+  },
+  {
+    "anno_id": "c7c68016-5007-4c33-ae17-5e7d7fb4bb6a",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1519,
+    "end": 1559,
+    "text": "Aber Gruber ist diesmal sogar ungehorsam"
+  },
+  {
+    "anno_id": "b8ac9ea4-b7be-4458-8a89-8886ce1f4262",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1560,
+    "end": 1573,
+    "text": "und Jastersky"
+  },
+  {
+    "anno_id": "b8ac9ea4-b7be-4458-8a89-8886ce1f4262",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1601,
+    "end": 1616,
+    "text": "schreit endlich"
+  },
+  {
+    "anno_id": "ccf47b57-993d-4ae7-ae64-aadda63e85f2",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1575,
+    "end": 1599,
+    "text": "der blonde Unteroffizier"
+  },
+  {
+    "anno_id": "48f1a3b8-adb9-4930-87f3-b221057e18ce",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1619,
+    "end": 1623,
+    "text": "Also"
+  },
+  {
+    "anno_id": "41c1d7b9-be92-4472-bcf5-8cf6a042901e",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1625,
+    "end": 1653,
+    "text": "entweder Sie kommen herunter"
+  },
+  {
+    "anno_id": "eaae3f78-5a9c-4d86-a899-3f84943ee2c7",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1654,
+    "end": 1678,
+    "text": "oder Sie klettern hinauf"
+  },
+  {
+    "anno_id": "82d38785-6598-4e5a-8680-7451fc6dd60e",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1680,
+    "end": 1686,
+    "text": "Gruber"
+  },
+  {
+    "anno_id": "e57e6486-6540-4488-8c7d-b7be67452d4d",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1688,
+    "end": 1728,
+    "text": "Sonst melde ich dem Herrn Oberlieutenant"
+  },
+  {
+    "anno_id": "a7afe08c-3d43-48cb-a75b-bc04a7359e64",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1733,
+    "end": 1754,
+    "text": "Und da beginnt Gruber"
+  },
+  {
+    "anno_id": "03314a48-ad38-43b6-8986-65356462f934",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1756,
+    "end": 1927,
+    "text": "zu klettern, erst heftig mit \u00dcberst\u00fcrzung, die Beine wenig aufziehend und die Blicke aufw\u00e4rts gerichtet, mit einer gewissen Angst das unerme\u00dfliche St\u00fcck Stange absch\u00e4tzend"
+  },
+  {
+    "anno_id": "b93b8dd4-64a9-4955-84a1-a7a9fadbd865",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1929,
+    "end": 1948,
+    "text": "das noch bevorsteht"
+  },
+  {
+    "anno_id": "9dd335b4-9c48-4171-b6da-668ce4f1d06b",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1950,
+    "end": 1986,
+    "text": "Dann verlangsamt sich seine Bewegung"
+  },
+  {
+    "anno_id": "8b833c63-bee8-4edb-a2db-185bdc7bf3c4",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1988,
+    "end": 2050,
+    "text": "und als ob er jeden Griff gen\u00f6sse, wie etwas Neues, Angenehmes"
+  },
+  {
+    "anno_id": "738a1acb-d74d-4b25-93e4-decd3609f7fd",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2052,
+    "end": 2071,
+    "text": "zieht er sich h\u00f6her"
+  },
+  {
+    "anno_id": "9dead958-c90e-478d-b3f8-cd5e0d0c3edf",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2073,
+    "end": 2110,
+    "text": "als man gew\u00f6hnlich zu klettern pflegt"
+  },
+  {
+    "anno_id": "5d277e61-adad-4d1e-b320-03f618c231c9",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2112,
+    "end": 2180,
+    "text": "Er beachtet nicht die Aufregung des ohnehin gereizten Unteroffiziers"
+  },
+  {
+    "anno_id": "5d277e61-adad-4d1e-b320-03f618c231c9",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2182,
+    "end": 2203,
+    "text": "klettert und klettert"
+  },
+  {
+    "anno_id": "0cacfc82-fdac-4a57-8beb-66bc64b6afec",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2205,
+    "end": 2341,
+    "text": "die Blicke immerfort aufw\u00e4rts gerichtet, als h\u00e4tte er einen Ausweg in der Decke des Saales entdeckt und strebte danach, ihn zu erreichen"
+  },
+  {
+    "anno_id": "95d0ec65-f0c3-4d57-9507-4602322b8cb3",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2343,
+    "end": 2382,
+    "text": "Die ganze Riege folgt ihm mit den Augen"
+  },
+  {
+    "anno_id": "e190dd5e-6765-434e-80ac-2b19ae2f72c2",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2384,
+    "end": 2482,
+    "text": "Und auch aus den anderen Riegen richtet man schon da und dort die Aufmerksamkeit auf den Kletterer"
+  },
+  {
+    "anno_id": "07bb8e8f-0f89-46ed-bd73-8d6f04c5ff39",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2484,
+    "end": 2580,
+    "text": "der sonst kaum das erste Dritteil der Stange keuchend, mit rotem Gesicht und b\u00f6sen Augen erklomm"
+  },
+  {
+    "anno_id": "75e80544-fbd2-464d-a6a1-1a84956368e5",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2583,
+    "end": 2596,
+    "text": "Bravo, Gruber"
+  },
+  {
+    "anno_id": "33a92be2-f3de-423e-a6c0-e1c46d15c10e",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2599,
+    "end": 2639,
+    "text": "ruft jemand aus der ersten Riege her\u00fcber"
+  },
+  {
+    "anno_id": "edd5018e-b07c-4144-9fc8-3f0b9a6877f3",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2641,
+    "end": 2677,
+    "text": "Da wenden viele ihre Blicke aufw\u00e4rts"
+  },
+  {
+    "anno_id": "07e58c95-f9cd-4303-9816-4296635c7454",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2679,
+    "end": 2715,
+    "text": "und es wird eine Weile still im Saal"
+  },
+  {
+    "anno_id": "67a0eb8d-c756-4803-a450-44490ac838b0",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2719,
+    "end": 2751,
+    "text": "aber gerade in diesem Augenblick"
+  },
+  {
+    "anno_id": "67a0eb8d-c756-4803-a450-44490ac838b0",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2798,
+    "end": 2847,
+    "text": " macht er hoch oben unter der Decke eine Bewegung"
+  },
+  {
+    "anno_id": "a1ea6064-32aa-454b-b2f7-72972c2106a8",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2753,
+    "end": 2797,
+    "text": "da alle Blicke an der Gestalt Grubers h\u00e4ngen"
+  },
+  {
+    "anno_id": "8802933b-2ec5-4b81-9def-1189039a893b",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2849,
+    "end": 2878,
+    "text": "als wollte er sie absch\u00fctteln"
+  },
+  {
+    "anno_id": "e629e8bf-03b2-4bb9-8c57-05edb4834780",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2880,
+    "end": 2917,
+    "text": "und da ihm das offenbar nicht gelingt"
+  },
+  {
+    "anno_id": "100739b6-ba5b-4872-a81b-4183957742e7",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2919,
+    "end": 2981,
+    "text": "bindet er alle diese Blicke oben an den nackten eisernen Haken"
+  },
+  {
+    "anno_id": "40af499a-86bb-4fb2-b5cf-0f7e81e3c843",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2982,
+    "end": 3018,
+    "text": "und saust die glatte Stange herunter"
+  },
+  {
+    "anno_id": "ffe1b0a6-c567-41a2-a0c3-6b4eccfbfb67",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3020,
+    "end": 3054,
+    "text": "so da\u00df alle immer noch hinaufsehen"
+  },
+  {
+    "anno_id": "ff5e3086-98f8-44c0-a0d1-c2673c271a22",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3056,
+    "end": 3075,
+    "text": "als er schon l\u00e4ngst"
+  },
+  {
+    "anno_id": "ff5e3086-98f8-44c0-a0d1-c2673c271a22",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3098,
+    "end": 3110,
+    "text": " unten steht"
+  },
+  {
+    "anno_id": "b5c41389-bbc0-418d-a08e-676df87f928e",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3077,
+    "end": 3097,
+    "text": "schwindelnd und hei\u00df"
+  },
+  {
+    "anno_id": "764ded11-22f8-49f2-bc06-dde057464c6a",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3111,
+    "end": 3181,
+    "text": "und mit seltsam glanzlosen Augen in seine gl\u00fchenden Handfl\u00e4chen schaut"
+  },
+  {
+    "anno_id": "c201a225-b868-449a-9b1b-09464b62ae24",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3183,
+    "end": 3257,
+    "text": "Da fragt ihn der eine oder der andere der ihm zun\u00e4chst stehenden Kameraden"
+  },
+  {
+    "anno_id": "5eef3b51-4a8c-43e1-b804-660de51029fe",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3259,
+    "end": 3293,
+    "text": "was denn heute in ihn gefahren sei"
+  },
+  {
+    "anno_id": "afd8ee1b-6e50-4fc0-aaec-ec3a0f502d86",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3296,
+    "end": 3333,
+    "text": "Willst wohl in die erste Riege kommen"
+  },
+  {
+    "anno_id": "09dfcb71-97aa-4288-b24c-97c3b5c77884",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3336,
+    "end": 3348,
+    "text": "Gruber lacht"
+  },
+  {
+    "anno_id": "ec02eddb-d98c-4097-984a-aef464f78391",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3349,
+    "end": 3386,
+    "text": "und scheint etwas antworten zu wollen"
+  },
+  {
+    "anno_id": "434d8723-77af-4956-9265-fe17da31f8f5",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3388,
+    "end": 3440,
+    "text": "aber er \u00fcberlegt es sich und senkt schnell die Augen"
+  },
+  {
+    "anno_id": "4f65580e-19f4-468c-b58c-824e6fef7ccc",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3388,
+    "end": 3440,
+    "text": "aber er \u00fcberlegt es sich und senkt schnell die Augen"
+  }
+]

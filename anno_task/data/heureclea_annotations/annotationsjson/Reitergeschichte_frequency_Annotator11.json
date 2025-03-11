@@ -1,0 +1,90 @@
+[
+  {
+    "anno_id": "b727b6f9-d8a4-4eec-9cc1-f81512fdeebf",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 5984,
+    "end": 6099,
+    "text": "und einer Tapetent\u00fcr, durch welche sich ein beleibter, vollst\u00e4ndig rasierter \u00e4lterer Mann im Augenblicke zur\u00fcckzog."
+  },
+  {
+    "anno_id": "4b2d4c69-fa12-4176-b5b3-522625b58df8",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 6399,
+    "end": 6445,
+    "text": "einige Abende und halbe N\u00e4chte verbracht hatte"
+  },
+  {
+    "anno_id": "1f25d994-4e4d-493c-9caa-122c1131cb91",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 7305,
+    "end": 7436,
+    "text": "\u2013 diesen ihren Namen hatte er gewi\u00df seit zehn Jahren nicht wieder in den Mund genommen und ihren Taufnamen vollst\u00e4ndig vergessen \u2013,"
+  },
+  {
+    "anno_id": "f1e4583c-5465-4644-a27f-6cf1ceb277ae",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 8498,
+    "end": 8569,
+    "text": "Der rasierte, beleibte Mann, der durch die Tapetent\u00fcr verschwunden war,"
+  },
+  {
+    "anno_id": "700e6d7b-e406-4bf7-9bc4-629523106260",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 8851,
+    "end": 8875,
+    "text": "der Hoftratsch erz\u00e4hlte,"
+  },
+  {
+    "anno_id": "b6cbdb8d-bce0-4a96-bf92-d466d0c2b078",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 8851,
+    "end": 8875,
+    "text": "der Hoftratsch erz\u00e4hlte,"
+  },
+  {
+    "anno_id": "b6cbdb8d-bce0-4a96-bf92-d466d0c2b078",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 8876,
+    "end": 8903,
+    "text": "Tabak und Kapaunen brachte,"
+  },
+  {
+    "anno_id": "b6cbdb8d-bce0-4a96-bf92-d466d0c2b078",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 8940,
+    "end": 8967,
+    "text": "mu\u00dfte Schweiggelder zahlen,"
+  },
+  {
+    "anno_id": "ac35319f-60d5-4d6f-9eb4-6173a369d76c",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 8876,
+    "end": 8903,
+    "text": "Tabak und Kapaunen brachte,"
+  },
+  {
+    "anno_id": "0ae12798-1177-4b34-a981-e46d9cec0c28",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 8940,
+    "end": 8967,
+    "text": "mu\u00dfte Schweiggelder zahlen,"
+  },
+  {
+    "anno_id": "8103fca7-1fde-4b4f-8730-3c87873fb6fc",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 21793,
+    "end": 21882,
+    "text": "in dem nur dann und wann etwas Gedr\u00fccktes, H\u00fcndisches aufflackerte und wieder verschwand,"
+  }
+]

@@ -1,0 +1,3382 @@
+Zur Annotation narratologischer Kategorien der Zeit
+
+Guidelines zur Nutzung des CATMA-Tagsets
+
+Evelyn Gius und Janina Jacke
+Version 2.0 (November 2016)
+
+1
+
+Inhaltsverzeichnis
+
+1 Kollaboratives Annotieren im philologischen Kontext
+
+1.1 Besonderheiten des philologischen kollaborativen Annotierens . . . . . .
+1.2 Ein Best Practice-Vorschlag . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+5
+6
+
+2 Guidelines zur Annotation von narratologischen Phänomenen der Zeit
+
+10
+2.1 Vorbemerkungen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+2.1.1 Zur Genese und zum Aufbau des Tagsets
+. . . . . . . . . . . . . 10
+2.1.2 Zum Aufbau der Guidelines . . . . . . . . . . . . . . . . . . . . . 11
+2.2 Narrative Ebenen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+2.3 Zeit
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+2.3.1 Tempus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+2.3.2 Zeitausdrücke . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+2.4 Zeitpunkt des Erzählens . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+2.5 Zeitliches Verhältnis zwischen discours und histoire . . . . . . . . . . . . 47
+2.5.1 Ordnung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+2.5.2 Frequenz
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+2.5.3 Dauer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+
+Literatur
+
+66
+
+A Anhang: Dokumentation der Tagset-Nutzung im Projekt heureCLÉA
+
+70
+A.1 Narrative Ebenen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+A.2 Tempus
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+A.3 Zeitausdrücke . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+A.4 Zeitpunkt des Erzählens . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+A.5 Ordnung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+A.6 Frequenz . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+A.7 Dauer
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+
+2
+
+Abbildungsverzeichnis
+
+1
+Ablaufschema kollaborativer literaturwissenschaftlicher Annotationen .
+7
+2
+Tagset <narrative_levels> . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+3
+Tagset <tenses> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+4
+Untertagset <explicit_time_representation> . . . . . . . . . . . . . . . 31
+5
+Untertagset <implicit_time_representation> . . . . . . . . . . . . . . . 36
+6
+Tagset <relation_narrator—event_time> . . . . . . . . . . . . . . . . . 40
+7
+Untertagset <order> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+8
+Reichweite von Anachronien . . . . . . . . . . . . . . . . . . . . . . . . . 52
+9
+Umfang von Anachronien . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+10 Untertagset <frequency> . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+11 Untertagset <duration> . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+12 Ursprüngliches Untertagset <explicit-time-representation> . . . . . . . 71
+
+3
+
+Tabellenverzeichnis
+
+Überblick zur Annotation von <narrative_levels> . . . . . . . . . . . . . . . . . 22
+Überblick zur Annotation von <tenses> . . . . . . . . . . . . . . . . . . . . . . 29
+Überblick zur Annotation von <explicit_time_representation> . . . . . . . . . . 35
+Überblick zur Annotation von <dates> . . . . . . . . . . . . . . . . . . . . . . 38
+Überblick zur Annotation von <relation_narrator—event_time> . . . . . . . . . 46
+Überblick zur Annotation von <order> . . . . . . . . . . . . . . . . . . . . . . 54
+Überblick zur Annotation von <frequency> . . . . . . . . . . . . . . . . . . . . 60
+Überblick zur Annotation von <duration> . . . . . . . . . . . . . . . . . . . . 66
+
+4
+
+1 Kollaboratives Annotieren im philologischen Kontext
+
+1 Kollaboratives Annotieren im philologischen Kontext
+1.1 Besonderheiten des philologischen kollaborativen Annotierens
+Digitales kollaboratives Annotieren ist eine eﬀektive Möglichkeit, um mehr als eine
+(subjektive) Sicht auf den Untersuchungsgegenstand abzubilden: Sobald ein Text
+von mehreren Individuen annotiert wird, wird oﬀensichtlich, welche unterschiedlichen
+Aspekte des Objekts im Zentrum des individuellen Interesses stehen oder welche
+verschiedenen Sichtweisen in Bezug auf denselben Aspekt möglich sind.
+
+Soll sich die kollaborative Annotation jedoch nicht auf das Aufzeigen der Pluralität
+von Perspektiven und Interpretationen beschränken, sondern einem speziﬁscheren,
+geteilten Erkenntnisinteresse dienen, so sollten Guidelines genutzt werden, um die
+gemeinsame Annotationspraxis zu strukturieren und zu leiten. Für die Annotation
+linguistischer Phänomene werden solche Guidelines bereits seit längerem entwickelt;1
+für die kollaborative Annotation semantischer Phänomene in literarischen Texten fehlen
+hingegen bislang Best Practice-Vorschläge. Eine direkte Übertragung linguistischer
+Annotationsanleitungen auf den literaturwissenschaftlichen Bereich scheint dabei aus
+mindestens drei Gründen nicht möglich:
+
+1. Literarische Texte sind in der Regel polyvalent, d.h. mehrdeutig: Während kolla-
+boratives Annotieren im Bereich der Linguistik hauptsächlich der Vermeidung
+individueller Annotationsfehler dient und eine autoritative Version zum Ziel hat,
+muss im Falle literaturwissenschaftlicher Annotation immer bedacht werden, dass
+auch unterschiedliche bzw. widersprüchliche Annotationen gleichermaßen legitime
+Lesarten ausdrücken können – ohne dabei jedoch in Beliebigkeit abzugleiten.
+
+2. Die Analysekategorien, mithilfe derer literarische Texte untersucht bzw. an-
+notiert werden, sind häuﬁg unterdeﬁniert. Grund hierfür scheint zum einen
+die Tatsache zu sein, dass Textanalyse und -interpretation in der traditionell-
+literaturwissenschaftlichen Praxis häuﬁg weniger textnah ausgeführt werden als
+im digitalen Kontext, was dazu führt, dass vage Deﬁnitionen keine Anwendungs-
+probleme mit sich bringen. Zum anderen zeichnet sich die traditionelle Literatur-
+wissenschaft durch individuelles Arbeiten und die Erschließung neuer Lesarten von
+Texten aus. In diesem Kontext bleibt eine möglicherweise inkonsistente Verwen-
+dung von Analysekategorien leichter unbemerkt. Für die kollaborative Annotation
+literarischer Texte muss deshalb die Frage berücksichtigt werden, wie speziﬁsch
+und klar die Deﬁnition literaturwissenschaftlicher Annotationskategorien ausfallen
+kann und sollte.
+
+3. Literaturwissenschaftliche Analysekategorien stehen häuﬁg in bisher untertheore-
+tisierten Abhängigkeitsverhältnissen zueinander. Es gibt kaum Untersuchungen
+dazu, ob und wie die innerhalb einer bestimmten Analysemethode angewendeten
+Konzepte möglicherweise zusammenhängen. Das kann dazu führen, dass Annota-
+tionen deshalb unterschiedlich ausfallen, weil die Annotator/innen im Kontext
+
+1Vgl. bspw. Pyysalo und Ginter (2014); Maamouri et al. (2008)
+
+5
+
+1.2 Ein Best Practice-Vorschlag
+
+impliziter Analyseschritte, die der Annotation logisch vorgeordnet sind, zu un-
+terschiedlichen Ergebnissen gekommen sind. Auch für den Umgang mit solchen
+impliziten Abhängigkeitsverhältnissen muss im Kontext literarischer Annotation
+eine Regelung gefunden werden.
+
+1.2 Ein Best Practice-Vorschlag
+Die vorliegenden Guidelines sind das Ergebnis eines literaturwissenschaftlichen For-
+schungsprojekts, in dessen Kontext umfangreiche kollaborative Annotationen angefertigt
+wurden. Sie dienen primär der detaillierten Beschreibung einer Konzepttaxonomie,
+die für die kollaborative Analyse und Annotation temporaler Aspekte in narrativen
+Texten im Rahmen des Textanalyseprogramms CATMA2 genutzt werden kann. Bei der
+Entwicklung dieses so genannten Tagset, wurden die oben genannten Herausforderungen
+an die kollaborative Annotation im philologischen Bereich berücksichtigt.
+
+Bevor wir das Tagset in den folgenden Abschnitten detailliert beschreiben, möchten
+wir unsere Erfahrungen bei der Entwicklung des Tagsets skizzieren, um damit einen
+best practice-Vorschlag für kollaboratives Annotieren in hermeneutischen Kontexten
+vorzulegen.
+
+Das genutzte Tagset wurde ursprünglich als Tagset für die Analyse narratologischer
+Phänomene im Projekt CLÉA entwickelt und in Gius (2015) in überarbeiteter Form
+beschrieben. Diese Beschreibung war der Ausgangspunkt der kollaborativen Annotation,
+die in Anlehnung an die hermeneutische Praxis der philologischen Textanalyse als
+iteratives Verfahren umgesetzt wurde. Im Rahmen der intensiven Anwendung des
+Tagsets über knapp drei Jahre hat sich das im Folgenden beschriebene Verfahren als
+best practice für kollaboratives Annotieren herausgestellt (vgl. Abbildung 1):
+
+Schritt 1: Deﬁnition der Annotationskategorien
+Es ist sinnvoll, die zugrundeliegenden Annotationskategorien bereits vor der Annotati-
+on so speziﬁsch wie möglich zu deﬁnieren. Geschieht dies nicht, so ist es schwieriger
+festzustellen, ob sich Annotationen tatsächlich auf Basis der Polyvalenz des literarischen
+Textes unterscheiden oder aufgrund vager Kategoriendeﬁnitionen. Diese Forderung
+nach einer möglichst genauen Deﬁnition geht nicht notwendigerweise mit einer Be-
+schränkung des Erkenntnisinteresses einher: Wenn die Deﬁnition einer traditionellen
+literaturwissenschaftlichen Kategorie auf zwei unterschiedliche Arten verstanden wer-
+den kann und beide Varianten interessante Textphänomene beschreiben, dann ist es
+problemlos möglich, beide Varianten zu operationalisieren – allerdings als sorgfältig
+getrennte Konzepte. Zusätzlich zur Deﬁnition der Annotationskategorie sollten in den
+Annotationsguidelines auch mögliche Indikatoren benannt werden, die an der Textober-
+ﬂäche auf das jeweilige Phänomen hinweisen, etwa bestimmte Wörter, grammatische
+
+2„CATMA“ ist die Abkürzung für „Computer Aided Textual Markup & Annotation“. Mehr Infor-
+mationen zu CATMA sind verfügbar unter http://www.catma.de. Eine Nutzung von CATMA ist
+unter http://www.digitalhumanities.it/catma möglich. Dort steht auch ein Benutzerhandbuch
+zur Verfügung. Für eine Freischaltung des Tagsets können Sie Evelyn Gius oder Janina Jacke per
+E-Mail kontaktieren (evelyn.gius@uni-hamburg.de oder janina.jacke@uni-hamburg.de).
+
+6
+
+1.2 Ein Best Practice-Vorschlag
+
+Abbildung 1: Ablaufschema kollaborativer literaturwissenschaftlicher Annotationen
+
+Eigenschaften u.ä. Desweiteren sollte der typische Umfang der annotierten Zeichenkette
+– Wort, Teilsatz, Satz, Absatz etc. – bestimmt werden. Diese Festlegungen in den
+Annotationsguidelines dienen allen Annotator/innen als Annotationsbasis.
+
+Schritt 2: Individuelle Annotation
+Jede/r Annotator/in annotiert auf Basis der Guidelines die Analysetexte individuell.
+Dadurch wird gewährleistet, dass nicht gleich zu Beginn eine gegenseitige Beeinﬂussung
+der Annotator/innen besteht, sondern unterschiedliche Lesarten auch tatsächlich in den
+Annotationen abgebildet werden. Wenn alle Annotator/innen die individuelle Annota-
+tionsrunde beendet haben, ﬁndet eine Zwischenevaluation der Guidelines statt: Waren
+die Annotationskategorien tatsächlich speziﬁsch genug deﬁniert, um eine regelgeleitete
+Anwendung zu gewährleisten? Diese Frage lässt sich nach einer ersten Anwendungsphase
+mit größerer Genauigkeit beantworten als vor dem Annotieren. Gegebenenfalls müssen
+nach der ersten Anwendungsphase zunächst die Deﬁnitionen bzw. die Guidelines und
+daran anschließend die individuellen Annotationen überarbeitet werden. Diese Überar-
+beitung der individuellen Annotationen kann – in einzelnen Fällen sogar mehrfach –
+eine erneute Zwischenevaluation und eine darauf basierte Überarbeitungsrunde nach
+sich ziehen.
+
+7
+
+1.2 Ein Best Practice-Vorschlag
+
+Schritt 3: Vergleich der Annotationen
+Nach Abschluss der individuellen Annotation vergleichen die Annotator/innen ihre
+Arbeit. Im Fall diskrepanter Annotationen werden die jeweiligen Gründe der Annotati-
+onsentscheidung diskutiert. Je nachdem, was die Ursache für die nicht übereinstimmende
+Annotation ist, wird eine entsprechende Maßnahme zur Lösung erforderlich. Generell
+können vier Arten von Gründen für widersprüchliche Annotationen auftreten:
+a) Fehler: Eine der Annotationen basiert auf einem falschen Verständnis der fraglichen
+Textstelle oder der Kategoriedeﬁnition. In diesem Fall muss die falsche Annotation
+korrigiert werden.
+
+b) ungenaue Deﬁnition: Es ist möglich, dass der Vergleich der Annotationen wei-
+tere Deﬁzite der Kategoriedeﬁnition oﬀenbart, die im Kontext der individuellen
+Annotation und Zwischenevaluation noch nicht deutlich geworden sind. Ist dies der
+Fall, muss die Deﬁnition ein weiteres Mal überarbeitet werden. Es folgt eine weitere
+individuelle Annotationsphase, gefolgt von einem Vergleich der Annotationen.
+
+c) divergierende Voranalyse: Ein Vergleich der diskrepanten Annotationen kann
+ergeben, dass die Anwendung bestimmter Annotationskategorien vorbereitende
+Analyseschritte beinhaltet hat. Diese Schritte sind von den Annotator/innen jeweils
+implizit ausgeführt worden, da sie bislang nicht in die Annotationsroutine integriert
+wurden. Wenn diese vorbereitenden Analysen zu unterschiedlichen Ergebnissen
+führen, dann können auch die darauf aufbauenden Annotationen variieren. Ist dies
+der Fall, so müssen die für die vorbereitenden Analyseschritte notwendigen Hilfs-
+kategorien identiﬁziert und deﬁniert werden. Wenn der Projektrahmen es zulässt,
+dann sollten die Hilfskategorien annotiert werden. Die erzeugten Hilfsannotationen
+können dann ebenfalls auf ihre Richtigkeit und Übereinstimmung hin überprüft
+werden, wodurch die Hauptannotationen in der Regel deutlich einheitlicher ausfallen.
+Ist es aus arbeitsökonomischen Gründen nicht möglich, eine Voranalyse anhand
+von Hilfskategorien durchzuführen, so ist ein work around möglich: Anstatt den
+Versuch zu unternehmen, die vorbereitenden Analysen zu vereinheitlichen, können
+die Annotator/innen ihre Hauptannotationen mit Metaannotationen versehen, die
+die Ergebnisse der Voranalysen festhalten. Auf diese Weise wird nicht die Frage nach
+der Korrektheit der Voranalysen gestellt, wohl aber der Grund für die divergierenden
+Hauptannotationen explizit gemacht.3
+
+d) polyvalenter Text: Wird als Grund für eine widersprüchliche Annotation textuelle
+Mehrdeutigkeit herausgestellt, so bleiben die divergierenden Annotationen bestehen.
+Dieses Ablaufschema berücksichtigt die eingangs genannten drei Besonderheiten litera-
+rischer Annotation:
+
+• Der Möglichkeit, einen literarischen Text unterschiedlich zu deuten, wird zum
+einen durch die individuellen Annotationsphasen (Schritt 2) Rechnung getragen,
+
+3Ein Beispiel für eine solche Hilfskategorie in heureCLÉA ist das der narrativen Ebenen (siehe
+
+Unterabschnitt 2.2 „Narrative Ebenen“, S. 15).
+
+8
+
+1.2 Ein Best Practice-Vorschlag
+
+zum anderen dadurch, dass widersprüchliche Annotationen erlaubt sind, sofern sie
+durch die Polyvalenz des Textes bedingt sind (Schritt 3d). Gleichzeitig wird durch
+das Ausschließen anderer Gründe für widersprüchliche Annotationen (Schritt 3a-
+c) gewährleistet, dass unterschiedliche Deutungen auf konzeptionell belastbaren
+Annotationsentscheidungen beruhen.
+
+• Die verwendeten literaturwissenschaftlichen Annotationskategorien werden schritt-
+weise optimiert, bis sie in geeignetem Maße speziﬁziert sind (Schritte 1, 2 und 3b).
+Da dies nicht mit einer Einschränkung möglicher pluraler Perspektiven auf Texte
+einhergeht (vgl. Schritt 1), ist dies auch im Kontext der literaturwissenschaftlichen
+Textanalyse ein methodisch adäquates Verfahren.
+
+• Die implizite Abhängigkeit literaturwissenschaftlicher Kategorien untereinander
+wird schließlich – bei Bedarf und je nach verfügbaren Ressourcen – entweder in
+einem reduzierten oder in einem ausführlichen Ansatz explizit gemacht (Schritt
+3c).
+
+9
+
+2 Guidelines zur Annotation von narratologischen Phänomenen der Zeit
+
+2 Guidelines zur Annotation von narratologischen
+
+Phänomenen der Zeit
+
+2.1 Vorbemerkungen
+2.1.1 Zur Genese und zum Aufbau des Tagsets
+Das im Folgenden beschriebene Tagset zur Analyse von narratologischen Phänomenen
+der Zeit basiert ursprünglich auf dem 2011 im Rahmen des Projekts „CLÉA – Literature
+Éxploration and Annotation“ an der Universität Hamburg von Evelyn Gius und Lena
+Modrow entwickelten narratologischen Tagset. Das Tagset wurde anschließend von
+Evelyn Gius in ihrer Dissertation weiterentwickelt;4 ein Teil des Tagsets wurde von Lena
+Modrow in ihrer Dissertation verwendet.5 Die aktuelle Version, die sich auf Kategorien
+für die zeitliche narratologische Analyse beschränkt, entstand unter der Leitung von
+Evelyn Gius und Janina Jacke und der Mitarbeit von Karolin Baumann, Reza Kai
+Ghamsari, Rabea Kleymann, Nicola Meier, Venera Musina, Judith Niehaus, Nina
+Reder, Hilke Scholz, Till Weinrich und Maria Wolﬀ im Rahmen des Forschungsprojekts
+heureCLÉA, das von Januar 2013 bis Januar 2016 an der Universität Hamburg und
+der Universität Heidelberg durchgeführt und vom Bundesministerium für Bildung und
+Foschung (BMBF) gefördert wurde. Ziel des Projekts war die Entwicklung einer digitalen
+Heuristik, d.h. eines Funktionsmoduls, das automatisch semantische Phänomene in
+literarischen Texten – hier: narratologische Phänomene der Zeitgestaltung – annotiert.6
+Für die Generierung dieses Tools wurde zunächst ein Korpus literarischer Texte mithilfe
+des temporalen Tagsets kollaborativ annotiert. Basierend auf diesen Annotationen
+soll die Funktionalität dann mithilfe regelbasierter Verfahren und Machine Learning-
+Methoden entwickelt werden.
+
+Die Tags des temporalen Tagsets basieren auf etablierten narratologischen Ana-
+lysekategorien für die zeitliche Gestaltung von Erzählungen, die in der klassisch-
+strukturalistischen Tradition entwickelt wurden und in Lahns und Meisters Einfüh-
+rung in die Erzähltextanalyse (Lahn und Meister, 2013) dargestellt werden. Für die
+Operationalisierung der narratologischen Kategorien als Tags wurden die relevanten
+narratologischen Phänomene so genau wie möglich deﬁniert, d.h. in immer speziﬁ-
+schere Typen unterteilt. Die Konzepte für die Beschreibung dieser Typen ergeben ein
+hierarchisch organisiertes Instrumentarium für eine detaillierte Analyse der zeitlichen
+Gestaltung narrativer Texte. Die hierarchische Gliederung der aus narratologischer Sicht
+interessanten Konzepte für die Analyse temporaler Phänomene ist im Kontext der com-
+putergestützten Textanalyse insbesondere deshalb von Vorteil, weil die automatische
+Abfrage der Annotationen (d.h. der vergebenen Tags) auf jeder Hierarchieebene möglich
+ist. So können beispielsweise alle Textstellen, in denen Tempora der Vergangenheit
+(also Präteritum, Perfekt und Plusquamperfekt) annotiert wurden, zugleich aufgelistet
+
+4Vgl. Gius (2015)
+5Vgl. Modrow (2016)
+6Mehr Informationen zum Projekt heureCLÉA sind unter http://www.heureclea.de sowie in Bögel
+
+et al. (2015) zu ﬁnden.
+
+10
+
+2.1 Vorbemerkungen
+
+werden, indem das den drei Tags <preterite>, <perfect> und <pluperfect> übergeordnete
+Tag <past_tense> abgefragt wird.7
+
+Zusätzlich zur hierarchischen Gliederung des Tagsets besteht eine weitere Form der
+systematischen Organisation in der Möglichkeit, Tags bestimmte Properties („Eigen-
+schaften“) zuzuordnen. Diese Properties ermöglichen die Erstellung einer horizontalen
+Gliederungsebene zusätzlich zur vertikalen Gliederung durch die Taghierarchie. So kann
+unterschiedlichen Tags gleicher Hierarchieebene dieselbe Property zugeordnet werden,
+was wiederum die Abfrage erleichtert. Beispielsweise kann allen Tags der grammatischen
+Tempora (<present>, <preterite>, <perfect> usw.) die Property VERB_FORM mit den
+Werten [simple] und [progressive] zugewiesen werden. Auf diese Weise können alle
+progressiven Verbformen durch alle Tempora hindurch zugleich abgefragt werden.
+
+2.1.2 Zum Aufbau der Guidelines
+In den folgenden Kapiteln werden die einzelnen Untertagsets für die Analyse temporaler
+Phänomene in narrativen Texten beschrieben. Jeder Beschreibung ist eine kurze An-
+merkung vorangestellt, die auf systematische Abhängigkeiten der jeweils im Folgenden
+beschriebenen Phänomene von anderen narrativen Phänomenen des temporalen Tagsets
+verweist. Die Beschreibungen der Untertagsets beinhalten folgende Aspekte:
+a) Ort: Verortung des jeweiligen Untertagsets im komplexen temporalen Tagset,
+b) Operationalisierung: Darstellung der dem Unterset zugrundeliegenden narratologi-
+
+schen Kategorien,
+
+c) Tagset: graﬁsche Darstellung des Untersets,
+d) Richtlinien für die Annotation: genaue Hinweise zur Anwendung der Tags des
+
+Untertagsets und
+
+e) Überblick: Darstellung der Anwendungshinweise in einer übersichtlichen Tabelle.
+In den Abschnitten zu den Richtlinien für die Annotation ﬁnden sich Beispiele für
+die einzelnen Phänomene, die der Illustration dienen. Dort werden jeweils nur die Titel
+der Erzählungen, aus denen die Beispiele stammen, angegeben. Eine vollständige Liste
+der Beispielliteratur beﬁndet sich im Literaturverzeichnis am Ende der Guidelines.
+
+Die Beschreibung der Konzepte und die Reihenfolge der Untertagsets sind so gestaltet,
+dass die mithilfe des Tagsets generierten Annotationen intersubjektiv nachvollziehbar
+und reproduzierbar sind. Die intersubjektive Übereinstimmung soll zum einen dadurch
+erreicht werden, dass die Nutzung des Tagsets möglichst ohne eine Interpretation des
+jeweiligen Textes auskommen soll. Die für die Annotation notwendigen Informationen
+sollen sich stattdessen direkt von der Textoberﬂäche ableiten lassen, d.h. sprachlich
+
+7Zur besseren Übersicht werden Tags im Folgenden „<tag>“ geschrieben. Die im folgenden Absatz
+erläuterten zusätzlichen Ordnungsmechanismen für Tags, so genannte Properties und Werte, werden
+„PROPERTY“ bzw. „[value]“ geschrieben.
+
+11
+
+2.1 Vorbemerkungen
+
+markiert sein. Ebenso soll sich die Analyse möglichst auf die im Text enthaltenen In-
+formationen beschränken und extratextuelles Weltwissen entsprechend ausklammern.8
+Dies wurde bei der Auswahl und Operationalisierung der Analysekonzepte berück-
+sichtigt. Um eine möglichst interpretationsarme und kontextunabhängige Annotation
+zu gewährleisten, ist es deshalb sinnvoll, mit der Annotation der weniger komplexen
+Phänomene zu beginnen und danach zu den komplexeren Phänomenen fortzuschreiten.
+Mit jedem Annotationsdurchlauf steigen also sowohl der Grad der Textkenntnis als auch
+die Komplexität des analysierten Phänomens – und das für die Analyse des Phänomens
+benötigte Textwissen ist jeweils so umfassend wie nötig, ohne so umfassend zu sein, dass
+(vorschnelle) Interpretationen entstehen können. Um die Komplexität der Phänomene
+zu bestimmen, wurden diese in Bezug auf ihre Kontext- und Interpretationsabhängigkeit
+gewichtet und anschließend unter Berücksichtigung von Abhängigkeitsverhältnissen
+geordnet.
+
+• Ordnungsphänomene können nur sinnvoll innerhalb derselben ontologischen Ebene
+untersucht werden – denn Ereignisse, die in ‘unterschiedlichen Welten’ geschehen,
+können nicht auf demselben Zeitstrahl verortet werden.9
+
+• Im Kontext von Frequenzphänomenen ist es für einige Analysekategorien relevant,
+dass bestimmte Ereignisse sich so stark ähneln, dass sie tentativ als ‘das gleiche’
+Ereignis bezeichnet werden können (vgl. multi-singulatives und iteratives Er-
+zählen). Narrative Ebenen beeinﬂussen die Analyse dieser Frequenz-Phänomene
+nun insofern als Ereignisse, die nicht auf derselben ontologischen Erzählebene
+liegen, nicht als einander hinreichend ähnlich angesehen werden können, um
+für multi-singulatives oder für iteratives Erzählen in Frage zu kommen. Es ist
+allerdings durchaus möglich, dass dasselbe Ereignis im Kontext von repetitivem
+Erzählen mehrmals von verschiedenen Erzählern, die sich auf unterschiedlichen
+ontologischen Ebenen beﬁnden, erzählt wird.
+
+• Den größten Einﬂuss haben narrative Ebenen auf die Analyse der Erzähldauer.
+Denn immer, wenn neue Erzählebenen auftreten, kann die Erzählgeschwindigkeit
+in zweierlei Hinsicht gemessen werden, nämlich in Bezug auf die Geschwindigkeit
+innerhalb der neuen, sekundären Ebene und in Bezug auf den Eﬀekt auf die
+Erzählgeschwindigkeit der primären Ebene. Dabei ist der Eﬀekt auf der primären
+Ebene davon abhängig, ob die sekundäre Ebene durch die Überschreitung einer
+illokutionären Grenze oder durch die Überschreitung einer ontologischen Grenze
+entsteht, ob es sich also um einen anderen Erzähler oder aber um eine andere
+dargestellte Welt handelt. Im Falle von Erzählebenen, die einen neuen, einge-
+betteten Erzähler beinhalten, kann dies auf der primären Ebene als Darstellung
+8Zur Unterscheidung zwischen Interpretativität und Kontextabhängigkeit, siehe auch Jacke (2014,
+
+9Es kann sinnvoll sein, auch verschiedene illokutionäre Ebenen jeweils separat in Bezug auf Ord-
+nungsphänomene zu untersuchen. Denn gerade bei eingebetteten Erzählern ist es oft schwierig
+festzustellen, ob ihre Äußerungen der ﬁktiven Wahrheit entsprechen und dementsprechend als
+Aussagen über die ‘reale’ Welt der Erzählung verstanden werden müssen. Durch die gesonderte
+Analyse aller unterschiedlichen Erzählebenen können solche potentiellen Fehler vermieden werden.
+Mehr hierzu ﬁndet sich in Unterabschnitt 2.2 „Narrative Ebenen“ (S. 15).
+
+S. 130–131).
+
+12
+
+2.1 Vorbemerkungen
+
+eines Sprechakts betrachtet werden, die in den meisten Fällen zeitdeckend ist –
+nämlich immer dann, wenn der fragliche Sprechakt eins zu eins zitiert wird. Eine
+sekundäre Ebene, die eine ontologisch verschiedene Welt beinhaltet, bedeutet
+hingegen meistens eine Pause auf der primären Ebene, da das Erzählte nicht
+in der Welt der primären Ebene geschieht und es entsprechend für die primäre
+Ebene nicht ereignishaft ist.]
+
+• Eine weitere Abhängigkeit zwischen narrativen Ebenen und Dauerphänomenen
+besteht darin, dass Unterbrechungen der ‘Haupterzählung’ durch metanarrative
+Kommentare des Erzählers häuﬁg als Erzählpausen verstanden werden. Da diese
+metanarrativen Kommentare jedoch nur im Falle heterodiegetischer Erzählungen
+auf einer von der ‘Haupterzählung’ verschiedenen Erzählebene verortet sind, kann
+es sinnvoll sein, im Falle homodiegetischer Erzählungen metanarrative Elemente
+zusätzlich zu narrativen Ebenen als Hilfskategorien für die temporale Analyse zu
+annotieren.
+
+Nach der Präsentation der Hilfskategorie narrative Ebenen erfolgt in Unterabschnitt 2.3
+„Zeit“ (S. 23), die Vorstellung der zwei Unterkategorien des Zeit-Tagsets: Tempus (Un-
+terunterabschnitt 2.3.1 „Tempus“, S. 23) und Zeitausdrücke (Unterunterabschnitt 2.3.2
+„Zeitausdrücke“, S. 30). Beide Kategorien sind sehr interpretationsarm und kontex-
+tunabhängig feststellbar. In Unterabschnitt 2.4 „Zeitpunkt des Erzählens“ (S. 39)
+werden die Kategorien im Tagset zum Zeitpunkt des Erzählens beschrieben. Wir gehen
+davon aus, dass auch diese Abhängigkeiten zu anderen Kategorien aufweisen. Da sie im
+Rahmen des heureCLÉA-Projekts aber nur in Ansätzen angewendet wurden, gibt es
+dazu noch keine detaillierten Erkenntnisse. Allerdings haben wir folgende Abhängigkeit
+zu Erzählebenen festgestellt:
+
+• In bestimmten Fällen gibt es oﬀensichtlich Verknüpfungen zwischen dem Zeitpunkt
+der Vorzeitigkeit und der Kategorie der narrativen Ebenen. So gilt für Passagen,
+die auch aus Sicht des Erzählers vorzeitig sind, dass ihr ontologischer Status
+unklar ist und deswegen ein ontologischer Ebenenwechsel vorliegt.
+
+In Unterabschnitt 2.5 „Zeitliches Verhältnis zwischen discours und histoire“ (S. 47)
+werden die drei Untertagsets zum zeitlichen Verhältnis zwischen discours und histoire
+einer Erzählung vorgestellt: Ordnung (Unterunterabschnitt 2.5.1 „Ordnung“, S. 47),
+Frequenz (siehe Unterunterabschnitt 2.5.2 „Frequenz“, S. 54) und Dauer (siehe Unter-
+unterabschnitt 2.5.3 „Dauer“, S. 61). Neben den oben beschrieben Abhängigkeiten von
+narrativen Ebenen lassen sich folgende Interrelationen feststellen:
+
+• Zwischen den Zeitphänomenen (d.h. Tempus und Zeitausdrücken) und dem zeitli-
+chen Verhältnis zwischen discours und histoire bestehen Indikatorenverhältnisse:
+Sowohl Tempus als auch Angaben von Zeitpunkten können Indikatoren für die
+Ordnung sein; iterative Zeitausdrücke können Indikatoren für das Frequenz-
+Phänomen des iterativen Erzählens sein; Angaben von Zeitspannen und Beschrei-
+bungen von Geschwindigkeiten (beides Teil des Zeitausdrücke-Tagsets) können
+Indikatoren für die Erzähldauer sein.
+
+13
+
+2.1 Vorbemerkungen
+
+• Zwischen den Untertagsets zur Analyse des zeitlichen Verhältnisses zwischen
+discours und histoire bestehen folgende Abhängigkeiten: Bestimmte iterative Aus-
+drücke (Frequenz-Phänomen) können zugleich Anachronien darstellen (Ordnungs-
+Phänomen), wenn sie eine eindeutige Verweisrichtung aufweisen (z. B. „jeden
+Tag bis heute“). Außerdem sind iterative Passagen auch häuﬁg geraﬀt erzählt
+(Dauer-Phänomen).
+
+Die Darstellung der konzeptionellen Grundlagen der Untertagsets stützt sich in wei-
+ten Teilen auf Gius (2015), ebenso sind die dort bereits erarbeiteten Aspekte zur
+Annotationsroutine übernommen und um weitere erweitert worden.
+
+14
+
+2.2 Narrative Ebenen
+
+2.2 Narrative Ebenen
+Das Unterset <narrative_levels> enthält Beschreibungskategorien für die Bestimmung
+einzelner Erzählebenen in einer Erzählung.
+
+a. Ort <narrative_levels>
+Das Unterset <narrative_levels> beﬁndet sich im heureCLÉA Tagset unter: TimeTagset
+→ narrative_levels.
+
+b. Operationalisierung <narrative_levels>
+Einige temporale Phänomene in narrativen Texten können nur dann sinnvoll analy-
+siert werden, wenn dabei beachtet wird, dass diese Phänomene auf unterschiedlichen
+narrativen Ebenen vorkommen können. Sind in einem Text eingebettete Erzählun-
+gen vorhanden, die womöglich andere ﬁktive Welten zum Gegenstand haben als die
+rahmende Erzählung, so sollte beispielsweise die Analyse der temporalen Ordnung
+für diese Erzählebenen jeweils gesondert erfolgen. Aus diesem Grunde sind im Tag-
+set <narrative_levels> Beschreibungskategorien für Erzählungen operationalisiert, die
+aus mehreren Erzählebenen bestehen. Dabei beschränken sich die operationalisier-
+ten Kategorien auf solche Aspekte narrativer Ebenen, die potentiell die Analyse von
+Zeitphänomenen beeinﬂussen.
+
+Die einzelnen Erzählungen, die in einem narrativen Text vorkommen können,
+werden in Anlehnung an Schmid (2008, S. 85) bzw. Romberg (1962, S. 62) als
+<primary_narration>, <secondary_narration>, <tertiary_narration> etc. im Unterset <narrative
+_level> zusammengefasst, wobei, wie auch Schmid betont, die jeweilige Nummerie-
+rung nur der Tiefe der Einbettung geschuldet ist, aber kein Zusammenhang mit der
+Wichtigkeit der betreﬀenden Erzählung besteht (Schmid, 2008, S. 85–86).
+
+Zentral ist die Frage, anhand welcher Kategorien ein Ebenenwechsel festgestellt
+werden kann. Genette hält hierzu fest: „Was sie [die erzählte Handlung und den narra-
+tiven Akt in Prousts A la recherche du temps perdu, die Verfasserinnen] voneinander
+trennt, ist weniger ein Abstand als vielmehr eine Art Schwelle, die von der Narrati-
+on selber gebildet wird, ein Unterschied der Ebene” (Genette, 1998, S. 162) und er
+deﬁniert den Ebenenunterschied folgendermaßen: „Jedes Ereignis, von dem in einer
+Erzählung erzählt wird, liegt auf der nächsthöheren diegetischen Ebene zu der, auf
+der der hervorbringende narrative Akt dieser Erzählung angesiedelt ist” (Genette,
+1998, S. 163). Weiter unten heißt es: „Der Übergang von einer narrativen Ebene zur
+anderen kann prinzipiell nur von der Narration bewerkstelligt werden, einem Akt, der
+genau darin besteht, in einer bestimmten Situation erzählend – durch einen Diskurs –
+eine andere Situation zu vergegenwärtigen“ (Genette, 1998, S. 167). Rimmon-Kenan
+stellt für Ebenenübergänge (mit Ausnahme von Phänomenen der Transgression) fest:
+„The transition from one narrative level to another is in principle eﬀected by the act
+of narration which draws the reader’s attention to the shift” (Rimmon-Kenan, 2004,
+S. 94). Insbesondere Rimmon-Kenans Feststellung legt nahe, dass der Ebenenübergang
+in der jeweils höhergestellten Ebene durch den Erzähler angekündigt wird. Coste und
+Pier hingegen betonen weitere Aspekte: „[N]arrative levels come into play only with a
+
+15
+
+2.2 Narrative Ebenen
+
+shift of voice“ und ergänzen „which is not always taken into account by the traditional
+notions (e.g. the dream sequences introduced into Nerval’s ’Aurélie’ do not represent
+changes of level since there is no change of narrator)” (Coste und Pier, 2011, Paragraph
+7).
+
+Wenn man „voice“ im Sinne Genettes versteht, ist diese Deﬁnition allerdings nur teil-
+weise hilfreich: Die Kategorie „Stimme“ beinhaltet nach Genette „1. Zeit der Narration,
+2. narrative Ebene und 3. ‘Person’“, wobei Genette unter „Person“ die Erzählposition,
+die Funktionen der Erzählerin und den narrativen Adressaten fasst (Genette, 1998,
+S. 153, 174-188). Da narrative Ebenen nicht anhand ihrer selbst bestimmt werden kön-
+nen, bleiben aus Genettes Auﬂistung die Zeit der Narration, Erzählposition, Funktionen
+der Erzählerin und der narrative Adressat als mögliche Kategorien für die Bestimmung
+des Ebenenwechsels.10 Diese Kategorien werden aber größtenteils nicht im Rahmen
+dieses Kapitels behandelt. Zum einen liegt das daran, dass Kategorien teilweise anderen
+Konzeptbereichen zugeordnet wurden.11 Zum anderen werden die Funktionen der Er-
+zählerin aufgrund ihrer hohen Interpretationsabhängigkeit, die durch ihre Zugehörigkeit
+zu unterschiedlichen Konzeptbereichen erhöht wird, nicht berücksichtigt.12
+
+Betrachtet man neuere Beiträge zu narrativen Ebenen, werden dort noch weitere
+
+Kriterien für die Bestimmung des Ebenenwechsels entwickelt:
+
+[T]here exist several ways of organizing narrative levels including the weight
+of thematic criteria relative to the degree of prominence of the narrative
+act (Genette), the vectorization of illocutionary and ontological boundaries
+(Ryan), the combination of narrating I / narrated I with level in a typology
+of the narrator (Schmid), and the separation of levels into horizontal and
+vertical embedding (Nelles, Coste). (Coste und Pier, 2011, Paragraph, 21)
+
+Der genannte Ansatz von Schmid beschäftigt sich mit der Bestimmung der Erzähl-
+position in Kombination mit narrativen Ebenen und liefert dadurch einen Beitrag zur
+Weiterentwicklung von Genettes Systematik (Schmid, 2008, S. 85-100), allerdings wer-
+den dadurch keine neuen Kategorien für die Bestimmung von Erzählebenen eingeführt.
+Ryan hingegen führt drei Kategorien ein, um den Wechsel von Erzählebenen zu
+bestimmen: Eine neue Erzählebene ist dadurch gekennzeichnet, dass ein Erzähler-
+wechsel stattﬁndet (= Überschreitung der „illocutionary boundary“) und/oder ein
+neues semantisches System im Erzähluniversum betreten wird (= Überschreitung der
+„ontological boundary“). Jede Grenzüberschreitung kann außerdem danach speziﬁziert
+
+10Folgt man dieser Betrachtung, wäre damit die Behauptung von Lahn und Meister (2013), dass bei
+
+Schmid und Genette ein Erzählerwechsel ausschlaggebend sei, infrage gestellt.
+
+11Die Zeit der Narration wird in Unterabschnitt 2.4 „Zeitpunkt des Erzählens“ (S. 39) operationalisiert.
+12Die fünf Funktionen sind die narrative Funktion, die Regiefunktion, die Kommunikationsfunktion,
+die Beglaubigungsfunktion und die ideologische Funktion (Genette, 1998, S. 183-184). Dabei ist die
+narrative Funktion eine Art unablösbar mit dem Erzähler verbundene Grundfunktion, während die
+Regiefunktion die metanarrativen Elemente der Erzählung betriﬀt, die Kommunikationsfunktion
+die Hinwendung zum Adressaten, die Beglaubigungsfunktion Elemente der Informationsvergabe
+sowie die Darstellung mentaler Prozesse beinhaltet und die ideologische Funktion in etwa der
+ideologischen Perspektive entspricht. Der Großteil der in den Erzählerfunktionen enthaltenen
+Aspekte wird entsprechend an anderen Stellen dieser Arbeit behandelt, sie werden aber nicht in
+Bezug auf ihre Erzählerfunktion analysiert.
+
+16
+
+2.2 Narrative Ebenen
+
+werden, ob sie das Hier und Jetzt hinter der Grenze als Referenzpunkt hat oder nicht
+(= „actual crossing“ vs. „virtual crossing“). Entsprechend unterscheidet Ryan sechs
+Varianten von narrativen Grenzüberschreitungen (Ryan, 1991, S. 175–177).13
+
+Die Einteilung der Erzählebenen von Nelles (1997) nach horizontaler Einbettung (=
+zwei oder mehr Erzähler auf derselben diegetischen Ebene) und vertikaler Einbettung (=
+Wechsel der diegetischen Ebene und der Erzählerin und/oder Adressatinnen) entspricht
+in großen Teilen dem Zugang von Ryan (Coste und Pier, 2011, Paragraph 21).14
+
+Ryan führt zwar den Erzählerwechsel als Kriterium an, äußert sich aber nicht zu
+der Rolle von Erzählerinnenposition, Zeit der Narration oder Adressatinnenbezug.
+Trotzdem wird im Tagset <narrative_levels> nur Ryans Ansatz operationalisiert. Dieser
+weist nämlich eine große logische Konsistenz auf (Coste und Pier, 2011, Paragraph
+13); darüber hinaus ist die Beschränkung auf Ryans Kategorien im Hinblick auf ei-
+ne Unterscheidung zwischen Handlungssträngen und narrativen Ebenen sinnvoll.15
+Entsprechend werden die von Ryan genannten Kategorien zur Klassiﬁzierung eines
+Ebenenwechsels als Properties für die Erzählebenen operationalisiert. Für jedes Tag, das
+zur Bestimmung der narrativen Ebene genutzt werden kann (also <primary_narration>,
+<secondary_narration> etc.), werden die Properties ILLOCUTIONARY_BOUNDARY
+mit den Werten [not_crossed], [virtually_crossed] und [actually_crossed] und ON-
+TOLOGICAL_BOUNDARY mit den Werten [not_crossed], [virtually_crossed] und
+[actually_crossed] eingeführt.16 Zusätzlich stellt sich im Zusammenhang mit der Analy-
+se temporaler Phänomene die Frage, ob in einem narrativen Text einzelne, voneinander
+getrennte Ebenenüberschreitungen vorliegen können, die aber zusammengenommen als
+eine Erzählung gelten und somit auch einheitlich in Bezug auf temporale Phänomene
+analysiert werden müssen. Da so eine Zusammenordnung einzelner Ebenen nur dann
+sinnvoll ist, wenn in den einzelnen Passagen Erzähler, Adressat und erzählte Welt
+identisch sind, werden im Tagset für jede narrative Ebene die Properties SPEAKER,
+13Wenn weder eine illokutionäre noch eine ontologische Grenze überschritten werden – also zu-
+sammenhängende Sätze vom selben Sprecher in derselben Realitätsebene geäußert werden –, ist
+die Unterscheidung zwischen virtueller und tatsächlicher Grenzüberschreitung hinfällig, da kein
+Ebenenwechsel vorliegt. Damit ergeben sich aus den drei Kriterien mit jeweils zwei Werten nur
+sechs von sieben möglichen Kombinationen, die mindestens eine Grenzüberschreitung beinhalten
+(Ryan, 1991, S. 176).
+
+14Der hier gewählte Ansatz zur Deﬁnition narrativer Ebenen bringt es mit sich, dass in einigen
+Erzählungen der Haupterzählstrang als Anachronie, beispielsweise als Analepse, eingeordnet werden
+muss: Findet weder ein illokutionärer noch ein ontologischer Wechsel statt, sondern springt ein
+Erzähler lediglich in der Zeit zurück, um seine Geschichte zu erzählen, so kann die „Haupterzählung“
+nicht als neue Erzählebene betrachtet werden.
+
+15Coste und Pier weisen auf eine weitere Kategorisierungsmöglichkeit für narrative Ebenen hin: „It
+is also possible to examine the textual integration of narrative levels according to the length of
+primary and second-level narratives relative to one another, the two poles of which are the frame
+tale and mise en abyme“ (Coste und Pier, 2011, Paragraph 21). Diese weitere Möglichkeit wird im
+Tagset zwar teilweise abgebildet (durch die Tags für Rahmenerzählung und die mise en abyme),
+aber aufgrund ihrer graduellen Qualität und vergleichsweise geringen Verbreitung nicht vollständig
+operationalisiert – auch im Sinne der Anwendbarkeit des Tagsets zu den narrativen Ebenen, die
+unter der Operationalisierung von mehreren, voneinander unabhängigen theoretischen Konzepten
+leiden würde.
+
+16Von der Zusammenfassung der verschiedenen Optionen zu Ryans sechs Varianten im Sinne eines
+dadurch schnelleren Taggingprozesses wurde abgesehen, da mit den daraus resultierenden Werten
+keine alleinige Bestimmung – z. B. von ontologischen Grenzüberschreitungen – mehr möglich ist.
+
+17
+
+2.2 Narrative Ebenen
+
+ADDRESSEE und WORLD operationalisiert. Stimmen die Werte dieser Properties
+sowie der allgemeine Modus der Grenzüberschreitung (illokutionär/ontologisch) für
+mehrere Passagen überein, so gehören die Passagen zur gleichen Erzählung. Für die-
+se Properties sind keine festen Werte vorgesehen, da sie immer speziell auf den zu
+analysierenden Text zugeschnitten sein müssen. Bei kollaborativer Textarbeit sollten
+die Werte dieser Properties unter den Annotator/innen aufeinander abgestimmt bzw.
+vereinheitlicht werden.
+
+c. Tagset <narrative_levels>
+
+Abbildung 2: Tagset <narrative_levels>
+
+Anmerkung: Die Properties für das <narrative_level>-Tag sind auch für alle Tags
+niedrigerer Hierarchieebene gültig.
+
+d. Richtlinien für die Annotation von <narrative_levels>
+<primary_narration> (Erste Erzählebene)
+
+• Tagbeschreibung: Die erste Erzählebene ist die Erzählung niedrigster Stufe
+und ist in jedem narrativen Text notwendigerweise vorhanden. Im Standardfall
+gibt es nur eine erste Erzählebene pro Text, die den gesamten Text – inklusive
+alle Erzählebenen höherer Stufen – umfasst. In diesem Standardfall müssen keine
+Werte für die Tageigenschaften ILLOCUTIONARY_BOUNDARY und ONTO-
+LOGICAL_BOUNDARY sowie für SPEAKER, ADDRESSEE und WORLD
+vergeben werden. In Sonderfällen können sich Texte in mehrere Erzählungen auf
+der ersten Erzählebene aufteilen. Dies ist dann der Fall, wenn die Erzählungen
+logisch nebengeordnet sind, d.h. wenn in einem narrativen Text mehrere Erzähler
+vorkommen, ohne dass einer dieser Erzähler von einem anderen erzählt ist, oder
+wenn von mehreren ﬁktiven Welten erzählt wird, ohne dass eine dieser Welten
+ihren logischen Ursprung in einer anderen hat. In solchen Sonderfällen sollten
+
+18
+
+2.2 Narrative Ebenen
+
+die Tageigenschaften SPEAKER, ADDRESSEE und WORLD (oder zumindest
+einige dieser Eigenschaften) auch auf der ersten Erzählebene bestimmt werden.
+
+• Beispiele:
+
+– Regelfall: Im Regelfall umfasst die erste Erzählebene den gesamten Text, so
+
+beispielsweise im Text Die Kriegspfeife.
+
+– Sonderfall: In Lebensansichten des Katers Murr wechseln sich die Erzählun-
+gen des Katers Murr und die des Kapellmeisters Johannes Kreisler ab. Da
+keine der Erzählung logisch durch die andere hervorgebracht wurde, handelt
+es sich bei beiden Erzählungen um eine Erzählebene erster Stufe; diese Ebe-
+nen dürfen jedoch nicht zusammengeordnet werden, da sie unterschiedliche
+Erzähler haben.
+
+<secondary_narration>, <tertiary_narration> usw. (Zweite Erzählebene, dritte
+Erzählebene usw.)
+
+• Tagbeschreibung: Ein Ebenenwechsel auf eine höhere Erzählebene liegt im
+Fall eines Erzählerwechsels (illokutionäre Ebenenüberschreitung) oder eines Wel-
+tenwechsels (ontologische Ebenenüberschreitung) vor. Hat der Wechsel seinen
+Ausgang auf der Ebene der ersten Erzählebene, so wird die jeweilige Passage
+mit dem Tag <secondary_narration> versehen; hat er seinen Ausgang auf zweiten
+Erzählebene, so stellt die jeweilige Passage eine dritte Erzählebene dar usw.
+Dabei gilt generell: Niedrigere Ebenen enden nicht, wenn eine höhere Erzählebene
+beginnt, sondern umfassen diese. Für die Art des Ebenenwechsels sowie für die
+Kategorisierung der jeweiligen Erzählung wurden die Tageigenschaften ILLOCU-
+TIONARY_BOUNDARY und ONTOLOGICAL_BOUNDARY einerseits sowie
+SPEAKER, ADDRESSEE und WORLD andererseits operationalisiert.
+
+– ILLOCUTIONARY_BOUNDARY und ONTOLOGICAL_BOUNDARY:
+Um angeben zu können, welche Art der Ebenenüberschreitung für eine zweite
+oder dritte Erzählebene etc. vorliegt, kann angegeben werden, ob und in
+welcher Weise ein Erzähler- oder ein Weltenwechsel vorliegt. Dabei muss im-
+mer mindestens einer dieser beiden Wechsel vorhanden sein, aber es können
+auch beide zugleich vorliegen. Sowohl ein Erzähler- als auch ein Welten-
+wechsel kann entweder virtuell ([virtually_crossed]) oder aber tatsächlich
+([actually_crossed]) erfolgen. Während bei einem tatsächlichen Wechsel die
+(in Kürze näher erläuterte) jeweils gegebene Schwelle überschritten wird,
+liegt bei einem virtuellen Wechsel keine Überschreitung im eigentlichen Sinne
+vor.
+
+∗ ILLOCUTIONARY_BOUNDARY: Eine illokutionäre Grenze gilt
+als überschritten, wenn ein Erzählerwechsel vorliegt. Erzählerwechsel
+können in Form von Rede oder Gedanken von Figuren vorkommen.
+Dabei gelten jedoch nur zitierte und transponierte (Gedanken-)Rede
+als Erzählerwechsel, nicht aber erzählte (Gedanken-)Rede. Bei zitierter
+(Gedanken-)Rede liegt eine tatsächliche Grenzüberschreitung ([actual-
+ly_crossed]) vor, da tatsächlich und im eigentlichen Sinne einer anderen
+
+19
+
+2.2 Narrative Ebenen
+
+Figur das Wort übergeben wird. Bei transponierter (Gedanken-)Rede
+liegt eine virtuelle Grenzüberschreitung ([virtually_crossed]) vor, da
+weiterhin die Worte des gleichen Erzählers verwendet werden, um die
+Rede einer anderen Figur wiederzugeben. Zu beachten ist, dass auch
+der Wechsel vom erzählenden Ich zum erlebenden Ich als Erzähler (in
+homodiegetischen Erzählungen in vorzeitig oder nachzeitig erzählten
+Passagen) eine illokutionäre Ebenenüberschreitung darstellt. Wissen
+oder Meinen stellt nur dann eine illokutionäre Ebenenüberschreitung
+(Gedankenrede) dar, wenn das Wissen oder die Meinung tatsächlich
+versprachlicht ist.
+
+∗ ONTOLOGICAL_BOUNDARY: Eine ontologische Grenze gilt als
+überschritten, wenn von einer anderen Welt oder Realität als derjenigen,
+die als „wirkliche“ Welt der Erzählung gilt, berichtet wird. Dabei kann
+es sich um komplett neue Fiktionen handeln, aber auch um Träume,
+Wünsche, Vermutungen oder Phantasien von Figuren. Wird nach einem
+solchen ontologischen Wechsel so erzählt, als sei die Welt, von der
+berichtet wird, die neue Realität der Erzählung („man geht durch eine
+Tür in eine andere Welt“), so liegt eine tatsächliche Grenzüberschreitung
+([actually_crossed]) vor. Bleibt dagegen deutlich, dass die erzählte Welt
+in der Erzählung nicht-real ist („man schaut durch ein Fenster in eine
+andere Welt“), liegt eine virtuelle Grenzüberschreitung vor.
+
+– SPEAKER, ADDRESSE und WORLD: Um angeben zu können, wel-
+che einzelnen Instanzen von Ebenenüberschreitungen für die weitere Analyse
+zu einer Erzählung zusammengeordnet werden müssen, werden Werte für die
+Properties SPEAKER, ADDRESSEE und WORLD vergeben. Genau dann,
+wenn alle dieser Werte für zwei oder mehr Instanzen der Ebenenüberschrei-
+tung identisch sind, müssen diese zu einer Erzählung zusammengeordnet
+werden. In der Regel werden diese Eigenschaften nur für Erzählungen ab
+der zweiten Erzählebene vergeben.
+
+∗ SPEAKER: Für diese Property wird als Wert der Name oder eine
+andere Kennzeichnung des Erzählers dieser Erzählung vergeben. Handelt
+es sich bei dem Gesamttext um eine homodiegetische Erzählung, ist es
+sinnvoll, bei der Vergabe dieser Eigenschaft zwischen erzählendem und
+erlebendem Ich zu diﬀerenzieren.
+Immer, wenn nur eine ontologische Grenzüberschreitung vorliegt, werden
+Sprecher und Adressat von der darunterliegenden Ebene übernommen.
+Bei kollaborativer Arbeit sollte die Benennung der Erzähler aufeinander
+abgestimmt werden.
+
+∗ ADDRESSEE: Für diese Property wird als Wert der Name oder eine
+andere Kennzeichnung des Adressaten der Erzählung vergeben. Wenn
+eine Gruppe von Figuren angesprochen wird, kann ein Gruppenname
+vergeben werden. Wenn eine Figur aus einer Gruppe angesprochen
+wird, aber unklar ist, wer genau, kann [Jemand aus [Gruppenname]]
+
+20
+
+2.2 Narrative Ebenen
+
+als Propertywert vergeben werden. Wenn nicht ganz klar ist, wer ange-
+sprochen ist, aber eine bestimmte Möglichkeit wahrscheinlich ist, wird
+[roughly_speciﬁed] zusammen mit einem Figurennamen vergeben (wenn
+wahrscheinlich diese Figur angesprochen wurde) oder zusammen mit
+einem Gruppennamen (wenn wahrscheinlich diese Gruppe angesprochen
+wurde). Wenn irgendjemand angesprochen wird, es aber völlig unklar
+ist, wer, wird lediglich der Wert [roughly_speciﬁed] vergeben. Wenn
+niemand angesprochen wird, wird [undeﬁned] vergeben. Letzteres ist
+beispielsweise in der Regel bei Gedankenrede der Fall.
+Immer, wenn nur eine ontologische Grenzüberschreitung vorliegt, werden
+Sprecher und Adressat von der darunterliegenden Ebene übernommen.
+Bei kollaborativer Arbeit sollte die Benennung der Adressaten aufein-
+ander abgestimmt werden.
+
+∗ WORLD: Für diese Property wird als Wert eine Kennzeichnung der
+Welt, von der die Erzählung handelt, vergeben. Immer, wenn nur eine
+illokutionäre Grenzüberschreitung vorliegt, wird die Welt von der dar-
+unterliegenden Ebene übernommen. Bei kollaborativer Arbeit sollte die
+Benennung der Welt aufeinander abgestimmt werden.
+
+• Beispiele:
+
+– <secondary_narration> + ILLOCUTIONARY_BOUNDARY [actually_crossed]:
+„»Ich war krank!« sagte Matteo leise.“ (Matteo) ->SPEAKER [Matteo],
+ADDRESSEE [Dame], WORLD [reale Textwelt]
+
+– <secondary_narration> + ILLOCUTIONARY_BOUNDARY [virtually_crossed]:
+„Am nächsten Morgen erzählte uns Frau von B., daß sie geträumt habe, der
+schöne Armenier läge schlafend auf einer Bank, und sie wußte, daß er eine
+Brieftasche mit Banknoten in der Brusttasche trug.“ (Das polierte Männchen)
+->SPEAKER [Frau von B.], ADDRESSEE [Gruppe der Freunde], WORLD
+[reale Textwelt]
+
+– <tertiary_narration> + ONTOLOGICAL_BOUNDARY [virtually_crossed]: „Am
+nächsten Morgen erzählte uns Frau von B., daß sie geträumt habe, der
+schöne Armenier läge schlafend auf einer Bank, und sie wußte, daß er eine
+Brieftasche mit Banknoten in der Brusttasche trug.“ (Das polierte Männ-
+chen) ->SPEAKER [Frau von B.], ADDRESSEE [Gruppe der Freunde],
+WORLD [Traumwelt von Frau von B.]
+
+21
+
+2.2 Narrative Ebenen
+
+e. Überblick <narrative_levels>
+Tagstring
+
+Unmarkierter Fall
+
+• Textabschnitte bzw. der gesamte Text (letzteres im
+
+Falle der ersten Erzählebene).
+
+• %
+
+– Hinweis: Anführungszeichen (bei zitierter Re-
+de) und verba dicendi (bei transponierter Re-
+de) gehören immer zur niedrigeren Ebene.
+
+Indikatoren auf der Textoberﬂäche
+
+• für illokutionäre Ebenenüberschreitungen: (Gedanken-)Rede
+• für ontologische Grenzüberschreitungen: Konjunktive
+
+Tagging-Routine
+
+1. Auszeichnung der gesamten Erzählung mit <primary_narration>-Tag.
+2. Bestimmung der vorliegenden Grenzüberschreitung zur darunterliegen-
+den Ebene durch die Vergabe der Propertywerte von ILLOCUTIONA-
+RY_BOUNDARY und/oder ONTOLOGICAL_BOUNDARY.
+
+3. Bestimmung der Werte für die Tageigenschaften SPEAKER, ADRESSEE
+
+und WORLD.
+
+Beispiele
+
+• <secondary_narration> + ILLOCUTIONARY_BOUNDARY [actual-
+ly_crossed]: „‘Ich war krank!’ sagte Matteo leise.“ (Matteo) → SPEAKER
+[Matteo], ADDRESSEE [Dame], WORLD [reale Textwelt]
+• <secondary_narration> + ILLOCUTIONARY_BOUNDARY [virtual-
+ly_crossed]: „Am nächsten Morgen erzählte uns Frau von B., daß sie
+geträumt habe, der schöne Armenier läge schlafend auf einer Bank, und sie
+wußte, daß er eine Brieftasche mit Banknoten in der Brusttasche trug.“ (Das
+polierte Männchen) → SPEAKER [Frau von B.], ADDRESSEE [Gruppe der
+Freunde], WORLD [reale Textwelt]
+• <tertiary_narration> + ONTOLOGICAL_BOUNDARY [virtually_crossed]:
+„Am nächsten Morgen erzählte uns Frau von B., daß sie geträumt habe, der
+schöne Armenier läge schlafend auf einer Bank, und sie wußte, daß er eine
+Brieftasche mit Banknoten in der Brusttasche trug.“ (Das polierte Männchen)
+→ SPEAKER [Frau von B.], ADDRESSEE [Gruppe der Freunde], WORLD
+[Traumwelt von Frau von B.]
+
+22
+
+2.3 Zeit
+
+2.3 Zeit
+Das Tagset <time> enthält Kategorien für die Beschreibung von Zeit auf der Ebene der
+Geschichte bzw. histoire, die Grundlage für eine weitere Analyse von Erzähltexten sind.
+Es ist in zwei Untersets zur Annotation von Tempus (<tenses>) und Zeitausdrücken
+(<dates>) aufgeteilt.
+
+2.3.1 Tempus
+a. Ort <tenses>
+Das Unterset <tenses> zum Taggen von grammatischem und semantischem Tempus
+beﬁndet sich im heureCLÉA Tagset unter: TimeTagset → time → tenses. Es enthält die
+Kategorien <grammatical_tense>, das, einzeln unterteilt, die grammatischen Tempora der
+Gegenwart, der Vergangenheit und der Zukunft abbildet. Außerdem sind die Kategorien
+<undefined> und <change_tense> enthalten.
+
+b. Operationalisierung <tenses>
+Ausgangspunkt der Erarbeitung des <tenses>-Tagsets war der Ansatz von Patricia
+Hallstein zur Untersuchung von Zeitstrukturen in (ﬁktionalen) narrativen Texten (Hall-
+stein, 1997). Hallstein beschäftigt sich u.a. mit der linguistischen Analyse temporaler
+Bedeutungen und ergänzt unter Rückgriﬀ auf Steube (1980) die „drei Zeitstufen Vergan-
+genheit, Gegenwart, Zukunft“ um „die semantischen Tempora Vergangenheit, aktuelle
+Gegenwart und Zukunft“ (Hallstein, 1997, S. 76). Außerdem stellt sie fest, dass „jede
+grammatische Tempusform mehrere der semantischen Tempora ausdrücken kann“
+(Hallstein, 1997, S. 77). Während Steube das Zeitintervall des geäußerten Sachverhalts
+im Verhältnis zum Sprechzeitpunkt bzw. der Sprechergegenwart als ausschlaggebend
+betrachtet, folgert Hallstein aus ihren Analysen: „Der Sprechzeitpunkt muss also nicht
+immer maßgeblich für die Wahl der Tempusform und ihre Bedeutung sein“ und fordert
+darüber hinaus, dass „der Sprechzeitpunkt linguistischer Analysen der temporalen
+Bedeutung [. . . ] für die Analyse von Erzähltexten zumindest in die beiden Bezugs-
+punkte des absoluten und des aktuellen Erzählzeitpunkts aufgespalten werden [muss]“
+(Hallstein, 1997, S. 79, 81). Das von Hallstein entwickelte System zur Beschreibung
+der temporalen Bedeutung in Erzähltexten wurde bei der Erarbeitung des Untertag-
+sets <tenses> berücksichtigt, wobei darauf geachtet wurde, die Operationalisierung
+so zu gestalten, dass (1) theoretisch strittige Aspekte nicht vordeﬁniert sind,17 (2)
+
+17Dazu zählt die zeitliche Bedeutung des präsens historicum, für die Hallstein entgegen der gängigen
+Auﬀassung feststellt: „Das sogenannte präsens historicum sollte [. . . ] meiner Ansicht nach nicht als
+Präsensform mit Vergangenheitsbedeutung beschrieben werden“. Ebenso wird das bereits genannte
+epische Präteritum in der Literaturwissenschaft im Hinblick auf seine temporale Bedeutung vielfach
+diskutiert, der erste viel beachtete Beitrag dazu ist die Rezension von Klaus Weimar zu Hamburgers
+„Logik der Dichtung“ Weimar (1974). Diese – und andere – Diskussionen können und sollen im
+Rahmen der Operationalisierung des Tagsets nicht entschieden werden. Vielmehr wird abhängig
+von der entsprechenden Diskussion ein geeignetes Beschreibungsinventar zur Verfügung gestellt.
+So wird das präsens historicum als Tag zwar in die Liste der Präsensfunktionen aufgenommen,
+aber dort nicht als grammatische Gegenwart und semantische Vergangenheit vorbestimmt. Das
+epische Präteritum hingegen wird nicht als eigenes Tag eingeführt, da der Begriﬀ zu umstritten ist.
+
+23
+
+2.3 Zeit
+
+alle möglichen Varianten der temporalen Bedeutung von Tempora annotiert werden
+können und gleichzeitig (3) auch theoretisch weniger ausdiﬀerenzierte Analysen möglich
+sind. Entsprechend wurde von Hallstein bzw. Steube die Einteilung der semantischen
+Tempora übernommen und um die Möglichkeit der atemporalen Bedeutung ergänzt.
+Dadurch, dass die Bestimmung des semantischen Tempus in der Tag-Eigenschaft SE-
+MANTIC_MEANING operationalisiert wurde, sind alle Kombinationsmöglichkeiten
+von grammatischem und semantischem Tempus im Tagset abgedeckt.
+
+c. Tagset <tenses>
+
+Abbildung 3: Tagset <tenses>
+
+Anmerkung: Die Properties für das <grammatical_tense>-Tag sind auch für alle Tags
+niedrigerer Hierarchieebenen gültig.
+
+d. Richtlinien für die Annotation <tenses>
+<grammatical_tense> (grammatisches Tempus)
+
+• Tagbeschreibung: Die jeweiligen Tags für grammatische Tempora (<present>,
+<past>, <future>) sowie deren Untertags werden je nach vorliegendem Tem-
+pus vergeben. Dabei werden nur solche Sätze oder Teilsätze annotiert, die ein
+vollständiges Prädikat im Indikativ enthalten. Dazu gehören auch Fragesätze.
+
+Dennoch kann eine grammatische Vergangenheitsform, die eine gegenwärtige Bedeutung hat, im
+Tagset mit der Kombination <past> (bzw. <preterite> oder <perfect>) und [present_meaning]
+beschrieben werden.
+
+24
+
+2.3 Zeit
+
+• Tagstring: Der Tagstring reicht normalerweise jeweils bis zur nächsten Kon-
+junktion oder Interpunktion (Ausnahme s.u.). Konjunktionen werden jeweils dem
+folgenden Teilsatz zugeordnet; Interpunktion wird nicht mitgetaggt.
+
+• Sonderregeln: Wenn ein Satz mit vollständigem Prädikat im Indikativ durch
+einen oder mehrere Einschübe der Form „[Komma] [mindestens ein Wort] [Kom-
+ma]“ unterbrochen wird, so dass nur in einem Teil das Prädikat vorkommt,
+markiert das erste Komma des Einschubs nicht das Ende des Tagstrings. Hier
+wird der durch den Einschub unterbrochene Satz dem Sinn entsprechend (auch
+mehrfach) diskontinuierlich getaggt. Dabei wird vor dem folgenden Teil jeweils
+das Leerzeichen mitgenommen.
+Auch bei Aufzählungen (d.h. durch Kommata gereihte Ausdrücke der gleichen
+Wortklasse(n)) markieren Kommata nicht das Ende des Tagstrings, sondern
+werden mitgetaggt.
+Sollte wörtliche Rede durch eine eingeschobene Inquitformel diskontinuierlich
+getaggt werden müssen und kein Leerzeichen vor dem folgenden Teil vorhanden
+sein, wird auf dieses verzichtet. Fehlt aber durch die eingeschobene Inquitformel
+im ersten Teil am Ende ein Komma, welches zwingend stehen müsste, wird nicht
+diskontinuierlich getaggt. Die Einschübe, die innerhalb eines diskontinuierlich
+getaggten Satzes liegen, werden einzeln annotiert.
+
+• Beispiele:
+
+– <present>: „denn in jedem Augenblicke vergesse ich es“ (Der Pokal)
+– <preterite>: „Wir saßen in einer kleinen orientalischen Stadt“ (Das polierte
+
+Männchen)
+
+– <perfect>: „Auch hier im Hause bin ich viel gewesen“ (Der Pokal)
+– <future>: „und der Sommer wird nicht zurückkehren“ (Der Tod)
+– <preterite> diskontinuierlich: „Der Jägerrock, vermutlich ein Überrest aus
+der vergangenen Herrlichkeit des letzten Dienstes, trug die Spuren einer im
+nassen Straßengraben zugebrachten Nacht.“ (Krambambuli)
+
+– <perfect> diskontinuierlich mit wörtlicher Rede: „»Haben Sie denn«, fragte
+er zögernd, »das kluge Auge des alten Mannes nicht bemerkt, der Ihnen
+gegenüberstand?«“ (Veronika)
+
+<undefined>
+
+• Tagbeschreibung: Mit einem <undefined>-Tag werden Sätze oder Teilsätze im
+Imperativ oder Konjunktiv versehen sowie Interjektionen und Sätze mit fehlendem
+oder unvollständigem Prädikat.
+Auch bei bei Sätzen, in denen die ﬁnite Form des Hilfsverbs zur Bildung des
+Tempus fehlt, sowie bei Sätzen, die zwei Partizipien zu einem Hilfsverb enthalten,
+und für alleinstehende Prädikatssuﬃxe, die in einem anderen Teilsatz stehen
+als das dazugehörige konjugierte Verb, wird für den Teil des unvollständigen
+Prädikats <undefined> als Tag vergeben.
+
+25
+
+2.3 Zeit
+
+• Tagstring: <undefined>-Passagen werden immer als Block mit annotiert, der erst
+dann endet, wenn das nächste <grammatical_tense>-Tag vergeben wird. Inner-
+halb dieser Passagen wird auch Interpunktion mitgetaggt. <undefined> wird nie
+diskontinuierlich verwendet.
+
+• Beispiele:
+
+– Inﬁnitiv mit „zu“: „Versuchen Sie mal, einen zum Zahlen zu kriegen.“ (Die
+
+Mutter eines Schwulen)
+
+– Konjunktiv: „Ich würde auch nicht einen Heller von dir nehmen.“ (Die Mutter
+
+eines Schwulen)
+
+– Konjunktiv/Satzabbruch: „[. . . ] . . . als könnten ihre stillen Seelen leise zu
+
+wimmern anfangen.“ (Blumen)
+
+– Interjektion: „Ach nein!“ (Der Tod)
+– ]Partiziplose Frage: „Wofür?“ (Die Mutter eines Schwulen)
+– Partiziploser Satz: „Schnee, hoher, weißer Schnee auf allen Straßen.“ (Blu-
+
+men)
+
+– Partiziploser Satzabbruch: „[. . . ] – der öﬀentliche Schindanger und deine
+
+leibliche Mutter.“ (Die Mutter eines Schwulen)
+
+<change_tense> (Tempuswechsel)
+
+• Tagbeschreibung: Das <change_tense>-Tag wird vergeben, wenn ein Tempus-
+wechsel vorliegt, der nicht semantisch (d.h. durch eine veränderte Zeitlichkeit auf
+der Ebene der histoire) motiviert ist.
+
+• Tagstring: Das <change_tense>-Tag umfasst jeweils die beiden Sätze bzw. Teil-
+
+sätze, zwischen denen ein semantisch unmotivierter Tempuswechsel vorliegt.
+
+• Beispiel:
+
+– „Dann ist sie, ohne ein Wort zu reden, bis zu meinem Schreibtisch gekommen
+und hat die Blumen vor mich hingelegt. Und in der nächsten Sekunde greift
+sie nach den verwelkten im grünen Glas. Mir war, als griﬀe man mir ins
+Herz; [. . . ]“ (Blumen)
+
+SEMANTIC_MEANING (Semantisches Tempus)
+
+• Propertybeschreibung: Die Property SEMANTIC_MEANING wird dann für
+eine Taginstanz des grammatischen Tempus bestimmt, wenn die semantische
+Bedeutung des Tempus von der verwendeten grammatikalischen Form abweicht.
+• Indikatoren: Für das semantische Tempus gibt es keine Indikatoren, die sich
+direkt am Text ausmachen lassen, da jede grammatische Tempusform mehrere
+
+26
+
+2.3 Zeit
+
+der semantischen Tempora ausdrücken kann.18
+
+• Beispiel:
+
+– SEMANTIC_MEANING [perfect]: „Dann ist sie, ohne ein Wort zu reden, bis
+zu meinem Schreibtisch gekommen und hat die Blumen vor mich hingelegt.
+Und in der nächsten Sekunde greift sie nach den verwelkten im grünen
+Glas.“ (Blumen)
+
+VERB_FORM (Verbform)
+
+• Propertybeschreibung: Die Property VERB_FORM mit den Werten [simple]
+und [progressive] dient der Bestimmung der Verbform in Sprachen, die einen
+Progressiv besitzen (z. B. Englisch), um den Grad der Abgeschlossenheit der
+Handlung bestimmen zu können.
+
+• Beispiele:
+
+– VERB_FORM [simple]:„The party goes on“ (Crevasse)
+– VERB_FORM [progressive]:„The captain, the subaltern and the sergeant
+
+[. . . ] are poring over a soiled map.“ (Crevasse)
+
+PRESENT_FUNCTIONS (Präsensfunktionen)
+
+• Propertybeschreibung: Die Werte unter PRESENT_FUNCTION werden
+immer dann zusätzlich zum <present>-Tag vergeben, wenn die Verwendung des
+grammatischen Präsens einer der unten aufgeführten Funktionen dient.
+
+– Das Erzählerpräsens ([narrator_present]) beschreibt den durch die Präsens-
+verwendung hergestellten Bezug zum Hier und Jetzt des Erzählers, z. B.
+Vorgänge aus der unmittelbaren Umgebung, die während des Erzählens
+stattﬁnden, oder den Akt des Erzählens selbst.
+
+– Mit gnomischem bzw. generischem Präsens ([generic_present]) werden all-
+gemeine Reﬂexionen des Erzählers beschrieben. In diesen Fällen wird das
+„Ich“ durch Passivkonstruktionen „es wird“ oder „man“ ersetzt. Dadurch
+erreicht der Sprecher, dass die entsprechenden Textstellen als unpersönlich
+und allgemein gültig wahrgenommen werden. Damit wenden sich diese Stel-
+len „gleichsam aus der Erzählung heraus“ an ihre Leserschaft (Lahn und
+Meister, 2013, S. 152).
+
+18Die Erarbeitung von Indikatoren für die semantischen Tempora ist im Gegensatz zu grammatischen
+Tempusformen äußerst schwierig. Ein semantisches Tempus lässt sich zwar nach (Hallstein, 1997,
+S. 75-82) im Hinblick auf das Verhältnis zwischen absolutem Erzählzeitpunkt und Ereigniszeit
+erschließen, deshalb kann diese Beziehung auch formalisiert beschrieben werden, aber trotzdem
+gilt – zumindest über die Betrachtung eines einzelnen Textes hinaus: „Leider lassen sich diese
+Zuordnungen nicht direkt am Text ausmachen, da jede grammatische Tempusform mehrere der
+semantischen Tempora ausdrücken kann. So muß jeweils neu entschieden werden, in welcher
+Bedeutung eine grammatische Tempusform im Text verwendet wird“ (Hallstein, 1997, S. 77).
+
+27
+
+2.3 Zeit
+
+– Das tabularische Präsens ([tabular_present]) steht für Beschreibungen eines
+statischen Zustands im Präsens. Da bei Lahn und Meister (2013) aber
+nichts über den notwendigen Grad an Statik eines Zustands gesagt wird,
+werden Beschreibungen von Lebensumständen oder anderen über längere
+Zeit andauernden Zuständen unter das tabularische Präsens eingeordnet.
+Das dramatische bzw. historische Präsens ([historic_present]) benennt die
+Hervorhebung von Handlungssequenzen durch das Präsens, die meist aus
+Gründen der Rezeptionslenkung oder Spannungserzeugung erfolgt.
+
+– Das synoptische bzw. reproduzierende Präsens ([reproducing_present]) liegt
+vor, wenn Inhaltsangaben am Kapitelanfang, die das (im Folgenden) Erzählte
+zusammenfassen, im Präsens stehen.
+
+• Indikatoren (Bedingungsstatus: (N) = notwendig, (H) = hinreichend):
+– [narrator_present]; Inhalt: das Hier und Jetzt des Erzählers (N) Textsignale:
+räumliche und zeitliche Deiktika, die auf die Ich-Origo des Erzählers weisen
+(H).
+
+– [generic_present]; Inhalt: allgemeine Reﬂexionen, allgemein Gültiges bzw.
+Überlegungen zu Bedingungen der menschlichen Existenz (N) ⇒ Textsignale:
+unpersöhnliche Formulierungen (H).
+
+– [tabular_present]; Inhalt: Beschreibung eines Zustands, der vermutlich über
+eine längere Zeit andauert bzw. von der beschreibenden Person als über
+längere Zeit andauernd eingeschätzt wird (N).
+
+– [historic_present]; Inhalt: etwas besonders Wichtiges oder Spannendes (N)
+⇒ Textsignale: Formulierungen, die eine abrupte Veränderung signalisieren,
+z. B. „plötzlich“ (H).
+
+– [reproducing_present]; Inhalt: Zusammenfassung des Geschehens im Kapitel
+
+am Kapitelanfang (N).
+
+• Beispiele:
+
+– PRESENT_FUNCTION [narrator_present]: „Da säß’ ich denn glücklich
+wieder hinter meinem Pulte, um dir meinen Reisebericht abzustatten.“ (Auch
+ich war in Arkadien) 19
+
+– PRESENT_FUNCTION [generic_present]: „Das ist das Schlimmste, was
+man auf Spanisch sagen kann, um einen Menschen zu beleidigen.“ (Die
+Mutter eines Schwulen)
+
+– PRESENT_FUNCTION [tabular_present]: „Sie ist eine gute Begleiterin,
+die schweigt und manchmal nur groß und liebevoll die Augen zu mir empor-
+schlägt.“ (Der Tod); „Das Meer ist grau und still, und ein feiner, trauriger
+Regen geht hernieder.“ (Der Tod)
+
+– PRESENT_FUNCTION [historic_present]: „Dann ist sie, ohne ein Wort
+zu reden, bis zu meinem Schreibtisch gekommen und hat die Blumen vor
+
+19Die unterstrichene Stelle entspricht einem <retrospective_narrating>-Tag.
+
+28
+
+2.3 Zeit
+
+mich hingelegt. und in der nächsten Sekunde greift sie nach den verwelkten
+im grünen Glas. Mir war, als griﬀe man mir ins Herz; [. . . ]“ (Blumen)
+
+e. Überblick <tenses>
+Tagstring
+
+• Länge des Tagstrings
+
+Unmarkierter Fall
+
+• %
+
+– Ausnahme: <undefined> (gesamte Textpassa-
+ge inkl. interner Interpunktion) und Tempus-
+wechsel (zwei Teilsätze inklusive verbindender
+Interpunktion oder Konjunktion)
+
+• Endmarker des Tagstrings: Tagstring endet jeweils
+
+vor nächster Interpunktion oder Konjunktion].
+
+– Ausnahme: diskontinuierliche Sätze (Satz
+mit vollständigem Prädikat im Indikativ wird
+durch einen oder mehrere Einschübe der Form
+„[Komma] [mindestens ein Wort] [Komma]“
+unterbrochen) und Aufzählungen – hier mar-
+kiert Interpunktion nicht das Ende.
+
+Indikatoren auf der Textoberﬂäche
+
+Verb
+
+• <grammatical_tense>: %
+• <undefined>: Imperative, Konjunktive, Interjektionen, (Teil-)Sätze ohne ﬁnites
+• <change_tense>: %
+• SEMANTIC_MEANING: %
+• VERB_FORM: %
+• Präsensfunktionen.
+
+– [narrator_present]: räumliche und zeitliche Deiktika, die auf die Ich-
+
+Origo des Erzählers weisen].
+
+– [generic_present]: unpersönliche Formulierungen.
+– [tabular_present]: %.
+– [historic_present]: Formulierungen, die eine abrupte Veränderung si-
+
+gnalisieren, z. B. „plötzlich“].
+
+– [reproducing_present]: %
+
+29
+
+2.3 Zeit
+
+Tagging-Routine
+
+1. <grammatical_tense>: Teilsätze im Indikativ mit vollständigem Prädikat je
+nach Tempus des Prädikats taggen. Beiordnende Konjunktionen werden dabei
+immer dem zweiten Satz zugeordnet. Bei Teilsätzen, die durch einen Einschub
+unterbrochen sind, wird der unterbrochene Satz diskontinuierlich getaggt.
+
+2. <undefined>: Alle übriggebliebenen Teilsätze und Satzteile (im Konjunktiv
+oder Imperativ, Interjektionen, Sätze mit unvollständigem Prädikat) werden
+jeweils im Block als <undefined> getaggt.
+
+3. <change_tense>: Annotation möglicher semantisch nicht motivierter Tempus-
+
+4. SEMANTIC_MEANING: Bestimmung des semantischen Tempus als Proper-
+
+wechsel
+
+tywert, wo möglich.]
+
+5. VERB_FORM: Bestimmung der Verbform als Propertywert, wo möglich.
+6. PRESENT_FUNCTION: Zuweisung von Präsensfunktionen zusätzlich zum
+
+<present>-Tag, wo möglich.]
+
+Beispiele
+
+Stadt“ (Das polierte Männchen)
+
+eines Schwulen), „Ach nein!“ (Der Tod)
+
+• grammatisches Tempus (<preterite>): „Wir saßen in einer kleinen orientalischen
+• <undefined>: „Ich würde auch nicht einen Heller von dir nehmen.“ (Die Mutter
+• <change_tense>: „Dann ist sie, ohne ein Wort zu reden, bis zu meinem Schreib-
+tisch gekommen und hat die Blumen vor mich hingelegt. und in der nächsten
+Sekunde greift sie nach den verwelkten im grünen Glas. Mir war, als griﬀe
+man mir ins Herz; [. . . ]“ (Blumen)
+• PRESENT_FUNCTION ([tabular_present]): „Sie ist eine gute Begleiterin, die
+schweigt und manchmal nur groß und liebevoll die Augen zu mir emporschlägt.“
+(Der Tod)
+
+2.3.2 Zeitausdrücke
+Das Tagset für <dates> ist in zwei Untersets zur Annotation von expliziten Zeitaus-
+drücken (<explicit_time_representation>) und impliziten Zeitausdrücken (<implicit_time_representation>)
+aufgeteilt.
+
+Explizite Zeitausdrücke
+a. Ort <explicit_time_representation>
+
+Das Unterset <explicit_time_representation> zum Taggen von Zeitausdrücken be-
+ﬁndet sich im heureCLÉA Tagset unter: TimeTagset → time → dates → expli-
+cit_time_representation.
+
+30
+
+2.3 Zeit
+
+b. Operationalisierung <explicit_time_representation>
+
+Die Operationalisierung im Unterset <explicit_time_representation> basiert auf fol-
+genden von Lahn und Meister (2013) aufgeführten Kategorien von expliziten Zeit-
+angaben, die für die Rekonstruktion der zeitlichen Konﬁguration einer Geschichte
+genutzt werden können:
+
+• Kalendarische Zeitangaben: Dazu zählen konkrete vollständige Zeitangaben
+(z. B. 16. Juni 1904), konkrete unvollständige Zeitangaben (z. B. Januar 1945)
+und unkonkrete Zeitangaben (z. B. „Fliederduft“ oder „Frühjahrsregen“).
+
+• Adverbien der Zeit: Dazu zählen deiktische Ausdrücke aus der Figurenperspek-
+tive („heute“) und anaphorische Ausdrücke aus der Erzählerperspektive („am
+selben Tag“).
+
+• Relationale Zeitangaben: Dazu gehören Angaben, die zwei Zeitpunkte zueinan-
+der in Beziehung setzen („zehn Jahre später“, „vor vielen Jahren“, „abends“)
+oder eine Frequenzbeziehung ausdrücken („jeden Montag“, „donnerstags“).
+
+Für die Operationalisierung der expliziten Zeitangaben im Tagset erfolgen Ergän-
+zungen zur Verweisrichtung.
+
+c. Tagset <explicit_time_representation>
+
+Abbildung 4: Untertagset <explicit_time_representation>
+
+d. Richtlinien für die Annotation von <explicit_time_representation>
+
+Allgemein geltende Richtlinien
+
+• Tagbeschreibung allgemein: Als explizite Zeitangaben gelten Ausdrücke,
+die direkt auf eine der folgenden Fragen antworten: Wann? (Zeitpunkte), Wie
+lange? (Zeitspannen), Wie oft? (Frequenzausdrücke), Wie schnell? (Indikatoren
+der Dauer).
+
+31
+
+2.3 Zeit
+
+• Sonderregeln allgemein:
+
+– Sollte sich ein expliziter Zeitausdruck aus mehreren kleineren expliziten
+Zeitausdrücken zusammensetzen, wird jeweils nur der umfassendste dieser
+Ausdrücke annotiert.
+
+– Explizite Zeitausdrücke werden nur bei einem existierenden Zeitbezug
+getaggt. Das bedeutet, dass nicht jeder Ausdruck, der mit zeitlicher Be-
+deutung genutzt werden kann, tatsächlich zeitlich gebraucht wird. Viele
+Zeitausdrücke können auch kausal, adversativ oder adverbial gebraucht
+werden. Ist das der Fall, werden sie nicht annotiert.
+
+– Adverbien, die zu einem expliziten Zeitausdruck gehören, werden mitanno-
+
+tiert.
+
+Richtlinien für einzelne Tags oder Untersets
+<time_point> (Zeitpunkte)
+
+• Tagbeschreibung: Mit <time_point> werden Zeitangaben annotiert, die sich
+auf ein Ereignis beziehen bzw. auf einen Zeitpunkt, zu dem ein Ereignis statt-
+ﬁndet. Meist handelt es sich dabei um adverbiale Bestimmungen der Zeit oder
+um temporale Konjunktionen. Als Zeitpunkte gelten Datums- und Uhrzeitan-
+gaben, die entweder vollständig oder unvollständig sein können, sowie vagere
+Angaben von Zeitpunkten, bei denen konkrete Datums- und Uhrzeitnennungen
+fehlen. Außerdem kann ein Zeitpunkt in Relation zu einem Ereignis angegeben
+werden; dies entweder im Rahmen adverbialer Bestimmungen der Zeit oder in
+Form temporaler Nebensätze. Alle diese Formen von Zeitausdrücken werden
+unterschiedslos mit dem Tag <time_point> versehen. Relationale Zeitpunkte
+können zudem als deiktische und anaphorische Ausdrücke vorkommen. Da diese
+Eigenschaften von Zeitpunkten möglicherweise von besonderem Interesse sind,
+können diese Arten von Zeitpunkten gesondert mit den Tags <deix_time_point>
+und <anaphoric_time_point> versehen werden.
+
+– Deiktische und anaphorische Ausdrücke:20 Deiktische Zeitpunkte
+(<deix_time_point>) lassen sich nur unter Kenntnis ihres Äußerungszeit-
+punkt bestimmen. Anaphorische Zeitpunkte (<anaphoric_time_point>) las-
+sen sich nur unter Kenntnis des intratextuellen Bezuges feststellen. Als
+anaphorisch werden nur solche Ausdrücke annotiert, bei denen ihr Zeige-
+Charakter eindeutig versprachlicht ist.
+
+• Tagstring: Annotiert wird immer die gesamte Wortgruppe, aus der der Zeit-
+ausdruck besteht, d.h. die Wortgruppe, die auf die Frage „Wann?“ antwortet.
+Eine Ausnahme stellen temporale Nebensätze dar. Hier wird nur die temporale
+Konjunktion annotiert.
+
+20Da das Vorkommen von deiktischen und anaphorischen Ausdrücken zum einen potenziell von
+besonderer narratologischer Relevanz ist und sich zum anderen eine eindeutige Abgrenzung dieser
+Ausdrücke von anderen Zeitangaben vornehmen lässt, bietet das Tagset die Möglichkeit, diese
+Formen von Zeitpunkten gesondert auszuzeichnen.
+
+32
+
+2.3 Zeit
+
+• Beispiele:
+
+– <time_point>: „Den 22. Juli 1848, vor 6 Uhr morgens, [. . . ]“ (Reiterge-
+schichte), „Den 10. September“ (Der Tod), „Es fehlten noch drei Minuten
+an fünf.“ (Ein Nachmittag), „[. . . ], und gegen zehn Uhr abends [. . . ].“
+(Die Schutzimpfung), „eines Tages“, „abends“ (Das polierte Männchen),
+„irgendwann“, „als er mir den Speisezettel reichte“ (Auch ich war in Arka-
+dien), „nach dem Tode“ (Krambambuli)
+
+– <deix_time_point>: „jetzt“
+– <anaphoric_time_point>: „danach“
+
+<time_span> (Zeitspannen)
+
+• Tagbeschreibung: Zeitspannen liegen dann vor, wenn ein Zustand zwischen
+zwei Zeitpunkten, die zueinander in Beziehung gesetzt sind, beschrieben wird.
+Dies kann entweder über die Angabe von Zeitpunkten geschehen, wenn Start-
+und/oder Endpunkt einer Zeitspanne genannt werden, oder über die Angabe
+der Zeitdauer, die zwischen Start- und Endpunkt liegt. Wird mit der Anga-
+be von Zeitpunkten operiert, dann bestehen für die Angabe von Start- und
+Endpunkten grundsätzlich die gleichen Möglichkeiten wie für die Angabe von
+Zeitpunkten. Wird nur die Zeitdauer selbst angegeben, kann entweder mit
+genauen oder mit ungenauen Angaben operiert werden oder es kann eine Zeit-
+spanne mit einem Ereignis in Relation gesetzt werden. Alle diese Formen von
+Zeitausdrücken werden unterschiedslos mit dem Tag <time_span> versehen.
+Relationale Zeitpunkte, die dazu dienen, Zeitspannen anzugeben, können zudem
+als deiktische und anaphorische Ausdrücke vorkommen. Da diese Eigenschaf-
+ten von Zeitspannen möglicherweise von besonderem Interesse sind, können
+diese Arten von Zeitspannen gesondert mit den Tags <deix_time_span> und
+<anaphoric_time_span> versehen werden.
+
+– Deiktische und anaphorische Ausdrücke: Zeitspannen sind dann
+deiktisch oder anaphorisch, wenn es sich bei ihren genannten Anfangs- oder
+Endpunkten um deiktische oder anaphorische Zeitpunkte handelt. Deikti-
+sche Zeitpunkte lassen sich nur unter Kenntnis ihres Äußerungszeitpunkt
+bestimmen. Ist ein solcher Zeitausdruck Teil einer Zeitspannenangabe, wird
+<deix_time_span> vergeben. Anaphorische Zeitpunkte lassen sich nur
+unter Kenntnis des intratextuellen Bezuges feststellen. Als anaphorisch
+werden nur solche Ausdrücke annotiert, bei denen ihr Zeige-Charakter
+eindeutig versprachlicht ist. Ist ein solcher Zeitausdruck Teil einer Zeit-
+spannenangabe, wird <anaphoric_time_span> vergeben.
+
+• Tagstring: Annotiert wird immer die gesamte Wortgruppe, aus der der Zeitaus-
+druck besteht, d.h. die Wortgruppe, die auf die Frage „Wie lange?“ antwortet.
+Eine Ausnahme stellen Zeitspannen dar, deren Anfang oder Ende durch tem-
+porale Nebensätze angegeben werden. Hier wird nur die nebensatzeinleitende
+Konjunktion annotiert.
+
+33
+
+2.3 Zeit
+
+• Beispiele:
+
+– <time_span>: „Vom dritten bis zum sechsten Mai 1901“, „von Anfang bis
+Ende“ (Auch ich war in Arkadien), „seit jener Stunde“ (Veronika), „bis zu
+Erich’s Rückkehr“ (Lili), „bis tief in die Nacht“ (Die Liebe ist gerettet),
+„eine Stunde lang“ (Nervosipopel), „drei Wochen lang“, „für kurze Zeit“,
+„während sie hier auf und ab wandelte“ (Veronika)
+– <deix_time_span>: „von gestern bis heute Morgen“]
+– <anaphoric_time_span>: „bis zum darauﬀolgenden Tag“
+
+<iterative_expression> (Iterative Ausdrücke)
+
+• Tagbeschreibung: <iterative_expression> sind adverbiale Bestimmungen der
+Zeit, die Frequenzbeziehungen bezeichnen – sie geben an, wie oft ein Ereignis
+stattﬁndet. Diese Angaben können in ihrer Genauigkeit variieren.
+
+• Tagstring: Annotiert wird immer die gesamte Wortgruppe, aus der der Zeit-
+ausdruck besteht, d.h. die Wortgruppe, die auf die Frage „Wie oft?“ antwortet.
+
+• Beispiele:]
+
+– „oft“, „stets“, „donnerstags“, „jeden Monat“, „immer“, „nie“
+
+<indicator_of_duration> (Indikatoren der Dauer)
+
+• Tagbeschreibung: Indikatoren der Dauer sind (Kombinationen aus) Adver-
+bien oder Adjektive, die angeben, mit welcher Geschwindigkeit ein Ereignis
+geschieht.
+
+• Tagstring: Annotiert wird das Wort oder die gesamte Wortgruppe, aus der
+der Zeitausdruck besteht, d.h. die Wortgruppe, die auf die Frage „Wie schnell?“
+antwortet.
+• Beispiele:
+
+– „schnell“, „sehr langsam“, „allmählich“
+
+34
+
+Unmarkierter Fall
+%
+
+2.3 Zeit
+
+e. Überblick <explicit_time_representation>
+
+Tagstring
+
+• Länge des Tagstrings: Wortgruppe, die auf die zeit-
+
+ausdruckspeziﬁsche Frage antwortet.
+
+– Ausnahme: temporale Nebensätze – hier
+wird nur die temporale Konjunktion anno-
+tiert.
+
+– Ausnahme: aus expliziten Zeitausdrücken
+zusammengesetzte Zeitausdrücke – hier wird
+nur der umfassendste Ausdruck annotiert.
+
+Indikatoren auf der Textoberﬂäche
+%
+Tagging-Routine
+
+1. Annotation von Ausdrücken, die auf eine der oben genannten Fragen ant-
+
+worten, entsprechend ihrer jeweiligen Kategorie.
+
+2. Zusätzliche Annotation.
+
+Beispiele
+
+Aufstehen“, „während“, „heute“, „am darauﬀolgenden Tag“
+
+• <time_point>: „am 23. Mai 1995“, „Weihnachten“, „am Abend“, „vor dem
+• <time_span>: „vom 20. bis zum 25. Mai“, „von abends bis morgens“, „seit
+• <iterative_expression>: „fünfmal“, „zum zehnten Mal“, „sehr oft“, „hin und
+• <indicator_of_duration>: „schnell“, „nur allmählich“
+
+heute Morgen“, „fünf Tage lang“, „nicht sehr lange“
+
+wieder“, „immer“, „nie“]
+
+Implizite Zeitausdrücke
+a. Ort <implicit_time_representation>
+
+Das Unterset <implicit_time_representation> zum Taggen von Zeitausdrücken be-
+ﬁndet sich im heureCLÉA Tagset unter: TimeTagset → time → dates → impli-
+cit_time_representation.
+
+b. Operationalisierung <implicit_time_representation>
+
+Für die Operationalisierung der Zeitangaben im Tagset erfolgt eine Erweiterung
+in Anlehnung an de Toro. De Toro führt Zeitangaben – neben den Genetteschen
+Kategorien Ordnung, Dauer und Frequenz – als Aspekt der Zeitbehandlung ein
+und unterscheidet zwischen punktueller und nicht punktueller Zeitkonkretisation:
+„Unter punktueller Zeitkonkretisation wird hier die genaue, fast chronometrische
+zeitliche Fixierung eines Ereignisses verstanden, unter nichtpunktueller dessen vage,
+
+35
+
+2.3 Zeit
+
+metaphorische Situierung“ (de Toro, 1986, S. 49).21 Die nicht-punktuelle Zeitkon-
+kretisation unterscheidet de Toro weiter in explizite und implizite nicht-punktuelle
+Zeitkonkretisation. Diese Unterscheidung sowie seine Kategorien der impliziten
+Zeitkonkretisationen werden in das Tagset übernommen.
+Entsprechend wird das Untertagset <dates> in explizite und implizite Zeitangaben
+(<explicit_time_representation> und <implicit_time_ representation>) unterteilt.
+
+c. Tagset <dates>: <implicit_time_representation>
+
+Abbildung 5: Untertagset <implicit_time_representation>
+
+d. Richtlinien für die Annotation von <dates>: <implicit_time_representation>
+
+Allgemein geltende Richtlinien
+
+• Tagbeschreibung allgemein: Implizite Zeitausdrücke antworten nicht expli-
+zit auf die Fragen „Wann?“, „Wie lange?“, „Wie oft?“, „Wie schnell?“, sondern
+geben nur Hinweise, die für derartige Fragen relevant sein könnten. Diese Hin-
+weise können durch jahreszeitliche Anspielungen verwirklicht werden oder durch
+implizite Hinweise darauf, dass Zeit vergeht. Auch das Nennen gesellschaftlicher
+Veränderungen oder der Verweis auf allgemeine zeitrelevante Ereignisse kann
+als impliziter Zeitausdruck gewertet werden.
+
+• Sonderregeln allgemein: Bei impliziten Zeitausdrücken ist es im Gegensatz
+zu expliziten Zeitausdrücken möglich, einen Zeitausdruck mehrfach mit Tags
+aus derselben Kategorie zu annotieren, da implizite Zeitausdrücke vollständig
+21An der Formulierung „fast chronometrische zeitliche Fixierung“ sieht man bereits, dass die Un-
+terscheidung zwischen punktueller und nicht-punktueller Zeitkonkretisation nicht trennscharf ist.
+Deshalb wird sie nicht als eigene Kategorie ins Tagset aufgenommen. Die Zeitangaben, die eine
+„vage, metaphorische Situierung“ im Sinne de Toros darstellen, können im Tagset über andere
+operationalisierte Kategorien abgebildet werden. Implizite nicht-punktuelle Zeitangaben wie „X
+hatte schöne schwarze Haare, jetzt ist sie grau“ wurden in der Kategorie implizite Zeitangaben
+(<implicit_time_representation>) als <time_passing> klassiﬁziert und explizite nichtpunktuelle
+Zeitangaben wie „mehrere Wochen“ oder „zwanzig Jahre lang“ können in der Kategorie explizite
+Zeitangaben (<explicit_time_representation>) als <time_span> annotiert werden (vgl. die fol-
+genden Ausführungen im Fließtext zu den einzelnen Kategorien; Beispiele für einige Zeitangaben
+aus de Toro (1986, S. 50).
+
+36
+
+2.3 Zeit
+
+analysiert werden sollen. So werden alle Facetten einer impliziten Zeitangabe
+erfasst.
+Auch ist es möglich, dass implizite Zeitausdrücke einen expliziten Zeitausdruck
+enthalten. In solchen Fällen werden beide Typen annotiert.
+
+Richtlinien für einzelne Tags oder Untersets
+<seasonal_time>
+
+• Tagbeschreibung: Mit <seasonal_time> werden die Zeitangaben getaggt, in
+denen die Zeit durch die Nennung von Jahreszeiten oder Wetter bestimmt wird.
+• Tagstring: Annotiert wird der Teilsatz, in dem die implizite Zeitangabe vor-
+
+kommt.
+
+• Beispiele:
+
+– „Schnee, hoher weißer Schnee auf allen Straßen.“ (Blumen)
+– „Es war ein sonniger Julitag.“ (Nervosipopel)
+– „[. . . ] obwohl es dunkel ist, spät und Herbst.“ (Die Turnstunde)
+
+• Tagbeschreibung: Das <time_passing>-Tag wird für Angaben vergeben, die
+
+das Vergehen von Zeit implizieren.
+
+• Tagstring: Annotiert wird der Teilsatz, in dem die implizite Zeitangabe vor-
+
+<time_passing>
+
+kommt.
+
+• Beispiele:
+
+– „[. . . ] der Zeiger rückt, und die Lampe [. . . ] wird bald verlöschen.“ (Der
+
+Tod)
+
+– „[. . . ] da meine Haare grau und meine Knie schlottrig geworden, [. . . ]“
+
+(Die Schutzimpfung)
+
+<progression-related_time>
+
+• Tagbeschreibung: <progression-related_time> bezeichnet Zeitangaben, deren
+Zeit durch gesamtgesellschaftliche, zumeist generationsbedingte Veränderungen,
+beschrieben wird, die Bereiche wie Zeitgeist, Mode, technische Weiterentwick-
+lungen und Moral betreﬀen.
+
+• Tagstring: Annotiert wird der Teilsatz, in dem die implizite Zeitangabe vor-
+
+kommt.
+
+• Beispiele
+
+– „’Looks like one of those things the Canadians had. A Ross. Right?’
+
+’French,’ the captain says; ’1914.’“ (Crevasse)
+
+– „Der Jägerrock, vermutlich ein Überrest aus der vergangenen Herrlichkeit
+
+des letzten Dienstes, [. . . ]“ (Krambambuli)
+
+37
+
+2.3 Zeit
+
+<event-related_time>
+
+• Tagbeschreibung: Mit <event-related_time> werden schließlich Zeitangaben
+
+annotiert, die sich auf bestimmte Ereignisse beziehen.
+
+• Tagstring: Annotiert wird der Teilsatz, in dem die implizite Zeitangabe vor-
+
+kommt.
+
+• Beispiele:
+
+– „Der Tag des Durchmarsches kam [. . . ]“ (Die Kriegspfeife)
+– „Unter dem Geläute der Mittagsglocken [. . . ]“ (Reitergeschichte)
+
+e. Überblick <dates>: <implicit_time_representation>
+
+Tagstring
+
+• Teilsatz,
+kommt.
+
+in dem die implizite Zeitangabe vor-
+
+• %
+
+Unmarkierter Fall
+
+Indikatoren auf der Textoberﬂäche
+
+• %
+
+Tagging-Routine
+
+1. Annotation von impliziten Ausdrücken gemäß der Unterkategorien.
+
+Beispiele
+
+schen.“ (Der Tod)
+
+• <seasonal_time>: „Es war ein sonniger Julitag.“ (Nervosipopel)
+• <time_passing>: „[. . . ] der Zeiger rückt, und die Lampe [. . . ] wird bald verlö-
+• <progression-related_time>: „Der Jägerrock, vermutlich ein Überrest aus der
+• <event-related_time>: „Der Tag des Durchmarsches kam [. . . ]“ (Die Kriegs-
+
+vergangenen Herrlichkeit des letzten Dienstes, [. . . ]“ (Krambambuli)
+
+pfeife)
+
+38
+
+2.4 Zeitpunkt des Erzählens
+
+2.4 Zeitpunkt des Erzählens
+Das Tagset <relation_narrator–event_time> enthält Kategorien zur Bestimmung des
+zeitlichen Verhältnisses des Erzählers zur Geschehenszeit.
+
+a. Ort <relation_narrator–event_time>
+Das Tagset beﬁndet sich im heureCLÉA Tagset unter: TimeTagset → relation_narrator–
+event_time. Es beinhaltet die Kategorie <overall_relation>, mit der das generelle Verhält-
+nis des Erzählers zur Geschehenszeit annotiert wird. Hier sind die Tags <retrospective_
+narration>, <simultaneous_narration> und <anterior_narration> enthalten. Für die Ana-
+lyse des Verhältnisses zwischen Erzähler und Geschehenszeit in einzelnen Textpassa-
+gen existiert die Kategorie <passage_relation> mit den Tags <retrospective_narrating>,
+<simultaneous_narrating> und <anterior_narrating>.
+
+b. Operationalisierung <relation_narrator–event_time>
+Der Zeitpunkt des Erzählens wird anhand der zeitlogischen Bestimmung des Ver-
+hältnisses von Erzähler und Geschehenszeitpunkt festgestellt. In den meisten Fällen
+wird die Haupthandlung eines Erzähltextes rückblickend (retrospektiv) erzählt, es gibt
+jedoch auch Erzählungen, die gleichzeitig (simultan) oder vorausschauend (prospektiv)
+erzählt werden. Im Tagset zum Zeitpunkt des Erzählens werden diese drei grund-
+sätzlich möglichen Zeitpunkte des Erzählens in den zwei Kategorien <overall_relation>
+und <passage_relation> operationalisiert. Da in Erzähltexten für die gesamte Erzäh-
+lung ein Verhältnis des Erzählers zur Geschehenszeit geltend gemacht werden kann,
+wird die Kategorie <overall_relation> eingeführt. In ihr werden auch die von Lahn
+und Meister vorgeschlagenen genaueren Klassiﬁkationen des retrospektiven Erzählens,
+d. h. die Frage nach der Abgeschlossenheit des Geschehens zum Zeitpunkt der Er-
+zählung und die Frage, ob echtes retrospektives Erzählen vorliegt Lahn und Meister
+(2013, S. 92-94), operationalisiert, weil diese sich nicht für einzelne Textabschnit-
+te bestimmen lassen. Für die Bestimmung der Abgeschlossenheit stehen unter der
+Property RETROSPECTIVE_TYPE die Werte [intercalated_narration] und [comple-
+ted_retrospective_narration] zur Verfügung. Die Frage, ob echtes retrospektivisches
+Erzählen vorliegt, ist deshalb hilfreich, weil das retrospektive Erzählen der Regelfall in
+ﬁktionalen Erzählungen ist.22 Mithilfe der Property RETROSPECTIVE_ACTUALITY
+
+22Die Beobachtungen Käte Hamburgers, zur Wahl des Präteritums als Genrekonvention ohne temporale
+Bedeutung in der Heterodiegese im Gegensatz zu seiner temporalen Bedeutung in homodiegetischen
+Erzählungen (Lahn und Meister, 2013, S. 92) und die von Lubomír Doležel beobachteten ähnlichen
+Unterschiede im Tempusgebrauch in „Ich“- und „Er“-Erzählungen, die Margolin folgendermaßen
+zusammenfasst: „Next [in ﬁrst person narration] is the use of all three major tenses, especially of
+the present tense, to indicate the current communicative transaction relative to which all narrated
+events are temporally ordered. In pure third-person past-tense narration, on the other hand,
+the past tense is not related to any particular speech situation, but is more aspectual, merely
+indicative of the narrated events already having taken place” (Margolin, 2012, Paragraph 17).
+Diese Beobachtungen ﬂießen hier nicht in die Operationalisierung mit ein, da Kategorien zur
+Bestimmung des – grammatischen wie auch semantischen – Tempus im Untertagset <tenses>
+(siehe Unterunterabschnitt 2.3.1 „Tempus“, S. 23) abgebildet wurden. Dessen Tags können für die
+Bestimmung und Überprüfung solcher Zusammenhänge herangezogen werden.
+
+39
+
+2.4 Zeitpunkt des Erzählens
+
+ist es möglich, die Fälle des echten retrospektiven Erzählens zu annotieren, die zu-
+meist in heterodiegetischen Erzählungen auftreten. Da, nach Lahn und Meister, echtes
+retrospektives Erzählen entweder als solches markiert oder aber auf eine zeitliche
+Isotopie zurückzuführen ist (Lahn und Meister, 2013, S. 92-93), werden diese beiden
+Möglichkeiten als Werte [marked_retrospect] und [temporal_isotopy] implementiert –
+zusätzlich zum Wert [undeﬁned], der für Fälle vorgesehen ist, in denen die Echtheit der
+retrospektiven Erzählung nicht festgestellt werden kann.
+
+Neben der Klassiﬁkation des Gesamtverhältnisses zwischen Erzähler und Geschehens-
+zeit kann dieses Verhältnis detaillierter für einzelne Textpassagen bestimmt werden.
+Deshalb werden im Rahmen der Kategorie <passage_relation> auch für einzelne Passagen
+Tags für die jeweilig möglichen Zeitpunkte des Erzählens operationalisiert. Für einzelne
+Passagen, die prospektiv erzählt sind, kann in bestimmten Fällen zwischen ﬁguraler,
+narratorialer und vollständiger Vorzeitigkeit unterschieden werden, weshalb das Tag
+<anterior_narrating> in Anlehnung an (Lahn und Meister, 2013, S. 95–96) die Tag-
+Eigenschaft ANTERIORITY_STANDPOINT mit den Werten [complete_anteriority],
+[ﬁgural_anteriority] und [narratorial_anteriority] enthält.
+
+c. Tagset <relation_narrator—event_time>
+
+Abbildung 6: Tagset <relation_narrator—event_time>
+
+d. Richtlinien für die Annotation von <relation_narrator—event_time>
+Allgemein geltende Richtlinien
+
+Die grundsätzliche Deﬁnition der drei möglichen Zeitpunkte des Erzählens stimmt
+für die Kategorien <overall_relation> und <passage_relation> überein. Unterschiede in der
+genauen Bestimmung existieren nur im Vergleich der Tags <retrospective_narration> und
+<retrospective_narrating> sowie bei <anterior_narration> und <anterior_narrating>.
+
+40
+
+2.4 Zeitpunkt des Erzählens
+
+• Tagstring allgemein: Für alle Tags der <overall_narration> wird der gesamte Text
+annotiert. Für alle Tags der <passage_relation> werden Textpassagen (mindestens
+Teilsätze) annotiert.
+
+• Sonderfälle allgemein: Einen Sonderfall für die Bestimmung des Verhältnisses
+des Erzählers zur Geschehenszeit in einzelnen Textpassagen stellt das iterative
+Erzählen dar.23 Diese Passagen können entweder als <simultaneous_narrating> oder
+<retrospective_narrating> annotiert werden. Ausschlaggebend ist dafür die jeweilige
+Interpretation des Präsens:
+
+– Wird das Präsens als Indikator dafür interpretiert, dass ein bis zu diesem
+Zeitpunkt der Erzählung stattgefundener länger andauernder Zustand be-
+schrieben wird, der auch nach dem Zeitpunkt der Erzählung noch länger
+andauert, liegt die Einordnung der Passage als simultan erzählt nahe.
+
+– Sieht man das Präsens hingegen eher als Indikator für die Iterativität der
+bis zu diesem Zeitpunkt der Erzählung schon abgeschlossenen iterativen
+Ereignisse, ist das retrospektive Erzählen plausibler.24
+
+Richtlinien für einzelne Tags oder Untersets
+<retrospective_narration> (Retrospektives Erzählen als <overall_relation>)
+• Tagbeschreibung: Retrospektives Erzählen liegt dann vor, wenn die erzählten
+
+Ereignisse vor dem Zeitpunkt des Erzählens stattgefunden haben.
+
+– RETROSPECTIVE_TYPE: Mithilfe der Property RETROSPECTI-
+VE_TYPE kann genauer bestimmt werden, inwiefern das erzählte Ge-
+schehen bei Erzählbeginn bereits abgeschlossen ist. Diese Property wird
+allerdings nur dann bestimmt, wenn im Text eindeutige Hinweise darüber
+zu ﬁnden sind, inwieweit das Geschehen abgeschlossen ist. Der Wert [com-
+pleted_retrospective_narration] wird vergeben, wenn sich die Ereignisse vor
+Erzählbeginn zugetragen haben, also ein abgeschlossenes Geschehen wie z. B.
+in ﬁktiven Memoiren dargestellt wird. Der Wert [intercalated_narration]
+wird bei nicht-abgeschlossenem Geschehen vergeben. Dabei werden Ge-
+schehen, die sich während des Erzählvorgangs weiter entwickeln, durch
+eingeschobenes Erzählen erzählt (z. B. in Tagebuchromanen).
+
+– RETROSPECTIVE_ACTUALITY: Mit der Property RETROSPEC-
+TIVE_ACTUALITY sollen die Fälle des echten retrospektiven Erzählens
+identiﬁziert werden, die zumeist in heterodiegetischen Erzählungen auftreten.
+Echtes retrospektives Erzählen ist entweder als solches markiert oder aber
+auf eine zeitliche Isotopie zurückzuführen. Daher sollen je nach vorliegen-
+dem Fall die Werte [marked_retrospect] oder [temporal_isotopy] vergeben
+werden. [marked_retrospect] wird bei sogenannter markierter Vorzeitigkeit
+
+23Iteratives Erzählen wird im Unterset <frequency> des <timerelation_discours–histoire>-Tagsets,
+
+Tags (vgl. Unterunterabschnitt 2.5.1 „Ordnung“, S. 47).
+
+mit dem <iterative>-Tag annotiert (vgl. Unterunterabschnitt 2.5.2 „Frequenz“, S. 54).
+
+24Die Abgeschlossenheit der iterativen Ereignisse ist kein Indikator für die Vergabe eines <analepsis>-
+
+41
+
+2.4 Zeitpunkt des Erzählens
+
+als Wert annotiert. Diese liegt vor, wenn ein heterodiegetischer Erzähler eine
+Geschichte erzählt, die vor seiner Zeit, aber in seiner Welt geschehen ist.
+[temporal_isotopy] wird hingegen als Wert vergeben, wenn ein – zumindest
+vermeintlich – heterodiegetischer Erzähler suggeriert, dass zwischen dem
+Zeitpunkt des Geschehens und dem Zeitpunkt des Erzählens eine zeitliche
+Kontinuität besteht. In so einem Fall einer zeitlichen Isotopie erzählt der
+Erzähler eine Geschichte, die zu seiner Zeit und in seiner Welt geschehen ist,
+spart sich aber als erlebendes Ich aus.25 Da die beiden Konzepte des echten
+retrospektiven Erzählens nicht trennscharf sind, sollen sie beim exempla-
+rischen Taggen auf ihre Anwendbarkeit bzw. ihren Nutzen hin überprüft
+werden.26 Kann nicht festgestellt werden, inwieweit es sich um eine echte
+retrospektive Erzählung handelt, so wird der Wert [undeﬁned] vergeben.
+
+• Indikator: Präteritum
+• Beispiele:
+
+– <retrospective_narration>+ [completed_retrospective_narration]:
+
+„Manchmal muß ich wieder jener stillen Tage gedenken, die mir sind wie ein
+wundersames, glücklich verbrachtes Leben, [. . . ]“ (Traumland. Eine Episo-
+de.); „Vor allem aber möchte ich von vornherein den Vorwurf zurückweisen,
+als wollte ich mich meiner Übeltaten aus vergangenen Zeiten rühmen, jenes
+Leichtsinnes, den ich heute aus tiefster Seele bereue und zu dessen Betäti-
+gung mir jetzt, da meine Haare grau und meine Knie schlottrig geworden,
+weder Lust noch Fähigkeit mehr geblieben sind.“ (Die Schutzimpfung)
+
+25Dadurch, dass der Erzähler eigentlich Teil der erzählten Welt ist, auch wenn er nicht als Figur
+auftritt, stellt sich die Frage, ob es sich um einen homodiegetischen oder einen heterodiegetischen
+Erzähler handelt (Lahn und Meister, 2013, S. 93)
+
+26Lahn und Meister gehen bei markierter Vorzeitigkeit im Gegensatz zur zeitlichen Isotopie zwar von
+eindeutig heterodiegetischen Erzählern aus, die zudem meist inkludiert, also Erzähler auf einer
+eingebetteten Erzählebene sind (Lahn und Meister, 2013, S. 92-93), aber aufgrund ihrer Deﬁnition
+der markierten Vorzeitigkeit und der zeitlichen Isotopie werden die Unterschiede zwischen den
+beiden Konzepten dennoch nicht deutlich: Bei markierter Vorzeitigkeit gilt für den explizit als
+heterodiegetisch bezeichneten Erzähler, dass ”[er] eine Geschichte erzählen [kann], die sich zwar
+in seiner Welt, aber vor seiner Zeit zugetragen hat“. Im Fall zeitlicher Isotopie dagegen gilt: „Der
+Erzähler ist hier strenggenommen Teil der erzählten Welt, tritt aber in ihr nicht als Figur auf.
+Er ist also eine Art ’Ich-Erzähler’, der sein erlebendes Ich ausspart“ (Lahn und Meister, 2013,
+S. 93) Weiterhin besteht „zwischen dem Geschehen und dem Zeitpunkt des Diskurses eine zeitliche
+Kontinuität“ (Lahn und Meister, 2013, S. 92-93) Da eine zeitliche Kontinuität aber meist mit einer
+räumlichen Kontinuität einhergeht, müsste für beide Erzähler gelten, dass sie Teil der erzählten
+Welt sind, ohne Teil der Geschichte zu sein. (So auch im Beispiel von Lahn und Meister für eine
+zeitliche Isotopie, dem Anfang des Romans Tom Jones. Geschichte eines Findlings von Henry
+Fielding: „In dem westlichen Teil unseres Königreichs, der gemeinhin Somersetshire heißt, lebte vor
+nicht langer Zeit und lebt vielleicht noch heute ein Gentleman namens Allworthy“.) Der einzige
+Unterschied zwischen den Beispielen für die beiden Fälle des echten retrospektiven Erzählens
+besteht darin, dass Hauke Haien aus Theodor Storms Der Schimmelreiter zum Zeitpunkt der
+Erzählung des Schulmeisters nicht mehr lebt, während Allworthy aus Tom Jones zum Zeitpunkt des
+Erzählens eventuell noch lebt, aber die Geschichte, in der er eine Rolle spielt, bereits abgeschlossen
+ist. Dies erscheint jedoch nicht ein ausreichend gewichtiges Unterscheidungskriterium zu sein, um
+beide Konzepte aufrecht zu erhalten. Deshalb wird ihr Nutzen bei der exemplarischen Anwendung
+des Tagsets überprüft werden.
+
+42
+
+2.4 Zeitpunkt des Erzählens
+
+– <retrospective_narration>+ [intercalated_narration]: „Da bin ich nun
+den ganzen Nachmittag in den Straßen herumspaziert, auf die stiller weißer
+Schnee langsam herunterschwebte,– und bin nun zu Hause, [. . . ]“ (Blumen);
+„Nun ist der Herbst da, und der Sommer wird nicht zurückkehren; niemals
+werde ich ihn wiedersehen . . . [. . . ] Als ich das heute morgen sah, habe ich
+vom Sommer Abschied genommen und den Herbst begrüßt, [. . . ]“ (Der Tod)
+– <real_retrospective_narration>+ [temporal_isotopy]: „Da säß ich denn
+glücklich wieder hinter meinem Pulte, um dir meinen Reisebericht abzu-
+statten.“ (Auch ich war in Arkadien); „Damals gab es keine breiten Straßen
+und Gassen, keine kühlen, vornehmen Leute in dem stillen Winkel; unsere
+Nachbarn, welche da lebten, schlossen sich lustig aneinander, halfen ein-
+ander, zankten miteinander, vertrauten einander. [. . . ]Vorne am Ende des
+Flures wohnte der dicke Nachbar Krippelmacher und Türe an Türe sein
+Nachbar, der Weber. Bei dem Krippenmacher war es immer lustig, [. . . ].
+[. . . ] in den letzten vierzehn Tagen vor dem Christfeste hantierte schon alles,
+was im ganzen Hause und in der Nachbarschaft geschickte und gesunde
+Finger hatte. Es war aber auch für uns Kinder eine lustige Arbeit, denn das,
+was wir da machten, war ja halb Spiel für uns und halb Erwerb.“ (Nachbar
+Krippelmacher)
+
+<retrospective_narrating> (Retrospektives Erzählen als <passage_relation>)
+
+• Tagbeschreibung: Die Deﬁnition des <retrospective_narrating>-Tag, mit dem re-
+trospektives Erzählen nur in einzelnen Textabschnitten annotiert wird, entspricht
+der <retrospective_narration>.
+
+• Indikator: Präteritum
+• Beispiel:
+
+– „Eines Tages kehrte ich in dem, dir wohl noch bekannten, großen Gasthofe
+
+»Zum goldenen Zeitgeist« ein.“ (Auch ich war in Arkadien)
+
+<simultaneous_narration> (Gleichzeitiges Erzählen als <overall_ relation>)
+
+• Tagbeschreibung: Gleichzeitiges Erzählen wird annotiert, wenn das Erzählen
+und das Erzählte im selben Augenblick stattﬁnden. Dafür wird meistens das Prä-
+sens genutzt. Streng genommen kann gleichzeitiges Erzählen in homodiegetischen
+Erzählungen nur im Falle von länger andauernden Geschehen, die unabhängig
+vom Sprecher ablaufen, oder bei der Beschreibung von Gefühlszuständen und
+Ansichten vorkommen. Diese Einschränkungen gelten im Falle einer Heterodiegese
+nicht.
+
+• Indikator: Präsens
+
+43
+
+2.4 Zeitpunkt des Erzählens
+
+• Beispiel:
+
+– „In der Militärschule zu Sankt Severin. Turnsaal. Der Jahrgang steht in den
+hellen Zwillichblusen, in zwei Reihen geordnet, unter den großen Gaskronen.
+Der Turnlehrer, ein junger Oﬃzier mit hartem braunen Gesicht und höhni-
+schen Augen, hat Freiübungen kommandiert und verteilt nun die Riegen.
+[. . . ]“ (Die Turnstunde)
+
+<simultaneous_narrating> (Gleichzeitiges Erzählen als <passage_ relation>)
+
+• Tagbeschreibung: Die Deﬁnition des <simultaneous_narrating>-Tag, mit dem
+simultanes Erzählen nur in einzelnen Textabschnitten annotiert wird, entspricht
+der der <simultaneous_narration>.
+
+• Indikator: Präsens
+• Beispiel:
+
+– „und wie sie jetzt vor mir auf dem Schreibtisch stehn, in einem schlanken,
+mattgrünen Glas, da ist mir, als neigten sich die Blüten zu traurigem Dank.“
+(Blumen)
+
+<anterior_narration> (Vorzeitiges Erzählen als <overall_relation>)
+
+• Tagbeschreibung: Beim vorzeitigen Erzählen geht die meist im Futur erzählte
+Erzählung dem Erzählten voraus, wobei vorerst – oder auch bis zuletzt – unklar
+bleibt, ob die Ereignisse tatsächlich in der ﬁktiven Welt stattﬁnden. Dementspre-
+chend kann prospektives Erzählen nur in veriﬁzierten und falsiﬁzierten Prolepsen
+stattﬁnden.27
+Deshalb kann sich die Vergabe von <anterior_narrating> nicht an den getaggten
+Prolepsen orientieren. Durch die Unklarheit besitzt es zudem einen anderen
+Realitätsstatus als retrospektives und gleichzeitiges Erzählen.28
+
+• Indikator: Futur
+
+<anterior_narrating> (Vorzeitiges Erzählen als <passage_relation>)
+
+• Tagbeschreibung: Die Deﬁnition des <anterior_narrating>-Tag, mit dem prospek-
+tives Erzählen nur in einzelnen Textabschnitten annotiert wird, entspricht der der
+<anterior_narration>. Allerdings kann <anterior_ narrating> in einigen Fällen noch
+genauer bestimmt werden, nämlich danach, ob der Zeitpunkt des Erzählens sowohl
+für Erzähler und Figur oder nur für jeweils eine der beiden Instanzen vorzeitig ist.
+Entsprechend sollen die Werte [complete_anteriority], [ﬁgural_anteriority] oder
+[narratorial_anteriority] der Tag-Eigenschaft ANTERIORITY_STANDPOINT
+vergeben werden.
+
+27Das <prolepsis>-Tag im Unterset <order>, wird nur verwendet um veriﬁzierte Prolepsen zu annotieren
+
+(vgl. Unterunterabschnitt 2.5.1 „Ordnung“, S. 47).
+
+28Man könnte entsprechend davon ausgehen, „dass es prospektives Erzählen im Sinne der Deﬁnition
+gar nicht gibt, sondern die hierunter subsumierten Erzählakte schlicht Annahmen, Vermutungen,
+Befürchtungen oder Wünsche des Sprechers sind, die sich auf die Zukunft beziehen“ (Lahn und
+Meister, 2013, S. 95).
+
+44
+
+2.4 Zeitpunkt des Erzählens
+
+– [complete_anteriority]: Dieser Wert wird vergeben, wenn etwas erzählt
+wird, das sich sowohl aus Sicht des Erzählers als auch aus Sicht der Figur in
+der Zukunft beﬁndet.
+
+– [ﬁgural_anteriority]: Figurale Vorzeitigkeit liegt dann vor, wenn die Er-
+zählinstanz von etwas berichtet, das zwar für die Figur(en) in der Zukunft
+liegt, nicht aber für den Erzähler selbst. Das ist beispielsweise in allgemein
+retrospektiv erzählten Texten in solchen Passagen der Fall, in denen auf
+Ereignisse vorgegriﬀen wird, die sich innerhalb der Basiserzählung beﬁnden
+(d.h. in internen Prolepsen und falsiﬁzierten internen „Vorgriﬀen“). Außer-
+dem kann ﬁgurale Vorzeitigkeit auch in retrospektiv erzählten Texten in
+solchen Passagen vorkommen, in denen auf Ereignisse vorgegriﬀen wird, die
+sich außerhalb der Basiserzählung beﬁnden (d.h. in externen Prolepsen).
+Dies ist aber nur dann der Fall, wenn die Prolepse Ereignisse betriﬀt, die
+vor dem Zeitpunkt des Erzählens stattgefunden haben. Bezieht sie sich auf
+Ereignisse nach dem Zeitpunkt des Erzählens, ist die Passage für Figur und
+Erzähler gleichermaßen vorzeitig, weswegen [complete_anteriority] vergeben
+wird. Figurale Vorzeitigkeit liegt nicht vor, wenn Figuren Aussagen über ihre
+eigene Zukunft machen. Denn sobald Figuren Äußerungen tätigen, werden
+sie selbst zum Erzähler auf einer höheren narrativen Ebene.
+
+– [narratorial_anteriority]: Der Wert [narratorial_anteriority] kann nur
+in Erzählungen vorkommen, die insgesamt prospektiv erzählt sind und in
+denen die Zukunft zugleich als Fakt dargestellt ist.
+
+• Indikator: Futur
+• Beispiel:
+
+– [ﬁgural_anteriority]: „Er hat sich aber diesen Lieblingswunsch nie erfüllen
+können, der Webstuhl hielt ihn ja fest.“ (Nachbar Krippelmacher); „Noch
+eine halbe Stunde, noch neunundzwanzig Minuten, dann wird er sie treﬀen.“
+(Ein Nachmittag)
+
+45
+
+2.4 Zeitpunkt des Erzählens
+
+e) Überblick <relation_narrator—event_time>
+Tagstring
+
+Unmarkierter Fall
+
+• Länge des Tagstrings: <overall_relation>: der ganze
+
+Text <passage_relation>: einzelne Textpassagen
+
+• %
+
+Indikatoren auf der Textoberﬂäche
+
+• Tempus: Präteritum deutet oft Nachzeitigkeit an, Präsens Gleichzeitigkeit
+
+und Futur Vorzeitigkeit
+
+Tagging-Routine
+
+1. Bestimmung der <overall_relation> eines Textes.
+2. Bestimmung des Erzählzeitspunkts einzelner Textpassagen.
+
+Beispiele
+
+• <retrospective_narrating>: „Eines Tages kehrte ich in dem, dir wohl noch
+bekannten, großen Gasthofe »Zum goldenen Zeitgeist« ein.“ (Auch ich war in
+Arkadien)
+• <simultaneous_narrating>: „und wie sie jetzt vor mir auf dem Schreibtisch
+stehn, in einem schlanken, mattgrünen Glas, da ist mir, als neigten sich die
+Blüten zu traurigem Dank.“ (Blumen)
+• <anterior_narrating>: „Noch eine halbe Stunde, noch neunundzwanzig Minuten,
+
+dann wird er sie treﬀen.“ (Ein Nachmittag)
+
+46
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+Das Tagset für <time_relation_discours–histoire> enthält Kategorien zur Bestimmung des
+zeitlichen Zusammenhangs zwischen der Zeit des Diskurses und der Zeit der Geschichte.
+Es ist in drei Untersets zum Taggen von Ordnung (<order>), Frequenz (<frequency>)
+und Dauer (<duration>) aufgeteilt.
+
+2.5.1 Ordnung
+Das Unterset <order> enthält Kategorien für die Annotation des Verhältnisses der
+zeitlichen Ordnung von Diskurs und Geschichte (ordo artiﬁcialis und ordo naturalis).
+
+a. Ort <order>
+Das Unterset <order> beﬁndet sich im heureCLÉA Tagset unter: TimeTagset →
+timerelation_discours–histoire → order.
+
+Es teilt sich in die Tags <chronology>, <anachrony> und <achrony> auf. Das <anachrony>-
+Tag ist weiterhin in Tags aufgeteilt, mit denen die einzelnen Typen einer narrativen
+Anachronie annotiert werden können (<analepsis>, <prolepsis> und <simullepsis>).
+
+b. Operationalisierung <order>
+Unter dem Begriﬀ „Ordnung“ behandeln Lahn und Meister (2013) das Verhältnis
+von ordo naturalis und ordo artiﬁcialis. Die zugrunde liegende Frage lautet dabei:
+„Folgt der Erzähler auf der Diskurs-Ebene der ’realen’ Anordnung der Begebenheiten
+auf der Ebene der Geschichte (ordo naturalis), oder bietet er in seinem Bericht die
+Geschehnisse in einer künstlichen Ordnung dar, die den Erfordernissen des Erzählens
+angemessenen ist (ordo artiﬁcialis)?“ Insgesamt existieren drei Formen von Ordnung,
+die zum Erzählen von Geschehnissen verwendet werden können. Folgt der Erzähler der
+realen Anordnung, spricht man von chronologischem Erzählen. Wird die Reihenfolge
+der Ereignisse umgestellt, liegen so genannte Permutationen vor. Die entsprechenden
+Handlungselemente werden narrative Anachronien genannt. Eine dritte Form liegt vor,
+wenn alle Zeitbezüge fehlen, die eine Verortung in der Geschichte (histoire) ermöglichen
+würden, also weder eine Chronologie noch eine Anachronie vorliegt: die Achronie.
+
+Bei Achronien ist eine zeitliche Verknüpfung zur Haupthandlung nicht möglich.
+Lahn und Meister folgern daraus: „Achronien sind somit in der Regel weniger an die
+Geschichte [(histoire)] als vielmehr an den (unzeitlichen) Diskurs gebunden“ Lahn und
+Meister (2013, S. 142). Nach Genette liegt hingegen eine achronische Struktur vor,
+wenn die Zeitstruktur aufgrund der komplexen Verschränkung von Analepsen und
+Prolepsen nicht rekonstruierbar ist. Dabei scheint die Abgrenzung der Achronie sowohl
+bei sehr anachronisch gestalteten Erzählungen als auch bei Erzählungen, die sich über
+weite Teile deskriptiver Pausen bedienen, nicht eindeutig deﬁniert zu sein.
+
+Bei den narrativen Anachronien wird im Wesentlichen zwischen zwei Typen un-
+terschieden: In Analepsen wird nachholend berichtet, was sich früher eignet hat, und
+in Prolepsen wird entsprechend vorwegnehmend berichtet, was sich später ereignet
+hat. Darüber hinaus führen Lahn und Meister (2013) den Begriﬀ „Simullepse“ ein, der
+
+47
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+die (notgedrungen) linear nacheinander erfolgende Darstellung simultan stattﬁnden-
+der Handlungen bezeichnet (Ken Ireland spricht hier von „co-occurence“) (Lahn und
+Meister, 2013, S. 140).
+
+Weiter weisen Lahn und Meister (2013) darauf hin, dass chronologisches Erzählen
+nur ab ovo möglich ist, Erzählungen, die in medias res oder in ultimas res beginnen,
+müssen die Eingangszene durch Analepsen nachholen.29 Schließlich ergänzen Lahn und
+Meister (2013) die Bestimmung von Anachronien um die Kriterien Reichweite und
+Umfang, denn: „Anachronien können schließlich auch stark variieren zum einen auf der
+Ebene der Erzählzeit in Bezug auf die Dauer und zum anderen in Bezug auf die zeitliche
+Distanz zwischen dem gegenwärtigen Zeitpunkt der Erzählung und dem nachgeholten
+Geschehensmoment“ (Lahn und Meister, 2013, S. 141-142, ohne Hervorhebungen des
+Originaltextes).
+
+29Jahn (2005) sagt dazu unter „N5.2.1. Order“:
+
+anachrony A deviation from strict chronology in a story. The two main types of anachrony are
+ﬂashbacks and ﬂashforwards. If the anachronically presented event is factual, it is an objective
+anachrony; a character’s visions of future or memory of past events are subjective anachronies.
+Repetitive anachronies recall already narrated events; completive anachronies present events which
+are omitted in the primary story line. External anachronies present events which take place before
+the beginning or after the end of the primary story line; anachronies that fall within the range of
+the primary story line are internal anachronies. See Genette (1980 [1972]: 35-85); Rimmon-Kenan
+(1983: 46-51); Toolan (1988: 49-50); Ci (1988) [a_critical_account]. (Hervorhebungen im Original)
+
+48
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+c. Tagset <order>
+
+Abbildung 7: Untertagset <order>
+
+d. Richtlinien für die Annotation von <order>
+Allgemein geltende Richtlinien
+
+Bevor die Tags des <order>-Tagsets sinnvoll angewendet werden können, sollten
+die jeweiligen Texte in Bezug auf narrative Ebenenwechsel analysiert werden. Nicht
+einander zugehörige narrative Ebenen sollten voneinander getrennt auf die zeitliche
+Ordnung hin analysiert werden. Das heißt auch, dass ein Zeitsprung, der mit einem
+Ebenenwechsel einhergeht, nicht als Zeitsprung annotiert wird – sobald eine neue
+narrative Ebene beginnt, wird die zu Beginn der jeweiligen Erzählung genutzte Zeit als
+neuer temporaler Nullpunkt gesetzt, in Bezug zu welchem die zeitliche Ordnung dieser
+Ebene analysiert wird. Entsprechend korreliert die zeitliche Ordnung auch nicht mit
+dem Zeitpunkt des Erzählens.30
+
+• Tagstring allgemein: Annotiert werden Textpassagen (mindestens Teilsätze).
+
+30Narrative Ebenen können also nicht mit einer Anachronie beginnen oder mit einer Anachronie
+deckungsgleich sein. Es ist aber möglich, dass Anachronien narrative Ebenen vollständig inkorpo-
+rieren: Zum Beispiel kann eine Analepse auf der ersten Erzählebene eine narrative Ebene zweiter
+Ordnung enthalten. Diese zweite Erzählebene ist dann Teil der Analepse auf der ersten Ebene,
+nicht aber eine Analepse auf der zweiten Ebene.
+
+49
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+Richtlinien für einzelne Tags oder Untersets
+<chronology> (Chronologisches Erzählen)
+• Tagbeschreibung: Beim chronologischen Erzählen folgt der Erzähler der realen
+Anordnung (ordo naturalis) der Geschehnisse auf der Ebene der histoire. Diese
+Erzählweise gilt als default, d.h. als unmarkierter Standardfall, und wird daher
+nicht annotiert.
+
+• Beispiel: „Da kam über den Markt eine jugendliche Gestalt [. . . ]; jetzt wollte sie
+den letzten Schritt tun, und von ohngefähr erhob sie das Auge und traf mit dem
+blauesten Strahle in seinen Blick. Er ward wie von einem Blitz durchdrungen. Sie
+strauchelte, und so schnell er auch hinzusprang, konnte er doch nicht verhindern,
+daß sie nicht kurze Zeit in der reizendsten Stellung knieend vor seinen Füßen lag.
+Er hob sie auf, sie sah ihn nicht an [. . . ]“ (Der Pokal)
+
+<anachrony> (Anachronisches Erzählen)
+• Tagbeschreibung: Beim anachronischen Erzählen weicht der Erzähler von der
+chronologischen Reihenfolge der Ereignisse ab. Generell ist es möglich, dass eine
+Anachronie eine weitere Anachronie enthält. Dabei sind alle Kombinationen
+möglich. Die Annotationen werden in diesem Fall verschachtelt. Anachronisches
+Erzählen kann drei verschiedene Formen annehmen:
+
+– <analepsis>: Analepsen sind Abweichungen von der chronologischen Rei-
+henfolge, in denen nachholend berichtet wird, was sich früher ereignet hat.
+Dabei werden nur tatsächliche Rückgriﬀe als Analepse annotiert, also solche,
+die nicht im Laufe der Erzählung falsiﬁziert werden oder von Vornherein als
+hypothetisch gekennzeichnet sind, sich also als unzutreﬀende Darstellungen
+der Ereignisse der ﬁktiven Welt herausstellen. Manche Iterative (siehe Un-
+terunterabschnitt 2.5.2 „Frequenz“, S. 54) mit eindeutiger Verweisrichtung
+in die Vergangenheit können zugleich auch Analepsen sein (bspw. „jeden
+Tag seit zwei Jahren“).
+Analepsen können mithilfe von Tag-Eigenschaften genauer hinsichtlich Reich-
+weite (REACH) und Umfang (EXTENT) diﬀerenziert werden. Die Reich-
+weite bezeichnet den Zeitpunkt der Analepse in Bezug auf den Abstand zur
+gegenwärtigen Handlung. Finden die in einer Analepse berichteten Ereignisse
+im Rahmen der Basiserzählung statt, wird der Propertywert [internal] verge-
+ben. Liegt der Zeitpunkt der Ereignisse außerhalb der Basiserzählung, wird
+dementsprechend die Analepse als [external] markiert. Auch Mischformen
+der Reichweite können annotiert werden. Beginnt eine Analepse außerhalb
+der Basiserzählung und reicht in sie hinein, wird der Propertywert [external-
+internal] vergeben (vgl. Abbildung 8). Wenn Analepsen im Rahmen größerer
+Anachronien vorkommen, können die Analepsen auch in der Basiserzählung
+beginnen und später über diese hinausreichen. Dann wird der Propertywert
+[internal-external] vergeben. Auch ist es möglich, dass Analepsen in Anachro-
+nien vor der Basiserzählung beginnen, in sie hineinreichen und schließlich
+über sie hinausgehen. In diesem Falle werden beide Propertywerte vergeben.
+
+50
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+Mit der Property für den Umfang von Analepsen wird der Zeitraum, den
+die Analepse in der Erzählung umfasst, bestimmt. Reicht die Anachronie
+direkt an den Unterbrechungszeitpunkt in der Erzählung heran, bekommt
+die Analepse den Propertywert [complete]. Endet die Anachronie aber an
+einem beliebigen Punkt vor dem Unterbrechungszeitpunkt, wird der Wert
+[partial] zugewiesen (vgl. Abbildung 9).
+
+– <prolepsis>: Prolepsen sind Abweichungen von der chronologischen Reihen-
+folge, in denen vorwegnehmend berichtet wird, was sich später ereignet hat.
+Dabei werden nur tatsächliche Vorgriﬀe als Prolepsen annotiert, also solche,
+die nicht im Laufe der Erzählung falsiﬁziert werden oder von vornherein als
+Hypothesen formuliert sind, sich also als unzutreﬀende Darstellungen der
+Ereignisse der ﬁktiven Welt bzw. als bloße Ahnungen, Wünsche, Hoﬀnungen
+oder Vorhersagen herausstellen.
+Prolepsen können mithilfe von Tag-Eigenschaften genauer hinsichtlich Reich-
+weite (REACH) und Umfang (EXTENT) diﬀerenziert werden. Die Reich-
+weite bezeichnet den Zeitpunkt der Prolepse in Bezug auf den Abstand zur
+gegenwärtigen Handlung. Finden die in einer Prolepse berichteten Ereignisse
+im Rahmen der Basiserzählung31 statt, wird der Propertywert [internal] ver-
+geben. Liegt der Zeitpunkt der Ereignisse außerhalb der Basiserzählung, wird
+dementsprechend die Prolepse als [external] markiert. Auch Mischformen
+der Reichweite können annotiert werden. Liegt der Beginn einer Prolepse
+innerhalb der Basiserzählung und ihr Ende außerhalb, wird der Propertywert
+[internal-external] vergeben (vgl. Abbildung 8). Wenn Prolepsen im Rahmen
+größerer Anachronien vorkommen, können die Prolepsen auch außerhalb
+der Basiserzählung beginnen und später in diese hineinreichen. Dann wird
+der Propertywert [external-internal] vergeben. Auch ist es möglich, dass
+Prolepsen in Anachronien vor der Basiserzählung beginnen, in sie hinein-
+reichen und schließlich über sie hinausgehen. In diesem Falle werden beide
+Propertywerte vergeben.
+Mit der Property für den Umfang von Prolepsen wird der Zeitraum, den
+die Prolepse in der Erzählung umfasst, bestimmt. Beginnt die Prolepse am
+
+31Unser Konzept der Basiserzählung weicht von Genettes ab. Für Genette ist Basiserzählung ein
+relationales Konzept, das für jede Analepse bzw. Prolepse jeweils denjenigen Zeitabschnitt einer
+Erzählung beschreibt, innerhalb dessen die Analepse bzw. Prolepse auftritt. Das führt dazu, dass es
+in einem Erzähltext genauso viele Basiserzählungen wie Anachronien gibt. Unserem Wortgebrauch
+entsprechend ist dagegen für jeden Erzähltext genau eine Basiserzählung anzunehmen. Diese
+bezeichnet diejenige narrative Ebene bzw. diejenige Zeitspanne auf dieser Ebene, deren temporalen
+Anfangspunkt der Textanfang beschreibt und deren Endpunkt der am weitesten in der Zukunft
+liegende Punkt der chronologischen Erzählung ab dem Anfangspunkt (d.h. der Basiserzählung
+abzüglich der Anachronien) beschreibt. Dieses Konzept von Basiserzählung bringt es nicht nur mit
+sich, dass kein Text mit einer Analepse beginnen kann – es ist ebenso ausgeschlossen, dass er mit
+einer Prolepse endet: Denn ein Zeitsprung in die Zukunft am Ende eines Textes wird nicht als
+Prolepse, sondern als chronologische Erzählung mit Ellipse zu verstanden. In dem seltenen Fall,
+dass eine Erzählung mit einer iterativen Angabe (siehe Unterunterabschnitt 2.5.2 „Frequenz“, S. 54)
+beginnt, wird der temporale Anfangspunkt der iterativ erzählten Zeitspanne als Anfangspunkt der
+Basiserzählung verstanden.
+
+51
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+Unterbrechungszeitpunkt, wird der Wert [complete] vergeben. Beginnt die
+Prolepse aber an einem beliebigen Punkt nach dem Unterbrechungszeitpunkt,
+wird [partial] zugewiesen (vgl. Abbildung 9).
+
+– <simullepsis>: Eine Simullepse ist die nacheinander erfolgende Darstellung
+
+gleichzeitig geschehender Ereignisse.
+
+• Indikatoren:
+
+– Zeitausdrücke, die Vorzeitigkeit, Nachzeitigkeit oder Gleichzeitigkeit aus-
+drücken („vor einigen Jahren“, „am vorausgegangenen Tage“, „ein Jahr
+später“, „nach drei Tagen“, „in demselben Augenblick“, „gleichzeitig“)
+
+– Tempus (z. B. Plusquamperfekt in Texten, die generell im Präteritum erzählt
+
+sind, für Analepsen; Futur für Prolepsen)
+
+Abbildung 8: Reichweite von Anachronien
+
+Abbildung 9: Umfang von Anachronien
+
+• Beispiele:32
+
+– <analepsis> + [complete] + [external-internal]: „Noch nie seit sie hier war,
+habe sie einen Mann Eisenstangen schleppen sehen.“ (Das polierte Männchen)
+– <analepsis> + [partial] + [internal]: „Jetzt sah man, was geschehen war: der
+Hansjörg hatte sich am mittleren Gelenk den Zeigeﬁnger der rechten Hand
+abgeschossen.“ (Die Kriegspfeife)
+
+– <prolepsis> + [complete] + [internal-external]: „Gleich beim ersten Anblick
+des Hundes war er von der Zuneigung ergriﬀen worden, die dauern sollte bis
+zu seinem letzten Atemzuge.“ (Krambambuli)
+
+32Die Analyseergebnisse zur Reichweite lassen sich jeweils nur dann nachvollziehen, wenn der Rest der
+
+Erzählung bekannt ist.
+
+52
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+– <prolepsis> + [partial] + [external]: „Zwanzig Jahre lang habe ich den Tod
+auf den Tag herbeigezogen, der in einer Stunde beginnen wird [. . . ]“ (Der
+Tod)
+
+– <simullepsis>: „’Ich bin nicht allein’, sagte ich [. . . ]. Dabei preßte sich mein
+Arm, der die Decke über ihren Kopf gelegt hatte, krampfhaft auf jene Stelle,
+wo ich den Mund vermutete [. . . ]“ (Die Schutzimpfung)
+
+<achrony> (Achronisches Erzählen)
+
+• Tagbeschreibung: Eine Achronie liegt vor, wenn in einer Textpassage alle
+Zeitbezüge, die eine Verortung in der Geschichte ermöglichen, fehlen. Für die An-
+notation konkreter Textpassagen wird normalerweise das Tag <achronic_element>
+genutzt. Achronien können selbst Anachronien enthalten.
+
+• Indikatoren:
+
+– Tempus (Präsens)
+– Allgemeine/verallgemeinernde Aussagen
+
+• Beispiel:
+
+– „Vorliebe empﬁndet der Mensch für allerlei Gegenstände. Liebe, die ech-
+te, unvergängliche, die lernt er – wenn überhaupt – nur einmal kennen.“
+(Krambambuli)
+
+53
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+e. Überblick <order>
+Tagstring
+
+• Textabschnitte – Mindestgröße: Teilsatz
+
+Unmarkierter Fall
+• Chronologisches
+
+Erzählen
+
+Indikatoren auf der Textoberﬂäche
+
+• Zeitausdrücke, die Vorzeitigkeit, Gleichzeitigkeit oder Nachzeitigkeit aus-
+• Tempuswechsel
+
+drücken
+
+Tagging-Routine
+
+1. Annotation aller nicht chronologisch dargestellten Textpassagen als Prolepse,
+
+Analepse, Simullepse oder Achronie.
+
+2. Bei Anachronien: Speziﬁzierung von Umfang und Reichweite.
+
+Beispiele
+
+• <chronology>: „von ohngefähr erhob sie das Auge und traf mit dem blauesten
+Strahle in seinen Blick. Er ward wie von einem Blitz durchdrungen. Sie strau-
+chelte, und so schnell er auch hinzusprang, konnte er doch nicht verhindern,
+daß sie nicht kurze Zeit in der reizendsten Stellung knieend vor seinen Füßen
+lag“ (Der Pokal)
+• <analepsis>: „Jetzt sah man, was geschehen war: der Hansjörg hatte sich
+am mittleren Gelenk den Zeigeﬁnger der rechten Hand abgeschossen“ (Die
+Kriegspfeife)
+• <prolepsis>: „Zwanzig Jahre lang habe ich den Tod auf den Tag herbeigezogen,
+• <simullepsis>: „’Ich bin nicht allein’, sagte ich [. . . ]. Dabei preßte sich mein
+Arm, der die Decke über ihren Kopf gelegt hatte, krampfhaft auf jene Stelle,
+wo ich den Mund vermutete [. . . ]“ (Die Schutzimpfung)
+• <achrony>: „Vorliebe empﬁndet der Mensch für allerlei Gegenstände. Liebe,
+die echte, unvergängliche, die lernt er – wenn überhaupt – nur einmal kennen.“
+(Krambambuli)
+
+der in einer Stunde beginnen wird [. . . ]“ (Der Tod)
+
+2.5.2 Frequenz
+Das Unterset <frequency> dient der Annotation der Wiederholungshäuﬁgkeit von Er-
+eignissen im Verhältnis zwischen der Ebene der Handlung (histoire) und der Ebene der
+Darstellung (discours).
+
+54
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+a. Ort <frequency>
+Das Unterset <frequency> beﬁndet sich im heureCLÉA Tagset unter: TimeTagset →
+time_relation_discours–histoire → frequency. Es teilt sich in die Tags <singulative>,
+<repetitive> und <iterative> auf.
+
+b. Operationalisierung <frequency>
+Die Frequenz beschreibt „das Verhältnis der Wiederholungshäuﬁgkeit von Ereignissen
+auf der Ebene der Handlung einerseits und auf der Ebene der Darstellung andererseits“
+(Lahn und Meister, 2013, S. 148). Da jedes Ereignis33 streng genommen einmalig ist,
+wird dabei von einem „Minimum an übereinstimmenden Ähnlichkeitskriterien“ (Lahn
+und Meister, 2013, S. 148) ausgegangen.
+
+Lahn und Meister unterscheiden drei Relationen und eine Sonderform:
+• Singulatives Erzählen: Ein Ereignis wird so oft erzählt, wie es sich ereignet hat
+(1-mal erzählen, was 1-mal geschehen ist). Eine Sonderform ist das anaphorische
+oder multi-singulative Erzählen, bei dem ein Ereignis, das sich wiederholt, so oft
+erzählt wird, wie es stattﬁndet (n-mal erzählen, was n-mal geschehen ist).
+
+• Repetitives Erzählen: Ein Ereignis wird öfter erzählt, als es sich ereignet hat
+(n-mal erzählen, was 1-mal geschehen ist). Dies ist auch der Fall, wenn mehrere
+Figuren dasselbe Ereignis schildern (Multiperspektivismus). Für die nähere Be-
+stimmung des Inhalts und der Anzahl der Wiederholungen der Passagen werden
+die Tag-Eigenschaften NARRATED_CONTENT und REPETITION_COUNT
+operationalisiert.
+
+• Iteratives Erzählen: Ein Ereignis wird seltener erzählt, als es sich ereignet hat
+(1-mal erzählen, was n-mal geschehen ist). Iteratives Erzählen wird u.a. eingesetzt,
+um eine einmalige Regelabweichung zu erzählen.
+
+Die Kategorien des multi-singulativen und iterativen Erzählens sind nicht unproble-
+matisch. Das liegt daran, dass dasselbe Ereignis natürlich immer nur einmal geschehen
+kann. Das „Minimum an übereinstimmenden Ähnlichkeitskriterien“, auf das Lahn
+& Meister verweisen, müsste hier genauer erforscht werden, damit die Nutzung der
+fraglichen Frequenz-Kategorien zu einigermaßen robust reproduzierbaren Ergebnissen
+führen kann.
+
+33Auch Beschreibungen zeitlich begrenzter Zustände können in Bezug auf Frequenzphänomene unter-
+
+sucht werden.
+
+55
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+c. Tagset <frequency>
+
+Abbildung 10: Untertagset <frequency>
+
+d. Richtlinien für die Annotation von <frequency>
+Allgemein geltende Hinweise
+
+• Tagstring: Textpassagen (Mindestgröße: Teilsatz).
+
+Hinweise für einzelne Tags oder Untersets
+
+<singulative> (Singulatives Erzählen)
+• Tagbeschreibung: Singulatives Erzählen liegt vor, wenn Ereignis so oft erzählt
+wird, wie es sich ereignet hat. Dabei gilt der Fall „1-mal erzählen, was sich 1-mal
+ereignet hat“ als default, d.h. als unmarkierter Standardfall, der nicht annotiert
+wird.
+
+– <multi-singulative>: Multi-singulatives Erzählen ist ein Sonderfall des sin-
+gulativen Erzählens. Es liegt vor, wenn ein Ereignis, das sich wieder-
+holt, so oft erzählt wird, wie es stattﬁndet (n-mal erzählen, was sich n-
+mal ereignet hat). Wird das <multi_singulative>-Tag vergeben, müssen die
+Werte der Tag-Eigenschaften NARRATED_CONTENT und REPETITI-
+ON_COUNT bestimmt werden. Dabei wird im für die Tag-Eigenschaft
+NARRATED_CONTENT der Inhalt der repetitiven Passage kurz in Form
+eines Propertywertes zusammengefasst. Für die Eigenschaft REPETITI-
+ON_COUNT wird die Anzahl des Vorkommens der Wiederholung an Form
+eines Wertes angegeben. Für das erste Vorkommen wird der Wert „0“ ange-
+geben. Bei kollaborativer Textarbeit sollten die Werte der Tag-Eigenschaft
+NARRATED_CONTENT unter den Mitarbeitern aufeinander abgestimmt
+bzw. vereinheitlicht werden. Wenn ein ähnliches Ereignis mehrmals, aber
+auf ontologisch verschiedenen Erzählebenen geschieht, dann liegt kein multi-
+singulatives Erzählen vor: Durch den ontologischen Unterschied können
+die Ereignisse nicht als hinreichend ähnlich gelten. Ein Beispiel wäre ein
+
+56
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+Ereignis, das einmal im Kontextes eines Wunsches erzählt wird und ein
+zweites Mal, wenn es ‘tatsächlich’ geschieht.
+
+∗ Multi-Singulative können auch zusammen mit iterativen Passagen (s.u.)
+auftreten, z. B. in folgender Passage: „Und das war das erstemal im
+Leben des Knaben, daß er an einem Tage den Becher der Seligkeit und
+den der Qual trank, er, der verurteilt war, noch oft von den Extremen der
+tiefsten Qualen und des wildesten Glückes erschüttert zu werden“ (Ein
+Nachmittag). Dabei ist „das erstemal“ multi-singulativ zu „noch oft“.
+„Noch oft“ ist aber zusätzlich auch iterativ, d.h. es wird ein Ereignis,
+das häuﬁger geschieht, mithilfe dieses Ausdrucks nur einmal erzählt. Da
+für Multi-Singulative die Property REPETITION_COUNT bestimmt
+werden soll, werden in Fällen, in denen erst der Multi-Singulativ und
+dann der Iterativ auftritt, als Repetition Counts „1“ und „1 + n“
+vergeben; wenn erst der Iterativ, dann der Multi-Singulativ auftritt,
+werden „n“ und „n + 1“ vergeben.
+
+∗ Es kann ein Sonderfall auftreten, der als „incomplete_multi-singulative“
+bezeichnet werden kann. Dieser Fall tritt dann auf, wenn im Text
+suggeriert wird, dass etwas erzählt wird, das so schon vorher einmal
+geschehen und erzählt worden ist, wobei das erste Vorkommnis dieses
+Ereignisses de facto aber nicht erzählt worden ist. Um diesen Sonderfall
+adäquat beschreiben zu können, wurde für das <multi-singulative>-Tag
+die Eigenschaft COMPLETENESS mit den Werten [complete] und
+[incomplete] eingeführt. Der Wert für diese Property sollte aber in
+der Regel aus arbeitsökonomischen Gründen nur für unvollständige
+Multi-Singulative, also für den Sonderfall, bestimmt werden.
+
+• Indikatoren:
+
+– Wiederholung anzeigende Begriﬀe wie „wieder“ (Indikator für multi-singulatives
+
+Erzählen)
+
+• Beispiele:
+
+– <singulative>: „[. . . ] fast noch ehe man den Knall hörte, hörte man den
+Hansjörg gottserbärmlich schreien. Die Pistole entﬁel seiner Hand [. . . ]“ (Die
+Kriegspfeife)
+
+– <multi-singulative>: „Als er schon einige Stunden darauf im Wundﬁeber lag,
+war es ihm, als ob ein Engel zu ihm heranschwebte und ihm Kühlung
+zuwehte.“ [. . . ] „Dann erschien dem Hansjörg im Traume wieder eine ganz
+verhüllte Gestalt [. . . ]“ (Die Kriegspfeife)
+
+<repetitive> (Repetitives Erzählen)
+• Tagbeschreibung: Repetitives Erzählen liegt vor, wenn ein Ereignis öfter erzählt
+wird, als es sich ereignet hat (n-mal erzählen, was 1-mal geschehen ist). Dies
+gilt auch, wenn mehrere Figuren multiperspektiv dasselbe Ereignis schildern.
+Wie beim <multi-singulative>-Tag müssen auch für das <repetitive>-Tag die Werte
+
+57
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+der Tag-Eigenschaften NARRATED_CONTENT und REPETITION_COUNT
+bestimmt werden (s.o.). werden.
+Bei repetitivem Erzählen reicht es nicht aus, dass auf ein bereits erzähltes Ereignis
+lediglich noch einmal verwiesen wird (z. B. durch eine Phrase wie „wie letztes
+Mal“) – stattdessen muss das Ereignis tatsächlich ein weiteres Mal erzählt werden,
+d.h. mindestens durch einen Teilsatz mit Verb.
+Es gilt auch als repetitiv, wenn ein Ereignis, das bereits ein- oder mehrmals
+erzählt wurde, noch einmal von einem anderen Erzähler (z. B. einer Figur) erzählt
+wird (Stichwort: multiperspektivisches Erzählen) oder wenn es in Form von
+Gedankenrede erinnert wird. Das geht auch auf unterschiedlichen ontologischen
+Ebenen.
+
+• Beispiele:
+
+– <repetitive> mit NARRATED_CONTENT und REPETITION_COUNT:
+„Ich halte Sie nämlich für einen Philosophen [. . . ]“ (27. September, Der Tod)
+→ NARRATED_CONTENT: Doktor hält Erzähler für Philosophen
+→ REPETITION_COUNT: 0
+
+– „Doktor Gudehus hält mich für einen Philosophen [. . . ]“ (30. September,
+
+Der Tod)
+→ NARRATED_CONTENT: Doktor hält Erzähler für Philosophen
+→ REPETITION_COUNT: 1
+
+<iterative> (Iteratives Erzählen)
+• Tagbeschreibung: Iteratives Erzählen liegt vor, wenn ein Ereignis seltener er-
+zählt wird, als es sich ereignet hat (1-mal erzählen, was n-mal geschehen ist).
+Allgemein wird iteratives Erzählen u.a. eingesetzt, um eine einmalige Regelab-
+weichung zu erzählen.
+
+• Ereignisse gelten gemeinhin nur dann als hinreichend ähnlich, um als iterativ
+eingestuft zu werden, wenn die handelnden Personen (sofern welche involviert
+sind) identisch bleiben. In einigen Sonderfällen kann es aber Interpretationssache
+sein, ob bspw. eine handelnde Gruppe sich jedes Mal aus den gleichen Individuen
+zusammensetzt.
+
+• Es kann manchmal schwer zu entscheiden sein, ob es sich um zeitraﬀendes Erzählen
+(vgl. Unterunterabschnitt 2.5.3 „Dauer“, S. 61) handelt oder (zusätzlich) um
+iteratives Erzählen: Die Entscheidung ist davon abhängig, ob von mehreren
+wiederkehrenden Ereignissen berichtet wird oder von einem lang andauernden
+Ereignis. Dies ist aber oft nur interpretativ feststellbar – die Interpretation
+kann davon beeinﬂusst werden, auf welche Weise das Ereignis/die Ereignisse
+beschrieben werden („Sie drehte sich viele Male um die eigene Achse“ vs. „Sie
+drehte sich lange im Kreis“).
+
+58
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+• Generalisierungen lassen sich häuﬁg in Konditionale der Form „immer wenn,
+dann“ übersetzen. Solche Konditionale sind aber nicht automatisch Iterative. Sie
+sind es nur dann, wenn sie von tatsächlich in der ﬁktiven Welt stattgefundenen
+Ereignissen berichten (z. B. „immer wenn dies passierte, passierte auch jenes“).
+Wenn es sich dagegen um abstrakte Regelmäßigkeitsaussagen handelt, die keine
+Informationen darüber enthalten, ob so etwas tatsächlich passiert ist, liegt kein
+Iterativ vor.
+
+• Wenn zwei iterative Passagen direkt aneinander anschließen, werden diese trotz-
+dem einzeln getaggt, sofern sich die sich wiederholenden Ereignisse eindeutig
+unterscheiden lassen. Wenn sich das iterativ erzählte Ereignis langsam verändert,
+so dass keine zwei separaten Sets von Ereignissen identiﬁziert werden können,
+wird ein Gesamttag vergeben.
+
+• Indikatoren: iterative Ausdrücke
+• Beispiel:
+
+– „Oftmals, wenn meine Gedanken sich wie graue Gewässer vor mir ausbreiten,
+die mir unendlich scheinen, weil sie umnebelt sind, sehe ich etwas wie
+den Zusammenhang der Dinge und glaube die Nichtigkeit der Begriﬀe zu
+erkennen.“ (Der Tod)
+
+59
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+e. Überblick <frequency>
+Tagstring
+
+• Textabschnitte – Mindestgröße: Teilsatz
+
+Unmarkierter Fall
+
+• singulatives
+
+Er-
+zählen, das nicht
+multi-singulativ
+ist
+
+Indikatoren auf der Textoberﬂäche
+
+• für illokutionäre Ebenenüberschreitungen: (Gedanken-)Rede
+• für ontologische Grenzüberschreitungen: Konjunktive
+
+Tagging-Routine
+
+1. Bestimmung der Frequenzphänomene
+2. Bei repetitiven und multi-singulativen Passagen: Vergabe von Werten für
+
+NARRATED_CONTENT und REPETITION_COUNT, wobei:
+
+a) der Inhalt des NARRATED_CONTENT möglichst kurz zusammenge-
+
+fasst werden soll,
+
+b) die Nummerierung der repetitiven Passagen der Reihenfolge im Text
+entspricht (nicht chronologisch!) und der REPETITION_COUNT für
+das erste Vorkommen einer repetitiven Passage den Wert 0 hat und
+
+c) die Werte für NARRATED_CONTENT im Annotationsteam abge-
+
+stimmt werden sollen.
+
+Beispiele
+
+• <singulative>: „[. . . ] fast noch ehe man den Knall hörte, hörte man den
+Hansjörg gottserbärmlich schreien. Die Pistole entﬁel seiner Hand [. . . ]“ (Die
+Kriegspfeife)
+• <multi-singulative>: „Als er schon einige Stunden darauf im Wundﬁeber lag, war
+es ihm, als ob ein Engel zu ihm heranschwebte und ihm Kühlung zuwehte.“
+[. . . ] „Dann erschien dem Hansjörg im Traume wieder eine ganz verhüllte
+Gestalt [. . . ]“ (Die Kriegspfeife)
+• <repetitive>: „Ich halte Sie nämlich für einen Philosophen [. . . ]“ [. . . ] „Doktor
+• <iterative>: „Oftmals, wenn meine Gedanken sich wie graue Gewässer vor mir
+ausbreiten, die mir unendlich scheinen, weil sie umnebelt sind, sehe ich etwas
+wie den Zusammenhang der Dinge und glaube die Nichtigkeit der Begriﬀe zu
+erkennen.“ (Der Tod)
+
+Gudehus hält mich für einen Philosophen [. . . ]“ (Der Tod)
+
+60
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+2.5.3 Dauer
+Das Unterset <duration> enthält Kategorien zur Bestimmung von Phänomenen der
+Dauer, also zum Erzähltempo bzw. der Erzählgeschwindigkeit).
+
+a. Ort <duration>
+Das Unterset <duration> zum Taggen von Phänomenen der Dauer in Texten (Erzähltem-
+po bzw. Erzählgeschwindigkeit) beﬁndet sich im heureCLÉA Tagset unter: TimeTagset
+→ time_relation_discours–histoire → duration. Es unterteilt sich in die Kategorien
+<isochrony> und <anisochrony>, wobei nur <anisochrony> weitere Tags enthält.
+
+b. Operationalisierung <duration>
+Die Kategorie Dauer beschreibt Phänomene, die das Erzähltempo bzw. die Erzähl-
+geschwindigkeit betreﬀen. Dabei wird „[d]ie Zeitdauer eines Elements der Geschichte
+(der erzählten Zeit) [. . . ] in Beziehung gesetzt zu der Zeitdauer seiner Schilderung im
+Diskurs (der Erzählzeit)“ (Lahn und Meister, 2013, S. 143).
+
+Relevant ist bei der Analyse des Erzähltempos meist nicht das Verhältnis von erzählter
+Zeit zu Erzählzeit im Gesamttext, da Angaben der Art Seitenanzahl/Tag eher wenig
+aussagekräftig sind (hier kann man von absolutem Erzähltempo sprechen). Interessanter
+ist es vielmehr, die Variation im Erzähltempo in den einzelnen Textabschnitten zu
+analysieren, da die einzelnen Typen meist im Wechsel zum Einsatz kommen. Im
+Wesentlichen werden drei Typen des Erzähltempos unterschieden:
+
+• Zeitraﬀung: Hier ist die erzählte Zeit (histoire) deutlich länger als die Erzählzeit
+(discours). Es liegt also eine geringe Informationsmenge vor. Der Extremfall, in
+dem Zeiträume übersprungen und bestimmte Geschehenselemente nicht dargestellt
+werden, heißt „Ellipse“ bzw. „Aussparung“ oder „Zeitsprung“. Je nachdem, ob die
+Ellipse markiert oder unmarkiert ist, unterscheidet man weiter zwischen expliziter
+und impliziter Ellipse.
+
+• Zeitdeckendes bzw. synchrones Erzählen: Hier stimmen erzählte Zeit und Erzähl-
+zeit überein. Typischerweise ist das in längeren Dialogpassagen in direkter Rede
+der Fall.
+
+• Zeitdehnung: Hier ist die erzählte Zeit deutlich kürzer als die Erzählzeit. Es
+liegt also eine hohe Informationsmenge vor. Im Extremfall kommt es zu einer
+so genannten deskriptiven Pause, wenn der Eindruck entsteht, dass die Zeit
+stillsteht. Dies ist z. B. der Fall, wenn der Erzähler einen Kommentar oder eine
+Beschreibung einführt.
+
+Zeitdeckendes Erzählen ist demnach eine Isochronie, während Zeitraﬀung und Zeitdeh-
+nung Anisochronien sind. Das Tagset wird daher so aufgebaut, dass vorerst in diese zwei
+Kategorien unterschieden wird. In Anlehnung an die fünf Kategorien der Erzähldauer
+nach Lahn und Meister werden die Anisochronien weiter diﬀerenziert.
+
+Zum Überblick (Lahn und Meister, 2013, S. 146):
+
+61
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+• Ellipse: erzählte Zeit ∞ > Erzählzeit
+• Zeitraﬀung: erzählte Zeit > Erzählzeit
+• Zeitdeckendes Erzählen (Isochronie): erzählte Zeit = Erzählzeit
+• Zeitdehnung: erzählte Zeit < Erzählzeit
+• Deskriptive Pause: erzählte Zeit < ∞ Erzählzeit
+Eine besondere Eigenschaft der Kategorie Dauer besteht darin, dass Dauerphäno-
+mene für jede neu auftretende Erzählebene jeweils in Relation zu jeder bestehenden
+Ebene analysiert werden muss. So kann die Dauer einer Binnenerzählung mit einem
+neuen Erzähler beispielsweise zum einen daraufhin analysiert werden, mit welcher Ge-
+schwindigkeit der Redebeitrag des Binnenerzählers wiedergegeben wird – beispielsweise
+zeitdeckend, sofern er wörtlich zitiert wird. In diesem Fall wird die Dauer in Relation
+zur primären Erzählebene analysiert. Zum anderen kann die Dauer der fraglichen
+Passage jedoch auch danach analysiert werden, mit welcher Erzählgeschwindigkeit
+der Binnenerzähler im Rahmen seiner Binnenerzählung von Ereignissen berichtet –
+beispielsweise, um den Standardfall zu nennen, leicht geraﬀt. Dauer wird in diesem
+Fall in Relation zur sekundären Erzählebene analysiert. Ähnlich verhält es sich mit
+neuen Ebenen, die eine andere Welt beinhalten (= ontologische Ebenenüberschreitung),
+hier handelt es sich allerdings auf der primären Ebenen meist um eine Pause. Wie
+diese Ebenenabhängigkeit von Dauer im Untertagset <duration> umgesetzt ist, wird im
+Abschnitt „Richtlinien für die Annotation von <duration>“ erläutert (S. 63).
+
+Wie die Anwendung gezeigt hat, birgt die Kategorie Dauer noch einige Probleme, die
+eine robuste Anwendung des Dauer-Konzepts entweder generell erschweren oder aber
+weiter erforscht werden müssten, um die Reproduzierbarkeit von Dauer-Annotationen
+zu befördern:
+
+1. Generell ist es häuﬁg schwierig festzustellen, über welche Zeitspanne sich Ereignisse
+in der ﬁktiven Welt erstrecken. Da Dauer die Relation zwischen Zeitspannen in
+der ﬁktiven Welt und Erzählzeit beschreibt, wird die Anwendung dieser Kategorie
+somit nicht selten zu einer tentativen Angelegenheit.
+
+2. Um Dauer robust analysieren zu können, wäre es weiterhin eigentlich notwendig,
+einen geeigneten Ereignisbegriﬀ zu deﬁnieren, um herauszuﬁnden, was jeweils als
+kleinste Ereigniseinheit verstanden wird. Diese Frage ist beispielsweise relevant,
+um Ellipsen sinnvoll bestimmen zu können: Ab welcher Größenordnung gilt die
+Aussparung einer Zustandsveränderung aus der Erzählung als Ellipse?
+
+3. Es ist ein bisher nicht ausreichend beachtetes Problem, dass die Analyse der
+Dauer deutlich von der Segmentierung eines Textes abhängt: Die Einschätzung
+der Erzähldauer variiert je nachdem, wie lang die Textpassage ist, für die die
+Dauer bestimmt werden soll.
+
+4. Dauer müsste eventuell relational zum noch genauer zu bestimmenden Konzept
+der Handlungsstränge analysiert werden: Nicht selten wird in narrativen Texten
+
+62
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+das, was wir tentativ als „Haupterzählung“ bezeichnen würden, durch Einschübe
+unterbrochen, in denen von weniger zentralen ‘Nebenhandlungen’ berichtet wird.
+In Relation zur ‘Haupterzählung’ würde ein solcher Einschub eine Erzählpause
+darstellen – allerdings kann die Erzähldauer auch separat für den Einschub selbst
+bestimmt werden. Denkbar ist hier eine Handhabung vergleichbar zu derjenigen,
+die wir oben für die Dauer-Analyse relational zu narrativen Ebenen vorgestellt
+haben.
+
+5. Ein Problem, das mit dem unterschiedlicher Handlungsstränge verwandt zu sein
+scheint, ergibt sich, wenn dieselbe Zeitspanne mehrmals mit jeweils unterschiedli-
+chem Fokus erzählt wird, ohne dass sich Ort, Zeit und Personal ändern. Möglich
+erscheint hier die Handhabung, die Wiederholung als Pause zu betrachten, da
+gewissermaßen kein ‘neuer Teil’ des Zeitstrahls der Geschichte abgedeckt wird.
+Allerdings erscheint diese Regelung nicht unproblematisch. Hier sind also wei-
+tere Untersuchungen, auch unter Einbeziehung von Frequenz-Phänomenen wie
+Repetition, erforderlich.
+
+c. Tagset <duration>
+
+Abbildung 11: Untertagset <duration>
+
+d. Richtlinien für die Annotation von <duration>
+Allgemein gültige Hinweise
+
+• Tagstring allgemein: Annotiert werden Textpassagen (mindestens Teilsätze).
+Wenn zwei Passagen mit dem gleichen Dauerphänomen aneinander anschließen,
+dann ist es sinnvoll, dennoch zwei einzelne Tags zu vergeben, sofern sich die Pas-
+sagen inhaltlich voneinander abgrenzen lassen oder das fragliche Dauerphänomen
+in verschiedener Ausprägung vorkommt (z. B. stark geraﬀtes vs. leicht geraﬀtes
+Erzählen.
+
+Hinweise für einzelne Tags oder Untersets
+<isochrony> (Zeitdeckendes Erzählen)
+• Tagbeschreibung: Zeitdeckendes Erzählen liegt in Passagen vor, in denen er-
+zählte Zeit und Erzählzeit übereinstimmen. Das ist beispielsweise in längeren
+
+63
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+Passagen wörtlicher Rede der Fall – dies gilt für die Dauer der Sprechaktwie-
+dergabe und stellt damit eine Daueranalyse relativ zur primären Erzählebene
+dar.
+
+• Indikatoren: zitierte Rede
+• Beispiel:34
+
+– „‘Drei! Nicht wahr?’ ‘Ja! Erst!!’ ‘Schön! . . . Ist noch Bier da?’ ‘Ja! Ich glaube.’
+Jens ging nachsehn. Seine dicken Filzsocken machten seine Schritte unhörbar.
+Vor dem Bette blieb er einen Augenblick stehn. ‘Du! Vielleicht wird’s doch
+besser!’ Olaf zuckte nur die Achseln. Eins . . . zwei . . . drei . . . fünf Stück noch.
+‘Dir auch eine?’ ‘Nein! Danke!’ ‘Aah! das tut wohl! – Übrigens . . . scheußlicher
+Muﬀ hier!’ ‘Ja! Zum Zerschneiden!’ ‘Schauderhaft! Schauderhaft! ’“ (Ein
+Tod)
+
+<anisochrony> (Nicht-zeitdeckendes Erzählen)
+• Tagbeschreibung: Nicht-zeitdeckendes Erzählen liegt in Passagen vor, in denen
+die erzählte Zeit länger (<summary>) oder kürzer ist (<scene>) als die Erzählzeit.
+– <summary>: <summary> liegt vor, wenn zeitraﬀend erzählt wird, d.h. wenn
+in kurzer Zeit viele Ereignisse berichtet werden. Eine Extremform des zeitraf-
+fenden Erzählens stellt der Zeitsprung dar, der als <ellipsis>in Form eines
+Untertags für <summary> operationalisiert ist. Ein Zeitsprung liegt dann
+vor, wenn Ereignisse von der Erzählung übersprungen werden. Dabei gelten
+allerdings rein inhaltliche Auslassungen nicht als Ellipse, z. B. das Übergehen
+einer bestimmten (wenn auch ggf. relevanten) Eigenschaft eines Ereignisses,
+von dem insgesamt aber berichtet wird – für das Vorliegen einer Ellipse ist
+es notwendig, dass ein Teil des Zeitstrahls der Geschichte gar nicht erzählt
+wird.
+Zeitsprünge werden weiter danach diﬀerenziert, ob sie explizit oder implizit
+im Text vorliegen (mithilfe der Werte [explicit] und [implicit] der Proper-
+ty ELLIPSIS_TYPE). Da implizite Ellipsen nicht an der Textoberﬂäche
+festgemacht werden können, wird das Tag für sie einem Leerzeichen an
+der betreﬀenden Position im Text zugewiesen.35 Satzzeichen, die Ellipsen
+anzeigen, werden dabei als implizite Ellipsen gewertet. Da implizite Ellipsen
+nicht sprachlich kodiert sind, werden hier – sofern sie nicht durch Satzzeichen
+repräsentiert werden, Leerzeichen annotiert.
+
+– <scene>: <scene> liegt vor, wenn zeitdehnend erzählt wird, d.h. wenn viel
+Zeit aufgewandt wird, um von wenigen Ereignissen zu berichten. Eine Ex-
+tremform des zeitdehnenden Erzählens stellt die Pause, die als <pause> in
+
+34Hier liegt zeitdeckendes Erzählen auf der Ebene der <primary_narration> vor.
+35Oft ist die Abgrenzung zwischen einer Raﬀung und einer Ellipse nicht allzu einfach zu bestimmen – im
+eigentlichen Sinne sind nur solche Sätze raﬀend, in denen Ereignisse tatsächlich zusammengefasst
+werden, ohne dass dabei temporale Auslassungen vorliegen. Wählt man als Analysesegmente
+allerdings nicht Sätze, sondern längere Abschnitte, so können auch Passagen, die durch viele
+Ellipsen gekennzeichnet sind, als zeitraﬀend eingeordnet werden.
+
+64
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+Form eines Untertags für <scene> operationalisiert ist. Eine Pause liegt dann
+vor, wenn die Erzählung von Ereignissen unterbrochen wird, beispielsweise
+durch deskriptive Einschübe, wertende Kommentare oder Kapitelüberschrif-
+ten36. Zu unterscheiden sind allerdings solche deskriptiven Einschübe, die
+mit (impliziten) Zeitinformationen einhergehen, von solchen, die ohne sol-
+che Marker vorkommen: Nur bei letzteren handelt es sich durchweg um
+Erzählpausen. Werden dagegen Zustände mit identiﬁzierbarer zeitlicher Aus-
+dehnung geschildert (z. B. „Drei Tage lang blieb ihr Zimmer unverändert“),
+dann können auch andere Dauerphänomene vorliegen (– im hier angeführten
+Beispiel wird raﬀend erzählt).
+Wie oben angemerkt, muss Dauer muss in Passagen, in denen zusätzliche
+illokutionäre Ebenen auftreten, jeweils in Relation zu jeder Ebene analysiert
+werden. Dafür wird eine Property für alle Dauer-Kategorien angelegt, die
+NARRATIVE_LEVEL heißt und für die als Wert jeweils die Ebene bestimmt
+wird, in Bezug auf welche das jeweilige <duration>-Tag zu verstehen ist.
+Für jede Passage mit zusätzlicher Ebene wird dann zum einen die Dauer
+der Sprechakt-Wiedergabe bestimmt (Propertywert [primary_narration])
+und zum anderen die Dauer der auf der neuen Ebene erzählten Geschichte
+(Propertywert [secondary_narration]).
+
+• Indikatoren:
+
+– Adjektive, die die Dauer von Ereignissen anzeigen
+– Zeitausdrücke, die Zeitspannen oder Zeitsprünge anzeigen
+– Metanarration
+
+• Beispiele:
+
+– <summary>: „Acht Wochen habe ich in dieser Entlegenheit verlebt“ (Traum-
+
+land. Eine Episode.)
+
+– <ellipsis> [explicit]: „So war ein Jahr vorübergegangen.“ (Der Pokal)
+– <ellipsis> [implicit]: „[. . . ] ich stürzte besinnungslos zu Boden. Als ich die
+Augen wieder aufschlug, lag ich ruhig in dem Gasthofe »Zum goldenen
+Zeitgeist« im Bett.“ (Auch ich war in Arkadien)
+
+– <scene>: „Ich trat an das Fenster und bemerkte – obgleich wir uns im zweiten
+Stockwerk befanden – dicht vor den Scheiben ein gewaltiges, störriges und
+sträubiges Roß, das mit ﬂatternder Mähne in der Luft zu schweben schien.“
+(Auch ich war in Arkadien)
+
+36Oft ist die Abgrenzung zwischen einer Dehnung und einer Pause nicht allzu einfach zu bestimmen
+– im eigentlichen Sinne sind nur solche Sätze zeitdehnend, in denen für die Schilderung von
+Ereignissen mehr Zeit aufgewendet wird, als das Ereignis dauert. Wird dagegen die Schilderung
+von Ereignissen unterbrochen, um Zustände zu beschreiben, dann liegt eine Pause vor. Wählt man
+als Analysesegmente allerdings nicht Sätze, sondern längere Abschnitte, so können auch Passagen,
+die durch viele Pausen gekennzeichnet sind, als zeitdehnend eingeordnet werden.
+
+65
+
+2.5 Zeitliches Verhältnis zwischen discours und histoire
+
+– <pause>: „Albert schloß endlich auf und sagte: »Nun sind wir zur Stelle.«
+Ein großes hohes Zimmer empﬁng sie, das mit rotem Damast ausgeschlagen
+war, den goldene Leisten einfaßten, die Sessel waren von dem nämlichen
+Zeuge, und durch rote schwerseidne Vorhänge, welche niedergelassen waren,
+schimmerte ein purpurnes Licht. »Verweilt einen Augenblick«, sagte der Alte,
+indem er in ein anderes Gemach ging.“ (Der Pokal)
+
+e. Überblick <duration>
+Tagstring
+
+Unmarkierter Fall
+
+• Textabschnitte – Mindestgröße: Teilsatz
+
+• %
+
+Indikatoren auf der Textoberﬂäche
+
+Indikator für zeitraﬀendes Erzählen)
+
+• Zitierte Rede (Indikator für zeitdeckendes Erzählen).
+• Ausdrücke, die die Dauer von Ereignissen beschreiben (z. B. „langsam“ →
+• Bestimmte Zeitausdrücke (z. B. „einige Jahre später“ → Indikator für
+• Metanarration (z. B. Erzählerkommentare → Indikator für zeitdehnendes
+
+Zeitsprünge)
+
+Erzählen bzw. Erzählpausen)
+
+Tagging-Routine
+
+Ebene.
+
+1. Annotation aller Textpassagen in Bezug auf die Erzähldauer der primären
+
+2. Schritt-für-Schritt-Annotation der Dauer aller weiteren Ebenen.
+
+Beispiele
+
+land. Eine Episode.)
+
+aufschlug [. . . ]“ (Auch ich war in Arkadien)
+
+• <isochrony>: „‘Drei! Nicht wahr?’ ‘Ja! Erst!!’ ‘Schön! . . . Ist noch Bier da?’
+‘Ja! Ich glaube.’“ (Ein Tod)
+• <summary>: „Acht Wochen habe ich in dieser Entlegenheit verlebt“ (Traum-
+• <ellipsis>: „[. . . ] ich stürzte besinnungslos zu Boden. Als ich die Augen wieder
+• <scene>: „Ich trat an das Fenster und bemerkte – obgleich wir uns im zweiten
+Stockwerk befanden – dicht vor den Scheiben ein gewaltiges, störriges und
+sträubiges Roß, das mit ﬂatternder Mähne in der Luft zu schweben schien.“
+(Auch ich war in Arkadien)
+• <pause>: „Ein großes hohes Zimmer empﬁng sie, das mit rotem Damast
+ausgeschlagen war, den goldene Leisten einfaßten, die Sessel waren von dem
+nämlichen Zeuge, und durch rote schwerseidne Vorhänge, welche niedergelas-
+sen waren, schimmerte ein purpurnes Licht.“ (Der Pokal)
+
+66
+
+Literatur
+
+Literatur
+Auerbach, B. (1893). Die Kriegspfeife. In: Gesammelte Schriften, 2.Gesamtausgabe,
+
+Bd. 1. Stuttgart: Cotta.
+
+Bögel, T., Gertz, M., Gius, E., Jacke, J., Meister, J. C., Petris, M. und Strötgen, J.
+(2015). Collaborative Text Annotation Meets Machine Learning. heureCLÉA, a
+Digital Heuristic of Narrative. In: DH Commons Journal, Bd. 1.
+
+Christen, A. (1964). Nachbar Krippelmacher. In: Kraze, Hanna-Heide, Hg., Das Haus
+zur Blauen Gans. Erzählungen und Gedichte. Berlin: Union Verlag. First published
+1884.
+
+Coste, D. und Pier, J. (2011). Narrative Levels. In: Hühn, P., Pier, J., Schmid, W.
+und Schönert, J., Hg., The Living Handbook of Narratology. Hamburg: Hamburg
+University Press.
+
+Ebner-Eschenbach, M. v. (1958). Krambambuli und andere Tiergeschichten. Nr. 71 in
+
+Hamburger Lesehefte. Hamburg: Hamburger Lesehefte Verlag.
+
+Eichendorﬀ, J. v. (1970). Auch ich war in Arkadien. In: Hillach, Ansgar, Hg., Werke.
+
+München: Winkler. First published 1866.
+
+Faulkner, W. (2012). Crevasse. In: These 13: Stories by William Faulkner. New York:
+
+Random House.
+
+Frapan, I. (1908). Die Liebe ist gerettet. In: Zwischen Elbe und Alster. Hamburger
+
+Novellen. Berlin: Gebrüder Paetel, 3rd Auﬂ.
+
+Genette, G. (1998). Die Erzählung. München: Fink.
+Gius, E. (2015). Erzählen über Konﬂikte. Ein Beitrag zur digitalen Narratologie. Berlin:
+
+de Gruyter.
+
+Hallstein, P. (1997). Die Zeitstruktur in narrativen Texten: am Beispiel von E.T.A.
+Hoﬀmanns “Das Majorat” und Achim von Arnims “Die Majoratsherren”. München:
+Belleville.
+
+Hebbel, F. (1963). Matteo. In: Fricke, Gerhard, Keller, Werner und Pörnbacher, Karl,
+
+Hg., Werke. München: Hanser. First published 1841.
+
+Hemingway, E. (1950). Die Mutter eines Schwulen. In: 49 Stories. Hamburg: Rowohlt.
+
+First published 1933.
+
+Heym, G. (1911). Ein Nachmittag. Hamburg, München: Ellermann.
+Hoﬀmann, E.T.A. (1912). Lebensansichten des Katers Murr. Hamburg: Alfred Janssen.
+Hoﬀmansthal, H. v. (1979). Reitergeschichte. In: Schoeller, Bernd und Hirsch, Rudolf,
+Hg., Gesammelte Werke in zehn Einzelbänden. Erzählungen, Erfundene Gespräche
+und Briefe, Reisen. Frankfurt a.M.: S. Fischer. First published 1899.
+
+67
+
+Literatur
+
+Holz, A. und Schlaf, J. (1979). Ein Tod. In: Papa Hamlet. Frankfurt a.M.: Suhrkamp.
+Jacke, J. (2014). Is There a Context-Free Way of Understanding Texts? The Case of
+
+Structuralist Narratology. In: Journal of Literary Theory, Bd. 8(1):118 – 139.
+
+Jahn, M. (2005). Narratology: A Guide to the Theory of Narrative. Köln: Universität
+
+Köln.
+
+Lahn, S. und Meister, J. C. (2013). Einführung in die Erzähltextanalyse. Stuttgart,
+
+Weimar: Metzler.
+
+Maamouri, M., Bies, A. und Kulick, S. (2008). Enhancing the Arabic Treebank. A
+
+Collaborative Eﬀort toward New Annotation Guidelines. Marrakech.
+
+Mann, T. (2004). Der Tod. In: Detering, Heinrich, et al. und Reed, Terence J., Hg.,
+Große kommentierte Frankfurter Ausgabe. Werke – Briefe –Tagebücher, Bd. 2.1:
+Frühe Erzählungen. 1893–1912. Frankfurt a.M.: S. Fischer. First published 1897.
+
+Margolin, U. (2012). Narrator. In: Hühn, P., Pier, J., Schmid, W. und Schönert, J.,
+
+Hg., The Living Handbook of Narratology. Hamburg: Hamburg University Press.
+
+Modrow, L. (2016). Wie Songs erzählen. Eine computergestützte, intermediale Analyse
+
+der Narrativität. Frankfurt a.M. [u.a.]: Peter Lang.
+
+Nelles, W. (1997). Frameworks: narrative levels and embedded narrative. New York
+
+[u.a.]: Peter Lang.
+
+Proelß, J. (1883). Lili. In: Katastrophen. Poetische Bilder aus unserer Zeit. Stuttgart:
+
+Adolph Bonz und Comp.
+
+Pyysalo, S. und Ginter, F. (2014). Collaborative development of annotation guidelines
+
+with application to Universal Dependencies. Uppsala.
+
+Gräﬁn zu Reventlow, F. (1980). Das polierte Männchen. In: Reventlow, Else, Hg.,
+Autobiographisches. Ellen Olestjerne. Novellen, Schriften, Selbstzeugnisse. München:
+Langen Müller. First published 1917.
+
+Rilke, R.M. (1955). Die Turnstunde. In: Sieber-Rilke, Ruth und Rilke-Archiv, Hg.,
+
+Sämtliche Werke. Wiesbaden, Frankfurt a.M.: Insel. First published 1902.
+
+Rimmon-Kenan, S. (2004). Narrative ﬁction. London, New York: Routledge, 2nd Auﬂ.
+Ringelnatz, J. (1994). Nervosipopel. In: Pape, Walter, Hg., Das Gesamtwerk in sieben
+
+Bänden. Zürich: Diogenes. First published 1921.
+
+Romberg, B. (1962). Studies in the Narrative Technique of the First-Person Novel.
+
+Stockholm: Almqvist & Wiksell.
+
+Ryan, M.-L. (1991). Possible worlds, artiﬁcial intelligence, and narrative theory.
+
+Bloomington: Indiana University Press.
+
+68
+
+Literatur
+
+Schmid, W. (2008). Elemente der Narratologie. Berlin [u.a]: de Gruyter, 2nd Auﬂ.
+Schnitzler, A. (2004). Blumen. In: Arnold, Heinz Arnold, Hg., Ausgewählte Werke in
+acht Bänden, Bd. vol. 1: Leutnant Gustl. Erzählungen 1892–1907. Frankfurt a.M.: S.
+Fischer. First published 1894.
+
+Steube, A. (1980). Temporale Bedeutung im Deutschen. Akademie-Verlag.
+Storm, T. (1967). Veronika. In: Goldammer, Peter, Hg., Sämtliche Werke in vier
+
+Bänden. Berlin, Weimar: Aufbau. First published 1861.
+
+Tieck, L. (1963). Der Pokal. In: Thalmann, Marianne, Hg., Werke in vier Bänden.
+
+München: Winkler. First published 1812.
+
+de Toro, A. (1986). Die Zeitstruktur im Gegenwartsroman: am Beispiel von G. García
+Márquez’ Cien años de soledad, M. Vargas-Llosas La casa verde & A. Robbe-Grillets
+La maison de rendez-vous. Tübingen: G. Narr.
+
+Trakl, G. (1972). Traumland. Eine Episode. In: Killy, Walther, Szklenar, Hans und
+Kur, Friedrich, Hg., Das dichterische Werk. München: Deutscher Taschenbuchverlag.
+First published 1906.
+
+Wedekind, F. (1969). Die Schutzimpfung. In: Werke in drei Bänden, Bd. vol. 3: Prosa.
+
+Berlin, Weimar: Aufbau. First published 1903.
+
+Weimar, K. (1974). Kritische Bemerkungen zur «Logik der Dichtung». In: Deutsche
+Vierteljahrsschrift für Literaturwissenschaft und Geistesgeschichte, Bd. 48:10 – 24.
+
+69
+
+A Anhang: Dokumentation der Tagset-Nutzung im Projekt heureCLÉA
+
+A Anhang: Dokumentation der Tagset-Nutzung im
+
+Projekt heureCLÉA
+
+A.1 Narrative Ebenen
+A.1.1 genutzte Tags
+In der ﬁnalen Annotationsphase in heureCLÉA wurden alle Tags des Untertagsets
+genutzt.
+
+A.1.2 Annotationsprozess
+In der ersten Annotationsphase für die temporalen Phänomene wurde auf eine vor-
+herige Annotation der narrativen Ebenen verzichtet. Da dies für einige Kategorien
+zu unbefriedigenden Ergebnissen führte, wurde für die zweite Annotationsphase eine
+Analyse der narrativen Ebenen vorgenommen.
+
+A.2 Tempus
+A.2.1 genutzte Tags
+In der letzten Annotationsphase in heureCLÉA wurden ausschließlich die Tags zur
+Bestimmung des grammatischen Tempus und das <undefined>-Tag genutzt.
+
+A.2.2 Annotationsprozess
+Zunächst wurde das gesamte <tenses>-Tagset für die Annotation der Texte genutzt.
+Lediglich <undefined> war zu Beginn noch nicht Teil des Tagsets. Der Tagstring für die
+Annotation des grammatischen Tempus war jeweils eine Textpassage, die erst dann
+endete, wenn ein neues Tempus vorlag. Für jeden Text wurde zudem ein default-Tempus
+gewählt, meist Präteritum und Perfekt, das nicht annotiert wurde. Ebenfalls nicht
+annotiert wurden Sätze im Imperativ. Für Konjunktive und Teilsätze ohne vollständiges
+Prädikat galt die Faustregel, dass sie nur dann getaggt werden, wenn sie im Kontext eines
+Tempus stehen (d.h. als Nebensatz oder zwischen Sätzen im entsprechenden Tempus,
+ohne dass ein Tempuswechsel in der inﬁniten Formen ersichtlich ist). Andernfalls wurden
+sie nicht getaggt.
+
+Nachdem einige Texte diesen Regeln entsprechend mithilfe des Tagsets annotiert
+worden waren, wurde auf die weitere Annotation des Tempus auf Basis der Annahme
+verzichtet, dass dieses einfache Phänomen bereits maschinell annotiert werden könne.
+Später wurde die Annotation von Tempus wieder aufgenommen, um doch auch
+für dieses einfachere Phänomen Machine Learning zu testen. Die Annotationsregeln
+wurden für diese zweite Phase deutlich detaillierter formuliert, um maximale Vergleich-
+barkeit der Annotationen zu gewährleisten. Dafür war es zum einen notwendig, das
+<undefined>-Tag einzuführen, da die bloße Nicht-Annotation bestimmter Phänomene
+oﬀen lässt, ob ein/e Annotator/in die jeweilige Passage lediglich übersehen hat oder
+
+70
+
+A.3 Zeitausdrücke
+
+ob sie/er die Annotation bewusst unterlassen hat. Um maximale Genauigkeit zu ge-
+währleisten, wurde außerdem von der default-Setzung eines Tempus abgesehen und alle
+Tempora wurden annotiert. Auch die Regeln zur Länge des Tagstrings wurden genauer
+formuliert. Auf die Annotation interpretativerer Tempusphänomene wie semantisches
+Tempus, Präsensfunktion und Tempuswechsel wurde verzichtet. Für ein besonders
+arbeitsökonomisches Vorgehen wurde entschieden, dass jeweils nur 30 Prozent jedes
+Textes mithilfe des <tenses>-Tagsets annotiert werden sollen, da die als Datengrundlage
+ausreichend ist.
+
+A.3 Zeitausdrücke
+A.3.1 genutzte Tags
+In der ﬁnalen Annotationsphase wurden in heureCLÉA nur die im Haupttext genannten
+Tags zur Bestimmung expliziter Zeitausdrücke genutzt.
+
+A.3.2 Annotationsprozess
+In der ersten Annotationsphase wurden sowohl explizite als auch implizite Zeitausdrücke
+bestimmt. Für die Annotation expliziter Zeitausdrücke wurde mit folgendem deutlich
+diﬀerenzierten Untertagset gearbeitet.
+
+Abbildung 12: Ursprüngliches Untertagset <explicit-time-representation>
+
+In diesem Tagset wurden Zeitpunkte weiter diﬀerenziert in nicht-relative Zeitpunkte
+einerseits und relationale Zeitpunkte andererseits. Nicht-relative Zeitpunkte sind absolut
+bzw. beziehungslos, d.h. sie sind nicht durch die Bezugnahme auf andere Zeitpunkte oder
+Ereignisse bestimmt. Nicht-relative Zeitpunkte können entweder vollständig oder un-
+vollständig sein. Vollständig sind sie, wenn alle Slots einer Datumsangabe (TT.MM.JJ)
+oder TT.MM.JJJJ) ausgefüllt werden können. Bei unvollständigen Zeitausdrücken
+dagegen können nur einige oder keiner dieser Slots ausgefüllt werden.
+
+Relationale Zeitpunkte sind durch die Bezugnahme auf andere Zeitpunkte oder
+Ereignisse bestimmt. Dabei können sie entweder durch die Bezugnahme auf ein Ereignis
+
+71
+
+A.4 Zeitpunkt des Erzählens
+
+bestimmt sein (im Rahmen einer adverbiellen Bestimmung oder in einem tempora-
+len Nebensatz – diese werden mit <relational_time-point> annotiert) oder durch ihren
+Äußerungszeitpunkt oder durch einen intratextuellen Bezug. Sind sie durch den Äu-
+ßerungszeitpunkt bestimmt, werden sie als deiktisch annotiert; wenn sie durch einen
+intratextuellen Bezug bestimmt sind, werden sie als anaphorisch annotiert.
+
+Für deiktische und anaphorische Zeitausdrücke wurde mithilfe der Tageigenschaft
+REFERENCE_DIRECTION die Verweisrichtung ausgezeichnet. Mit ihr kann angege-
+ben werden, ob eine deiktische bzw. anaphorische Zeitangabe nach vorne ([forwards]),
+nach hinten ([backwards]) oder aber auf den aktuellen Zeitpunkt bzw. die aktuelle
+Zeitspanne ([current_point] bzw. [current_span]) bezogen ist.
+
+Eine entsprechende Unterdiﬀerenzierung lag auch für Zeitspannen vor. Zeitspannen
+werden anhand der sie begrenzenden Zeitpunkte kategorisiert. Nur wenn eine Zeitspanne
+durch zwei vollständige Zeitpunkte deﬁniert wird, handelt es sich um eine vollständige
+Zeitspanne. Nur wenn sie durch zwei nicht-relative Zeitpunkte deﬁniert wird, handelt
+es sich um eine nicht-relative Zeitspanne etc. Wird nur die Dauer einer Zeitspanne
+angegeben, handelt es sich um unvollständige und meist nicht-relationale Zeitspannen.
+Zwar ermöglicht dieses ursprüngliche Tagset eine detailliertere Bestimmung von
+Zeitausdrücken als das aktuell in heureCLÉA genutzte Tagset. Jedoch hat die Da-
+tenanalyse der ersten Annotationsphase gezeigt, dass die einzelnen Unterkategorien
+deﬁnitorisch oft nicht eindeutig genug voneinander getrennt sind. Dadurch lagen zu oft
+uneinheitliche Annotationen derselben Textstelle vor. Deswegen wurde das Untertagset
+in seiner Komplexität so reduziert, dass nur noch Kategorien enthalten sind, deren
+Abgrenzung voneinander eindeutig bestimmbar ist. In heureCLÉA wurden außerdem
+keine impliziten Zeitangaben annotiert.
+
+A.4 Zeitpunkt des Erzählens
+A.4.1 genutzte Tags
+Das Untertagset zur Analyse des Erzählzeitpunktes wurde in der ﬁnalen Annotations-
+phase in heureCLÉA nicht genutzt. Dieses Unterset konnte deswegen nicht im gleichen
+Maße optimiert werden wie die anderen hier beschriebenen Untertagsets.
+
+A.4.2 Annotationsprozess
+In der ersten Annotationsphase ergaben sich Schwierigkeiten im Hinblick auf die
+Bestimmung der Properties ANTERIORITY_STANDPOINT und RETROSPECTI-
+VE_ACTUALITY. Beide Schwierigkeiten schienen, zumindest unter anderem, mit der
+genaueren Bestimmung möglicher Binnenerzählungen zusammenzuhängen, weshalb
+vor der Bestimmung des Zeitpunkt des Erzählens narrative Ebenen bestimmt werden
+sollten.
+
+72
+
+A.5 Ordnung
+
+A.5 Ordnung
+A.5.1 genutzte Tags
+In der ﬁnalen Annotationsphase wurde das Simullepse-Tag nicht genutzt. Das liegt
+daran, dass das Konzept der Simullepse unterspeziﬁziert ist.
+
+A.5.2 Annotationsprozess
+In der ersten Annotationsphase waren einige Tagdeﬁnitionen noch nicht eindeutig
+genug formuliert, so dass nicht für alle Textstellen eine regelgeleitete Kategorisierung
+möglich war. Außerdem wurden in dieser ersten Phase die Tags des Tagsets <order>
+auf das Korpus angewendet, ohne mögliche narrative Ebenenüberschreitungen dabei zu
+beachten. Daraus resultierten einige unbefriedigende Ergebnisse.
+
+Für die zweite Taggingphase wurden die Tagdeﬁnitionen präzisiert. Außerdem erfolgte
+eine Annotation der narrativen Ebenen, so dass die zeitliche Ordnung für die jeweiligen
+narrativen Ebenen einzeln analysiert werden konnte.
+
+A.6 Frequenz
+A.6.1 genutzte Tags
+In der ﬁnalen Annotationsphase wurden alle Tags des Untertagsets genutzt.
+
+A.6.2 Annotationsprozess
+Außer dem grundsätzlichen Problem, dass nicht ganz klar ist, welches Maß an Ähnlich-
+keit zweier Ereignisse für multi-singulatives und iteratives Erzählen erforderlich ist,
+haben sich bei der Annotation keine Schwierigkeiten ergeben.
+
+A.7 Dauer
+A.7.1 genutzte Tags
+In der ﬁnalen Annotationsphase wurden alle Tags des Untertagsets genutzt.
+
+A.7.2 Annotationsprozess
+In der ersten Annotationsphase wurden die Texte des Korpus zunächst auf die Er-
+zähldauer hin analysiert. Dabei sind zum einen die vielen ungeklärten Probleme oﬀen-
+kundig geworden, die eine regelgeleitete Annotation der Erzähldauer erschweren. Zum
+anderen verdeutlichte diese Testphase die starke Abhängigkeit der Dauer-Analyse von
+narrativen Ebenen.
+
+Da viele der theoretischen und praktischen Probleme der Dauer-Analyse nicht
+vollkommen in heureCLÉA geklärt werden konnte, bleiben die generierten Dauer-
+Annotationen notwendigerweise in Teilen tentativ. Die Abhängigkeit der Dauer-Analyse
+
+73
+
+A.7 Dauer
+
+von narrativen Ebenen wurde intensiv analysiert und hat zu wichtigen Anpassun-
+gen des Tagsets geführt. Im heureCLÉA-Korpus wurden Dauer-Phänomene allerdings
+ausschließlich in Relation zur primären Erzählebene analysiert.
+
+74
+
+

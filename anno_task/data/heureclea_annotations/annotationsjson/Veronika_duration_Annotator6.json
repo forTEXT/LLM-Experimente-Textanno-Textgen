@@ -1,0 +1,2226 @@
+[
+  {
+    "anno_id": "dd10b903-d073-4563-a808-53231dcad8cf",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 34,
+    "end": 82,
+    "text": "Es war zu Anfang April, am Tage vor Palmsonntag."
+  },
+  {
+    "anno_id": "5ec29937-93fc-4c00-a7d9-d1b4cf791e63",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 83,
+    "end": 233,
+    "text": "Die milden Strahlen der schon tief stehenden Sonne beschienen das junge Gr\u00fcn an der Seite des Weges, der an einer Berglehne allm\u00e4hlich abw\u00e4rts f\u00fchrte."
+  },
+  {
+    "anno_id": "50787ecb-1cba-4c04-9f58-46569bb44545",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 234,
+    "end": 318,
+    "text": "Auf demselben ging in diesem Augenblick einer der angesehensten Advokaten der Stadt,"
+  },
+  {
+    "anno_id": "50787ecb-1cba-4c04-9f58-46569bb44545",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 408,
+    "end": 540,
+    "text": "nur mitunter ein Wort mit dem neben ihm gehenden Schreiber wechselnd. Das Ziel ihrer Wanderung war eine unfern belegene Wasserm\u00fchle,"
+  },
+  {
+    "anno_id": "6ed7adce-8bc5-4f88-b6f6-6b19b135b3eb",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 319,
+    "end": 407,
+    "text": "ein Mann mittleren Alters, mit ruhigen, aber ausgepr\u00e4gten Z\u00fcgen, gem\u00e4chlichen Schrittes,"
+  },
+  {
+    "anno_id": "f213c1c3-3bad-4494-9cad-c48a89cd14ec",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 541,
+    "end": 645,
+    "text": "deren durch Alter und Krankheit geplagter Besitzer dieselbe seinem Sohne kontraktlich \u00fcberlassen wollte."
+  },
+  {
+    "anno_id": "e228b250-0e0e-4ead-ae41-7f18103cf8e9",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 647,
+    "end": 708,
+    "text": "Wenige Schritte zur\u00fcck folgte diesen beiden ein anderes Paar;"
+  },
+  {
+    "anno_id": "bd2fe273-125c-43c4-990c-c42567c11b22",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 709,
+    "end": 815,
+    "text": "neben einem jungen Manne mit frischem, intelligentem Antlitz ging eine sch\u00f6ne, noch sehr jugendliche Frau."
+  },
+  {
+    "anno_id": "1d143aca-e655-4930-a944-1f30e46f49c4",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 816,
+    "end": 929,
+    "text": "Er sprach zu ihr; aber sie schien es nicht zu h\u00f6ren; aus ihren dunkeln Augen blickte sie schweigend vor sich hin,"
+  },
+  {
+    "anno_id": "06fc6179-325f-4948-bfee-7af1f6f6eebc",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 930,
+    "end": 982,
+    "text": "als wisse sie nicht, da\u00df jemand an ihrer Seite gehe."
+  },
+  {
+    "anno_id": "1fc91b18-c51d-4a61-bebe-531318332931",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 984,
+    "end": 1078,
+    "text": "Als das Geh\u00f6ft des M\u00fcllers unten im Tale sichtbar wurde, wandte der Justizrat den Kopf zur\u00fcck."
+  },
+  {
+    "anno_id": "e31d087a-dd61-426b-b0de-1eff2a74c5dc",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 1079,
+    "end": 1093,
+    "text": "\u00bbNun, Vetter\u00ab,"
+  },
+  {
+    "anno_id": "1e5fd3f1-229b-42fa-a58d-cbab4b1b5f2e",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 1094,
+    "end": 1102,
+    "text": "rief er,"
+  },
+  {
+    "anno_id": "83c71a17-c8fa-4a9c-869f-4a10134f526a",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 1103,
+    "end": 1196,
+    "text": "\u00bbdu hast eine leidliche Handschrift; wie w\u00e4r es, wenn du ein wenig Kontraktemachen lerntest?\u00ab"
+  },
+  {
+    "anno_id": "7f7d9d57-8115-4332-a7c5-6066b1deb52e",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 1198,
+    "end": 1244,
+    "text": "Aber der Vetter winkte abwehrend mit der Hand."
+  },
+  {
+    "anno_id": "561af8e7-f941-4b85-9282-85dc8d3ed4e8",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 1245,
+    "end": 1256,
+    "text": "\u00bbGeht nur!\u00ab"
+  },
+  {
+    "anno_id": "f5bf6347-816c-44d9-8fd8-3cc5468e5b3d",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 1257,
+    "end": 1308,
+    "text": "sagte er und blickte fragend auf seine Begleiterin,"
+  },
+  {
+    "anno_id": "2b432c8d-a176-43b2-a60c-953ecf20d8d3",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 1309,
+    "end": 1361,
+    "text": "\u00bbich nehme indes eine Sprechstunde bei deiner Frau!\u00ab"
+  },
+  {
+    "anno_id": "8e8e3c43-0a15-412c-b950-de4dcc77d3a1",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 1363,
+    "end": 1416,
+    "text": "\u00bbSo mach ihn wenigstens nicht gar zu klug, Veronika!\u00ab"
+  },
+  {
+    "anno_id": "f673768f-d064-45ab-89d3-6a1dc4cec0cd",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 1418,
+    "end": 1468,
+    "text": "Die junge Frau neigte nur wie zustimmend den Kopf."
+  },
+  {
+    "anno_id": "3de7c3e1-fc89-4214-8d42-951be5c6056f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 1471,
+    "end": 1545,
+    "text": "Hinter ihnen von den T\u00fcrmen der Stadt kam das Abendl\u00e4uten \u00fcber die Gegend."
+  },
+  {
+    "anno_id": "1a1104b7-d7c8-436b-9c43-69f74480547b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 1546,
+    "end": 1556,
+    "text": "Ihre Hand,"
+  },
+  {
+    "anno_id": "1a1104b7-d7c8-436b-9c43-69f74480547b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 1637,
+    "end": 1782,
+    "text": "glitt \u00fcber die Brust hinab, und indem sie das Zeichen des Kreuzes machte, begann sie leise das angelus zu sprechen. Die Blicke des jungen Mannes,"
+  },
+  {
+    "anno_id": "1a1104b7-d7c8-436b-9c43-69f74480547b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 1854,
+    "end": 2178,
+    "text": "folgten mit einem Ausdrucke von Ungeduld der gleichm\u00e4\u00dfigen Bewegung ihrer Lippen.\r\nVor einigen Monaten war er als Architekt bei dem Neubau einer Kirche in die Stadt gekommen, und seitdem ein fast t\u00e4glicher Gast in dem Hause des Justizrats geworden. Mit der jungen Frau seines Vetters geriet er sogleich in lebhaften Verkehr;"
+  },
+  {
+    "anno_id": "7c7f5779-7b6d-4bf5-8e38-b329354806d9",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 1557,
+    "end": 1636,
+    "text": "mit der sie eben das schwarze Haar unter den wei\u00dfen Seidenhut zur\u00fcckgestrichen,"
+  },
+  {
+    "anno_id": "4e21299b-ecdb-4ee1-809d-eb4af44fbe3f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 1783,
+    "end": 1853,
+    "text": "der gleich seinem Verwandten einer protestantischen Familie angeh\u00f6rte,"
+  },
+  {
+    "anno_id": "d04e669e-5934-42c0-9263-d41c6d8095ef",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 2179,
+    "end": 2317,
+    "text": "sowohl durch die Gemeinsamkeit der Jugend als durch seine Fertigkeit im Zeichnen, das auch von ihr mit Eifer und Geschick betrieben wurde."
+  },
+  {
+    "anno_id": "17238e4b-205f-4f5e-a353-2c300691ee19",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 2318,
+    "end": 2397,
+    "text": "Nun hatte sie in ihm einen Freund und Lehrmeister zugleich gewonnen. Bald aber,"
+  },
+  {
+    "anno_id": "17238e4b-205f-4f5e-a353-2c300691ee19",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 2432,
+    "end": 2551,
+    "text": "war es nicht sowohl die vor ihr liegende Zeichnung als die kleine arbeitende Hand, auf der seine Augen ruhten; und sie,"
+  },
+  {
+    "anno_id": "17238e4b-205f-4f5e-a353-2c300691ee19",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 2613,
+    "end": 2677,
+    "text": "zeichnete jetzt schweigend und gehorsam weiter, ohne aufzusehen,"
+  },
+  {
+    "anno_id": "bc73055a-71ca-4de4-b2f3-1419ca72bba1",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 2398,
+    "end": 2431,
+    "text": "wenn er des Abends neben ihr sa\u00df,"
+  },
+  {
+    "anno_id": "de3a0321-e866-4484-923e-521dc69c3b49",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 2552,
+    "end": 2612,
+    "text": "die sonst jeden Augenblick den Bleistift fortgeworfen hatte,"
+  },
+  {
+    "anno_id": "c4b13631-cb4d-44d6-802c-cb1504441606",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 2678,
+    "end": 2710,
+    "text": "wie unter seinem Blick gefangen."
+  },
+  {
+    "anno_id": "9b5b1359-ff60-423a-8672-089abcb0269f",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 2711,
+    "end": 2901,
+    "text": "Sie mochten endlich selbst kaum wissen, da\u00df abends beim Gutenachtsagen ihre H\u00e4nde immer ein wenig l\u00e4nger aneinander ruhten, und ihre Finger ein wenig dichter sich umschlossen. Der Justizrat,"
+  },
+  {
+    "anno_id": "9b5b1359-ff60-423a-8672-089abcb0269f",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 2955,
+    "end": 3256,
+    "text": "hatte noch weniger Arg daraus; er freute sich, da\u00df seine Frau in ihren Lieblingsstudien Anregung und Teilnahme gefunden hatte, die er selbst ihr nicht zu gew\u00e4hren vermochte. Nur einmal, als kurz zuvor der junge Architekt ihr Haus verlassen hatte, \u00fcberraschte ihn der tr\u00e4umerische Ausdruck ihrer Augen."
+  },
+  {
+    "anno_id": "92a0a006-ec01-4cc7-9def-d754671f656d",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 2902,
+    "end": 2954,
+    "text": "dessen Gedanken meistens in seinen Gesch\u00e4ften waren,"
+  },
+  {
+    "anno_id": "acffa66f-4f08-41d7-ad5f-37302d97cddb",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 3257,
+    "end": 3265,
+    "text": "\u00bbVroni\u00ab,"
+  },
+  {
+    "anno_id": "9311d424-dc30-4ef4-8681-4d5e047e131c",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 3266,
+    "end": 3328,
+    "text": "sagte er, indem er die Vor\u00fcbergehende an der Hand zur\u00fcckhielt,"
+  },
+  {
+    "anno_id": "1a5830c3-3c2f-42cb-a34e-213d5d5399e6",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 3329,
+    "end": 3411,
+    "text": "\u00bbes ist doch wahr, was deine Schwestern sagen.\u00ab \u2013 \u00bbWas denn, Franz?\u00ab \u2013 \u00bbFreilich\u00ab,"
+  },
+  {
+    "anno_id": "d8ac2494-0fa8-4abd-988b-6ff63b462a46",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 3412,
+    "end": 3421,
+    "text": "sagte er,"
+  },
+  {
+    "anno_id": "b0b737d2-384b-4a62-be5f-a95f64312312",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 3422,
+    "end": 3475,
+    "text": "\u00bbjetzt seh ich's selbst, da\u00df du gefirmte Augen hast.\u00ab"
+  },
+  {
+    "anno_id": "6e1abaf5-e0b8-4c9e-a12e-8d5101592df2",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 3478,
+    "end": 3558,
+    "text": "Sie err\u00f6tete; und duldete es schweigend, als er sie n\u00e4her an sich zog und k\u00fc\u00dfte."
+  },
+  {
+    "anno_id": "bfce3fe9-74bc-4408-b9c3-07ff1d1ca36e",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 3559,
+    "end": 3562,
+    "text": "\u2013 \u2013"
+  },
+  {
+    "anno_id": "9dfdddcf-205e-4f9e-b208-1c976b4914f0",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 3564,
+    "end": 4231,
+    "text": "Heute bei dem sch\u00f6nen Wetter waren sie und Rudolf von dem Justizrat aufgefordert worden, ihn auf seinem Gesch\u00e4ftsgange nach der nahe gelegenen M\u00fchle zu begleiten.\r\nSeit der gestrigen Gesellschaft, wo sie eine unter seinen Augen vollendete Zeichnung auf Bitten ihres Mannes vorgelegt hatte, war indessen zwischen ihnen nicht alles so, wie es gewesen. Rudolf f\u00fchlte das nur zu wohl; und er vergegenw\u00e4rtigte es sich jetzt noch einmal, wie es denn gekommen, da\u00df er dem zwar etwas \u00fcberm\u00e4\u00dfigen Lobe der andern mit so scharfem leidenschaftlichem Tadel entgegengetreten war.\r\nVeronika hatte l\u00e4ngst ihr Gebet beendet; aber er wartete vergebens, da\u00df sie die Augen zu ihm wende."
+  },
+  {
+    "anno_id": "7429c51d-4167-4d1d-b1ed-905b02067b89",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4233,
+    "end": 4261,
+    "text": "\u00bbSie grollen mir, Veronika!\u00ab"
+  },
+  {
+    "anno_id": "044f8be7-f058-41d0-a588-14f66d644ce9",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4262,
+    "end": 4279,
+    "text": "sagte er endlich."
+  },
+  {
+    "anno_id": "a0a35323-04b1-489a-96f1-abe97ce70f5c",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 4281,
+    "end": 4360,
+    "text": "Die junge Frau nickte kaum merklich; aber ihre Lippen blieben fest geschlossen."
+  },
+  {
+    "anno_id": "3a849f0f-246c-4a92-a316-c05254a7c095",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 4362,
+    "end": 4425,
+    "text": "Er sah sie an. Der kleine Trotz lag immer noch auf ihrer Stirn."
+  },
+  {
+    "anno_id": "b140e56d-f3bb-4830-998d-962df707189f",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4426,
+    "end": 4439,
+    "text": "\u00bbIch d\u00e4chte\u00ab,"
+  },
+  {
+    "anno_id": "b140e56d-f3bb-4830-998d-962df707189f",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4450,
+    "end": 4524,
+    "text": "\u00bbSie w\u00fc\u00dften, wie es geschehen konnte! Oder wissen Sie es nicht, Veronika?\u00ab"
+  },
+  {
+    "anno_id": "236fcf6e-13e4-4f84-96ec-afcba59de958",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4440,
+    "end": 4449,
+    "text": "sagte er,"
+  },
+  {
+    "anno_id": "b4b9da05-f078-48d8-87c8-6354a02a1dfd",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4526,
+    "end": 4541,
+    "text": "\u00bbIch wei\u00df nur\u00ab,"
+  },
+  {
+    "anno_id": "b4b9da05-f078-48d8-87c8-6354a02a1dfd",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4553,
+    "end": 4584,
+    "text": "\u00bbda\u00df Sie mir weh getan. \u2013 Und\u00ab,"
+  },
+  {
+    "anno_id": "b4b9da05-f078-48d8-87c8-6354a02a1dfd",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4603,
+    "end": 4633,
+    "text": "\u00bbda\u00df Sie mir weh tun wollten.\u00ab"
+  },
+  {
+    "anno_id": "5d699cad-e854-456e-bb56-f7fe8b52db15",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4542,
+    "end": 4552,
+    "text": "sagte sie,"
+  },
+  {
+    "anno_id": "19f29afe-675b-4f7a-a4eb-7859cf22b874",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4585,
+    "end": 4602,
+    "text": "setzte sie hinzu,"
+  },
+  {
+    "anno_id": "daad1a47-a8a4-4dba-9409-cbe404177764",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 4635,
+    "end": 4657,
+    "text": "Er schwieg eine Weile."
+  },
+  {
+    "anno_id": "8ad8b144-537f-43fe-b00c-8246c5bd2960",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4658,
+    "end": 4675,
+    "text": "\u00bbHaben Sie denn\u00ab,"
+  },
+  {
+    "anno_id": "8ad8b144-537f-43fe-b00c-8246c5bd2960",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4695,
+    "end": 4770,
+    "text": "\u00bbdas kluge Auge des alten Mannes nicht bemerkt, der Ihnen gegen\u00fcberstand ?\u00ab"
+  },
+  {
+    "anno_id": "48f3acf7-08b6-4feb-ad6f-df61859c752e",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4676,
+    "end": 4694,
+    "text": "fragte er z\u00f6gernd,"
+  },
+  {
+    "anno_id": "efb610c8-d2db-4c70-864c-6bf19f43094b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 4772,
+    "end": 4824,
+    "text": "Sie wandte den Kopf und blickte fl\u00fcchtig zu ihm auf."
+  },
+  {
+    "anno_id": "f83f5786-c382-4872-bae8-3cd598e2bd8e",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4826,
+    "end": 4928,
+    "text": "\u00bbIch mu\u00dfte es selber tun, Veronika \u2013 verzeihen Sie mir! \u2013 Ich kann Sie nicht von andern tadeln h\u00f6ren.\u00ab"
+  },
+  {
+    "anno_id": "89ebaa49-e29e-45c1-b15c-53f20a17ce44",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 4930,
+    "end": 5070,
+    "text": "Es zog sich wie ein Schleier \u00fcber ihre Augen, und die langen schwarzen Wimpern senkten sich tief auf ihre Wangen; aber sie erwiderte nichts."
+  },
+  {
+    "anno_id": "c1303854-b032-416c-813d-4dc63eaf43a9",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 5071,
+    "end": 5074,
+    "text": "\u2013 \u2013"
+  },
+  {
+    "anno_id": "ff08c89f-dc57-4374-ae2b-3fd425b86a86",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 5076,
+    "end": 5306,
+    "text": "Kurz darauf hatten sie das Geh\u00f6ft erreicht. Der Justizrat wurde von dem Sohn des M\u00fcllers in das Wohnhaus gef\u00fchrt; Veronika und Rudolf traten in den zur Seite liegenden Garten. Aber sie gingen schweigend auf dem langen Steige fort;"
+  },
+  {
+    "anno_id": "8ea485f9-a2dc-4743-9c0e-02bb4ccb48b5",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 5307,
+    "end": 5449,
+    "text": "es war fast, als z\u00fcrnten sie miteinander, als w\u00fcrde ihnen der Atem schwer, wenn sie dennoch wie beil\u00e4ufig ein einzelnes Wort zu reden suchten."
+  },
+  {
+    "anno_id": "fa58e694-ab62-4da5-9a26-ec645185d55e",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 5451,
+    "end": 5564,
+    "text": "Als sie den Garten durchwandert hatten, gingen sie \u00fcber einen schmalen Steg in die untere T\u00fcr des M\u00fchlengeb\u00e4udes,"
+  },
+  {
+    "anno_id": "69f0fcad-4ab8-4899-a449-ec4230ea7fa5",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 5565,
+    "end": 5633,
+    "text": "welches hier zu Ende desselben an einem stark flie\u00dfenden Wasser lag."
+  },
+  {
+    "anno_id": "a7cd1f7d-fdaa-4e58-8ba1-2b09af524bef",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 5636,
+    "end": 5826,
+    "text": "Durch das Klappern des Werkes und das Get\u00f6se des st\u00fcrzenden Wassers, welches jeden von au\u00dfen kommenden Laut verschlang, herrschte eine seltsame Abgeschiedenheit in dem fast d\u00e4mmerigen Raume."
+  },
+  {
+    "anno_id": "f0fb85b3-f409-4e36-96a6-72523568a0ec",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 5827,
+    "end": 6117,
+    "text": "Veronika war gegen\u00fcber in die T\u00fcr getreten, die zu dem Gerinne hinausf\u00fchrte, und blickte unter sich in die tosenden R\u00e4der, auf denen das Wasser in der Abendsonne blitzte. Rudolf folgte ihr nicht; er stand drinnen neben dem gro\u00dfen Kammrade, die Augen d\u00fcster und unabl\u00e4ssig auf sie gerichtet."
+  },
+  {
+    "anno_id": "c5e16a2e-20c0-4da8-a4d8-eaa539998159",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 6118,
+    "end": 6119,
+    "text": "\u2013"
+  },
+  {
+    "anno_id": "dd4763f3-d9d7-4394-8474-cb3b86e58e22",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 6120,
+    "end": 6228,
+    "text": "Endlich wandte sie den Kopf. Sie sprach, er sah, wie ihre Lippen sich bewegten; aber er vernahm keine Worte."
+  },
+  {
+    "anno_id": "6cb1e254-a4be-4690-9580-1a4f2887982b",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 6230,
+    "end": 6251,
+    "text": "\u00bbIch verstehe nicht!\u00ab"
+  },
+  {
+    "anno_id": "46f9ff4b-0f60-4f22-a88c-a913a8da59e6",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 6252,
+    "end": 6363,
+    "text": "sagte er und sch\u00fcttelte den Kopf.\r\nAls er zu ihr gehen wollte, war sie schon in den innern Raum zur\u00fcckgetreten."
+  },
+  {
+    "anno_id": "daf7ccf3-0083-41bb-98b0-9e9b58151d30",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6364,
+    "end": 6470,
+    "text": "Im Vor\u00fcbergehen kam sie dem Rade, neben welchem er stand, so nahe, da\u00df die Zacken fast ihr Haar ber\u00fchrten."
+  },
+  {
+    "anno_id": "6467c48d-b878-43ed-aaea-22e495fc9ea7",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 6471,
+    "end": 6488,
+    "text": "Sie sah es nicht,"
+  },
+  {
+    "anno_id": "6467c48d-b878-43ed-aaea-22e495fc9ea7",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 6537,
+    "end": 6737,
+    "text": "aber sie f\u00fchlte ihre H\u00e4nde ergriffen und sich rasch zur Seite gezogen. Als sie aufsah, blickten ihre Augen in die seinen. Sie schwiegen beide; ein pl\u00f6tzliches Vergessen fiel wie ein Schatten \u00fcber sie."
+  },
+  {
+    "anno_id": "12ba4e13-937b-438e-b431-b71a8c49f53f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6489,
+    "end": 6536,
+    "text": "denn sie war noch geblendet von der Abendsonne;"
+  },
+  {
+    "anno_id": "605671ea-64a2-4e98-83ed-036e2be381b9",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6738,
+    "end": 6872,
+    "text": "Zu ihren H\u00e4uptern tosten die M\u00fchlwerke; von drau\u00dfen klang das eint\u00f6nige Rauschen des Wassers, das \u00fcber die R\u00e4der in die Tiefe st\u00fcrzte."
+  },
+  {
+    "anno_id": "973f8301-6d79-4744-a2d7-0fb358e1a38d",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 6873,
+    "end": 6874,
+    "text": "\u2013"
+  },
+  {
+    "anno_id": "79e60e7e-7adb-4795-a4ce-5e38005c807b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 6875,
+    "end": 6991,
+    "text": "Allm\u00e4hlich aber begannen die Lippen des jungen Mannes sich zu regen, und unter dem Schutze des bet\u00e4ubenden Schalles,"
+  },
+  {
+    "anno_id": "79e60e7e-7adb-4795-a4ce-5e38005c807b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 7043,
+    "end": 7354,
+    "text": "fl\u00fcsterte er trunkene, bet\u00f6rende Worte. Ihr Ohr vernahm sie nicht, aber sie las ihren Sinn aus der Bewegung seines Mundes, aus der leidenschaftlichen Bl\u00e4sse seines Angesichts. Sie legte den Kopf zur\u00fcck und schlo\u00df die Augen; nur ihr Mund l\u00e4chelte und gab von ihrem Leben Kunde. So stand sie wie in Scham gebannt,"
+  },
+  {
+    "anno_id": "79e60e7e-7adb-4795-a4ce-5e38005c807b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 7396,
+    "end": 8128,
+    "text": "die H\u00e4nde wie vergessen in den seinen.\r\nDa pl\u00f6tzlich h\u00f6rte das Rauschen auf; die M\u00fchle stand, sie h\u00f6rten \u00fcber sich den M\u00fchlknappen gehen und drau\u00dfen von den R\u00e4dern fiel das abtropfende Wasser klingend in den Teich. Die Lippen des jungen Mannes verstummten; und als Veronika sich ihm entzog, versuchte er nicht sie zur\u00fcckzuhalten. Erst als sie aus der T\u00fcr ins Freie trat, schien er die Sprache wiedergefunden zu haben. Er rief ihren Namen und streckte die Arme bittend nach ihr aus. Aber sie sch\u00fcttelte, ohne nach ihm umzusehen, den Kopf und ging langsam durch den Garten nach dem Wohnhause.\r\nAls sie drinnen in die nur angelehnte T\u00fcr des Zimmers trat, sah sie gegen\u00fcber den alten M\u00fcller mit gefalteten H\u00e4nden in seinem Bette liegen."
+  },
+  {
+    "anno_id": "f78ff12e-0d01-4d5f-952b-6864029707d4",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6992,
+    "end": 7042,
+    "text": "in dem der Laut seiner Stimme wesenlos verschwand,"
+  },
+  {
+    "anno_id": "dc53b1cd-9ce5-4e70-8437-760431125325",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 7355,
+    "end": 7395,
+    "text": "das Antlitz h\u00fclflos ihm entgegenhaltend,"
+  },
+  {
+    "anno_id": "479ad28a-4cab-4adf-a130-f20189eb1bef",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8129,
+    "end": 8231,
+    "text": "Oberhalb desselben an der Wand war ein h\u00f6lzernes Kruzifix befestigt, von dem ein Rosenkranz herabhing."
+  },
+  {
+    "anno_id": "5c2d5586-9bee-42b5-b4d5-ad82983168cc",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 8232,
+    "end": 8335,
+    "text": "Ein junges Weib, mit einem Kinde auf dem Arm, war eben herangetreten und neigte sich \u00fcber das Deckbett."
+  },
+  {
+    "anno_id": "b9a77738-9f68-4edb-b263-449bea219090",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 8336,
+    "end": 8361,
+    "text": "\u00bbIhm fehlt nur die Luft\u00ab,"
+  },
+  {
+    "anno_id": "4422250f-ce39-4bc4-a2be-5edc79f97aad",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8362,
+    "end": 8372,
+    "text": "sagte sie,"
+  },
+  {
+    "anno_id": "0f5b3854-3189-494d-88b9-36f6201e6c5e",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 8373,
+    "end": 8439,
+    "text": "\u00bbdas Essen schmeckt ihm gut genug.\u00ab\r\n\u00bbWelchen Arzt habt Ihr denn?\u00ab"
+  },
+  {
+    "anno_id": "a1fab14a-12af-47ec-988e-e6710faf4bb8",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8440,
+    "end": 8515,
+    "text": "fragte der Justizrat, der mit einem Schriftst\u00fcck in der Hand daneben stand."
+  },
+  {
+    "anno_id": "91c52770-5564-428a-8e19-12cabfe3702b",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 8517,
+    "end": 8524,
+    "text": "\u00bbArzt?\u00ab"
+  },
+  {
+    "anno_id": "c80018da-2106-45b9-8f53-e691413e1472",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8525,
+    "end": 8541,
+    "text": "wiederholte sie."
+  },
+  {
+    "anno_id": "bf18e3ec-411b-4fb7-a23e-84dd01943e6a",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 8542,
+    "end": 8589,
+    "text": "\u00bbWir haben keinen Arzt.\u00ab\r\n\u00bbDa tut Ihr unrecht!\u00ab"
+  },
+  {
+    "anno_id": "b7410947-39e8-455e-ac8e-642a027de8fd",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 8591,
+    "end": 8638,
+    "text": "Das junge Weib stie\u00df ein verlegenes Lachen aus."
+  },
+  {
+    "anno_id": "893efe5a-2666-4ec6-81f5-bf44a5118842",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 8639,
+    "end": 8667,
+    "text": "\u00bbEs ist die Altersschw\u00e4che\u00ab,"
+  },
+  {
+    "anno_id": "671e543b-41e6-42bd-ad84-0eb8402b92fa",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8668,
+    "end": 8745,
+    "text": "sagte sie, indem sie ihrem dicken Jungen sein N\u00e4schen mit der Sch\u00fcrze putzte,"
+  },
+  {
+    "anno_id": "16beabc8-2d34-4756-ba4c-97f42824ea0c",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 8746,
+    "end": 8780,
+    "text": "\u00bbda hilft der Doktor nichts dazu.\u00ab"
+  },
+  {
+    "anno_id": "08a5bc94-ee14-44ba-9cc9-6b8dd23f7626",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 8782,
+    "end": 8892,
+    "text": "Veronika horchte atemlos auf diese Reden. \u2013 Der Alte begann zu husten und fuhr mit der Hand nach seinen Augen."
+  },
+  {
+    "anno_id": "aa8e6618-3456-4029-ba5f-b9f9ff669670",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 8894,
+    "end": 8957,
+    "text": "\u00bbIst das so Euer Wille, Martin, wie es hier geschrieben steht?\u00ab"
+  },
+  {
+    "anno_id": "599f8737-3e00-4d1a-b268-3e63642772fb",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8958,
+    "end": 8985,
+    "text": "fragte jetzt der Justizrat."
+  },
+  {
+    "anno_id": "0bf2ffc7-8c18-45b6-a4a1-67203d296984",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 8987,
+    "end": 9029,
+    "text": "Aber der Kranke schien ihn nicht zu h\u00f6ren."
+  },
+  {
+    "anno_id": "16b6ea6c-2cd2-49ed-8e1a-d9535bf1667f",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9031,
+    "end": 9039,
+    "text": "\u00bbVater\u00ab,"
+  },
+  {
+    "anno_id": "271fe68e-7677-4066-a43f-0381bd42ac16",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9040,
+    "end": 9061,
+    "text": "sagte das junge Weib,"
+  },
+  {
+    "anno_id": "86ea4356-da95-435c-8f1a-a9b40f7dd7f7",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9062,
+    "end": 9128,
+    "text": "\u00bbob das so richtig ist, wie es der Herr Justizrat vorgelesen hat?\u00ab"
+  },
+  {
+    "anno_id": "95fef395-c57b-468f-ad96-cd81d91eecca",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9130,
+    "end": 9141,
+    "text": "\u00bbFreilich\u00ab,"
+  },
+  {
+    "anno_id": "f5653c74-0ef8-4057-81c5-45bd9649bea3",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9142,
+    "end": 9159,
+    "text": "sagte der Kranke,"
+  },
+  {
+    "anno_id": "09f9d357-5458-415e-96e7-874bd18429c4",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9160,
+    "end": 9186,
+    "text": "\u00bbes ist alles so richtig.\u00ab"
+  },
+  {
+    "anno_id": "6656f594-f4c7-4515-8753-cacad29f69c0",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9188,
+    "end": 9222,
+    "text": "\u00bbUnd Ihr habt alles wohl bedacht?\u00ab"
+  },
+  {
+    "anno_id": "3dc8d7f4-f111-4f78-a78f-1c26415fc40c",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9223,
+    "end": 9244,
+    "text": "fragte der Justizrat."
+  },
+  {
+    "anno_id": "92093f89-8bba-4873-819c-11ebd1168105",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 9246,
+    "end": 9262,
+    "text": "Der Alte nickte."
+  },
+  {
+    "anno_id": "489aa2dc-944a-4c2f-b755-edd250f3bccd",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9263,
+    "end": 9272,
+    "text": "\u00bbJa, ja\u00ab,"
+  },
+  {
+    "anno_id": "6aee449f-ec11-43f7-b917-1977377549ff",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9273,
+    "end": 9282,
+    "text": "sagte er,"
+  },
+  {
+    "anno_id": "ff1c8ef1-d672-4b14-a46a-a63093f59353",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9283,
+    "end": 9379,
+    "text": "\u00bbich hab es mir lassen sauer werden; aber der Junge darf doch nicht zu schwer zu sitzen kommen.\u00ab"
+  },
+  {
+    "anno_id": "759abf67-5965-49c9-b9e1-844b047d8ade",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 9381,
+    "end": 9390,
+    "text": "Der Sohn,"
+  },
+  {
+    "anno_id": "759abf67-5965-49c9-b9e1-844b047d8ade",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 9433,
+    "end": 9468,
+    "text": "mischte sich jetzt in das Gespr\u00e4ch."
+  },
+  {
+    "anno_id": "c4b03bf1-bc92-4ec2-9f19-7fa33f11c8ae",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9391,
+    "end": 9432,
+    "text": "der bisher rauchend in der Ecke gesessen,"
+  },
+  {
+    "anno_id": "0bebdb6f-6cf4-4fa1-8a52-3af08d6b9618",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9469,
+    "end": 9507,
+    "text": "\u00bbEs kommt auch noch die Abnahme dazu\u00ab,"
+  },
+  {
+    "anno_id": "52a12924-e928-4d14-ab8a-0c5a55043cd1",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9508,
+    "end": 9548,
+    "text": "sagte er und r\u00e4usperte sich ein paarmal,"
+  },
+  {
+    "anno_id": "7157d6d7-88d8-4863-808d-1db1c190b304",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9549,
+    "end": 9592,
+    "text": "\u00bbder Alte lebt noch sein artlich Ende weg.\u00ab"
+  },
+  {
+    "anno_id": "bde9743d-4020-4a08-a0b0-8d57d9a3d264",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 9594,
+    "end": 9675,
+    "text": "Der Justizrat blickte mit seinen grauen Augen auf den vierschr\u00f6tigen Bauer hinab."
+  },
+  {
+    "anno_id": "9a9d027e-2740-41b6-bea9-65851a9be9f4",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9676,
+    "end": 9706,
+    "text": "\u00bbIst das Euer Sohn, Wiesmann?\u00ab"
+  },
+  {
+    "anno_id": "9b1a9641-b3c9-471e-a8b1-16901f4b77f8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 9707,
+    "end": 9778,
+    "text": "fragte er, indem er auf einen neben dem Bette spielenden Jungen zeigte."
+  },
+  {
+    "anno_id": "5a44745e-09c8-4251-b32d-b6e025266ea6",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9781,
+    "end": 9851,
+    "text": "\u00bbSo la\u00dft ihn hinausgehn, wenn Ihr vielleicht noch mehr zu reden habt!\u00ab"
+  },
+  {
+    "anno_id": "be71ed35-9865-47f5-80ce-47373df66c13",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 9853,
+    "end": 10032,
+    "text": "Der Mensch schwieg; aber seine Augen begegneten mit einem fast drohenden Ausdruck denen des Justizrats.\r\nDer Greis strich mit seiner harten Hand \u00fcber das Deckbett und sagte ruhig:"
+  },
+  {
+    "anno_id": "ef122580-fb76-49c3-9792-ef4639b084eb",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 10033,
+    "end": 10077,
+    "text": "\u00bbEs wird nicht gar so lange, Jakob. \u2013 Aber\u00ab,"
+  },
+  {
+    "anno_id": "ef122580-fb76-49c3-9792-ef4639b084eb",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 10119,
+    "end": 10199,
+    "text": "\u00bber mu\u00df mich dann nach Dorfs Gebrauch zur Erde bringen lassen; das kostet auch.\u00ab"
+  },
+  {
+    "anno_id": "9e21e0d8-2770-494d-bf66-f30d408e3942",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10078,
+    "end": 10118,
+    "text": "setzte er, zum Justizrat gewandt, hinzu,"
+  },
+  {
+    "anno_id": "c546dee7-e8e1-4b25-a6a8-0d7c8008cdda",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 10200,
+    "end": 10203,
+    "text": "\u2013 \u2013"
+  },
+  {
+    "anno_id": "2be59c28-0403-4649-b0fe-00e5f3dc56f0",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 10205,
+    "end": 10278,
+    "text": "Die junge Dame verschwand lautlos, wie sie gekommen, aus der offenen T\u00fcr,"
+  },
+  {
+    "anno_id": "3bb7a6ea-b5cf-4942-b28e-de3954093bad",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10279,
+    "end": 10331,
+    "text": "in der sie w\u00e4hrend dieses Vorganges gestanden hatte."
+  },
+  {
+    "anno_id": "e0b606e6-67e9-4289-9183-1580e003987f",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 10333,
+    "end": 10466,
+    "text": "Drau\u00dfen sah sie Rudolf jenseit des Gartens im Gespr\u00e4che mit dem M\u00fchlknappen; aber sie wandte sich ab und ging einen Fu\u00dfsteig entlang,"
+  },
+  {
+    "anno_id": "a12d1002-8afa-4b41-880d-153226a34e5d",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10467,
+    "end": 10515,
+    "text": "der unterhalb der M\u00fchle an den Bach hinabf\u00fchrte."
+  },
+  {
+    "anno_id": "d9cfd7c9-0062-42a6-beb8-af9b85250b2c",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 10516,
+    "end": 10561,
+    "text": "Ihre Augen schweiften bewu\u00dftlos in die Ferne;"
+  },
+  {
+    "anno_id": "5f8035dd-0ea4-4ed2-be1f-78a953f69ada",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10562,
+    "end": 10878,
+    "text": "sie sah es nicht, wie die D\u00e4mmerung vor ihr auf die Berge sank, noch wie allm\u00e4hlich, w\u00e4hrend sie hier auf und ab wandelte, der Mond hinter ihnen emporstieg und sein Licht \u00fcber das stille Tal ergo\u00df. Das Leben in seiner nackten D\u00fcrftigkeit stand vor ihr, wie sie es nie gesehen; ein endloser \u00f6der Weg, am Ende der Tod."
+  },
+  {
+    "anno_id": "2264b3aa-28e9-4bf4-b0e3-31dc7b8e17ec",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10879,
+    "end": 11031,
+    "text": "Ihr war, als habe sie bis jetzt in Tr\u00e4umen gelebt, und als wandle sie nun in einer trostlosen Wirklichkeit, in der sie sich nicht zurechtzufinden wisse."
+  },
+  {
+    "anno_id": "8c3b1fa1-a972-48b0-82a3-7fb627e5f5a5",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 11031,
+    "end": 11032,
+    "text": "\r"
+  },
+  {
+    "anno_id": "d5ff6add-786f-4f06-a166-732100870300",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 11033,
+    "end": 11152,
+    "text": "Es war schon sp\u00e4t, als die Stimme ihres Mannes sie auf das Geh\u00f6ft zur\u00fcckrief, wo sie an der T\u00fcr von ihm erwartet wurde."
+  },
+  {
+    "anno_id": "7fc3ecff-bb3a-4e66-9456-05c3b08ea786",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 11153,
+    "end": 11154,
+    "text": "\u2013"
+  },
+  {
+    "anno_id": "9453bd01-de3f-4ff6-88ed-5bb7107ad93f",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 11155,
+    "end": 11262,
+    "text": "Auf dem Heimwege ging sie schweigend neben ihm, ohne zu f\u00fchlen, wie seine Augen teilnehmend auf ihr ruhten."
+  },
+  {
+    "anno_id": "37415a68-0614-40b3-b2fa-ec5f8f4cc104",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 11263,
+    "end": 11301,
+    "text": "\u00bbDu bist erschreckt worden, Veronika!\u00ab"
+  },
+  {
+    "anno_id": "62d67a3e-4892-45ac-a6fd-33762e44d7bd",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 11302,
+    "end": 11344,
+    "text": "sagte er und legte die Hand an ihre Wange;"
+  },
+  {
+    "anno_id": "e9138b24-14c7-456f-ac81-34648790e437",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 11345,
+    "end": 11352,
+    "text": "\u00bbaber\u00ab,"
+  },
+  {
+    "anno_id": "09b4175b-3f4f-4a3b-9d02-3ce00fb59b6f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 11353,
+    "end": 11368,
+    "text": "f\u00fcgte er hinzu,"
+  },
+  {
+    "anno_id": "067f79ff-37a2-4c5d-a6fa-4fdb32859bf9",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 11369,
+    "end": 11488,
+    "text": "\u00bbdas Ma\u00df der Dinge ist f\u00fcr diese Leute ein anderes; sie sind, wie gegen die Ihrigen, so auch h\u00e4rter gegen sich selbst.\u00ab"
+  },
+  {
+    "anno_id": "e3089c5f-f039-46b7-a6ed-a4103466b191",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 11490,
+    "end": 11680,
+    "text": "Sie sah einen Augenblick zu dem ruhigen Antlitz ihres Mannes auf; dann aber blickte sie zur Erde und ging dem\u00fctig an seiner Seite.\r\nEbenso schweigsam folgte Rudolf neben dem alten Schreiber."
+  },
+  {
+    "anno_id": "b8fd07e1-34cc-4c67-b22d-38bac68999c8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 11920,
+    "end": 12050,
+    "text": "denn, als sie in die N\u00e4he der Stadt kamen, sah er die kleinen H\u00e4nde, eine nach der andern, in ein Paar dunkler Handschuhe gleiten,"
+  },
+  {
+    "anno_id": "d21ebbef-cbd5-48ca-9a98-b345ea772be2",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 12051,
+    "end": 12154,
+    "text": "die, wie er wohl wu\u00dfte, Veronika sonst nur der vollst\u00e4ndigen Toilette wegen bei sich zu tragen pflegte."
+  },
+  {
+    "anno_id": "dea66b58-3621-4769-b11d-a14dd84c3aab",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 12154,
+    "end": 12156,
+    "text": "\r\n"
+  },
+  {
+    "anno_id": "ec199d4b-b9fc-48f9-8d57-8a4d6310a24e",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 12156,
+    "end": 12365,
+    "text": "Endlich hatten sie das Haus erreicht; und ehe er sich dessen in seinem Unmut recht bewu\u00dft wurde, empfand er schon die fl\u00fcchtige Ber\u00fchrung der verh\u00fcllten Finger an den seinen. Mit einem vernehmlich gesprochenen"
+  },
+  {
+    "anno_id": "b3b56062-99d0-4539-8079-29b33cda63f0",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 12366,
+    "end": 12379,
+    "text": "\u00bbGute Nacht!\u00ab"
+  },
+  {
+    "anno_id": "a37e428b-f51c-4e26-910a-62b0a0d67382",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 12380,
+    "end": 12475,
+    "text": "hatte Veronika die T\u00fcr ge\u00f6ffnet und war, ihrem Manne voraus, im Dunkel des Flures verschwunden."
+  },
+  {
+    "anno_id": "a62d06d9-8c85-43cb-b445-c65dffc0681a",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 12475,
+    "end": 12477,
+    "text": "\r\n"
+  },
+  {
+    "anno_id": "207ad93c-cf97-4d84-9a40-d5f32d7803c3",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 12499,
+    "end": 12548,
+    "text": "Der Vormittag des Palmsonntags war herangekommen."
+  },
+  {
+    "anno_id": "a9760477-f7bf-47a0-8819-bf807c7b2064",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 12549,
+    "end": 12835,
+    "text": "Die Stra\u00dfen der Stadt wimmelten von Landleuten aus den benachbarten D\u00f6rfern. Im Sonnenschein vor den T\u00fcren der H\u00e4user standen hie und da die Kinder der protestantischen Einwohner und blickten hinab nach dem offenen Tor der katholischen Kirche. Es war der Tag der gro\u00dfen Osterprozession."
+  },
+  {
+    "anno_id": "b950adcd-75d0-42d3-8ab7-4e1d05504ec0",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 12836,
+    "end": 12837,
+    "text": "\u2013"
+  },
+  {
+    "anno_id": "543a390e-758b-40c3-999e-6c3af142f44d",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 12838,
+    "end": 12959,
+    "text": "Und jetzt l\u00e4uteten die Glocken, und der Zug wurde unter der gotischen Torw\u00f6lbung sichtbar und quoll auf die Gasse hinaus."
+  },
+  {
+    "anno_id": "156961af-3167-4575-af61-dffd48f50010",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 12960,
+    "end": 13620,
+    "text": "Voran die Waisenknaben mit ihren schwarzen Kreuzchen in den H\u00e4nden, nach ihnen die barmherzigen Schwestern in den wei\u00dfen Schleierkappen, dann die verschiedenen st\u00e4dtischen Schulen und endlich der ganze unabsehbare Zug von Landleuten und St\u00e4dtern, M\u00e4nnern und Weibern, von Kindern und Greisen; alle singend, betend, mit ihren besten Kleidern angeputzt, M\u00e4nner und Knaben barh\u00e4uptig, die M\u00fctzen in den H\u00e4nden haltend. Dar\u00fcber her in gemessenen Zwischenr\u00e4umen, auf den Schultern getragen, ragten die kolossalen Kirchenbilder: Christus am \u00d6lberge, Christus von den Knechten verspottet, in der Mitte hoch \u00fcber allen das ungeheure Kruzifix, zuletzt das Heilige Grab."
+  },
+  {
+    "anno_id": "c0be9bcc-fcf7-4a23-b676-93bea396771c",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 13622,
+    "end": 13713,
+    "text": "Die Damen der Stadt pflegten sich an dieser \u00f6ffentlichen Feierlichkeit nicht zu beteiligen."
+  },
+  {
+    "anno_id": "291d0d34-f48c-4155-bca2-a43dcd2ecfc7",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 13714,
+    "end": 13715,
+    "text": "\u2013"
+  },
+  {
+    "anno_id": "fafd2977-0989-40d4-9a4b-2b9376d23674",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 13717,
+    "end": 13797,
+    "text": "Veronika sa\u00df in ihrem Schlafgemach halb angekleidet an einem Toilettentischchen."
+  },
+  {
+    "anno_id": "89be3f2a-d78c-4c70-bec9-b6715c731939",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 13798,
+    "end": 14119,
+    "text": "Vor ihr lag aufgeschlagen ein kleines Testament in Goldschnitt, wie es die katholische Kirche ihren Angeh\u00f6rigen gestattet. Sie schien sich \u00fcber dem Lesen vergessen zu haben; denn ihr langes schwarzes Haar hing aufgel\u00f6st \u00fcber das wei\u00dfe Nachtkleid herab, w\u00e4hrend ihre Hand mit dem Schildpattkamme m\u00fc\u00dfig in ihrem Scho\u00dfe lag."
+  },
+  {
+    "anno_id": "d19c0a31-381e-4c18-b81e-d723e2614af8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 14121,
+    "end": 14318,
+    "text": "Als das Get\u00f6se des nahenden Zuges ihr Ohr erreichte, hob sie den Kopf empor und lauschte. Immer deutlicher kam es heran, das dumpfe Ger\u00e4usch der Schritte, das singende eint\u00f6nige Murmeln der Gebete."
+  },
+  {
+    "anno_id": "cb3f7983-aa75-4a9b-a9cd-33148d474c51",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 14321,
+    "end": 14356,
+    "text": "\u00bbHeilige Maria, Mutter der Gnaden!\u00ab"
+  },
+  {
+    "anno_id": "c481bb69-4698-4857-bcd6-10447b339a28",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 14357,
+    "end": 14437,
+    "text": "erscholl es vor dem Fenster, und von hinten aus dem Zuge kam es ged\u00e4mpft zur\u00fcck:"
+  },
+  {
+    "anno_id": "c62365b8-1860-48cf-8af9-62fefa8c9c82",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 14438,
+    "end": 14502,
+    "text": "\u00bbBitte f\u00fcr uns arme S\u00fcnder jetzund und in der Stunde des Todes!\u00ab"
+  },
+  {
+    "anno_id": "4014ab3a-6eaf-4458-9364-3f3e45759401",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 14504,
+    "end": 14698,
+    "text": "Veronika sprach die vertrauten Worte leise mit. Sie hatte den Stuhl zur\u00fcckgeschoben; mit herabh\u00e4ngenden Armen stand sie in der Tiefe des Zimmers, die Augen unabl\u00e4ssig nach dem Fenster gerichtet."
+  },
+  {
+    "anno_id": "8ee21428-45dc-4f05-acde-748397c6ebe8",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 14699,
+    "end": 14819,
+    "text": "\u2013 Immer neue Menschen kamen und gingen, immer neue Stimmen erschollen, ein Bild nach dem andern wurde vor\u00fcbergetragen. \u2013"
+  },
+  {
+    "anno_id": "54407da2-29e2-4660-9c32-d2505c614f1d",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 14820,
+    "end": 15037,
+    "text": "Da pl\u00f6tzlich durchdrang ein herzersch\u00fctternder Ton die Luft. Das castrum doloris nahte sich, unter Posaunenschall, umdr\u00e4ngt von Menschen, gefolgt von den Me\u00dfdienern und den vornehmsten Priestern in feierlichem Ornate."
+  },
+  {
+    "anno_id": "e3e40413-7b3e-40b1-a890-65371e8e440a",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 15038,
+    "end": 15410,
+    "text": "Die B\u00e4nder flatterten, der schwarze Flor des Thronhimmels flutete in der Luft; darunter in einem Blumengarten lag das Totenbild des Gekreuzigten. Der eherne Schall der Posaunen war wie ein Ruf zum Tage des Gerichts.\r\nVeronika stand noch immer unbeweglich; ihre Kniee bebten, unter den scharf gezogenen schwarzen Brauen lagen die Augen wie erloschen in dem blassen Antlitz."
+  },
+  {
+    "anno_id": "e164e018-65ca-49b7-aa00-f16441aa0788",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 15411,
+    "end": 15412,
+    "text": "\n"
+  },
+  {
+    "anno_id": "bd6649b3-251b-4686-bb8f-dbfd729cf2a3",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 15412,
+    "end": 15550,
+    "text": "Als der Zug vor\u00fcber war, sank sie neben dem Stuhl, worauf sie zuvor gesessen hatte, zu Boden, und mit beiden H\u00e4nden ihr Gesicht bedeckend,"
+  },
+  {
+    "anno_id": "e406f874-3caa-4611-80da-8a9b9d905b78",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 15551,
+    "end": 15584,
+    "text": "rief sie mit den Worten im Lukas:"
+  },
+  {
+    "anno_id": "56b4e51a-2c09-410c-96a3-2880373b73a6",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 15585,
+    "end": 15674,
+    "text": "\u00bbVater, ich habe an dem Himmel ges\u00fcndigt und bin nicht wert dein Kind genannt zu werden!\u00ab"
+  },
+  {
+    "anno_id": "a62f6faf-2fd9-4f56-9dcc-69cc4eb16169",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 15701,
+    "end": 15937,
+    "text": "Der Justizrat geh\u00f6rte zu der immer gr\u00f6\u00dfer werdenden Gemeinde, welche in dem Auftreten des Christentums nicht sowohl ein Wunder, als vielmehr nur ein nat\u00fcrliches Ergebnis aus der geistigen Entwickelung der Menschheit zu erblicken vermag."
+  },
+  {
+    "anno_id": "2a8a7e8b-4a1f-4978-aa7e-f9078bb259e8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 15938,
+    "end": 16004,
+    "text": "Er selbst ging deshalb in keine Kirche; seine Frau jedoch lie\u00df er,"
+  },
+  {
+    "anno_id": "2a8a7e8b-4a1f-4978-aa7e-f9078bb259e8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 16073,
+    "end": 16588,
+    "text": "in der Gew\u00f6hnung ihrer Jugend und ihres elterlichen Hauses gew\u00e4hren.\r\nSeit ihrer vor zwei Jahren erfolgten Verheiratung war Veronika indessen nur in der jetzt wieder begonnenen \u00f6sterlichen Zeit zur Beichte und zum Abendmahl gegangen. Er kannte es dann schon an ihr, da\u00df sie in den Tagen zuvor still und scheinbar teilnahmlos im Hause umherging; es war ihm daher auch nicht aufgefallen, da\u00df die zuvor so eifrig betriebenen Zeichenstunden seit jenem abendlichen Spaziergange aufgeh\u00f6rt hatten. Aber die Zeit verstrich,"
+  },
+  {
+    "anno_id": "2a8a7e8b-4a1f-4978-aa7e-f9078bb259e8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 16634,
+    "end": 16999,
+    "text": "und Veronika verschob noch immer ihren Beichtgang. Es konnte ihm endlich nicht mehr entgehen, da\u00df ihre Wangen von Tag zu Tage mehr erbla\u00dften, da\u00df unter ihren Augen leichte Schatten sichtbar wurden, welche schlaflose N\u00e4chte dort zur\u00fcckgelassen.\r\nSo fand er sie eines Morgens, da er unbemerkt in das Schlafzimmer getreten war, in sich versunken an dem Fenster stehen."
+  },
+  {
+    "anno_id": "373c6099-cc33-47a5-99cf-6a3835a9b7f0",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 16005,
+    "end": 16072,
+    "text": "vielleicht in Erwartung einer allm\u00e4hlichen selbst\u00e4ndigen Befreiung,"
+  },
+  {
+    "anno_id": "1ff049d5-379d-4515-90ad-d43aa66eb8c5",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 16589,
+    "end": 16633,
+    "text": "die Maisonne strahlte schon warm ins Zimmer,"
+  },
+  {
+    "anno_id": "8f024671-46e2-4abd-84fb-6bc8263677fe",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 17001,
+    "end": 17009,
+    "text": "\u00bbVroni\u00ab,"
+  },
+  {
+    "anno_id": "ed8d58db-8677-4e82-838e-d1c1dff1a284",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 17010,
+    "end": 17018,
+    "text": "sagte er"
+  },
+  {
+    "anno_id": "ddf2d6ad-32c5-423f-aaad-6402d196ca81",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 17019,
+    "end": 17044,
+    "text": "und legte den Arm um sie."
+  },
+  {
+    "anno_id": "bcfaa005-5b3d-4991-aabb-37eeab970ab1",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 17045,
+    "end": 17110,
+    "text": "\u00bbWillst du nicht sorgen, da\u00df das K\u00f6pfchen wieder aufrecht werde?\u00ab"
+  },
+  {
+    "anno_id": "4d9ccd9d-ac51-4522-aaa9-a460d8e11a69",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 17112,
+    "end": 17132,
+    "text": "Sie schrak zusammen,"
+  },
+  {
+    "anno_id": "d373614e-842b-45fe-a164-fe5783721222",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 17133,
+    "end": 17185,
+    "text": "als habe er die unbewachten Gedanken in ihr ertappt."
+  },
+  {
+    "anno_id": "723adf90-4fe1-4d01-bb95-8bdb3930283e",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 17186,
+    "end": 17217,
+    "text": "Aber sie suchte sich zu fassen."
+  },
+  {
+    "anno_id": "d4beee04-3d46-4802-aa3a-8694ebb10a8c",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 17218,
+    "end": 17235,
+    "text": "\u00bbGeh nur, Franz!\u00ab"
+  },
+  {
+    "anno_id": "00dafabf-6036-40be-98d6-bb80b501277b",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 17236,
+    "end": 17246,
+    "text": "sagte sie,"
+  },
+  {
+    "anno_id": "df78eb0e-829f-4786-ae66-319e1a4d4e63",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 17247,
+    "end": 17318,
+    "text": "indem sie seine Hand ergriff und ihn sanft zur Stubent\u00fcr zur\u00fcckf\u00fchrte.\r"
+  },
+  {
+    "anno_id": "7701ccb8-eef2-41d6-bdc8-4ed85ad52622",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 17319,
+    "end": 17324,
+    "text": "Dann,"
+  },
+  {
+    "anno_id": "7701ccb8-eef2-41d6-bdc8-4ed85ad52622",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 17357,
+    "end": 17492,
+    "text": "kleidete sie sich an und verlie\u00df bald darauf mit dem Gebetbuch in der Hand das Haus.\r\nNach einer Weile trat sie in die Lambertuskirche."
+  },
+  {
+    "anno_id": "1369d64c-b186-4d75-a4f6-c8be0db5fd73",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 17325,
+    "end": 17356,
+    "text": "nachdem er sie allein gelassen,"
+  },
+  {
+    "anno_id": "009b27b8-7129-4e47-beae-2c209818d028",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 17493,
+    "end": 18107,
+    "text": "Der Vormittag war indes herangekommen. Vor den Fenstern des m\u00e4chtigen Raumes schatteten die jetzt schon belaubten Zweige der drau\u00dfen stehenden Lindenb\u00e4ume; nur im Chor auf die T\u00fcren des Reliquienschrankes fiel ein gebrochener Sonnenstrahl durch die bunten Glasscheiben. In den St\u00fchlen im Schiff der Kirche sa\u00dfen oder knieten hie und da noch einzelne vor den aufgeschlagenen Gebetb\u00fcchern, sich vorbereitend auf das abzulegende Bekenntnis. Nichts war vernehmlich, als das Fl\u00fcstern in den Beichtst\u00fchlen, mitunter ein tiefes Atemholen, das Rauschen eines Kleides oder ein leiser Schritt \u00fcber die Fliesen des Fu\u00dfbodens."
+  },
+  {
+    "anno_id": "0e25e70b-4c24-4eb7-a97d-ef9461e20f09",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 18108,
+    "end": 18109,
+    "text": "\u2013"
+  },
+  {
+    "anno_id": "3166056e-d6d1-4755-87c8-97adf56e2d55",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 18110,
+    "end": 18162,
+    "text": "Bald kniete auch Veronika in einem der Beichtst\u00fchle,"
+  },
+  {
+    "anno_id": "1b4062f7-7cb4-4b0e-94d0-3e179ca31b11",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 18163,
+    "end": 18346,
+    "text": "unweit des Bildes der Gebenedeiten, das mitleidig l\u00e4chelnd auf sie herabblickte. Ihre ganz schwarze Kleidung machte heute die durchsichtige Bl\u00e4sse ihres Angesichtes noch bemerklicher."
+  },
+  {
+    "anno_id": "13986710-e7d3-43b1-bb6d-4d317e336de8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 18347,
+    "end": 18362,
+    "text": "Der Geistliche,"
+  },
+  {
+    "anno_id": "13986710-e7d3-43b1-bb6d-4d317e336de8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 18403,
+    "end": 18448,
+    "text": "lehnte von drinnen den Kopf gegen das Gitter,"
+  },
+  {
+    "anno_id": "40ba5768-9205-4f7f-9567-4fd169daf47f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 18363,
+    "end": 18402,
+    "text": "ein kr\u00e4ftiger Mann in mittleren Jahren,"
+  },
+  {
+    "anno_id": "f33b0df9-cec2-4e6f-bb53-8eb819fc868a",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 18449,
+    "end": 18488,
+    "text": "das ihn von seinem Beichtkinde trennte."
+  },
+  {
+    "anno_id": "1e6b36b6-e946-4f7f-8684-b3fa354a9fee",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 18548,
+    "end": 18576,
+    "text": "\u00bbIch armer s\u00fcndiger Mensch\u00ab,"
+  },
+  {
+    "anno_id": "1e6b36b6-e946-4f7f-8684-b3fa354a9fee",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 18618,
+    "end": 18671,
+    "text": "\u00bbbekenne vor Gott und Euch Priester an Gottes Statt!\u00ab"
+  },
+  {
+    "anno_id": "73c48fbf-9a7c-4842-a11e-990d8fabb414",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 18676,
+    "end": 18915,
+    "text": "Aber ihre Worte wurden immer langsamer, immer unverst\u00e4ndlicher; zuletzt verstummte sie.\r\nDas dunkle Auge des Priesters war ruhig und fast mit einem Ausdruck von Erm\u00fcdung auf sie gerichtet; denn die Beichte hatte schon stundenlang gedauert."
+  },
+  {
+    "anno_id": "970a46b1-4d8c-4185-a265-16d654f7bc71",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 18916,
+    "end": 18945,
+    "text": "\u00bbBekehret Euch zu dem Herrn!\u00ab"
+  },
+  {
+    "anno_id": "3c37c0ee-5af5-4431-aabb-0342180ab228",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 18946,
+    "end": 18962,
+    "text": "sprach er milde."
+  },
+  {
+    "anno_id": "cedb1c0f-b6b6-4218-b401-897a51f06f50",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 18963,
+    "end": 19012,
+    "text": "\u00bbDie S\u00fcnde t\u00f6tet; aber die Bu\u00dfe machet lebendig.\u00ab"
+  },
+  {
+    "anno_id": "1143dd58-9de2-42f3-82a8-27a7d431ac8e",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 19014,
+    "end": 19050,
+    "text": "Sie suchte ihre Gedanken zu sammeln."
+  },
+  {
+    "anno_id": "3a570192-b12f-4e67-8f19-277e9958c2af",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 19051,
+    "end": 19359,
+    "text": "Und wieder vor ihrem innern Ohr, wie so oft seit jener Stunde, war das Tosen der M\u00fchle; und wieder stand sie vor ihm in der heimlichen D\u00e4mmerung, ihre H\u00e4nde gefangen in den seinen, im Drang des \u00fcberm\u00e4chtigen Gef\u00fchls die Augen schlie\u00dfend, in Scham gebannt, nicht wagend zu entfliehen, noch weniger zu bleiben."
+  },
+  {
+    "anno_id": "37d8b8cc-4f2d-465f-93b6-93c00beee3e3",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 19362,
+    "end": 19483,
+    "text": "Ihre Lippen bewegten sich; aber sie brachte es nicht her vor, sie m\u00fchte sich vergebens.\r\nDer Priester schwieg eine Weile."
+  },
+  {
+    "anno_id": "c39edaec-42d5-458d-84d8-2beefb12b691",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 19484,
+    "end": 19505,
+    "text": "\u00bbMut, meine Tochter!\u00ab"
+  },
+  {
+    "anno_id": "d0df0aeb-eac9-4693-9e9f-d18f43ed2db3",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 19506,
+    "end": 19579,
+    "text": "sagte er dann, indem er das Haupt mit dem vollen schwarzen Haar emporhob."
+  },
+  {
+    "anno_id": "e69e0dd2-c5f9-48db-94b1-197f556a4168",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 19580,
+    "end": 19709,
+    "text": "\u00bbGedenken Sie der Worte des Herrn: Nehmet hin den Heiligen Geist; denen ihr die S\u00fcnden erlasset, denen sollen sie vergeben sein!\u00ab"
+  },
+  {
+    "anno_id": "cc84b9e9-792c-4f67-af10-ed7d9a4f7b80",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 19711,
+    "end": 19727,
+    "text": "Sie blickte auf."
+  },
+  {
+    "anno_id": "1d3d8536-0491-4c81-bbf7-5f59e235a30a",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 19728,
+    "end": 19830,
+    "text": "Das ger\u00f6tete Antlitz, der kr\u00e4ftige Stiernacken des Mannes im Priesterornate war dicht vor ihren Augen."
+  },
+  {
+    "anno_id": "b7149098-f351-4420-9092-0a0bfb0c72d6",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 19831,
+    "end": 19902,
+    "text": "Sie begann noch einmal; aber ein un\u00fcberwindliches Str\u00e4uben \u00fcberkam sie,"
+  },
+  {
+    "anno_id": "b7149098-f351-4420-9092-0a0bfb0c72d6",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 19943,
+    "end": 20009,
+    "text": "schlimmer als was zu bekennen sie hieher gekommen. \u2013 Sie erschrak."
+  },
+  {
+    "anno_id": "47dd6a1f-627b-4812-9297-39b254961aa9",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 19903,
+    "end": 19942,
+    "text": "eine Scheu wie vor unkeuschem Beginnen,"
+  },
+  {
+    "anno_id": "e6a812e6-e7a5-4e66-aa6d-4d402f8e770d",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 20010,
+    "end": 20112,
+    "text": "War, was sich jetzt in ihr emp\u00f6rte, nicht eine Lockung der Tods\u00fcnde, von der sie sich befreien wollte?"
+  },
+  {
+    "anno_id": "609fb3ef-1a88-4a9a-83a9-258a2853bff2",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 20115,
+    "end": 20299,
+    "text": "Sie neigte in stummem Kampf ihr Haupt auf das vor ihr liegende Gebetbuch.\r\nAus dem Antlitz des Geistlichen war indessen der Ausdruck von Abspannung verschwunden. Er begann zu sprechen,"
+  },
+  {
+    "anno_id": "53381f02-be86-4bf4-a8ea-45e6364a536a",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 20300,
+    "end": 20601,
+    "text": "ernst und eindringlich und bald mit allem Zauber der \u00dcberredung; leis aber klangvoll drang der Ton seiner Stimme in ihre Ohren. Zu jeder andern Stunde w\u00e4re sie hingerissen in den Staub gesunken; aber diesmal war das neu erwachte Gef\u00fchl st\u00e4rker, als alle Macht der Rede und alle Gew\u00f6hnung ihrer Jugend."
+  },
+  {
+    "anno_id": "b63b0a03-15eb-479a-9734-8d360fb8e3cd",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 20604,
+    "end": 20639,
+    "text": "Ihre Hand nestelte an dem Schleier,"
+  },
+  {
+    "anno_id": "020f54a5-3ab4-48aa-bde1-844ba4f2b3c7",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 20640,
+    "end": 20679,
+    "text": "der auf ihrem Hut zur\u00fcckgeschlagen war."
+  },
+  {
+    "anno_id": "96384b3d-2333-406c-ae52-3cb06896fcea",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 20680,
+    "end": 20705,
+    "text": "\u00bbVerzeihung, Hochw\u00fcrden!\u00ab"
+  },
+  {
+    "anno_id": "bb76a423-796f-4c04-8d54-6a3480420e2c",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 20706,
+    "end": 20720,
+    "text": "stammelte sie."
+  },
+  {
+    "anno_id": "10737fe6-778a-4ed3-8de2-20b8d28efbb7",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 20721,
+    "end": 21472,
+    "text": "Dann, w\u00e4hrend sie stumm das Haupt sch\u00fcttelte, zog sie den Schleier herab, und ohne das Zeichen des Kreuzes empfangen zu haben, stand sie auf und ging mit eiligen Schritten den Steig entlang. Ihre Kleider rauschten an den Kirchenst\u00fchlen; sie nahm sie zusammen; ihr war, als griffe alles nach ihr, um sie hier zur\u00fcckzuhalten.\r\nDrau\u00dfen unter dem hohen Portale blieb sie tief aufatmend stehen. Ihr war schwer zu Sinne; sie hatte die rettende Hand, von der sie seit ihrer Jugend gef\u00fchrt worden war, zur\u00fcckgesto\u00dfen; sie wu\u00dfte keine, die sie jetzt ergreifen konnte. Da, w\u00e4hrend sie noch unentschlossen auf dem sonnigen Platze stand, h\u00f6rte sie neben sich eine Kinderstimme, und eine kleine braune Hand hielt ihr feilbietend einen vollen Primelstrau\u00df entgegen."
+  },
+  {
+    "anno_id": "50e3ec55-8eb4-4951-ace7-d14877d8c310",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 21475,
+    "end": 21514,
+    "text": "Es war ja Fr\u00fchling drau\u00dfen in der Welt!"
+  },
+  {
+    "anno_id": "0fe9e2cb-1580-45b2-9344-4d51a2498a28",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 21515,
+    "end": 21584,
+    "text": "Als h\u00e4tte sie es nicht gewu\u00dft; wie eine Botschaft kam es an ihr Herz."
+  },
+  {
+    "anno_id": "3aae04c5-0425-4da9-9058-e9445b957440",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 21586,
+    "end": 21724,
+    "text": "Sie b\u00fcckte sich nach dem Kinde und kaufte ihm seine Blumen ab; dann, mit dem Strau\u00dfe in der Hand ging sie die Stra\u00dfe hinunter dem Tore zu."
+  },
+  {
+    "anno_id": "4b935b52-446d-41e6-b61b-b6615d49bd8c",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 21725,
+    "end": 21852,
+    "text": "Der Sonnenschein lag so hell auf den Steinen; aus dem offenen Fenster eines Hauses drang der laute Schlag eines Kanarienvogels."
+  },
+  {
+    "anno_id": "de848c81-100b-4a63-b4a9-5adb501166f2",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 21853,
+    "end": 21854,
+    "text": "\u2013"
+  },
+  {
+    "anno_id": "cd678a4c-6d88-4b8b-aec7-361f91c2e63b",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 21855,
+    "end": 21907,
+    "text": "Langsam fortgehend erreichte sie die letzten H\u00e4user."
+  },
+  {
+    "anno_id": "cb08dc07-b489-43da-9bc3-bd92a69c3dec",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 21908,
+    "end": 22026,
+    "text": "Von hier aus f\u00fchrte seitw\u00e4rts ein Fu\u00dfsteig nach dem H\u00f6henzuge, der nach dieser Richtung hin das Stadtgebiet begrenzte."
+  },
+  {
+    "anno_id": "a44fa997-7f41-4af2-bda7-db5ccbb63eb8",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 22027,
+    "end": 22050,
+    "text": "Veronika atmete freier;"
+  },
+  {
+    "anno_id": "2fc7cea4-1d26-4c40-9eff-9d778d85c53c",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 22051,
+    "end": 22446,
+    "text": "ihre Augen ruhten auf dem Gr\u00fcn der Saatfelder, die neben dem Wege hinliefen; mitunter regte sich die Luft und brachte den sanften Duft der Schl\u00fcsselblumen, die dr\u00fcben an dem Fu\u00df des Berges standen. Weiter hin, wo an der Grenze der Felder der Nadelwald begann, erhob der Weg sich steiler, und es bedurfte der k\u00f6rperlichen Anstrengung, obgleich Veronika des Bergsteigens von Jugend an gewohnt war."
+  },
+  {
+    "anno_id": "86563769-4960-469b-bcc9-c5482e74b2a3",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 22447,
+    "end": 22537,
+    "text": "Sie hielt mitunter inne und blickte aus dem Schatten der Fichten in das sonnige Tal hinab,"
+  },
+  {
+    "anno_id": "48ef1bad-4ccb-43b4-ac70-948c65defa31",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 22538,
+    "end": 22573,
+    "text": "das immer tiefer unter ihr versank."
+  },
+  {
+    "anno_id": "33c1a684-fab1-448d-8d35-bd7989c4c5e6",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 22575,
+    "end": 22660,
+    "text": "Als sie die H\u00f6he erreicht hatte, setzte sie sich auf den Boden in den wilden Thymian,"
+  },
+  {
+    "anno_id": "9a5fe6e5-b753-44f2-bfba-d9c3d158e234",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 22661,
+    "end": 22702,
+    "text": "der hier den ganzen Berg besponnen hatte;"
+  },
+  {
+    "anno_id": "833a04e3-a381-4bf8-8be4-c10e2b8f16cb",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 22703,
+    "end": 22806,
+    "text": "und w\u00e4hrend sie die w\u00fcrzige Luft des Waldes atmete, schweifte ihr Blick nach dem blauen Gebirg hin\u00fcber,"
+  },
+  {
+    "anno_id": "5e0417a2-8405-4ff8-a96f-3783c6dc54a3",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 22807,
+    "end": 23097,
+    "text": "das wie ein Duft am Horizonte lag. Hinter ihr in kleinen Pausen fuhr der Fr\u00fchlingswind durch die Wipfel der Tannen, dann und wann schallte ein Amselschlag aus der Tiefe des Waldes oder \u00fcber ihr aus der Luft herab der Schrei eines Raubvogels, der unsichtbar in dem unerme\u00dfnen Raume schwebte."
+  },
+  {
+    "anno_id": "10a8b0b6-d5bd-4561-9135-e7bdef9d7d39",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 23098,
+    "end": 23099,
+    "text": "\u2013"
+  },
+  {
+    "anno_id": "9c3e3fb9-d733-4497-87f8-e2727b348b25",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 23100,
+    "end": 23216,
+    "text": "Veronika nahm ihren Hut ab und st\u00fctzte den Kopf in ihre Hand.\r\nSo in Einsamkeit und Stille verging eine Spanne Zeit."
+  },
+  {
+    "anno_id": "58e5dfd4-7444-4a5f-8cc0-bac5a6060852",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 23217,
+    "end": 23350,
+    "text": "Nichts nahte sich als nur die reinen L\u00fcfte, die ihre Stirn ber\u00fchrten, und der Ruf der Kreaturen, der aus der Ferne an ihr Ohr schlug."
+  },
+  {
+    "anno_id": "6bfaefae-d6e2-411f-b452-57779b2a2483",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 23351,
+    "end": 23352,
+    "text": "\u2013"
+  },
+  {
+    "anno_id": "d9da74ff-1ba8-4eae-b440-23e72a850d7a",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 23353,
+    "end": 23440,
+    "text": "Zuweilen flog ein helles Rot \u00fcber ihre Wangen, und ihre Augen wurden gro\u00df und gl\u00e4nzend."
+  },
+  {
+    "anno_id": "b57419d9-3ce2-4e40-9983-4f9bb6ef1749",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 23442,
+    "end": 23548,
+    "text": "Nun klangen Glockent\u00f6ne von der Stadt herauf. Sie hob den Kopf und horchte. Es l\u00e4utete schrill und hastig."
+  },
+  {
+    "anno_id": "3c06a4cf-f244-4ba8-9c66-cc66ad989dcc",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 23549,
+    "end": 23562,
+    "text": "\u00bbRequiescat!\u00ab"
+  },
+  {
+    "anno_id": "f0f1f56d-1e0a-4d5a-a051-4732df979948",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 23563,
+    "end": 23580,
+    "text": "sprach sie leise;"
+  },
+  {
+    "anno_id": "245b2ff6-552f-4173-b9f1-427a9f74f08d",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 23581,
+    "end": 23783,
+    "text": "denn sie hatte die kleine Glocke vom Lambertusturm erkannt, die es \u00fcber die Gemeinde ausrief, da\u00df unter eines ihrer D\u00e4cher der finstere Bote des Herrn getreten sei.\r\nAm Fu\u00dfe des Berges lag der Kirchhof."
+  },
+  {
+    "anno_id": "ea18bfb2-c93d-438a-b2e7-b6bb42880a7a",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 23786,
+    "end": 23942,
+    "text": "Sie sah das Steinkreuz auf dem Grabe ihres Vaters ragen, der vor Jahresfrist unter den Gebeten des Priesters in ihren Armen entschlafen war. Und weiter hin,"
+  },
+  {
+    "anno_id": "ea18bfb2-c93d-438a-b2e7-b6bb42880a7a",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 23973,
+    "end": 24242,
+    "text": "war jenes w\u00fcste Fleckchen Erde, das sie als Kind so oft mit scheuer Neugierde betreten hatte, wo nach dem Gebot der Kirche neben denen, die sich selbst den Tod gegeben hatten, auch die begraben wurden, welche nicht gekommen waren, das Sakrament des Altars zu empfangen."
+  },
+  {
+    "anno_id": "adc6d752-4514-4c9c-ac77-462a0db29d38",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 23943,
+    "end": 23972,
+    "text": "dort wo das Wasser glitzerte,"
+  },
+  {
+    "anno_id": "b19747f5-48b3-44ad-a01c-6d45db3c8201",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 24245,
+    "end": 24277,
+    "text": "Dort war auch ihre St\u00e4tte jetzt;"
+  },
+  {
+    "anno_id": "59d22fd9-64de-49f3-8fc8-370c117a1e76",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 24278,
+    "end": 24328,
+    "text": "denn die Zeit der \u00f6sterlichen Beichte war zu Ende."
+  },
+  {
+    "anno_id": "f82c54ae-f646-484d-a7f0-2b82ae052b36",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 24330,
+    "end": 24842,
+    "text": "Ein schmerzlicher Zug stahl sich um ihren Mund, aber er verschwand wieder. Sie richtete sich auf; ein Entschlu\u00df stand fest und klar in ihrer Seele.\r\nNoch eine Weile blickte sie auf die Stadt hinab, und lie\u00df ihre Augen wie suchend \u00fcber die sonnbeschienenen D\u00e4cher wandern. Dann wandte sie sich, und ging durch die Tannen, wie sie gekommen, den Berg hinab. Bald war sie wieder unten zwischen dem Gr\u00fcn der Saatfelder. Sie schien zu eilen; aber sie ging aufrecht und mit festen Schritten.\r\nSo erreichte sie ihr Haus."
+  },
+  {
+    "anno_id": "057ef71e-3fde-4be5-b615-a90d2ae36494",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 24843,
+    "end": 24844,
+    "text": "\u2013"
+  },
+  {
+    "anno_id": "5db302b9-69f4-41f2-92f2-2daea7e6e6be",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 24845,
+    "end": 25025,
+    "text": "Von der Magd erfuhr sie, da\u00df ihr Mann in seinem Zimmer sei. Als sie die T\u00fcr ge\u00f6ffnet und ihn so ruhig an seinem Schreibtische sitzen sah, blieb sie z\u00f6gernd auf der Schwelle stehen."
+  },
+  {
+    "anno_id": "332d5a35-0e61-47ee-a52e-2b2d838fa067",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 25026,
+    "end": 25034,
+    "text": "\u00bbFranz!\u00ab"
+  },
+  {
+    "anno_id": "e6bf0bfa-3e78-4292-b2a2-cd706f52495b",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 25035,
+    "end": 25050,
+    "text": "rief sie leise."
+  },
+  {
+    "anno_id": "d0fb581d-a370-49a9-809d-e821f8522b37",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 25052,
+    "end": 25075,
+    "text": "Er legte die Feder hin."
+  },
+  {
+    "anno_id": "c7140dba-1d4a-447f-98c7-729b197b490d",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 25076,
+    "end": 25088,
+    "text": "\u00bbDu, Vroni?\u00ab"
+  },
+  {
+    "anno_id": "c7140dba-1d4a-447f-98c7-729b197b490d",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 25119,
+    "end": 25188,
+    "text": "\u00bbDu kommst ja sp\u00e4t! War das Register denn so lang?\u00ab\r\n\u00bbScherze nicht!\u00ab"
+  },
+  {
+    "anno_id": "c7140dba-1d4a-447f-98c7-729b197b490d",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 25254,
+    "end": 25282,
+    "text": "\u00bbIch habe nicht gebeichtet.\u00ab"
+  },
+  {
+    "anno_id": "ab9f7cd8-1f55-4186-9fb1-40419709e629",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 25089,
+    "end": 25118,
+    "text": "sagte er sich zu ihr wendend."
+  },
+  {
+    "anno_id": "c825b8d5-94d9-46dd-b209-8357cf731481",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 25189,
+    "end": 25253,
+    "text": "sagte sie bittend, indem sie zu ihm trat und seine Hand ergriff."
+  },
+  {
+    "anno_id": "248f052b-40cb-4891-9c5b-b4f83fa41673",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 25284,
+    "end": 25387,
+    "text": "Er blickte verwundert zu ihr auf; sie aber kniete vor ihm nieder und dr\u00fcckte ihren Mund auf seine Hand."
+  },
+  {
+    "anno_id": "1710c0a0-5889-4d10-86d6-1b5fa3f3fbef",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 25388,
+    "end": 25396,
+    "text": "\u00bbFranz\u00ab,"
+  },
+  {
+    "anno_id": "1710c0a0-5889-4d10-86d6-1b5fa3f3fbef",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 25408,
+    "end": 25452,
+    "text": "\u00bbich habe dich gekr\u00e4nkt!\u00ab\r\n\u00bbMich, Veronika?\u00ab"
+  },
+  {
+    "anno_id": "499ca110-52f9-445a-be30-09f72a853d7f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 25397,
+    "end": 25407,
+    "text": "sagte sie,"
+  },
+  {
+    "anno_id": "2397342f-0f09-4610-a51f-43707ec5e78b",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 25453,
+    "end": 25511,
+    "text": "fragte er und nahm ihre Wangen sanft zwischen seine H\u00e4nde."
+  },
+  {
+    "anno_id": "efcbafd9-ec19-4e68-8dc5-2ab2e9e6fbe2",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 25513,
+    "end": 25585,
+    "text": "Sie nickte und sah mit dem Ausdruck der tiefsten Bek\u00fcmmernis zu ihm auf."
+  },
+  {
+    "anno_id": "c16d8b30-ef99-4c32-992f-6b5e91679a31",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 25587,
+    "end": 25657,
+    "text": "\u00bbUnd jetzt bist du gekommen, deinem Mann zu beichten?\u00ab\r\n\u00bbNein, Franz\u00ab,"
+  },
+  {
+    "anno_id": "c16d8b30-ef99-4c32-992f-6b5e91679a31",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 25673,
+    "end": 25791,
+    "text": "\u00bbnicht beichten; aber vertrauen will ich dir \u2013 dir allein; und du \u2013 hilf mir, und, wenn du es vermagst, verzeihe mir!\u00ab"
+  },
+  {
+    "anno_id": "98971a59-0b59-4bef-902b-4605e5868c04",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 25658,
+    "end": 25672,
+    "text": "erwiderte sie,"
+  },
+  {
+    "anno_id": "79c371c8-7e7c-48c0-acec-a7779938c146",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 25793,
+    "end": 25910,
+    "text": "Eine Weile sah er sie mit seinen ernsten Augen an; dann hob er sie mit beiden Armen auf und legte sie an seine Brust."
+  },
+  {
+    "anno_id": "b7bfe11a-fc33-4b8e-8169-3117113304b7",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 25911,
+    "end": 25933,
+    "text": "\u00bbSo sprich, Veronika!\u00ab"
+  },
+  {
+    "anno_id": "f0cc3293-80ee-4fff-9ec6-3ca3a2ba46c7",
+    "tag_id": "77f85047-1c0f-4d58-b32d-c82934e780fc",
+    "tag_name": "summary",
+    "start": 25935,
+    "end": 26098,
+    "text": "Sie regte sich nicht; aber ihr Mund begann zu sprechen; und w\u00e4hrend seine Augen an ihren Lippen hingen, f\u00fchlte sie es, wie seine Arme immer fester sie umschlossen."
+  }
+]

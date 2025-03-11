@@ -1,0 +1,1722 @@
+[
+  {
+    "anno_id": "610f1d9f-baae-4581-af61-54658eab9467",
+    "tag_id": "a56dd2a5-e96c-40c1-b7c1-621cf234b6fd",
+    "tag_name": "progression-related-time",
+    "start": 78,
+    "end": 109,
+    "text": "mit der neueren Weltgeschichte "
+  },
+  {
+    "anno_id": "0d889f05-523f-4fc6-9bc9-57625be5efe3",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 137,
+    "end": 166,
+    "text": " mit der Geschichte Napoleons"
+  },
+  {
+    "anno_id": "2da2948f-f00e-40e0-bf85-4224adacb9fd",
+    "tag_id": "57bf49e8-9ac3-4b80-a7c8-7b0def8da092",
+    "tag_name": "anaphoric_time-span",
+    "start": 193,
+    "end": 199,
+    "text": "Damals"
+  },
+  {
+    "anno_id": "3a3d55a0-0408-4bfc-bb02-49a84ec301d6",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 480,
+    "end": 484,
+    "text": "oft "
+  },
+  {
+    "anno_id": "64f31319-7cdb-428c-9f60-7d4b56aecd95",
+    "tag_id": "e8421bc8-71eb-4024-8e24-467c55a9214b",
+    "tag_name": "incomplete_time-point",
+    "start": 652,
+    "end": 672,
+    "text": "Es war im Jahr 1796."
+  },
+  {
+    "anno_id": "f4ad9634-dfbe-46ca-845e-03453930d5fb",
+    "tag_id": "a56dd2a5-e96c-40c1-b7c1-621cf234b6fd",
+    "tag_name": "progression-related-time",
+    "start": 680,
+    "end": 748,
+    "text": "unserer m\u00e4uschenstillen Zeit, wir Kinder des unbefriedigten Friedens"
+  },
+  {
+    "anno_id": "f6fe0370-116b-4e8e-b9b1-33a80ed958cb",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 1127,
+    "end": 1133,
+    "text": "wieder"
+  },
+  {
+    "anno_id": "2c5677ac-64a3-4952-94fd-60d18a5e83af",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 1277,
+    "end": 1284,
+    "text": "allzeit"
+  },
+  {
+    "anno_id": "be42c4fd-93e8-4c6f-90a4-9dc57896a57c",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 1320,
+    "end": 1330,
+    "text": "jetzt eben"
+  },
+  {
+    "anno_id": "b5c2b693-b9c1-43dd-8d5d-933df227bc63",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 1395,
+    "end": 1402,
+    "text": "oftmals"
+  },
+  {
+    "anno_id": "5d1f9f97-8cd3-462a-a618-f0d079363886",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 1535,
+    "end": 1543,
+    "text": "manchmal"
+  },
+  {
+    "anno_id": "20811a49-ca29-44e7-9197-947630506bf1",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 1862,
+    "end": 1883,
+    "text": "n das neunzehnte Jahr"
+  },
+  {
+    "anno_id": "4f23343d-6be3-4056-871b-ff0cfcd2ada8",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 1994,
+    "end": 1995,
+    "text": " "
+  },
+  {
+    "anno_id": "4f23343d-6be3-4056-871b-ff0cfcd2ada8",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 1995,
+    "end": 2007,
+    "text": "Am Tage vor "
+  },
+  {
+    "anno_id": "4f23343d-6be3-4056-871b-ff0cfcd2ada8",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 2007,
+    "end": 2035,
+    "text": "des Maurers Wendel Hochzeit,"
+  },
+  {
+    "anno_id": "479ccb71-8d41-43c5-aec8-e25d16ada902",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 1994,
+    "end": 1995,
+    "text": " "
+  },
+  {
+    "anno_id": "479ccb71-8d41-43c5-aec8-e25d16ada902",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 1995,
+    "end": 2007,
+    "text": "Am Tage vor "
+  },
+  {
+    "anno_id": "a303fb44-f925-4bf3-8373-346064bad2b5",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 2261,
+    "end": 2266,
+    "text": "immer"
+  },
+  {
+    "anno_id": "c018f7ab-b5d9-4d10-951d-1cc5491b8582",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 2295,
+    "end": 2301,
+    "text": "immer "
+  },
+  {
+    "anno_id": "671a728c-d295-4163-bb99-c4918a8508e2",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 2338,
+    "end": 2341,
+    "text": "Als"
+  },
+  {
+    "anno_id": "671a728c-d295-4163-bb99-c4918a8508e2",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 2341,
+    "end": 2342,
+    "text": " "
+  },
+  {
+    "anno_id": "671a728c-d295-4163-bb99-c4918a8508e2",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 2342,
+    "end": 2345,
+    "text": "nun"
+  },
+  {
+    "anno_id": "671a728c-d295-4163-bb99-c4918a8508e2",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 2345,
+    "end": 2380,
+    "text": " der Zug bei der Leimengrube ankam,"
+  },
+  {
+    "anno_id": "de925cc7-2cac-4b9f-9e70-dd76abc1cc03",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 2338,
+    "end": 2341,
+    "text": "Als"
+  },
+  {
+    "anno_id": "103b0b45-1705-4bb0-9ead-b5684d0a8e6c",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 2342,
+    "end": 2345,
+    "text": "nun"
+  },
+  {
+    "anno_id": "98e2848a-90cd-4838-a314-1b971a796750",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 2465,
+    "end": 2467,
+    "text": "da"
+  },
+  {
+    "anno_id": "566eb798-eb02-41e4-9b8d-03a07d8f379e",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 2487,
+    "end": 2493,
+    "text": "wieder"
+  },
+  {
+    "anno_id": "ccc429a9-7e8c-4260-9d50-c1bb6bca7207",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 2499,
+    "end": 2500,
+    "text": " "
+  },
+  {
+    "anno_id": "ccc429a9-7e8c-4260-9d50-c1bb6bca7207",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 2500,
+    "end": 2513,
+    "text": "fast noch ehe"
+  },
+  {
+    "anno_id": "ccc429a9-7e8c-4260-9d50-c1bb6bca7207",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 2513,
+    "end": 2534,
+    "text": " man den Knall h\u00f6rte,"
+  },
+  {
+    "anno_id": "ecf2d1e6-2755-425a-a666-25d4e932915a",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 2500,
+    "end": 2513,
+    "text": "fast noch ehe"
+  },
+  {
+    "anno_id": "43b3bae6-33ad-4525-89b5-ddb5372dce30",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 2710,
+    "end": 2716,
+    "text": "Jetzt "
+  },
+  {
+    "anno_id": "fac791a7-d939-46ac-88df-864a5257ac24",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 2844,
+    "end": 2847,
+    "text": "nun"
+  },
+  {
+    "anno_id": "79ca1bff-3b3a-48c4-861e-694cdc8ecc20",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 2986,
+    "end": 2989,
+    "text": "als"
+  },
+  {
+    "anno_id": "79ca1bff-3b3a-48c4-861e-694cdc8ecc20",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 2989,
+    "end": 2996,
+    "text": " es sah"
+  },
+  {
+    "anno_id": "4f912676-1232-4cac-9d95-a26f0e2d4e1b",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 2986,
+    "end": 2989,
+    "text": "als"
+  },
+  {
+    "anno_id": "d943aee2-acdd-4a7f-baa3-a9b30b5e6085",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 3155,
+    "end": 3158,
+    "text": "nun"
+  },
+  {
+    "anno_id": "90c9cbbe-26e2-463c-937c-68d4181eeee3",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 3359,
+    "end": 3363,
+    "text": " Als"
+  },
+  {
+    "anno_id": "90c9cbbe-26e2-463c-937c-68d4181eeee3",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 3363,
+    "end": 3396,
+    "text": " der alte Jockel in's Zimmer trat"
+  },
+  {
+    "anno_id": "49564256-c154-458a-bcae-718c3f9cfeb9",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 3359,
+    "end": 3363,
+    "text": " Als"
+  },
+  {
+    "anno_id": "ba6828ae-ca84-4ae0-91bb-4c5584947286",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 3751,
+    "end": 3754,
+    "text": "als"
+  },
+  {
+    "anno_id": "ba6828ae-ca84-4ae0-91bb-4c5584947286",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 3754,
+    "end": 3784,
+    "text": " nun der Jockel vor ihm stand "
+  },
+  {
+    "anno_id": "f7e55b16-6f09-4c05-a4d7-d413bfc6e3d8",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 3751,
+    "end": 3754,
+    "text": "als"
+  },
+  {
+    "anno_id": "a50be27c-bd7e-492b-877a-de910f997aa1",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 3822,
+    "end": 3824,
+    "text": "da"
+  },
+  {
+    "anno_id": "fb66cb7a-f787-4022-af8f-79f4480f7474",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 4027,
+    "end": 4031,
+    "text": " als"
+  },
+  {
+    "anno_id": "fb66cb7a-f787-4022-af8f-79f4480f7474",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 4031,
+    "end": 4059,
+    "text": " dieser die Worte K\u00e4therle's"
+  },
+  {
+    "anno_id": "e6d7bd13-95f6-4d7d-94ba-ecd37d4447fc",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 4027,
+    "end": 4031,
+    "text": " als"
+  },
+  {
+    "anno_id": "17ebf599-e345-4c9a-b8be-8d249c8b7c89",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 4205,
+    "end": 4208,
+    "text": "nun"
+  },
+  {
+    "anno_id": "5e1cf284-7c1b-4db2-b18a-09fff9fa5a9c",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 4286,
+    "end": 4287,
+    "text": " "
+  },
+  {
+    "anno_id": "5e1cf284-7c1b-4db2-b18a-09fff9fa5a9c",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 4287,
+    "end": 4290,
+    "text": "Als"
+  },
+  {
+    "anno_id": "9e29a1b5-43f2-4903-9c7b-db8f92118fbe",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 4287,
+    "end": 4290,
+    "text": "Als"
+  },
+  {
+    "anno_id": "9e29a1b5-43f2-4903-9c7b-db8f92118fbe",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 4290,
+    "end": 4293,
+    "text": " er"
+  },
+  {
+    "anno_id": "9e29a1b5-43f2-4903-9c7b-db8f92118fbe",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 4293,
+    "end": 4314,
+    "text": " schon einige Stunden"
+  },
+  {
+    "anno_id": "9e29a1b5-43f2-4903-9c7b-db8f92118fbe",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 4314,
+    "end": 4339,
+    "text": " darauf im Wundfieber lag"
+  },
+  {
+    "anno_id": "3c082005-90b4-4267-a142-8c870f267785",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 4293,
+    "end": 4314,
+    "text": " schon einige Stunden"
+  },
+  {
+    "anno_id": "6ecf5116-f5ca-493d-8592-5cbe12c4e4cb",
+    "tag_id": "57bf49e8-9ac3-4b80-a7c8-7b0def8da092",
+    "tag_name": "anaphoric_time-span",
+    "start": 4481,
+    "end": 4487,
+    "text": "dabei "
+  },
+  {
+    "anno_id": "bdbb186b-01b0-4dc4-a002-c0772e13fb12",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 4487,
+    "end": 4491,
+    "text": "oft "
+  },
+  {
+    "anno_id": "0e30d472-92a3-4284-9656-1b7ff418534f",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 4763,
+    "end": 4767,
+    "text": "Dann"
+  },
+  {
+    "anno_id": "e2427ffa-aa08-4fed-bd1b-f2e87737a3cc",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 4851,
+    "end": 4858,
+    "text": "nachher"
+  },
+  {
+    "anno_id": "ebc0c658-75a7-45b4-81a3-d142f9986ad3",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 5182,
+    "end": 5190,
+    "text": "mehrfach"
+  },
+  {
+    "anno_id": "d0a2bd04-6c5b-4de0-8758-a2f8904c5108",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 5182,
+    "end": 5190,
+    "text": "mehrfach"
+  },
+  {
+    "anno_id": "d0a2bd04-6c5b-4de0-8758-a2f8904c5108",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 5190,
+    "end": 5191,
+    "text": " "
+  },
+  {
+    "anno_id": "fd734384-47ab-4b57-8205-67fb8536d0c7",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 5216,
+    "end": 5219,
+    "text": "Als"
+  },
+  {
+    "anno_id": "fd734384-47ab-4b57-8205-67fb8536d0c7",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 5219,
+    "end": 5232,
+    "text": " er erwachte,"
+  },
+  {
+    "anno_id": "346ab690-a0c5-4442-ac16-25e080759a69",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 5216,
+    "end": 5219,
+    "text": "Als"
+  },
+  {
+    "anno_id": "57f55ca5-9546-4b71-862b-4295a4ee6499",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 6209,
+    "end": 6213,
+    "text": " nun"
+  },
+  {
+    "anno_id": "e3605657-b7f9-4dce-b051-395f4b40078f",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 6524,
+    "end": 6532,
+    "text": "noch nie"
+  },
+  {
+    "anno_id": "09d31a1e-c86b-49c7-8928-b2131faefc51",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 6592,
+    "end": 6599,
+    "text": "vorher "
+  },
+  {
+    "anno_id": "af2eab25-e6db-4bf5-9144-fa51471abe97",
+    "tag_id": "dad4c2b7-8faf-4389-9197-fb699856561f",
+    "tag_name": "seasonal-time",
+    "start": 6635,
+    "end": 6649,
+    "text": "hei\u00dfer Sommer "
+  },
+  {
+    "anno_id": "e0f7faf4-90ee-4800-b8a9-bab82d759f09",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 6865,
+    "end": 6895,
+    "text": "da\u00df schon Zeiten kommen w\u00fcrden"
+  },
+  {
+    "anno_id": "9fa68517-99cc-4f6e-86ed-5187e8c48384",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 6896,
+    "end": 6900,
+    "text": " wo "
+  },
+  {
+    "anno_id": "9fa68517-99cc-4f6e-86ed-5187e8c48384",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 6900,
+    "end": 6937,
+    "text": "er mit dem K\u00e4therle allein sein werde"
+  },
+  {
+    "anno_id": "9fa68517-99cc-4f6e-86ed-5187e8c48384",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 6937,
+    "end": 6938,
+    "text": "."
+  },
+  {
+    "anno_id": "1e51d5ec-f35d-4c3a-801c-221cc98d7c69",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 6896,
+    "end": 6900,
+    "text": " wo "
+  },
+  {
+    "anno_id": "18742523-771f-4f46-a93f-d4f5cb69f8b1",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 6940,
+    "end": 6953,
+    "text": "Andern Tages "
+  },
+  {
+    "anno_id": "af6c5bc3-8e3d-4d21-acf5-0cb5bd7a6876",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 6990,
+    "end": 6994,
+    "text": "als "
+  },
+  {
+    "anno_id": "af6c5bc3-8e3d-4d21-acf5-0cb5bd7a6876",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 6994,
+    "end": 7016,
+    "text": "es zur Kirche l\u00e4utete,"
+  },
+  {
+    "anno_id": "12371af0-1ddc-4a89-8ed9-fc18422cde95",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 6990,
+    "end": 6994,
+    "text": "als "
+  },
+  {
+    "anno_id": "13960618-d39d-4381-9a72-163bcbb00067",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 7091,
+    "end": 7097,
+    "text": "jetzt "
+  },
+  {
+    "anno_id": "416a22fb-bf6c-49dd-a20c-653d6bc6929f",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 7154,
+    "end": 7158,
+    "text": "Nach"
+  },
+  {
+    "anno_id": "89713b5c-3b84-4b95-8da7-58f4e7f00165",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 7154,
+    "end": 7158,
+    "text": "Nach"
+  },
+  {
+    "anno_id": "89713b5c-3b84-4b95-8da7-58f4e7f00165",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 7158,
+    "end": 7170,
+    "text": " der Kirche "
+  },
+  {
+    "anno_id": "9be1b831-679f-4371-a782-8b4238529b7b",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 7339,
+    "end": 7343,
+    "text": "dann"
+  },
+  {
+    "anno_id": "3cd0f564-b364-4278-8825-634d6fc757c3",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 7680,
+    "end": 7683,
+    "text": "als"
+  },
+  {
+    "anno_id": "3cd0f564-b364-4278-8825-634d6fc757c3",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 7683,
+    "end": 7702,
+    "text": " sie allein waren, "
+  },
+  {
+    "anno_id": "6dde9cda-ed04-4231-be5d-e93cc872816f",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 7680,
+    "end": 7683,
+    "text": "als"
+  },
+  {
+    "anno_id": "2be5e4fb-b61d-48d6-9901-9a5ef54a6996",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 7750,
+    "end": 7754,
+    "text": "bald"
+  },
+  {
+    "anno_id": "72e50812-a3e1-4adf-813b-c8062bb83573",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 7762,
+    "end": 7775,
+    "text": "eine Hochzeit"
+  },
+  {
+    "anno_id": "06c3a2b8-d2c5-45f1-8d36-91366ef8607d",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 7780,
+    "end": 7783,
+    "text": " da"
+  },
+  {
+    "anno_id": "f852ead7-4f0a-40a2-a3ed-8339ced2d9b5",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 8918,
+    "end": 8923,
+    "text": " nun "
+  },
+  {
+    "anno_id": "ed65b67e-36dc-49b5-a366-f64000999adc",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 8939,
+    "end": 8949,
+    "text": "eine Weile"
+  },
+  {
+    "anno_id": "a0e2ec5b-8282-4c56-b6e2-0765b8ce13c6",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 8977,
+    "end": 8981,
+    "text": "als "
+  },
+  {
+    "anno_id": "a0e2ec5b-8282-4c56-b6e2-0765b8ce13c6",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 8981,
+    "end": 9020,
+    "text": "es aber immer stumm und abgekehrt blieb"
+  },
+  {
+    "anno_id": "3c13ab87-11ae-4be7-9c8a-d7443f995428",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 8977,
+    "end": 8981,
+    "text": "als "
+  },
+  {
+    "anno_id": "b3202608-5bb3-4fff-8df9-6767136453e6",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 9022,
+    "end": 9024,
+    "text": "da"
+  },
+  {
+    "anno_id": "80feb9a5-1722-4bf1-a2c8-fc3c320660d5",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 10061,
+    "end": 10067,
+    "text": "lange "
+  },
+  {
+    "anno_id": "e5bb1db2-cfb6-461a-b9fa-a15646d03b7f",
+    "tag_id": "276fd3df-f6aa-4281-8516-6cbee3e2b728",
+    "tag_name": "non_relative_time-point",
+    "start": 10332,
+    "end": 10343,
+    "text": "Gegen Abend"
+  },
+  {
+    "anno_id": "8c70af59-e6f7-482e-bf55-19591d8ebb26",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 10544,
+    "end": 10548,
+    "text": "Als "
+  },
+  {
+    "anno_id": "8c70af59-e6f7-482e-bf55-19591d8ebb26",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 10548,
+    "end": 10574,
+    "text": "er aber das K\u00e4therle bat, "
+  },
+  {
+    "anno_id": "a16e2f5f-6abe-4e00-a385-ec23e25a2e90",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 10544,
+    "end": 10548,
+    "text": "Als "
+  },
+  {
+    "anno_id": "d0297eb5-357a-4d1e-9c5f-4ddf9382cf32",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 10651,
+    "end": 10662,
+    "text": "bald darauf"
+  },
+  {
+    "anno_id": "b0cbe3db-7090-45c7-9a7f-ebe1bd4e50dc",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 10686,
+    "end": 10690,
+    "text": "Nun "
+  },
+  {
+    "anno_id": "de887ad3-3cb2-4157-8275-0890f5fecb78",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 10806,
+    "end": 10810,
+    "text": " da "
+  },
+  {
+    "anno_id": "063b3ff9-0fdb-464c-b35a-03022cf07f26",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 10955,
+    "end": 10970,
+    "text": "die ganze Nacht"
+  },
+  {
+    "anno_id": "a25b655c-b841-4317-8f46-6e1b9172262e",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 11265,
+    "end": 11266,
+    "text": " "
+  },
+  {
+    "anno_id": "a25b655c-b841-4317-8f46-6e1b9172262e",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 11266,
+    "end": 11270,
+    "text": "Als "
+  },
+  {
+    "anno_id": "4ddbd479-bf3d-4e1d-a334-cce1bf471c34",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 11266,
+    "end": 11270,
+    "text": "Als "
+  },
+  {
+    "anno_id": "4ddbd479-bf3d-4e1d-a334-cce1bf471c34",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 11270,
+    "end": 11273,
+    "text": "nun"
+  },
+  {
+    "anno_id": "4ddbd479-bf3d-4e1d-a334-cce1bf471c34",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 11273,
+    "end": 11327,
+    "text": " der Hansj\u00f6rg zum erstenmal das Haus verlassen durfte,"
+  },
+  {
+    "anno_id": "229ed191-6132-4a1e-9486-bdaaca4e435f",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 11270,
+    "end": 11273,
+    "text": "nun"
+  },
+  {
+    "anno_id": "77252438-2f9d-4ae6-a578-5368d59b036d",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 11435,
+    "end": 11438,
+    "text": "als"
+  },
+  {
+    "anno_id": "77252438-2f9d-4ae6-a578-5368d59b036d",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 11438,
+    "end": 11481,
+    "text": " das K\u00e4therle das Loch wieder zuschaufelte."
+  },
+  {
+    "anno_id": "2fbf382b-13e2-4096-be13-6ff17343ba46",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 11435,
+    "end": 11438,
+    "text": "als"
+  },
+  {
+    "anno_id": "3449781c-7147-42d8-bc76-88c3307c06f6",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 12498,
+    "end": 12513,
+    "text": "Sonntags darauf"
+  },
+  {
+    "anno_id": "e0928477-b11c-494c-8b4d-5b73594c136c",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 13154,
+    "end": 13157,
+    "text": "oft"
+  },
+  {
+    "anno_id": "666c445c-af10-46d5-817a-a19e5abf4be1",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 13357,
+    "end": 13368,
+    "text": "nicht lange"
+  },
+  {
+    "anno_id": "82ef7953-8e3f-4c19-9b3e-a2be654c4e68",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 13385,
+    "end": 13395,
+    "text": "tagt\u00e4glich"
+  },
+  {
+    "anno_id": "10033897-9b9a-4781-944b-100654c56e67",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 13507,
+    "end": 13515,
+    "text": "Manchmal"
+  },
+  {
+    "anno_id": "6ed3952e-7792-4717-99db-b1a38529d21a",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 13675,
+    "end": 13690,
+    "text": "immer und immer"
+  },
+  {
+    "anno_id": "b26cea6a-bf70-4a94-adc5-0cbc0f379106",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 13763,
+    "end": 13766,
+    "text": "nie"
+  },
+  {
+    "anno_id": "e3bda27e-6f15-4871-ba6c-c6ec7bfbe2fb",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 13775,
+    "end": 13779,
+    "text": "wenn"
+  },
+  {
+    "anno_id": "e3bda27e-6f15-4871-ba6c-c6ec7bfbe2fb",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 13779,
+    "end": 13797,
+    "text": " er geraucht hatte"
+  },
+  {
+    "anno_id": "73e23482-dc8d-4b69-808e-e641bc738167",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 13775,
+    "end": 13779,
+    "text": "wenn"
+  },
+  {
+    "anno_id": "95990b9c-9f9d-48d4-ae25-3e27733994f1",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 13803,
+    "end": 13806,
+    "text": "ehe"
+  },
+  {
+    "anno_id": "95990b9c-9f9d-48d4-ae25-3e27733994f1",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 13806,
+    "end": 13822,
+    "text": " er zu ihm ging,"
+  },
+  {
+    "anno_id": "5e5bd361-5d62-4619-bce8-9c1502b33239",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 13803,
+    "end": 13806,
+    "text": "ehe"
+  },
+  {
+    "anno_id": "21be350d-e058-4785-a948-91ef72e2a1f4",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 13832,
+    "end": 13842,
+    "text": "fast immer"
+  },
+  {
+    "anno_id": "5449dee3-5cd0-4f94-9ad3-832d88f1c180",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 13985,
+    "end": 13991,
+    "text": "immer "
+  },
+  {
+    "anno_id": "6abd9985-2472-482e-8351-2e46a225691c",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 13991,
+    "end": 14008,
+    "text": "nach einer Weile "
+  },
+  {
+    "anno_id": "6405539f-8f6f-478f-a4aa-c933cbb58f1a",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 14060,
+    "end": 14064,
+    "text": "oft "
+  },
+  {
+    "anno_id": "1a3ec4a8-2b22-48b8-8e6c-c91d18ce69fe",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 14161,
+    "end": 14172,
+    "text": "immer mehr "
+  },
+  {
+    "anno_id": "8f34ba46-a93d-47bd-acae-8714d517f1d4",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 14424,
+    "end": 14432,
+    "text": "w\u00e4hrend "
+  },
+  {
+    "anno_id": "8f34ba46-a93d-47bd-acae-8714d517f1d4",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 14432,
+    "end": 14445,
+    "text": "der Heuernte "
+  },
+  {
+    "anno_id": "8f34ba46-a93d-47bd-acae-8714d517f1d4",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 14445,
+    "end": 14459,
+    "text": "zwei Tage lang"
+  },
+  {
+    "anno_id": "6046086b-4c30-486c-ac1e-69610dd8c90b",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 14424,
+    "end": 14432,
+    "text": "w\u00e4hrend "
+  },
+  {
+    "anno_id": "d6fd970f-9cf2-4d4a-b906-4e05407fe148",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 14445,
+    "end": 14459,
+    "text": "zwei Tage lang"
+  },
+  {
+    "anno_id": "0351a8dd-5b13-4341-8c00-a6b44205ea53",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 14477,
+    "end": 14482,
+    "text": "immer"
+  },
+  {
+    "anno_id": "2a2c80ec-844d-49c6-afd3-3981d809698a",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 14572,
+    "end": 14573,
+    "text": " "
+  },
+  {
+    "anno_id": "2a2c80ec-844d-49c6-afd3-3981d809698a",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 14573,
+    "end": 14578,
+    "text": "indem"
+  },
+  {
+    "anno_id": "a52f7a00-36e5-4564-a6fa-134e039f5e04",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 14573,
+    "end": 14578,
+    "text": "indem"
+  },
+  {
+    "anno_id": "a52f7a00-36e5-4564-a6fa-134e039f5e04",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 14578,
+    "end": 14628,
+    "text": " er sie vergn\u00fcglich zwischen den Z\u00e4hnen festhielt "
+  },
+  {
+    "anno_id": "7a492730-a8f7-4103-aa46-5b32cc7eafdb",
+    "tag_id": "57bf49e8-9ac3-4b80-a7c8-7b0def8da092",
+    "tag_name": "anaphoric_time-span",
+    "start": 14631,
+    "end": 14637,
+    "text": " dabei"
+  },
+  {
+    "anno_id": "c5c834ea-ebdc-4ce5-a64d-c330c066e0fc",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 14675,
+    "end": 14676,
+    "text": "\u00bb"
+  },
+  {
+    "anno_id": "c5c834ea-ebdc-4ce5-a64d-c330c066e0fc",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 14676,
+    "end": 14679,
+    "text": "Eh'"
+  },
+  {
+    "anno_id": "c5c834ea-ebdc-4ce5-a64d-c330c066e0fc",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 14679,
+    "end": 14696,
+    "text": " mag das K\u00e4therle"
+  },
+  {
+    "anno_id": "af47fb40-684f-46ec-b9c5-d2ef1f99da83",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 14676,
+    "end": 14679,
+    "text": "Eh'"
+  },
+  {
+    "anno_id": "8f86efda-9b8f-46d7-8a80-f764d57b57b2",
+    "tag_id": "57bf49e8-9ac3-4b80-a7c8-7b0def8da092",
+    "tag_name": "anaphoric_time-span",
+    "start": 14788,
+    "end": 14793,
+    "text": "dabei"
+  },
+  {
+    "anno_id": "5592dc7b-9108-478c-93b4-e8e172aa0861",
+    "tag_id": "dad4c2b7-8faf-4389-9197-fb699856561f",
+    "tag_name": "seasonal-time",
+    "start": 14937,
+    "end": 14966,
+    "text": "Endlich kam der Herbst herbei"
+  },
+  {
+    "anno_id": "63b5cb37-19e7-4829-a656-34f428f5ac97",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 15410,
+    "end": 15413,
+    "text": "nun"
+  },
+  {
+    "anno_id": "64a9eb40-6919-4a30-b3d5-b7c0a7cd63ea",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 15493,
+    "end": 15496,
+    "text": "oft"
+  },
+  {
+    "anno_id": "cb93bc25-ac85-4732-be8f-16f72d100cd3",
+    "tag_id": "98ab2949-c206-4308-bf4f-87edca848944",
+    "tag_name": "incomplete_time-span",
+    "start": 15633,
+    "end": 15666,
+    "text": "In den ersten Tagen des Oktobers "
+  },
+  {
+    "anno_id": "865932ec-e0b5-4512-85cb-ca4f26a639f6",
+    "tag_id": "57bf49e8-9ac3-4b80-a7c8-7b0def8da092",
+    "tag_name": "anaphoric_time-span",
+    "start": 15815,
+    "end": 15834,
+    "text": "mehrere Tage vorher"
+  },
+  {
+    "anno_id": "27bab37f-507d-4a6c-9a39-5374a56d57a7",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 16464,
+    "end": 16468,
+    "text": "dann"
+  },
+  {
+    "anno_id": "02ca6250-fa74-440f-b464-c4276d6aa0f9",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 16464,
+    "end": 16468,
+    "text": "dann"
+  },
+  {
+    "anno_id": "4ff5f7f0-837c-4f45-b71e-cbc2225d85d6",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 17184,
+    "end": 17209,
+    "text": "Der Tag des Durchmarsches"
+  },
+  {
+    "anno_id": "576d3837-34a1-4cd7-8539-81a63dac6cf8",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 17970,
+    "end": 17973,
+    "text": "Nun"
+  },
+  {
+    "anno_id": "05af6abe-c7df-4a9a-af58-37e7f6d818f6",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 18391,
+    "end": 18396,
+    "text": "Nach "
+  },
+  {
+    "anno_id": "1611c633-e88e-47b9-886f-df04b3f00c83",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 18391,
+    "end": 18396,
+    "text": "Nach "
+  },
+  {
+    "anno_id": "1611c633-e88e-47b9-886f-df04b3f00c83",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 18396,
+    "end": 18410,
+    "text": "der Infanterie"
+  },
+  {
+    "anno_id": "a0f8609c-267f-48d2-9854-fe341b60e588",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 19443,
+    "end": 19446,
+    "text": "Da "
+  },
+  {
+    "anno_id": "98b02404-dcd8-409a-afe0-5a359231b9e1",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 19716,
+    "end": 19720,
+    "text": " da "
+  },
+  {
+    "anno_id": "2d12cc34-2ac2-4039-9d63-17d66d0d84bd",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 19861,
+    "end": 19864,
+    "text": "ehe"
+  },
+  {
+    "anno_id": "2d12cc34-2ac2-4039-9d63-17d66d0d84bd",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 19864,
+    "end": 19887,
+    "text": " sie bei Hansj\u00f6rg waren"
+  },
+  {
+    "anno_id": "9e612984-bb70-4285-b5c2-92d7f2e65dd4",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 19861,
+    "end": 19864,
+    "text": "ehe"
+  },
+  {
+    "anno_id": "ed0f753e-22b8-495f-a683-c49a7497cbfc",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 20396,
+    "end": 20403,
+    "text": " jetzt "
+  },
+  {
+    "anno_id": "4989b20b-7db9-4283-8488-251c5c66e0cc",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 21050,
+    "end": 21056,
+    "text": "jetzt."
+  },
+  {
+    "anno_id": "f621b9c8-c869-445b-a1f5-639842fbf07a",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 21766,
+    "end": 21771,
+    "text": "jetzt"
+  },
+  {
+    "anno_id": "00a54ddb-8ee7-4f68-a5fd-e9b7357b30b9",
+    "tag_id": "57bf49e8-9ac3-4b80-a7c8-7b0def8da092",
+    "tag_name": "anaphoric_time-span",
+    "start": 21833,
+    "end": 21844,
+    "text": "Unterdessen"
+  },
+  {
+    "anno_id": "57c26dd4-088c-4191-9082-282ebf5a08e7",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 22336,
+    "end": 22339,
+    "text": "als"
+  },
+  {
+    "anno_id": "57c26dd4-088c-4191-9082-282ebf5a08e7",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 22339,
+    "end": 22371,
+    "text": " diese sich aber verfolgt sahen,"
+  },
+  {
+    "anno_id": "eb0bdee9-4a52-4ed6-b062-356b8c014385",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 22336,
+    "end": 22339,
+    "text": "als"
+  },
+  {
+    "anno_id": "87eb30b4-c27f-4712-b1f5-9d36f79f6289",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 22465,
+    "end": 22469,
+    "text": "Als "
+  },
+  {
+    "anno_id": "87eb30b4-c27f-4712-b1f5-9d36f79f6289",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 22469,
+    "end": 22504,
+    "text": "der Fideli und der Xaver das sahen,"
+  },
+  {
+    "anno_id": "ad1ce7ff-5be4-44ca-9392-7eabf0ed0062",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 22465,
+    "end": 22469,
+    "text": "Als "
+  },
+  {
+    "anno_id": "7fac9016-4a2e-4bb2-8543-54129ca56422",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 22604,
+    "end": 22622,
+    "text": "Von diesem Tage an"
+  },
+  {
+    "anno_id": "03be405e-2e11-48c0-94c5-ad5c239ad6c3",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 22675,
+    "end": 22694,
+    "text": "Vier Wochen sp\u00e4ter "
+  },
+  {
+    "anno_id": "8baa2ecd-a5fe-4101-b6e0-3372518ca86b",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 22675,
+    "end": 22694,
+    "text": "Vier Wochen sp\u00e4ter "
+  },
+  {
+    "anno_id": "23c66c2a-7669-4850-bcdc-a1d637f04db2",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 22755,
+    "end": 22766,
+    "text": "Eines Tages"
+  },
+  {
+    "anno_id": "6284090f-bfb6-4749-8c72-64d00319bd6f",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 22755,
+    "end": 22766,
+    "text": "Eines Tages"
+  },
+  {
+    "anno_id": "32983560-b10c-4812-94d3-845be50b806a",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 22867,
+    "end": 22869,
+    "text": "da"
+  },
+  {
+    "anno_id": "219c6a9c-4186-4af1-bfdd-7aeba894c0a8",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 23125,
+    "end": 23129,
+    "text": "oft "
+  },
+  {
+    "anno_id": "147ff37a-41a9-47eb-9554-b7fb75f2cbfb",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 23360,
+    "end": 23365,
+    "text": "wenn "
+  },
+  {
+    "anno_id": "147ff37a-41a9-47eb-9554-b7fb75f2cbfb",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 23365,
+    "end": 23403,
+    "text": "er sie an seiner Hochzeit wiedersieht."
+  },
+  {
+    "anno_id": "18863db0-6c4e-4c59-8893-803013052782",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 23360,
+    "end": 23365,
+    "text": "wenn "
+  },
+  {
+    "anno_id": "f05a9a5a-1b8f-42f3-bf4a-b0c87e9982f8",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 23735,
+    "end": 23738,
+    "text": "als"
+  },
+  {
+    "anno_id": "f05a9a5a-1b8f-42f3-bf4a-b0c87e9982f8",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 23738,
+    "end": 23775,
+    "text": " sie aber traulich bei einander sa\u00dfen"
+  },
+  {
+    "anno_id": "b4e78807-2983-4b3b-a9a9-f7cecba15129",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 23735,
+    "end": 23738,
+    "text": "als"
+  },
+  {
+    "anno_id": "6b12cf0e-050a-44ae-83e6-b04f5fe9b6b3",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 23946,
+    "end": 23951,
+    "text": "jetzt"
+  },
+  {
+    "anno_id": "c4b8f910-d7d5-4e96-bf01-7dd307c2b1b7",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 24015,
+    "end": 24020,
+    "text": "damal"
+  },
+  {
+    "anno_id": "924a6537-4971-4737-89b4-9ddd13dd90ff",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 24241,
+    "end": 24250,
+    "text": " am Abend"
+  },
+  {
+    "anno_id": "3980e01a-7eea-4021-9f59-26cfa03150ab",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 24456,
+    "end": 24471,
+    "text": "Am Sonntage vor"
+  },
+  {
+    "anno_id": "3980e01a-7eea-4021-9f59-26cfa03150ab",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 24471,
+    "end": 24485,
+    "text": " der Hochzeit "
+  },
+  {
+    "anno_id": "b172d1c8-0cd4-4dfb-af36-01c77a67af9a",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 24456,
+    "end": 24471,
+    "text": "Am Sonntage vor"
+  },
+  {
+    "anno_id": "304b44a6-a9ca-4970-aaf8-ad2be89b48a6",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 24759,
+    "end": 24782,
+    "text": "zur Hauzich am Zinstig "
+  },
+  {
+    "anno_id": "aec44fe4-b498-48f8-8be9-908747319418",
+    "tag_id": "276fd3df-f6aa-4281-8516-6cbee3e2b728",
+    "tag_name": "non_relative_time-point",
+    "start": 24792,
+    "end": 24803,
+    "text": "am Dienstag"
+  },
+  {
+    "anno_id": "3dc35169-0e73-42dd-bb53-94dc066b795a",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 24969,
+    "end": 24975,
+    "text": "Darauf"
+  },
+  {
+    "anno_id": "566e1240-4b0a-4d72-aa1e-7899a0c07fb3",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 25132,
+    "end": 25136,
+    "text": " nun"
+  },
+  {
+    "anno_id": "565d6d96-412d-41fe-8ccf-29ddba53dfb1",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 25504,
+    "end": 25507,
+    "text": "als"
+  },
+  {
+    "anno_id": "565d6d96-412d-41fe-8ccf-29ddba53dfb1",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 25507,
+    "end": 25540,
+    "text": " diese Einladungen vor\u00fcber waren."
+  },
+  {
+    "anno_id": "4edc5b5d-b879-49b7-9409-b58d1873d436",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 25504,
+    "end": 25507,
+    "text": "als"
+  },
+  {
+    "anno_id": "ca08b946-b0d8-4aab-ad89-868b36a09ff2",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 25570,
+    "end": 25582,
+    "text": "die Hochzeit"
+  },
+  {
+    "anno_id": "407be59f-b57a-4732-83a3-e7d302197ac5",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 25639,
+    "end": 25640,
+    "text": " "
+  },
+  {
+    "anno_id": "407be59f-b57a-4732-83a3-e7d302197ac5",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 25640,
+    "end": 25645,
+    "text": "seit "
+  },
+  {
+    "anno_id": "96aa20cf-c0ba-48d7-9a7c-bb6b5b60401f",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 25640,
+    "end": 25645,
+    "text": "seit "
+  },
+  {
+    "anno_id": "96aa20cf-c0ba-48d7-9a7c-bb6b5b60401f",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 25645,
+    "end": 25657,
+    "text": "dem Ungl\u00fccke"
+  },
+  {
+    "anno_id": "7db0b7d4-626b-448a-b030-eebcb3e3498c",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 25756,
+    "end": 25768,
+    "text": " Gleich nach"
+  },
+  {
+    "anno_id": "7db0b7d4-626b-448a-b030-eebcb3e3498c",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 25768,
+    "end": 25774,
+    "text": " Tisch"
+  },
+  {
+    "anno_id": "98f2a7fe-8f50-418f-819b-051014f3b1cd",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 25756,
+    "end": 25768,
+    "text": " Gleich nach"
+  },
+  {
+    "anno_id": "b8dc7809-395a-4420-8110-61b644af4314",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 26004,
+    "end": 26007,
+    "text": "nun"
+  },
+  {
+    "anno_id": "365d0b08-c6b6-404a-9670-b92985e72a8d",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 26584,
+    "end": 26591,
+    "text": "Darauf "
+  },
+  {
+    "anno_id": "a137305f-fd9a-4e52-9137-7b6cbbb66a36",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 26626,
+    "end": 26629,
+    "text": "als"
+  },
+  {
+    "anno_id": "a137305f-fd9a-4e52-9137-7b6cbbb66a36",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 26629,
+    "end": 26679,
+    "text": " sich das K\u00e4therle mit dem rothen Maierle besprach"
+  },
+  {
+    "anno_id": "fa36ce73-601d-4533-a64b-32e831f7d7aa",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 26626,
+    "end": 26629,
+    "text": "als"
+  },
+  {
+    "anno_id": "5643654d-e088-47ee-90f8-b95a1cd76e24",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 26895,
+    "end": 26899,
+    "text": "oft "
+  },
+  {
+    "anno_id": "c8ddceeb-70f7-4d50-8d93-a07f9fb44681",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 27279,
+    "end": 27289,
+    "text": " bis heute"
+  }
+]

@@ -1,0 +1,746 @@
+[
+  {
+    "anno_id": "d3c4b742-aa4c-4ef6-b3cc-b61f2d3db9da",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 279,
+    "end": 290,
+    "text": "nicht immer"
+  },
+  {
+    "anno_id": "9f31b68a-d690-40b8-819d-3da5ea88fba9",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 374,
+    "end": 390,
+    "text": "eine Stunde lang"
+  },
+  {
+    "anno_id": "dd02734d-af2e-42e5-92a5-fb79a89cf24a",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 748,
+    "end": 752,
+    "text": "beim"
+  },
+  {
+    "anno_id": "dd02734d-af2e-42e5-92a5-fb79a89cf24a",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 752,
+    "end": 761,
+    "text": " Addieren"
+  },
+  {
+    "anno_id": "a4bf5532-3763-4890-a4fa-6a1a9317d5a9",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 748,
+    "end": 752,
+    "text": "beim"
+  },
+  {
+    "anno_id": "d1e6c01a-9ab0-4278-aa63-33fbb1351f0d",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 855,
+    "end": 862,
+    "text": "nachher"
+  },
+  {
+    "anno_id": "5b9a27b7-3390-4a05-8845-c430002eeec1",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 1643,
+    "end": 1646,
+    "text": "nie"
+  },
+  {
+    "anno_id": "4fdc1d98-f2bf-4954-b786-6965164de03b",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 2289,
+    "end": 2303,
+    "text": "von Tag zu Tag"
+  },
+  {
+    "anno_id": "37671eff-b2a9-4578-9bd5-988d45c63e61",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 2363,
+    "end": 2375,
+    "text": "immer wieder"
+  },
+  {
+    "anno_id": "8ca4aa8a-da69-4926-b0f5-c279c82f004b",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 2569,
+    "end": 2575,
+    "text": "abends"
+  },
+  {
+    "anno_id": "c57dd1f2-37dc-4230-8dd9-ea093323b159",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 2632,
+    "end": 2639,
+    "text": "morgens"
+  },
+  {
+    "anno_id": "a7af4575-3220-4ac0-bb32-0897c0a0a8b8",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 2944,
+    "end": 2960,
+    "text": "von Zeit zu Zeit"
+  },
+  {
+    "anno_id": "df979681-b9bd-4b48-853b-40f0e4dd3ec5",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 2963,
+    "end": 2986,
+    "text": "Erst nach sechs Monaten"
+  },
+  {
+    "anno_id": "cb415921-1e4a-478c-aef8-bb2636a028aa",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 3085,
+    "end": 3094,
+    "text": "Seit wann"
+  },
+  {
+    "anno_id": "dcb0544d-b380-44e6-a69a-0113367b378f",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 3693,
+    "end": 3709,
+    "text": "vier Wochen lang"
+  },
+  {
+    "anno_id": "9d5c3cda-7743-47cc-8a87-14130f92282f",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 3819,
+    "end": 3822,
+    "text": "als"
+  },
+  {
+    "anno_id": "389ba4d9-f309-45f5-ab09-b557fe7126a2",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 3819,
+    "end": 3822,
+    "text": "als"
+  },
+  {
+    "anno_id": "389ba4d9-f309-45f5-ab09-b557fe7126a2",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 3822,
+    "end": 3828,
+    "text": " Feix "
+  },
+  {
+    "anno_id": "389ba4d9-f309-45f5-ab09-b557fe7126a2",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 3828,
+    "end": 3834,
+    "text": "wieder"
+  },
+  {
+    "anno_id": "389ba4d9-f309-45f5-ab09-b557fe7126a2",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 3865,
+    "end": 3956,
+    "text": "die Lampe so auf den Tisch gestellt hatte, da\u00df ihre eine H\u00e4lfte \u00fcber den Tisch hinausragte,"
+  },
+  {
+    "anno_id": "a122b63c-2f5e-477f-adc0-c3bb6082a6c6",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 3828,
+    "end": 3834,
+    "text": "wieder"
+  },
+  {
+    "anno_id": "6c4b34e1-6218-469a-a62c-277cf4af71ab",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 3837,
+    "end": 3840,
+    "text": "nun"
+  },
+  {
+    "anno_id": "b7e7f3f2-0dab-42b1-862b-71395503780a",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 3841,
+    "end": 3862,
+    "text": "schon zum elften Male"
+  },
+  {
+    "anno_id": "4d7c003f-ea57-453e-a9bf-b86f56069fa6",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 4560,
+    "end": 4563,
+    "text": "als"
+  },
+  {
+    "anno_id": "4d7c003f-ea57-453e-a9bf-b86f56069fa6",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 4563,
+    "end": 4675,
+    "text": " ihm der sechzigj\u00e4hrige Segelmacher im Stillen Ozean mit dem Fuchsschwanz einen Mastsplitter aus dem After s\u00e4gte"
+  },
+  {
+    "anno_id": "4a42524a-8544-428d-a0fc-27b0e3f731d4",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 4560,
+    "end": 4563,
+    "text": "als"
+  },
+  {
+    "anno_id": "34bb8188-8840-43e4-994c-b80adb0fd063",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 4974,
+    "end": 4976,
+    "text": "da"
+  },
+  {
+    "anno_id": "81085671-58e5-45b2-a77f-49b0b6399684",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 5068,
+    "end": 5074,
+    "text": "fortan"
+  },
+  {
+    "anno_id": "ff5faeee-905c-450c-9523-5e3c89cb17c4",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 5159,
+    "end": 5165,
+    "text": "Sp\u00e4ter"
+  },
+  {
+    "anno_id": "f9f1c21b-2c15-4acb-9612-3ca8d9967f1a",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 5209,
+    "end": 5214,
+    "text": "Jahre"
+  },
+  {
+    "anno_id": "f9f1c21b-2c15-4acb-9612-3ca8d9967f1a",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 5214,
+    "end": 5230,
+    "text": " waren vergangen"
+  },
+  {
+    "anno_id": "2a579d8a-93f6-447c-975d-36e888d1a1af",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 5209,
+    "end": 5214,
+    "text": "Jahre"
+  },
+  {
+    "anno_id": "02278531-dfc2-4372-a6f2-60a383feae86",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 5232,
+    "end": 5239,
+    "text": "seitdem"
+  },
+  {
+    "anno_id": "ba8a1874-76ad-4097-8736-69599383acc1",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 5277,
+    "end": 5280,
+    "text": "nie"
+  },
+  {
+    "anno_id": "a3074e3a-4c77-4c9e-b381-a80bd8da4d8a",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 5441,
+    "end": 5444,
+    "text": "bis"
+  },
+  {
+    "anno_id": "9570b216-589b-4a7a-adf9-103cab9ab6c0",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 5441,
+    "end": 5444,
+    "text": "bis"
+  },
+  {
+    "anno_id": "9570b216-589b-4a7a-adf9-103cab9ab6c0",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 5444,
+    "end": 5450,
+    "text": " Feix "
+  },
+  {
+    "anno_id": "9570b216-589b-4a7a-adf9-103cab9ab6c0",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 5450,
+    "end": 5463,
+    "text": "nach 5 Jahren"
+  },
+  {
+    "anno_id": "9570b216-589b-4a7a-adf9-103cab9ab6c0",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 5463,
+    "end": 5495,
+    "text": " pl\u00f6tzlich \u00fcberraschend heimkam;"
+  },
+  {
+    "anno_id": "5bc6d1da-2bb5-4364-b922-33d19270def2",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 5450,
+    "end": 5463,
+    "text": "nach 5 Jahren"
+  },
+  {
+    "anno_id": "20d6e1fb-9545-4d1a-9148-3bb58ac18951",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 5496,
+    "end": 5500,
+    "text": "dann"
+  },
+  {
+    "anno_id": "8f44d65b-f355-4989-b67e-94a5fbf5363b",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 6470,
+    "end": 6486,
+    "text": "vier Wochen lang"
+  },
+  {
+    "anno_id": "f181c371-26e8-485c-98a5-01114a93f2f6",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 6998,
+    "end": 7003,
+    "text": "42mal"
+  },
+  {
+    "anno_id": "b625761b-d66f-4b6f-8052-1c4b4247c50f",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 7563,
+    "end": 7590,
+    "text": "Schon am folgenden Sonntage"
+  },
+  {
+    "anno_id": "883c4453-a5a3-456e-9f27-86ecf817130e",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 7761,
+    "end": 7764,
+    "text": "nie"
+  },
+  {
+    "anno_id": "51106631-fd8c-4c6a-bf64-5c6f332d1d93",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 7953,
+    "end": 7956,
+    "text": "Als"
+  },
+  {
+    "anno_id": "51106631-fd8c-4c6a-bf64-5c6f332d1d93",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 7956,
+    "end": 7962,
+    "text": " Feix "
+  },
+  {
+    "anno_id": "51106631-fd8c-4c6a-bf64-5c6f332d1d93",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 7962,
+    "end": 7977,
+    "text": "anderen Morgens"
+  },
+  {
+    "anno_id": "51106631-fd8c-4c6a-bf64-5c6f332d1d93",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 7977,
+    "end": 7986,
+    "text": " erwachte"
+  },
+  {
+    "anno_id": "90c6c03c-6d2c-4e7b-9b16-09dd814ad04e",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 7953,
+    "end": 7956,
+    "text": "Als"
+  },
+  {
+    "anno_id": "8b339b47-c3f7-4626-899b-27449fa160c9",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 7962,
+    "end": 7977,
+    "text": "anderen Morgens"
+  },
+  {
+    "anno_id": "0b6c6ae7-fe71-4dcf-b357-1e8fdb691332",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 8123,
+    "end": 8125,
+    "text": "Da"
+  },
+  {
+    "anno_id": "2183fd12-b0a8-4d0e-94ce-cc30650722a4",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 8277,
+    "end": 8280,
+    "text": "Nun"
+  },
+  {
+    "anno_id": "992b6e0b-0bd1-4d98-b223-87ace790c252",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 9147,
+    "end": 9150,
+    "text": "nun"
+  },
+  {
+    "anno_id": "b1105b45-33bf-4501-92d2-6a3b27759707",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 9462,
+    "end": 9467,
+    "text": "immer"
+  },
+  {
+    "anno_id": "12d760e7-c861-4fa7-950d-d27cbe21c214",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 9954,
+    "end": 9965,
+    "text": "Drei Monate"
+  },
+  {
+    "anno_id": "12d760e7-c861-4fa7-950d-d27cbe21c214",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 9965,
+    "end": 9976,
+    "text": " vergingen."
+  },
+  {
+    "anno_id": "24d18288-8e64-4523-afea-77dffc8906bb",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 9954,
+    "end": 9965,
+    "text": "Drei Monate"
+  },
+  {
+    "anno_id": "022f49ea-ce05-4448-b6bb-171d248e91f3",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 10174,
+    "end": 10192,
+    "text": "Wieder drei Monate"
+  },
+  {
+    "anno_id": "022f49ea-ce05-4448-b6bb-171d248e91f3",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 10192,
+    "end": 10203,
+    "text": " vergingen."
+  },
+  {
+    "anno_id": "05aecde0-bc0e-45a5-ba53-cdaf2e9d35d9",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 10174,
+    "end": 10192,
+    "text": "Wieder drei Monate"
+  },
+  {
+    "anno_id": "0189e74f-3017-4b57-b9f5-fbe9b726fdfe",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 10237,
+    "end": 10244,
+    "text": "nachdem"
+  },
+  {
+    "anno_id": "5e746a49-68ac-4f68-9598-742a094e254c",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 10584,
+    "end": 10589,
+    "text": "stets"
+  },
+  {
+    "anno_id": "563e544b-2b09-49cd-b18a-2a70b598b2c2",
+    "tag_id": "9f2d6089-5e47-438d-bcf5-c3742e8c1971",
+    "tag_name": "iterative_expression",
+    "start": 10651,
+    "end": 10657,
+    "text": "wieder"
+  },
+  {
+    "anno_id": "600d4139-af7f-4af7-b285-d1f5485cfaf9",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 10671,
+    "end": 10682,
+    "text": "stundenlang"
+  },
+  {
+    "anno_id": "9e1c4587-7be1-48f4-9e77-9070d0a729bc",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 10826,
+    "end": 10829,
+    "text": "Bis"
+  },
+  {
+    "anno_id": "9e1c4587-7be1-48f4-9e77-9070d0a729bc",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 10829,
+    "end": 10875,
+    "text": " eine Fliege summte oder ein Tablett umkippte."
+  },
+  {
+    "anno_id": "b05fb9e6-96de-4285-9ad2-f0ec179e2049",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 10826,
+    "end": 10829,
+    "text": "Bis"
+  },
+  {
+    "anno_id": "68a914d5-32c7-4d3c-9737-5e9e00cbc4ae",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 10876,
+    "end": 10880,
+    "text": "Dann"
+  },
+  {
+    "anno_id": "34368a17-a225-4903-a0ca-2d71c20ef455",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 10904,
+    "end": 10911,
+    "text": "Der Tag"
+  },
+  {
+    "anno_id": "922f1b08-8529-4a4c-a0c2-11304c1fe892",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 11096,
+    "end": 11110,
+    "text": "acht Tage lang"
+  },
+  {
+    "anno_id": "9bd0476c-22cb-45a7-8a0c-cfad520d2ebc",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 11140,
+    "end": 11150,
+    "text": "Der Termin"
+  },
+  {
+    "anno_id": "c51bd2eb-1a44-4e8d-92bc-7e40e6e353f3",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 11155,
+    "end": 11161,
+    "text": "l\u00e4ngst"
+  },
+  {
+    "anno_id": "a5e3d508-603c-490c-bce6-25bd3241a078",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 11172,
+    "end": 11185,
+    "text": "Vierzehn Tage"
+  },
+  {
+    "anno_id": "c918acd6-c9cb-4529-92a9-e48485322d64",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 11172,
+    "end": 11185,
+    "text": "Vierzehn Tage"
+  },
+  {
+    "anno_id": "c918acd6-c9cb-4529-92a9-e48485322d64",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 11185,
+    "end": 11230,
+    "text": " vergingen. Lepopisov Ren nahm immer noch zu."
+  },
+  {
+    "anno_id": "d204c6fa-0c1f-4d14-b3e4-721ac40af226",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 11288,
+    "end": 11297,
+    "text": "Ein Monat"
+  },
+  {
+    "anno_id": "90f053b4-619f-4c19-9707-7e778a5da319",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 11288,
+    "end": 11297,
+    "text": "Ein Monat"
+  },
+  {
+    "anno_id": "90f053b4-619f-4c19-9707-7e778a5da319",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 11297,
+    "end": 11340,
+    "text": " verging. Lepopisov Ren nahm immer noch zu."
+  },
+  {
+    "anno_id": "25e30eff-b786-491c-b209-205fa97efaf0",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 11371,
+    "end": 11374,
+    "text": "nun"
+  },
+  {
+    "anno_id": "2ea24a92-646e-4878-ae0d-0a1819b41717",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 11459,
+    "end": 11470,
+    "text": "Zwei Monate"
+  },
+  {
+    "anno_id": "2ea24a92-646e-4878-ae0d-0a1819b41717",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 11470,
+    "end": 11481,
+    "text": " vergingen."
+  },
+  {
+    "anno_id": "90e6d633-0f9a-4a68-95a3-2c2415785ab4",
+    "tag_id": "d5f82cb2-f360-4d9f-84b1-46e11313b712",
+    "tag_name": "relational_time-span",
+    "start": 11459,
+    "end": 11470,
+    "text": "Zwei Monate"
+  },
+  {
+    "anno_id": "5277495b-16c6-48da-b653-97600c781daf",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 11548,
+    "end": 11580,
+    "text": "Der dritte Monat war halb vorbei"
+  },
+  {
+    "anno_id": "5277495b-16c6-48da-b653-97600c781daf",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 11580,
+    "end": 11581,
+    "text": "."
+  },
+  {
+    "anno_id": "21c730f3-c45d-4c9a-b453-59fc4813f93f",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 11548,
+    "end": 11580,
+    "text": "Der dritte Monat war halb vorbei"
+  },
+  {
+    "anno_id": "e59c8876-d72c-4eaa-8872-1358e526896c",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 11652,
+    "end": 11661,
+    "text": "abmagernd"
+  },
+  {
+    "anno_id": "099748fb-ebad-4563-9c29-1d20335314f8",
+    "tag_id": "dad4c2b7-8faf-4389-9197-fb699856561f",
+    "tag_name": "seasonal-time",
+    "start": 11908,
+    "end": 11921,
+    "text": "ein sonniger "
+  },
+  {
+    "anno_id": "099748fb-ebad-4563-9c29-1d20335314f8",
+    "tag_id": "dad4c2b7-8faf-4389-9197-fb699856561f",
+    "tag_name": "seasonal-time",
+    "start": 11921,
+    "end": 11928,
+    "text": "Julitag"
+  },
+  {
+    "anno_id": "35080363-1789-4aab-a4bb-8b00440fcedf",
+    "tag_id": "e8421bc8-71eb-4024-8e24-467c55a9214b",
+    "tag_name": "incomplete_time-point",
+    "start": 11921,
+    "end": 11928,
+    "text": "Julitag"
+  },
+  {
+    "anno_id": "183b6b10-0f22-48c5-b180-520f663c6b58",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 12160,
+    "end": 12163,
+    "text": "bis"
+  },
+  {
+    "anno_id": "183b6b10-0f22-48c5-b180-520f663c6b58",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 12163,
+    "end": 12186,
+    "text": " ihr Bauch zuoberst kam"
+  },
+  {
+    "anno_id": "8829f5e4-0710-45a3-9f44-7abc74886bfc",
+    "tag_id": "343a39bb-c421-4edc-aa34-2f18a2ae070a",
+    "tag_name": "relational_time-point",
+    "start": 12160,
+    "end": 12163,
+    "text": "bis"
+  }
+]

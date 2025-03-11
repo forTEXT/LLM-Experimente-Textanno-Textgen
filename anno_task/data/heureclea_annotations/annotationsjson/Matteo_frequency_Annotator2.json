@@ -1,0 +1,290 @@
+[
+  {
+    "anno_id": "6390809e-9992-49f6-819a-a7cbd9ecf538",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 247,
+    "end": 269,
+    "text": "Man trug ihm in Genua,"
+  },
+  {
+    "anno_id": "6390809e-9992-49f6-819a-a7cbd9ecf538",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 283,
+    "end": 344,
+    "text": "allerlei Verrichtungen auf, die er flei\u00dfig und treu besorgte;"
+  },
+  {
+    "anno_id": "7264917c-6a83-485a-8dae-cc94ce73f2f8",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 345,
+    "end": 364,
+    "text": "man lohnte ihm gut,"
+  },
+  {
+    "anno_id": "df41f519-e81f-4642-8ede-b976d79fde2e",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 1099,
+    "end": 1279,
+    "text": "die gew\u00f6hnlich, wenn Matteo in aller Fr\u00fche seine Wohnung verlie\u00df, um seinen Gesch\u00e4ften nachzugehen, schon in ihrem G\u00e4rtchen stand und seinen freundlichen Gru\u00df freundlich erwiderte."
+  },
+  {
+    "anno_id": "d0ab2b83-1b8b-4029-9f0a-0bd0fd941073",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 1280,
+    "end": 1395,
+    "text": "Er hatte das M\u00e4dchen immer seinen Morgenstern genannt und sich ihrer sanften, erquickenden Sch\u00f6nheit innig erfreut;"
+  },
+  {
+    "anno_id": "fb9da9d6-4395-48ba-a211-f2613b4e9a83",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 1473,
+    "end": 1552,
+    "text": "er hatte sich kaum gedrungen gef\u00fchlt, hin und wieder ein Wort mit ihr zu reden."
+  },
+  {
+    "anno_id": "ecc504b4-1f36-4723-96f2-129a54cc0f18",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 2996,
+    "end": 3084,
+    "text": "als er sie zu irgendeiner Zeit, die h\u00f6chsten Festtage nicht ausgenommen, erblickt hatte,"
+  },
+  {
+    "anno_id": "cdbe27d8-98ac-4356-902e-400d628f47cc",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 4679,
+    "end": 4712,
+    "text": "Er fing an, bitterlich zu weinen,"
+  },
+  {
+    "anno_id": "335592cc-39bb-4a15-a4c1-9deee15bb634",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 4713,
+    "end": 5058,
+    "text": "und als sein Blick von ungef\u00e4hr auf das \u00fcber seinem Bett h\u00e4ngende Kruzifix fiel, wandte er im ersten Moment dem dornengekr\u00f6nten Heiland in seiner Entr\u00fcstung den R\u00fccken zu, denn er hatte eine Empfindung, als ob der h\u00f6chste Gott seine Allmacht schn\u00f6de gemi\u00dfbraucht und nur, um ihn zu h\u00f6hnen und zu verspotten, sein Herz so seltsam verwandelt habe."
+  },
+  {
+    "anno_id": "136b57fc-000b-420b-8d32-c1864dfbd2d7",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 4713,
+    "end": 5058,
+    "text": "und als sein Blick von ungef\u00e4hr auf das \u00fcber seinem Bett h\u00e4ngende Kruzifix fiel, wandte er im ersten Moment dem dornengekr\u00f6nten Heiland in seiner Entr\u00fcstung den R\u00fccken zu, denn er hatte eine Empfindung, als ob der h\u00f6chste Gott seine Allmacht schn\u00f6de gemi\u00dfbraucht und nur, um ihn zu h\u00f6hnen und zu verspotten, sein Herz so seltsam verwandelt habe."
+  },
+  {
+    "anno_id": "136b57fc-000b-420b-8d32-c1864dfbd2d7",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 5247,
+    "end": 5330,
+    "text": "Strafe mich, wie du willst und mu\u00dft, ich emp\u00f6rte mich gegen dich und habs verdient!"
+  },
+  {
+    "anno_id": "4575ea58-cf37-4a20-b4f6-ce027aeb35ee",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 5247,
+    "end": 5330,
+    "text": "Strafe mich, wie du willst und mu\u00dft, ich emp\u00f6rte mich gegen dich und habs verdient!"
+  },
+  {
+    "anno_id": "a1395fc5-8fff-4f6d-b4a4-c322a068f088",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 5535,
+    "end": 5596,
+    "text": "Zwar traten ihm hiebei die hellen Tr\u00e4nen wieder in die Augen,"
+  },
+  {
+    "anno_id": "151e4815-a131-4c27-95c4-b3401ab02907",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 6115,
+    "end": 6317,
+    "text": "\u00bbDas mag eine eigene Krankheit gewesen sein! Mensch, la\u00df dich hier nicht wieder blicken, es wird einem \u00fcbel zumut, wenn man dich ansieht!\u00ab Die Dame wandte sich mit einer Geb\u00e4rde des Abscheus von ihm ab,"
+  },
+  {
+    "anno_id": "7068decd-6c09-48ce-a0b5-8442dcad93a2",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 6441,
+    "end": 6491,
+    "text": "bemerkte er einen Spiegel und trat vor diesen hin."
+  },
+  {
+    "anno_id": "6d99daf0-4f0a-46b0-a966-7d5c20d51e6d",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 6637,
+    "end": 6678,
+    "text": "Und w\u00e4hrend er noch einmal hineinschaute,"
+  },
+  {
+    "anno_id": "43c562c0-2417-4bca-86cc-84833f31d242",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 7065,
+    "end": 7102,
+    "text": "Er ging nach und nach in alle H\u00e4user,"
+  },
+  {
+    "anno_id": "43c562c0-2417-4bca-86cc-84833f31d242",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 7194,
+    "end": 7235,
+    "text": "Aber allenthalben sah er sich abgewiesen;"
+  },
+  {
+    "anno_id": "9c01c8ff-9809-4e5a-8e8c-a20a84316784",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 7103,
+    "end": 7193,
+    "text": "wo er sich vor seiner Krankheit auf diese oder jene Weise n\u00fctzlich zu machen gewu\u00dft hatte."
+  },
+  {
+    "anno_id": "bb2d090b-1f43-4bbd-b173-f1c03642a910",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 7194,
+    "end": 7235,
+    "text": "Aber allenthalben sah er sich abgewiesen;"
+  },
+  {
+    "anno_id": "58965753-55c2-452e-a98d-2f441158b62c",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 8183,
+    "end": 8406,
+    "text": "\u00bbKennst du den Signor Barbarucci?\u00ab \u00bbIch kenne ihn!\u00ab \u00bbEs dauert keine Stunde, so kommt er hier vorbei!\u00ab \u00bbWas soll das mir?\u00ab \u00bbEr darf morgen nicht mehr leben! Nimm!\u00ab Mit diesen Worten dr\u00fcckte er Matteo eine B\u00f6rse in die Hand."
+  },
+  {
+    "anno_id": "19714596-b652-46d3-8f2c-95e9dac4266f",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 8759,
+    "end": 8956,
+    "text": "\u00bbich mu\u00df\u00ab, dachte er knirschend, \u00bbjetzt in meinem Gesicht den Widerstrahl der H\u00f6lle tragen, denn man tritt auf mich zu und mutet mir ohne Umst\u00e4nde das Ungeheuerste an, als ob es mein Handwerk w\u00e4re;"
+  },
+  {
+    "anno_id": "f716b887-7738-4e70-957d-2a8fb580a1ba",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 10882,
+    "end": 10927,
+    "text": "das ein Gemi\u00dfhandelter oft gern w\u00e4hlen w\u00fcrde,"
+  },
+  {
+    "anno_id": "5a67c100-a576-48fe-a8e3-9a0524f1b8f0",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 12528,
+    "end": 12568,
+    "text": "In eine hohle, schmale Gasse einbiegend,"
+  },
+  {
+    "anno_id": "5a67c100-a576-48fe-a8e3-9a0524f1b8f0",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 12630,
+    "end": 12784,
+    "text": "bemerkte er ein hinter den \u00fcbrigen in einem Winkel zur\u00fcckliegendes Geb\u00e4ude, wo sich ein Mensch mittelst einer angelehnten Leiter auf die Terrasse schwang."
+  },
+  {
+    "anno_id": "b3c4f396-9a61-49ea-a09d-7b2aeebc91d7",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 12528,
+    "end": 12568,
+    "text": "In eine hohle, schmale Gasse einbiegend,"
+  },
+  {
+    "anno_id": "b3c4f396-9a61-49ea-a09d-7b2aeebc91d7",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 12630,
+    "end": 12784,
+    "text": "bemerkte er ein hinter den \u00fcbrigen in einem Winkel zur\u00fcckliegendes Geb\u00e4ude, wo sich ein Mensch mittelst einer angelehnten Leiter auf die Terrasse schwang."
+  },
+  {
+    "anno_id": "b3c4f396-9a61-49ea-a09d-7b2aeebc91d7",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 13708,
+    "end": 13868,
+    "text": "\u00bbDie Liebe hat Fl\u00fcgel! \u2013 sagte Matteo und hob die Leiter vom Boden auf \u2013 sie f\u00fcrchtet sich nicht, den Hals zu brechen und klettert, wie die Katzen, \u00fcbers Dach.\u00ab"
+  },
+  {
+    "anno_id": "3fd4381e-928a-4a00-9627-8f9eeeeaa997",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 13708,
+    "end": 13868,
+    "text": "\u00bbDie Liebe hat Fl\u00fcgel! \u2013 sagte Matteo und hob die Leiter vom Boden auf \u2013 sie f\u00fcrchtet sich nicht, den Hals zu brechen und klettert, wie die Katzen, \u00fcbers Dach.\u00ab"
+  },
+  {
+    "anno_id": "267dfdd8-24b8-4f4a-a5b5-21767bbfef0d",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 17034,
+    "end": 17131,
+    "text": "Alsbald griff er, sich zu Matteo hin\u00fcberbeugend, keck in dessen Busen hinein und fa\u00dfte den Dolch,"
+  },
+  {
+    "anno_id": "f59e0b66-cce7-46b8-8c4b-3e6bab2af8a1",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 17557,
+    "end": 17685,
+    "text": "da\u00df der Mutwille der Unschuld ihm das Mord-Instrument spielend raubte, weil den Kindesblick der falsche Glanz desselben bestach,"
+  },
+  {
+    "anno_id": "ebb24fa4-e002-48b8-8aac-aa39144aa477",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 23446,
+    "end": 23468,
+    "text": "und \u00f6ffnete die Augen,"
+  },
+  {
+    "anno_id": "b493f8d4-6284-4c30-a6c9-6e1bc8cffbc6",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 24102,
+    "end": 24158,
+    "text": "der erst in sehr langer Zeit die Augen wieder aufschlug,"
+  },
+  {
+    "anno_id": "669a2da0-e449-4d70-8a36-dce360df2cfd",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 24442,
+    "end": 24542,
+    "text": "den ich oft, wenn ich ihn k\u00fcssen wollte, mit eiskaltem Schauder wieder niedersetzte, ohne es zu tun,"
+  },
+  {
+    "anno_id": "418c3f23-cc46-4680-b00f-396225a48cea",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 25282,
+    "end": 25315,
+    "text": "wo schon so mancher Mord vorfiel."
+  },
+  {
+    "anno_id": "352c0ed2-5ee4-4de3-a1a3-401e21d74f4d",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 26171,
+    "end": 26319,
+    "text": "die den Reif, innerhalb dessen ein menschliches Dasein sich bewegt, wohl zuweilen zerbricht, aber ihn doch auch zur rechten Zeit wieder zusammenf\u00fcgt"
+  }
+]
