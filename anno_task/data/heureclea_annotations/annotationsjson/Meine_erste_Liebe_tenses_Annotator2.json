@@ -1,0 +1,594 @@
+[
+  {
+    "anno_id": "01efd17a-251d-4c26-b279-0070e307df5a",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 26,
+    "end": 109,
+    "text": "An den Sonntagen durfte ich immer zu Herrn von Rupp kommen und bei ihm Mittag essen"
+  },
+  {
+    "anno_id": "39bef7ec-5cfc-4608-bec6-7ab963c97f9d",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 111,
+    "end": 154,
+    "text": "Er war ein alter Jagdfreund von meinem Papa"
+  },
+  {
+    "anno_id": "e43e6475-a9e2-44f5-b849-3fd694fcfe5a",
+    "tag_id": "115083cf-9e1c-4fa0-9542-e7388f01a576",
+    "tag_name": "pluperfect",
+    "start": 155,
+    "end": 203,
+    "text": "und hatte schon viele Hirsche bei uns geschossen"
+  },
+  {
+    "anno_id": "6afdd100-b592-4f9b-bfbf-aabc243df254",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 205,
+    "end": 230,
+    "text": "Es war sehr sch\u00f6n bei ihm"
+  },
+  {
+    "anno_id": "bcf3752e-270c-4840-a28d-5f17c66ccad9",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 232,
+    "end": 274,
+    "text": "Er behandelte mich beinahe wie einen Herrn"
+  },
+  {
+    "anno_id": "ae58b379-a797-4d17-96e2-2a17ba9c7f34",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 276,
+    "end": 305,
+    "text": "und wenn das Essen vorbei war"
+  },
+  {
+    "anno_id": "b4356471-5c70-4606-a4d4-ad1402133ae5",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 307,
+    "end": 336,
+    "text": "gab er mir immer eine Zigarre"
+  },
+  {
+    "anno_id": "2e093799-2ce9-4250-ba93-76e48e5a612e",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 337,
+    "end": 346,
+    "text": "und sagte"
+  },
+  {
+    "anno_id": "9db1b8bb-730b-4f47-9988-7ef01208ead4",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 349,
+    "end": 377,
+    "text": "Du kannst es schon vertragen"
+  },
+  {
+    "anno_id": "0c2b20f4-8bb0-4d25-87a0-12d94ac4b430",
+    "tag_id": "76d1f581-d10e-4855-a722-b377486a0a3d",
+    "tag_name": "perfect",
+    "start": 379,
+    "end": 427,
+    "text": "Dein Vater hat auch geraucht wie eine Lokomotive"
+  },
+  {
+    "anno_id": "deac3136-47d7-43fb-aee6-f99125376cc0",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 430,
+    "end": 451,
+    "text": "Da war ich sehr stolz"
+  },
+  {
+    "anno_id": "36beab54-9953-4cc7-bbc1-3334ca69f7ae",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 454,
+    "end": 501,
+    "text": "Die Frau von Rupp war eine furchtbar noble Dame"
+  },
+  {
+    "anno_id": "5d0868b0-d374-4047-9755-a249e9be33dc",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 503,
+    "end": 522,
+    "text": "und wenn sie redete"
+  },
+  {
+    "anno_id": "54745bd1-3b4f-403b-a80c-721755a5468f",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 524,
+    "end": 555,
+    "text": "machte sie einen spitzigen Mund"
+  },
+  {
+    "anno_id": "076120bf-900a-4291-b8b8-e8ee6b943162",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 557,
+    "end": 583,
+    "text": "damit es hochdeutsch wurde"
+  },
+  {
+    "anno_id": "b9bd053a-88ab-47be-aae0-f737490cf2ee",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 585,
+    "end": 608,
+    "text": "Sie ermahnte mich immer"
+  },
+  {
+    "anno_id": "63fe1aae-2ad8-4096-a684-a7f9d9b98a67",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 610,
+    "end": 641,
+    "text": "da\u00df ich nicht N\u00e4gel bei\u00dfen soll"
+  },
+  {
+    "anno_id": "3f3e396e-5485-4d51-a16a-5e1a2d4bd7c3",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 642,
+    "end": 671,
+    "text": "und eine gute Aussprache habe"
+  },
+  {
+    "anno_id": "44d92749-8a58-4fdd-8cc3-6d3003d31cd1",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 673,
+    "end": 702,
+    "text": "Dann war noch eine Tochter da"
+  },
+  {
+    "anno_id": "370b5001-140d-4f59-8596-dc5c76c78efc",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 704,
+    "end": 722,
+    "text": "Die war sehr sch\u00f6n"
+  },
+  {
+    "anno_id": "cfa3db79-839b-4fb5-bd74-b126d4eb2715",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 723,
+    "end": 738,
+    "text": "und roch so gut"
+  },
+  {
+    "anno_id": "16d1e032-bca1-4501-900e-056b2f4450cf",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 740,
+    "end": 767,
+    "text": "Sie gab nicht acht auf mich"
+  },
+  {
+    "anno_id": "5d4c215d-624b-4f47-97c0-f1f85f760635",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 769,
+    "end": 805,
+    "text": "weil ich erst vierzehn Jahre alt war"
+  },
+  {
+    "anno_id": "984f9279-1781-4bb3-a3f0-c6a6c7bd9342",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 807,
+    "end": 874,
+    "text": "und redete immer von Tanzen und Konzert und einem gottvollen S\u00e4nger"
+  },
+  {
+    "anno_id": "806ca7b9-e682-4b26-83e5-cfc735b5d7a1",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 876,
+    "end": 899,
+    "text": "Dazwischen erz\u00e4hlte sie"
+  },
+  {
+    "anno_id": "c2ae2ce4-523f-4253-afd1-bfeb4ff62eb6",
+    "tag_id": "115083cf-9e1c-4fa0-9542-e7388f01a576",
+    "tag_name": "pluperfect",
+    "start": 901,
+    "end": 937,
+    "text": "was in der Kriegsschule passiert war"
+  },
+  {
+    "anno_id": "c29b9492-36cb-4ade-b842-0fc1b7ab8cd4",
+    "tag_id": "115083cf-9e1c-4fa0-9542-e7388f01a576",
+    "tag_name": "pluperfect",
+    "start": 939,
+    "end": 978,
+    "text": "Das hatte sie von den F\u00e4hnrichen geh\u00f6rt"
+  },
+  {
+    "anno_id": "8ba3f575-bc12-431e-a04f-63111aa29989",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 980,
+    "end": 1005,
+    "text": "die immer zu Besuch kamen"
+  },
+  {
+    "anno_id": "2c9ce566-5bc6-4bfa-8ddf-7d72e37929c3",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1006,
+    "end": 1050,
+    "text": "und mit den S\u00e4beln \u00fcber die Stiege rasselten"
+  },
+  {
+    "anno_id": "122d0de1-40ca-4e58-a558-a58fcbe9f853",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1053,
+    "end": 1067,
+    "text": "Ich dachte oft"
+  },
+  {
+    "anno_id": "bcc43cb7-a959-4738-a2bb-aa4db1d925a7",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1069,
+    "end": 1155,
+    "text": "wenn ich nur auch schon ein Offizier w\u00e4re, weil ich ihr dann vielleicht gefallen h\u00e4tte"
+  },
+  {
+    "anno_id": "7610d639-6863-4ae2-a52e-151849dd33f0",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1157,
+    "end": 1207,
+    "text": "aber so behandelte sie mich wie einen dummen Buben"
+  },
+  {
+    "anno_id": "79e95479-23d6-4e01-a51d-aec6766f3d07",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1208,
+    "end": 1232,
+    "text": "und lachte immer dreckig"
+  },
+  {
+    "anno_id": "e8ccc8ed-4a68-4071-9c60-d0bff0da9a5c",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1234,
+    "end": 1278,
+    "text": "wenn ich eine Zigarre von ihrem Papa rauchte"
+  },
+  {
+    "anno_id": "ef6453e4-f46d-43b3-9167-8922b8c0e987",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1281,
+    "end": 1301,
+    "text": "Das \u00e4rgerte mich oft"
+  },
+  {
+    "anno_id": "c504a6d2-14a4-4eba-b513-350e383e3257",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1303,
+    "end": 1342,
+    "text": "und ich unterdr\u00fcckte meine Liebe zu ihr"
+  },
+  {
+    "anno_id": "43b6cfa3-e6b4-47a5-90da-809aa67e97c0",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1343,
+    "end": 1353,
+    "text": "und dachte"
+  },
+  {
+    "anno_id": "797b222d-1c87-4ae1-bbe1-fef64a2e05c7",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1355,
+    "end": 1374,
+    "text": "wenn ich gr\u00f6\u00dfer bin"
+  },
+  {
+    "anno_id": "67193d7e-8fda-4ca3-b132-089c18ef9e7c",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1375,
+    "end": 1419,
+    "text": "und als Offizier nach einem Kriege heimkomme"
+  },
+  {
+    "anno_id": "108f7137-aa77-469f-b87f-aeaeeac69130",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1421,
+    "end": 1484,
+    "text": "w\u00fcrde sie vielleicht froh sein. Aber dann m\u00f6chte ich nicht mehr"
+  },
+  {
+    "anno_id": "53750617-a358-4496-973d-466e91f74609",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1486,
+    "end": 1532,
+    "text": "Sonst war es aber sehr nett bei Herrn von Rupp"
+  },
+  {
+    "anno_id": "67863443-9165-49fd-81df-301e2dfa008d",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1534,
+    "end": 1619,
+    "text": "und ich freute mich furchtbar auf jeden Sonntag und auf das Essen und auf die Zigarre"
+  },
+  {
+    "anno_id": "db555e19-712c-41e2-8b34-9466adbeed79",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1622,
+    "end": 1665,
+    "text": "Der Herr von Rupp kannte auch unsern Rektor"
+  },
+  {
+    "anno_id": "dd7b7b06-c987-4199-81de-89e3159ffba0",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1666,
+    "end": 1690,
+    "text": "und sprach \u00f6fter mit ihm"
+  },
+  {
+    "anno_id": "de676d39-bfe8-4db8-bf42-50b661f75d4a",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1692,
+    "end": 1805,
+    "text": "da\u00df er mich gern in seiner Familie habe, und da\u00df ich schon noch ein ordentlicher J\u00e4gersmann werde, wie mein Vater"
+  },
+  {
+    "anno_id": "8b5bd6e5-05d1-4145-940c-cd11d255a987",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1807,
+    "end": 1850,
+    "text": "Der Rektor mu\u00df mich aber nicht gelobt haben"
+  },
+  {
+    "anno_id": "48dddce3-bcc7-43e7-82b3-343b52a0eb82",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1852,
+    "end": 1889,
+    "text": "denn Herr von Rupp sagte \u00f6fter zu mir"
+  },
+  {
+    "anno_id": "daed6f99-012a-49c1-953b-099fe8e83838",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1892,
+    "end": 1907,
+    "text": "Wei\u00df der Teufel"
+  },
+  {
+    "anno_id": "b236556c-c0df-4750-bc6f-101fd3348993",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1909,
+    "end": 1923,
+    "text": "was du treibst"
+  },
+  {
+    "anno_id": "cfa9404c-8f0a-48ce-8037-3a46c2ccdac9",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1925,
+    "end": 1962,
+    "text": "Du mu\u00dft ein verdammter Holzfuchs sein"
+  },
+  {
+    "anno_id": "1b1cfb84-797b-40ad-8c2c-bb940af0363d",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 1964,
+    "end": 2007,
+    "text": "da\u00df deine Professoren so auf dich loshacken"
+  },
+  {
+    "anno_id": "ccb0d28f-24bc-4963-a143-4325c9920075",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2009,
+    "end": 2033,
+    "text": "Mach es nur nicht zu arg"
+  },
+  {
+    "anno_id": "d761ee5c-bad2-4f4e-aa4d-69f41d5a3fc3",
+    "tag_id": "76d1f581-d10e-4855-a722-b377486a0a3d",
+    "tag_name": "perfect",
+    "start": 2036,
+    "end": 2068,
+    "text": "Da ist auf einmal etwas passiert"
+  },
+  {
+    "anno_id": "4affeedb-75c2-49f9-84e7-8a84b6f1fb24",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2071,
+    "end": 2081,
+    "text": "Das war so"
+  },
+  {
+    "anno_id": "0c198cd6-768b-495b-95a9-0f7b36b661a7",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2083,
+    "end": 2133,
+    "text": "Immer wenn ich um acht Uhr fr\u00fch in die Klasse ging"
+  },
+  {
+    "anno_id": "00a1dd49-02bc-4b9a-90cc-63e8030e33a3",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2135,
+    "end": 2174,
+    "text": "kam die Tochter von unserem Hausmeister"
+  },
+  {
+    "anno_id": "93777b3c-8496-45c7-b89a-fe45a30c5e2a",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2176,
+    "end": 2206,
+    "text": "weil sie in das Institut mu\u00dfte"
+  },
+  {
+    "anno_id": "c9bb2fdd-7355-4540-8dd7-bdcef4181de7",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2209,
+    "end": 2228,
+    "text": "Sie war sehr h\u00fcbsch"
+  },
+  {
+    "anno_id": "c728ca9e-935e-4ae7-b5cb-d4033be4699f",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2229,
+    "end": 2301,
+    "text": "und hatte zwei gro\u00dfe Z\u00f6pfe mit roten B\u00e4ndern daran und schon einen Busen"
+  },
+  {
+    "anno_id": "89dd539e-a148-4449-b909-dd72dcfebcfa",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2303,
+    "end": 2339,
+    "text": "Mein Freund Raithel sagte auch immer"
+  },
+  {
+    "anno_id": "047a81ff-0283-4072-aa20-6840c83baa5e",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2341,
+    "end": 2396,
+    "text": "da\u00df sie gute Potenzen habe und ein feiner Backfisch sei"
+  },
+  {
+    "anno_id": "d3a58e4c-dcae-4db5-9660-e9ad0de57bea",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2399,
+    "end": 2427,
+    "text": "Zuerst traute ich mich nicht"
+  },
+  {
+    "anno_id": "22c1fb5a-d72a-4044-8ac3-9d6077a29676",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2429,
+    "end": 2442,
+    "text": "sie zu gr\u00fc\u00dfen"
+  },
+  {
+    "anno_id": "51bfe2ce-e99d-4211-94e0-863c2f63e646",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2444,
+    "end": 2476,
+    "text": "aber einmal traute ich mich doch"
+  },
+  {
+    "anno_id": "c080ab6f-a9e1-47a1-b04a-6470631f0442",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2478,
+    "end": 2500,
+    "text": "und sie wurde ganz rot"
+  },
+  {
+    "anno_id": "1cf7abb9-066c-4787-83cd-78fe098f9bd2",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2502,
+    "end": 2517,
+    "text": "Ich merkte auch"
+  },
+  {
+    "anno_id": "e3c9d09e-eb3e-4c72-9290-18618c539b77",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2519,
+    "end": 2543,
+    "text": "da\u00df sie auf mich wartete"
+  },
+  {
+    "anno_id": "b54ba5ff-2bcd-4f7c-9545-38e44a279c17",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2545,
+    "end": 2570,
+    "text": "wenn ich sp\u00e4ter daran war"
+  },
+  {
+    "anno_id": "c71fbba1-503b-4e40-bf39-2415ece24472",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2572,
+    "end": 2602,
+    "text": "Sie blieb vor dem Hause stehen"
+  },
+  {
+    "anno_id": "c709b374-98d5-49e7-99c9-925f656427f7",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2603,
+    "end": 2644,
+    "text": "und schaute in den Buchbinderladen hinein"
+  },
+  {
+    "anno_id": "0c972fbf-b655-4000-869b-01d42e5ffc77",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2646,
+    "end": 2657,
+    "text": "bis ich kam"
+  },
+  {
+    "anno_id": "d09bff2e-533f-4dfb-9601-18f709a31e24",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2659,
+    "end": 2685,
+    "text": "Dann lachte sie freundlich"
+  },
+  {
+    "anno_id": "08b09570-8d08-4beb-ba19-2457f5ff6185",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2687,
+    "end": 2707,
+    "text": "und ich nahm mir vor"
+  },
+  {
+    "anno_id": "599b3a63-3fc4-44bb-b81f-258ac0ed06b6",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2709,
+    "end": 2722,
+    "text": "sie anzureden"
+  }
+]

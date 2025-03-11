@@ -1,0 +1,1090 @@
+[
+  {
+    "anno_id": "c0efb3fd-4039-4824-af5f-3feec25e59ce",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 17,
+    "end": 167,
+    "text": "In der Milit\u00e4rschule zu Sankt Severin. Turnsaal. Der Jahrgang steht in den hellen Zwillichblusen, in zwei Reihen geordnet, unter den gro\u00dfen Gaskronen."
+  },
+  {
+    "anno_id": "0481dbf8-8418-42ce-84c0-09c10c6b0650",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 184,
+    "end": 252,
+    "text": "ein junger Offizier mit hartem braunen Gesicht und h\u00f6hnischen Augen,"
+  },
+  {
+    "anno_id": "948f6797-4502-4449-aadd-0b6be707fbe6",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 310,
+    "end": 402,
+    "text": "\u00bbErste Riege Reck, zweite Riege Barren, dritte Riege Bock, vierte Riege Klettern! Abtreten!\u00ab"
+  },
+  {
+    "anno_id": "2c89eb8e-4a0b-42a0-b95e-d9372c548165",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 403,
+    "end": 563,
+    "text": "Und rasch, auf den leichten, mit Kolophonium isolierten Schuhen, zerstreuen sich die Knaben. Einige bleiben mitten im Saale stehen, z\u00f6gernd, gleichsam unwillig."
+  },
+  {
+    "anno_id": "ca8a387c-009d-492b-a7b1-eaa96ecb4c78",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 564,
+    "end": 749,
+    "text": "Es ist die vierte Riege, die schlechten Turner, die keine Freude haben an der Bewegung bei den Ger\u00e4ten und schon m\u00fcde sind von den zwanzig Kniebeugen und ein wenig verwirrt und atemlos."
+  },
+  {
+    "anno_id": "81f2ab0c-51ed-4863-94ed-2e9a90a0e6ae",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 751,
+    "end": 761,
+    "text": "Nur Einer,"
+  },
+  {
+    "anno_id": "81f2ab0c-51ed-4863-94ed-2e9a90a0e6ae",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 829,
+    "end": 863,
+    "text": "steht schon an den Kletterstangen,"
+  },
+  {
+    "anno_id": "81f2ab0c-51ed-4863-94ed-2e9a90a0e6ae",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 995,
+    "end": 1283,
+    "text": "Er hat die n\u00e4chste Stange erfa\u00dft und zieht sie mit ungew\u00f6hnlicher Kraft nach vorn, so da\u00df sie frei an dem zur \u00dcbung geeigneten Platze schwankt. Gruber l\u00e4\u00dft nicht einmal die H\u00e4nde von ihr, er springt auf und bleibt, ziemlich hoch, die Beine ganz unwillk\u00fcrlich im Kletterschlu\u00df verschr\u00e4nkt,"
+  },
+  {
+    "anno_id": "81f2ab0c-51ed-4863-94ed-2e9a90a0e6ae",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 1323,
+    "end": 1344,
+    "text": "an der Stange h\u00e4ngen."
+  },
+  {
+    "anno_id": "4c713c30-bc46-4673-8a55-f058a9ef679f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 762,
+    "end": 828,
+    "text": "der sonst der Allerletzte blieb bei solchen Anl\u00e4ssen, Karl Gruber,"
+  },
+  {
+    "anno_id": "4c713c30-bc46-4673-8a55-f058a9ef679f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 865,
+    "end": 994,
+    "text": "ie in einer etwas d\u00e4mmerigen Ecke des Saales, hart vor den Nischen, in denen die abgelegten Uniformr\u00f6cke h\u00e4ngen, angebracht sind."
+  },
+  {
+    "anno_id": "3038a0a3-c942-448c-88e0-29d8a80424b2",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 864,
+    "end": 865,
+    "text": "d"
+  },
+  {
+    "anno_id": "ccf02f84-7abb-43e3-9ee7-a8fcf95605a6",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 1284,
+    "end": 1322,
+    "text": "den er sonst niemals begreifen konnte,"
+  },
+  {
+    "anno_id": "ab5e3c17-f33f-4a98-a6e1-39e623920358",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 1345,
+    "end": 1518,
+    "text": "So erwartet er die Riege und betrachtet \u2013 wie es scheint \u2013 mit besonderem Vergn\u00fcgen den erstaunten \u00c4rger des kleinen polnischen Unteroffiziers, der ihm zuruft, abzuspringen."
+  },
+  {
+    "anno_id": "31bc235c-d057-4b8d-a5c7-fdd50db987b4",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 1519,
+    "end": 1617,
+    "text": "Aber Gruber ist diesmal sogar ungehorsam und Jastersky, der blonde Unteroffizier, schreit endlich:"
+  },
+  {
+    "anno_id": "1b9d7271-bb19-4cc6-b46f-ac4b2522b092",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 1618,
+    "end": 1732,
+    "text": "\u00bbAlso, entweder Sie kommen herunter oder Sie klettern hinauf, Gruber! Sonst melde ich dem Herrn Oberlieutenant...\u00ab"
+  },
+  {
+    "anno_id": "d102b628-747c-4c47-890e-2350691d1e8a",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 1733,
+    "end": 1987,
+    "text": "Und da beginnt Gruber, zu klettern, erst heftig mit \u00dcberst\u00fcrzung, die Beine wenig aufziehend und die Blicke aufw\u00e4rts gerichtet, mit einer gewissen Angst das unerme\u00dfliche St\u00fcck Stange absch\u00e4tzend, das noch bevorsteht. Dann verlangsamt sich seine Bewegung;"
+  },
+  {
+    "anno_id": "8e651f9f-5f82-42ae-bbed-3fbc5263ca13",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 1988,
+    "end": 2111,
+    "text": "und als ob er jeden Griff gen\u00f6sse, wie etwas Neues, Angenehmes, zieht er sich h\u00f6her, als man gew\u00f6hnlich zu klettern pflegt."
+  },
+  {
+    "anno_id": "aa5c4ac7-1d16-4425-bb75-60211cf86cd7",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 2112,
+    "end": 2245,
+    "text": "Er beachtet nicht die Aufregung des ohnehin gereizten Unteroffiziers, klettert und klettert, die Blicke immerfort aufw\u00e4rts gerichtet,"
+  },
+  {
+    "anno_id": "2abf865d-4481-4825-98f1-978b5123d5fd",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 2246,
+    "end": 2342,
+    "text": "als h\u00e4tte er einen Ausweg in der Decke des Saales entdeckt und strebte danach, ihn zu erreichen."
+  },
+  {
+    "anno_id": "27215172-7b15-4ddf-95d7-e80547b8da27",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 2343,
+    "end": 2483,
+    "text": "Die ganze Riege folgt ihm mit den Augen. Und auch aus den anderen Riegen richtet man schon da und dort die Aufmerksamkeit auf den Kletterer,"
+  },
+  {
+    "anno_id": "210abe9f-5cf4-46e9-a72e-fcf63dee69a9",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 2484,
+    "end": 2581,
+    "text": "der sonst kaum das erste Dritteil der Stange keuchend, mit rotem Gesicht und b\u00f6sen Augen erklomm."
+  },
+  {
+    "anno_id": "0b6ba77c-93a6-4e3c-9445-28d6a5a1b132",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 2582,
+    "end": 2598,
+    "text": "\u00bbBravo, Gruber!\u00ab"
+  },
+  {
+    "anno_id": "b512bdbc-1873-47d8-8bb3-6d69284cd255",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 2599,
+    "end": 2640,
+    "text": "ruft jemand aus der ersten Riege her\u00fcber."
+  },
+  {
+    "anno_id": "1726a13d-c0b1-428c-bce4-f6beb0781b8c",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 2641,
+    "end": 2716,
+    "text": "Da wenden viele ihre Blicke aufw\u00e4rts, und es wird eine Weile still im Saal,"
+  },
+  {
+    "anno_id": "1726a13d-c0b1-428c-bce4-f6beb0781b8c",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 2719,
+    "end": 3182,
+    "text": "aber gerade in diesem Augenblick, da alle Blicke an der Gestalt Grubers h\u00e4ngen, macht er hoch oben unter der Decke eine Bewegung, als wollte er sie absch\u00fctteln; und da ihm das offenbar nicht gelingt, bindet er alle diese Blicke oben an den nackten eisernen Haken und saust die glatte Stange herunter, so da\u00df alle immer noch hinaufsehen, als er schon l\u00e4ngst, schwindelnd und hei\u00df, unten steht und mit seltsam glanzlosen Augen in seine gl\u00fchenden Handfl\u00e4chen schaut."
+  },
+  {
+    "anno_id": "c51d74dc-a7bd-4c23-9b1e-16d4e339cdf4",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 2716,
+    "end": 2718,
+    "text": " \u2013"
+  },
+  {
+    "anno_id": "c6a8c08c-10ed-4086-9d64-702d6644d164",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 3295,
+    "end": 3335,
+    "text": "\u00bbWillst wohl in die erste Riege kommen?\u00ab"
+  },
+  {
+    "anno_id": "a69da64b-c5ee-45d7-a795-7f3b1f336555",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 3336,
+    "end": 3701,
+    "text": "Gruber lacht und scheint etwas antworten zu wollen, aber er \u00fcberlegt es sich und senkt schnell die Augen. Und dann, als das Ger\u00e4usch und Get\u00f6se wieder seinen Fortgang hat, zieht er sich leise in die Nische zur\u00fcck, setzt sich nieder, schaut \u00e4ngstlich um sich und holt Atem, zweimal rasch, und lacht wieder und will was sagen... aber schon achtet niemand mehr seiner."
+  },
+  {
+    "anno_id": "a69da64b-c5ee-45d7-a795-7f3b1f336555",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 3702,
+    "end": 3713,
+    "text": "Nur Jerome,"
+  },
+  {
+    "anno_id": "a69da64b-c5ee-45d7-a795-7f3b1f336555",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 3749,
+    "end": 3793,
+    "text": "sieht, da\u00df er wieder seine H\u00e4nde betrachtet,"
+  },
+  {
+    "anno_id": "b131cd37-4aaf-442c-ad3e-f13c90a5f091",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 3701,
+    "end": 3702,
+    "text": " "
+  },
+  {
+    "anno_id": "7e883e92-c147-4ef6-80c7-4d31c47130af",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 3714,
+    "end": 3748,
+    "text": "der auch in der vierten Riege ist,"
+  },
+  {
+    "anno_id": "7e883e92-c147-4ef6-80c7-4d31c47130af",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 3794,
+    "end": 3874,
+    "text": "ganz dar\u00fcber geb\u00fcckt wie einer, der bei wenig Licht einen Brief entziffern will."
+  },
+  {
+    "anno_id": "86fd2c16-3ff7-4fab-a9fd-4e820ab031ab",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 3874,
+    "end": 3875,
+    "text": " "
+  },
+  {
+    "anno_id": "412d13b5-844e-40d9-ac2c-f64d287b0bf8",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 3916,
+    "end": 3926,
+    "text": "und fragt:"
+  },
+  {
+    "anno_id": "b7ab8cad-5b10-4dcb-a3d9-7b4a74b42582",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 3927,
+    "end": 3951,
+    "text": "\u00bbHast du dir weh getan?\u00ab"
+  },
+  {
+    "anno_id": "3d79c8e9-d274-40a8-a5a1-e3672f5c1360",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 3952,
+    "end": 3970,
+    "text": "Gruber erschrickt."
+  },
+  {
+    "anno_id": "a9e452e0-9024-4f83-8889-a26e5c3532db",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 3971,
+    "end": 3977,
+    "text": "\u00bbWas?\u00ab"
+  },
+  {
+    "anno_id": "0d644aab-413f-4d64-8585-28051c81ddeb",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 3978,
+    "end": 4040,
+    "text": "macht er mit seiner gew\u00f6hnlichen, in Speichel watenden Stimme."
+  },
+  {
+    "anno_id": "9cd338fe-cf3b-4c0b-84c7-36818e5f7e69",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4041,
+    "end": 4052,
+    "text": "\u00bbZeig mal!\u00ab"
+  },
+  {
+    "anno_id": "90ce04a9-03d3-4a57-b3bc-a3a73101907f",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 4053,
+    "end": 4118,
+    "text": "Jerome nimmt die eine Hand Grubers und neigt sie gegen das Licht."
+  },
+  {
+    "anno_id": "733cc72e-3e50-415b-82e7-006b2d1141ae",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4119,
+    "end": 4159,
+    "text": "Sie ist am Ballen ein wenig abgesch\u00fcrft."
+  },
+  {
+    "anno_id": "27200996-f67c-4803-afef-f715ec019ee7",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4160,
+    "end": 4193,
+    "text": "\u00bbWei\u00dft du, ich habe etwas daf\u00fcr,\u00ab"
+  },
+  {
+    "anno_id": "2bd220dd-1a4d-4186-bc1d-1d56d4016088",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4194,
+    "end": 4268,
+    "text": "sagt Jerome, der immer Englisches Pflaster von zu Hause geschickt bekommt,"
+  },
+  {
+    "anno_id": "2d1c6592-2fed-4f51-aa3b-c1192c696978",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4269,
+    "end": 4296,
+    "text": "\u00bbkomm dann nachher zu mir.\u00ab"
+  },
+  {
+    "anno_id": "8ed1d2fb-f159-4329-a554-66bf472beec0",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4297,
+    "end": 4601,
+    "text": "Aber es ist, als h\u00e4tte Gruber nicht geh\u00f6rt; er schaut geradeaus in den Saal hinein, aber so, als s\u00e4he er etwas Unbestimmtes, vielleicht nicht im Saal, drau\u00dfen vielleicht, vor den Fenstern, obwohl es dunkel ist, sp\u00e4t und Herbst.\r\nIn diesem Augenblick schreit der Unteroffizier in seiner hochfahrenden Art:"
+  },
+  {
+    "anno_id": "81b0c102-3c19-4c9b-b6ac-bf8a90c18e1c",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4602,
+    "end": 4611,
+    "text": "\u00bbGruber!\u00ab"
+  },
+  {
+    "anno_id": "f172e649-e77e-4340-9d2e-3dbc3fdb4a35",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 4612,
+    "end": 4761,
+    "text": "Gruber bleibt unver\u00e4ndert, nur seine F\u00fc\u00dfe, die vor ihm ausgestreckt sind, gleiten, steif und ungeschickt, ein wenig auf dem glatten Parkett vorw\u00e4rts."
+  },
+  {
+    "anno_id": "8b035841-5186-41f6-a9a4-07a5da2dbaae",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4762,
+    "end": 4771,
+    "text": "\u00bbGruber!\u00ab"
+  },
+  {
+    "anno_id": "483b09d5-f916-4c05-a397-1816656fe231",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4772,
+    "end": 4829,
+    "text": "br\u00fcllt der Unteroffizier und die Stimme schl\u00e4gt ihm \u00fcber."
+  },
+  {
+    "anno_id": "a8ece1b2-b490-4a23-8679-b74f9fc92060",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 4856,
+    "end": 4912,
+    "text": "und sagt rasch und heiser, ohne den Gerufenen anzusehen:"
+  },
+  {
+    "anno_id": "18afa3b6-8b4b-44df-a8da-ac09a4dc3499",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 4913,
+    "end": 4972,
+    "text": "\u00bbSie melden sich nach der Stunde. Ich werde Ihnen schon...\u00ab"
+  },
+  {
+    "anno_id": "8edabcbd-90af-400c-9a40-5c344db3dd19",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 5001,
+    "end": 5010,
+    "text": "\u00bbGruber,\u00ab"
+  },
+  {
+    "anno_id": "bafc382b-abbe-4a18-8b8e-037b58bcedbb",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 5011,
+    "end": 5022,
+    "text": "sagt Jerome"
+  },
+  {
+    "anno_id": "1e69fe88-2aeb-4f60-811d-5aa6b21d1753",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 5023,
+    "end": 5104,
+    "text": "und neigt sich zu dem Kameraden, der sich immer tiefer in die Nische zur\u00fccklehnt,"
+  },
+  {
+    "anno_id": "b0d691b6-470c-4188-aff8-a5117ac522ea",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 5105,
+    "end": 5248,
+    "text": "\u00bbes war schon wieder an dir, zu klettern, auf dem Strick, geh mal, versuchs, sonst macht dir der Jastersky irgend eine Geschichte, wei\u00dft du...\u00ab"
+  },
+  {
+    "anno_id": "18473396-705c-459a-822b-20430d770613",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 5249,
+    "end": 5362,
+    "text": "Gruber nickt. Aber statt aufzustehen, schlie\u00dft er pl\u00f6tzlich die Augen und gleitet unter den Worten Jeromes durch,"
+  },
+  {
+    "anno_id": "18473396-705c-459a-822b-20430d770613",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 5392,
+    "end": 5393,
+    "text": "f"
+  },
+  {
+    "anno_id": "18473396-705c-459a-822b-20430d770613",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 5393,
+    "end": 5459,
+    "text": "ort, gleitet langsam und lautlos tiefer, tiefer, gleitet vom Sitz,"
+  },
+  {
+    "anno_id": "5a0c96fd-90ef-4f9a-9e95-f27a08101304",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 5363,
+    "end": 5391,
+    "text": "als ob eine Welle ihn tr\u00fcge,"
+  },
+  {
+    "anno_id": "ce8ccddb-ecdb-47ce-81bd-6bd216fe2a07",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 5459,
+    "end": 5591,
+    "text": " und Jerome wei\u00df erst, was geschieht, als er h\u00f6rt, wie der Kopf Grubers hart an das Holz des Sitzes prallt und dann vorn\u00fcberf\u00e4llt..."
+  },
+  {
+    "anno_id": "19d04ebe-84ed-4149-95e1-476638574cc4",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 5592,
+    "end": 5601,
+    "text": "\u00bbGruber!\u00ab"
+  },
+  {
+    "anno_id": "cd030d8d-93d6-443f-bfc2-b2dc11625e40",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 5602,
+    "end": 5617,
+    "text": "ruft er heiser."
+  },
+  {
+    "anno_id": "76b72cad-3ad6-4c23-8b36-39d08dac9591",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 5641,
+    "end": 5695,
+    "text": "Und Jerome steht ratlos mit h\u00e4ngenden H\u00e4nden und ruft:"
+  },
+  {
+    "anno_id": "b3ddb62c-116e-4e59-8df5-e07efece2c26",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 5696,
+    "end": 5713,
+    "text": "\u00bbGruber, Gruber!\u00ab"
+  },
+  {
+    "anno_id": "e8358757-244c-409b-9885-eba09687605b",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 5714,
+    "end": 5788,
+    "text": "Es f\u00e4llt ihm nicht ein, den anderen aufzurichten. Da erh\u00e4lt er einen Sto\u00df,"
+  },
+  {
+    "anno_id": "b2bb1425-8e08-4efd-b9c9-7bc7e066dde1",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 5789,
+    "end": 5805,
+    "text": "jemand sagt ihm:"
+  },
+  {
+    "anno_id": "0bdcf25c-80b6-4867-b236-33d57f10d173",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 5806,
+    "end": 5813,
+    "text": "\u00bbSchaf\u00ab"
+  },
+  {
+    "anno_id": "acd237c7-44c8-4e02-8158-81f0f954026b",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 6139,
+    "end": 6305,
+    "text": "Man sieht nur da und dort noch Bewegungen, ein Ausschwingen am Ger\u00e4t, einen leisen Absprung, ein versp\u00e4tetes Lachen von einem, der nicht wei\u00df, um was es sich handelt."
+  },
+  {
+    "anno_id": "7e96c847-7469-43c7-a2ac-724ee39bae4b",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6306,
+    "end": 6326,
+    "text": "Dann hastige Fragen:"
+  },
+  {
+    "anno_id": "ca054995-ea68-4024-9a36-1a7440150429",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 6327,
+    "end": 6359,
+    "text": "\u00bbWas? Was? Wer? Der Gruber? Wo?\u00ab"
+  },
+  {
+    "anno_id": "2dcc4313-d66c-4d05-8dd0-a7bdb31c7569",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6383,
+    "end": 6405,
+    "text": "Dann sagt jemand laut:"
+  },
+  {
+    "anno_id": "b778f2bd-00b7-4e3c-92be-eb2fc9c6853c",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 6406,
+    "end": 6419,
+    "text": "\u00bbOhnm\u00e4chtig.\u00ab"
+  },
+  {
+    "anno_id": "cd462a29-9727-46d0-bac5-22fe87bb9156",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 6420,
+    "end": 6498,
+    "text": "Und der Zugf\u00fchrer Jastersky l\u00e4uft mit rotem Kopf hinter dem Oberlieutenant her"
+  },
+  {
+    "anno_id": "7a972dbb-555e-4842-834d-0271192a76a0",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6499,
+    "end": 6557,
+    "text": "und schreit mit seiner boshaften Stimme, zitternd vor Wut:"
+  },
+  {
+    "anno_id": "53b68c73-6a18-46a3-b768-f9b270702add",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 6558,
+    "end": 6608,
+    "text": "\u00bbEin Simulant, Herr Oberlieutenant, ein Simulant!\u00ab"
+  },
+  {
+    "anno_id": "2306c79c-1b60-4cc1-8564-8c8df010c403",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 6609,
+    "end": 6699,
+    "text": "Der Oberlieutenant beachtet ihn gar nicht. Er sieht geradeaus, nagt an seinem Schnurrbart,"
+  },
+  {
+    "anno_id": "af3c2e1e-b088-4b91-8e70-1256a703f24e",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 6700,
+    "end": 6761,
+    "text": "wodurch das harte Kinn noch eckiger und energischer vortritt,"
+  },
+  {
+    "anno_id": "855180b3-ba0a-40f7-a17d-50910f33ae53",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 6810,
+    "end": 7031,
+    "text": "Vier Z\u00f6glinge, die Gruber tragen, und der Oberlieutenant verschwinden in der Kammer. Gleich darauf kommen die vier Z\u00f6glinge zur\u00fcck. Ein Diener l\u00e4uft durch den Saal. Die vier werden gro\u00df angeschaut und mit Fragen bedr\u00e4ngt:"
+  },
+  {
+    "anno_id": "d157e523-c5c7-4e26-855a-55f402072016",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 7032,
+    "end": 7099,
+    "text": "\u00bbWie sieht er aus? Was ist mit ihm? Ist er schon zu sich gekommen?\u00ab"
+  },
+  {
+    "anno_id": "72a2a7fa-bdc7-44ed-963d-8f7c241ba198",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 7100,
+    "end": 7137,
+    "text": "Keiner von ihnen wei\u00df eigentlich was."
+  },
+  {
+    "anno_id": "aa488fec-6522-4b92-8023-8dc7231254f1",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 7138,
+    "end": 7187,
+    "text": "Und da ruft auch schon der Oberlieutenant herein,"
+  },
+  {
+    "anno_id": "5bcc8246-36d1-43e9-ba4b-adca52d1eae5",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 7187,
+    "end": 7423,
+    "text": " das Turnen m\u00f6ge weitergehen, und \u00fcbergiebt dem Feldwebel Goldstein das Kommando. Also wird wieder geturnt, beim Barren, beim Reck, und die kleinen dicken Leute der dritten Riege kriechen mit weitgekretschten Beinen \u00fcber den hohen Bock."
+  },
+  {
+    "anno_id": "5bcc8246-36d1-43e9-ba4b-adca52d1eae5",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 7518,
+    "end": 7725,
+    "text": "Die Schwingungen am Reck brechen so pl\u00f6tzlich ab und am Barren werden nur lauter kleine \u00dcbungen gemacht. Die Stimmen sind weniger verworren und ihre Summe summt feiner, als ob alle immer nur ein Wort sagten:"
+  },
+  {
+    "anno_id": "5325d642-bc15-4280-a711-0570ed219747",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 7424,
+    "end": 7517,
+    "text": "Aber doch sind alle Bewegungen anders als vorher; als h\u00e4tte ein Horchen sich \u00fcber sie gelegt."
+  },
+  {
+    "anno_id": "5517b3d9-34c9-47fb-97d7-c5fa449a3d01",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 7726,
+    "end": 7744,
+    "text": "\u00bbEss, Ess, Ess...\u00ab"
+  },
+  {
+    "anno_id": "d42060cc-4fed-4de0-b2cd-b25115351cc8",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 7745,
+    "end": 7999,
+    "text": "Der kleine schlaue Krix horcht inzwischen an der Kammert\u00fcr. Der Unteroffizier der zweiten Riege jagt ihn davon, indem er zu einem Schlage auf seinen Hintern ausholt. Krix springt zur\u00fcck, katzenhaft, mit hinterlistig blitzenden Augen. Er wei\u00df schon genug."
+  },
+  {
+    "anno_id": "a6c18e32-2898-44d5-b9f2-cd7e30581e58",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 7999,
+    "end": 8000,
+    "text": " "
+  },
+  {
+    "anno_id": "97702bb0-63d5-4d02-bf4e-99cced1c5237",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8000,
+    "end": 8082,
+    "text": "Und nach einer Weile, als ihn niemand betrachtet, giebt er dem Pawlowitsch weiter:"
+  },
+  {
+    "anno_id": "ccdfeccc-045a-44e4-ae17-3f08c8f7f569",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 8083,
+    "end": 8116,
+    "text": "\u00bbDer Regimentsarzt ist gekommen.\u00ab"
+  },
+  {
+    "anno_id": "542f6f56-2381-4f79-9adf-09b99f490961",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8117,
+    "end": 8151,
+    "text": "Nun, man kennt ja den Pawlowitsch;"
+  },
+  {
+    "anno_id": "24ec9c1c-605d-4d24-aaa7-a104c6cb78b6",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 8152,
+    "end": 8188,
+    "text": "mit seiner ganzen Frechheit geht er,"
+  },
+  {
+    "anno_id": "24ec9c1c-605d-4d24-aaa7-a104c6cb78b6",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 8235,
+    "end": 8273,
+    "text": "quer durch den Saal von Riege zu Riege"
+  },
+  {
+    "anno_id": "b1e92494-a39d-423d-bcb9-62b93e975087",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8189,
+    "end": 8234,
+    "text": "als h\u00e4tte ihm irgendwer einen Befehl gegeben,"
+  },
+  {
+    "anno_id": "b1e92494-a39d-423d-bcb9-62b93e975087",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8274,
+    "end": 8297,
+    "text": "und sagt ziemlich laut:"
+  },
+  {
+    "anno_id": "f88475fb-2d56-4569-9738-5badb336efc9",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 8298,
+    "end": 8327,
+    "text": "\u00bbDer Regimentsarzt ist drin.\u00ab"
+  },
+  {
+    "anno_id": "6d891c72-546b-43fc-9647-23e1e9dae23c",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8496,
+    "end": 8615,
+    "text": "und ein Kleiner mit schwarzen Augen ist oben auf dem Bock hocken geblieben und starrt mit offenem Mund nach der Kammer."
+  },
+  {
+    "anno_id": "a8e6b65b-2f50-4b8f-8283-4980c7ded594",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8616,
+    "end": 8662,
+    "text": "Etwas L\u00e4hmendes scheint in der Luft zu liegen."
+  },
+  {
+    "anno_id": "06076d94-42f9-4125-8ba3-768061640f9f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 8861,
+    "end": 8925,
+    "text": "die sich durch den Zwillich hindurch breit und straff auspr\u00e4gen."
+  },
+  {
+    "anno_id": "bba4f3bb-fcdc-4c0a-a876-a879c121a0bd",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 8926,
+    "end": 9064,
+    "text": "Ja, der kleine, gelenkige Baum schl\u00e4gt sogar noch einige Armwellen, \u2013 und pl\u00f6tzlich ist diese heftige Bewegung die einzige im ganzen Saal,"
+  },
+  {
+    "anno_id": "bba4f3bb-fcdc-4c0a-a876-a879c121a0bd",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 9153,
+    "end": 9520,
+    "text": "Und mit einem Ruck bringt sich der kleine Mensch zum Stehen, l\u00e4\u00dft sich einfach unwillig in die Knie fallen und macht ein Gesicht, als ob er alle verachte. Aber auch seine kleinen stumpfen Augen bleiben schlie\u00dflich an der Kammert\u00fcr h\u00e4ngen.\r\nJetzt h\u00f6rt man das Singen der Gasflammen und das Gehen der Wanduhr. Und dann schnarrt die Glocke, die das Stundenzeichen giebt."
+  },
+  {
+    "anno_id": "7fdd3cf5-7a06-4af0-bf62-c653ac383592",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9065,
+    "end": 9152,
+    "text": "ein gro\u00dfer flimmernder Kreis, der etwas Unheimliches hat inmitten der allgemeinen Ruhe."
+  },
+  {
+    "anno_id": "0f3e06e0-c6af-49f6-abd6-18244c9b3608",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 9521,
+    "end": 9632,
+    "text": "Fremd und eigent\u00fcmlich ist heute ihr Ton; sie h\u00f6rt auch ganz unvermittelt auf, unterbricht sich mitten im Wort."
+  },
+  {
+    "anno_id": "f4afcf5a-ba27-4a92-a7ec-e9245d89d470",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9633,
+    "end": 9687,
+    "text": "Feldwebel Goldstein aber kennt seine Pflicht. Er ruft:"
+  },
+  {
+    "anno_id": "dbc80abc-1aec-4931-8140-b7a226e8d6d0",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9688,
+    "end": 9699,
+    "text": "\u00bbAntreten!\u00ab"
+  },
+  {
+    "anno_id": "e81f1932-f6a9-4e2b-b5e4-b6cfd9f1fb1f",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9700,
+    "end": 9804,
+    "text": "Kein Mensch h\u00f6rt ihn. Keiner kann sich erinnern, welchen Sinn dieses Wort besa\u00df, \u2013 vorher. Wann vorher? "
+  },
+  {
+    "anno_id": "8426b88c-a372-4ef0-b4da-b5a627d6d55b",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9804,
+    "end": 9815,
+    "text": "\u00bbAntreten!\u00ab"
+  },
+  {
+    "anno_id": "b03a562c-2b3e-4515-9974-20bb858b3ce9",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9816,
+    "end": 9842,
+    "text": "kr\u00e4chzt der Feldwebel b\u00f6se"
+  },
+  {
+    "anno_id": "10bbd9eb-0cb1-4ee3-b8e5-e62028c96e68",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9842,
+    "end": 9843,
+    "text": " "
+  },
+  {
+    "anno_id": "635d2cb2-8373-425c-86cc-d6bf4b88b2d6",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9843,
+    "end": 9905,
+    "text": "und gleich schreien jetzt die anderen Unteroffiziere ihm nach:"
+  },
+  {
+    "anno_id": "1353fd6f-1c33-4de1-a12a-819375f85982",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9906,
+    "end": 9917,
+    "text": "\u00bbAntreten!\u00ab"
+  },
+  {
+    "anno_id": "ea09ed7f-59aa-42f3-959e-134f530197cd",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 9918,
+    "end": 9992,
+    "text": "Und auch mancher von den Z\u00f6glingen sagt wie zu sich selbst, wie im Schlaf:"
+  },
+  {
+    "anno_id": "6f0312e2-497c-4d4e-8b86-5210b326246f",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 9993,
+    "end": 10014,
+    "text": "\u00bbAntreten! Antreten!\u00ab"
+  },
+  {
+    "anno_id": "155ccffb-ff5c-4b8a-8635-2e993a7a7a6b",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10015,
+    "end": 10078,
+    "text": "Aber im Grunde wissen alle, da\u00df sie noch etwas abwarten m\u00fcssen."
+  },
+  {
+    "anno_id": "54d53dee-559a-436d-84f3-e12039eb6cce",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 10079,
+    "end": 10273,
+    "text": "Und da geht auch schon die Kammert\u00fcr auf; eine Weile nichts; dann tritt Oberlieutenant Wehl heraus und seine Augen sind gro\u00df und zornig und seine Schritte fest. Er marschiert wie beim Defilieren"
+  },
+  {
+    "anno_id": "2e72a72e-8546-4f9d-ac58-b5b51770fb76",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10274,
+    "end": 10290,
+    "text": "und sagt heiser:"
+  },
+  {
+    "anno_id": "53e8009f-fd01-446b-8193-92f1ee49588d",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 10291,
+    "end": 10302,
+    "text": "\u00bbAntreten!\u00ab"
+  },
+  {
+    "anno_id": "9b4d4540-ba46-43c7-a1b5-89d5914342c3",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 10303,
+    "end": 10378,
+    "text": "Mit unbeschreiblicher Geschwindigkeit findet sich alles in Reihe und Glied."
+  },
+  {
+    "anno_id": "b9a8c36d-c4a8-4c33-9fc0-3c6889b2702d",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10379,
+    "end": 10435,
+    "text": "Keiner r\u00fchrt sich. Als wenn ein Feldzeugmeister da w\u00e4re."
+  },
+  {
+    "anno_id": "c143b2ef-4fa5-4b8a-8e59-37aebf3a8bda",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10435,
+    "end": 10436,
+    "text": " "
+  },
+  {
+    "anno_id": "01902d7e-2653-408f-8698-727737bb86a3",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10436,
+    "end": 10459,
+    "text": "Und jetzt das Kommando:"
+  },
+  {
+    "anno_id": "efd6de0b-363d-4245-a301-310da2e31e27",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 10460,
+    "end": 10470,
+    "text": "\u00bbAchtung!\u00ab"
+  },
+  {
+    "anno_id": "43fe1719-8e59-4ff4-ab7b-6d294c377247",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10471,
+    "end": 10504,
+    "text": "Pause und dann, trocken und hart:"
+  },
+  {
+    "anno_id": "8f7fd8c5-02fe-4def-805c-dadc6e9b55d4",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 10505,
+    "end": 10570,
+    "text": "\u00bbEuer Kamerad Gruber ist soeben gestorben. Herzschlag. Abmarsch!\u00ab"
+  },
+  {
+    "anno_id": "50f7db35-c6c6-4502-8b0a-7691e3000f4a",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10571,
+    "end": 10577,
+    "text": "Pause."
+  },
+  {
+    "anno_id": "2bd73066-30a1-4391-a821-5dd015430874",
+    "tag_id": "644354b5-7f9a-4c3c-9df4-12ec94c8eca3",
+    "tag_name": "ellipsis",
+    "start": 10577,
+    "end": 10578,
+    "text": "\r"
+  },
+  {
+    "anno_id": "6e481866-f5b0-4c2b-a674-20882af464d9",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 10579,
+    "end": 10660,
+    "text": "Und erst nach einer Weile die Stimme des diensttuenden Z\u00f6glings, klein und leise:"
+  },
+  {
+    "anno_id": "e884ed11-2515-42e6-a6e0-a48be16f1a90",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 10661,
+    "end": 10704,
+    "text": "\u00bbLinks um! Marschieren: Compagnie, Marsch!\u00ab"
+  },
+  {
+    "anno_id": "ca154ff8-03af-4cf3-858c-c2f8f58fe269",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 10705,
+    "end": 11070,
+    "text": "Ohne Schritt und langsam wendet sich der Jahrgang zur T\u00fcr. Jerome als der letzte. Keiner sieht sich um. Die Luft aus dem Gang kommt, kalt und dumpfig, den Knaben entgegen. Einer meint, es rieche nach Karbol. Pombert macht laut einen gemeinen Witz in Bezug auf den Gestank. Niemand lacht. Jerome f\u00fchlt sich pl\u00f6tzlich am Arm gefa\u00dft, so angesprungen. Krix h\u00e4ngt daran."
+  },
+  {
+    "anno_id": "9edb7dca-4c82-42ba-8a20-0ec90a8b3d58",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 11071,
+    "end": 11142,
+    "text": "Seine Augen gl\u00e4nzen und seine Z\u00e4hne schimmern, als ob er bei\u00dfen wollte."
+  },
+  {
+    "anno_id": "075e225b-c1f9-4afd-9839-e9558e55a262",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 11143,
+    "end": 11165,
+    "text": "\u00bbIch hab ihn gesehen\u00ab,"
+  },
+  {
+    "anno_id": "e12db2c7-cf85-4d0e-a471-71dd6a880554",
+    "tag_id": "d574bef6-17eb-417d-8463-6cc99ea40b7f",
+    "tag_name": "pause",
+    "start": 11166,
+    "end": 11185,
+    "text": "fl\u00fcstert er atemlos"
+  },
+  {
+    "anno_id": "0d0650cc-4a26-401d-83db-bb73fc4ba5ca",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 11186,
+    "end": 11289,
+    "text": "und pre\u00dft Jeromes Arm und ein Lachen ist innen in ihm und r\u00fcttelt ihn hin und her. Er kann kaum weiter:"
+  },
+  {
+    "anno_id": "1f5ec7bc-069f-419e-97ed-12608e00670d",
+    "tag_id": "850de553-f5c1-4640-8da0-de63be9e1cd1",
+    "tag_name": "isochrony",
+    "start": 11290,
+    "end": 11382,
+    "text": "\u00bbGanz nackt ist er und eingefallen und ganz lang. Und an den Fu\u00dfsohlen ist er versiegelt...\u00ab"
+  },
+  {
+    "anno_id": "9073c7f2-db8b-46a1-a6b0-64668ce595f9",
+    "tag_id": "25346c01-67cf-42ad-b0bf-bcffa016996d",
+    "tag_name": "scene",
+    "start": 11384,
+    "end": 11476,
+    "text": "Und dann kichert er, spitz und kitzlich, kichert und bei\u00dft sich in den \u00c4rmel Jeromes hinein."
+  }
+]

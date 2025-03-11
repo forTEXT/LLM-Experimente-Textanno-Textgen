@@ -1,0 +1,82 @@
+[
+  {
+    "anno_id": "e2094bab-cf27-4ae5-95c7-836bb9571cba",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 3385,
+    "end": 3390,
+    "text": "jetzt"
+  },
+  {
+    "anno_id": "65bb2526-e825-4b1b-88c8-f0ccb280c4e1",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 4327,
+    "end": 4332,
+    "text": "jetzt"
+  },
+  {
+    "anno_id": "4f542fda-2050-4c34-9e31-7e1c45815441",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 11556,
+    "end": 11561,
+    "text": "jetzt"
+  },
+  {
+    "anno_id": "373e2ec4-b6ca-4aa0-8075-2c1545416397",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 12097,
+    "end": 12102,
+    "text": "jetzt"
+  },
+  {
+    "anno_id": "09924740-fef3-4bfa-af83-a4d8c48e2114",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 18517,
+    "end": 18522,
+    "text": "jetzt"
+  },
+  {
+    "anno_id": "01452ead-1c4a-45e6-9ad4-7ee54eedbb1a",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 20576,
+    "end": 20581,
+    "text": "jetzt"
+  },
+  {
+    "anno_id": "1f9dcc99-30b8-4242-9ab7-5858731d48ac",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 23708,
+    "end": 23713,
+    "text": "jetzt"
+  },
+  {
+    "anno_id": "1e1e53db-fefe-42b2-85ee-301283c2d8dc",
+    "tag_id": "c3ffba11-5089-4392-8b8d-7c479f7d7185",
+    "tag_name": "anaphoric_time-point",
+    "start": 26460,
+    "end": 26465,
+    "text": "jetzt"
+  },
+  {
+    "anno_id": "f3c4f592-5b2d-4bf0-865e-a9d904c3946b",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 27042,
+    "end": 27047,
+    "text": "jetzt"
+  },
+  {
+    "anno_id": "b0208723-ffc4-46f3-9579-8a3bb1b8ccb2",
+    "tag_id": "c42a6351-1b35-4eac-941a-84348c03413d",
+    "tag_name": "deix_time-point",
+    "start": 28211,
+    "end": 28216,
+    "text": "jetzt"
+  }
+]

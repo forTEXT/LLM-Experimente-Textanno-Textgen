@@ -1,0 +1,842 @@
+[
+  {
+    "anno_id": "3313c162-94e2-465e-b380-94ff1fcd3208",
+    "tag_id": "115083cf-9e1c-4fa0-9542-e7388f01a576",
+    "tag_name": "pluperfect",
+    "start": 25,
+    "end": 54,
+    "text": "Er hatte sehr fr\u00fch geheiratet"
+  },
+  {
+    "anno_id": "733df20d-b948-48a1-b287-d8e7a70fc26e",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 56,
+    "end": 114,
+    "text": "aus Eigensinn mehr denn aus Liebe; zu fr\u00fch und ungl\u00fccklich"
+  },
+  {
+    "anno_id": "be585ca6-4d39-4e11-bbc1-6b8e2985f9f5",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 116,
+    "end": 166,
+    "text": "das sagte er sich selbst schon nach einigen Jahren"
+  },
+  {
+    "anno_id": "b0b98713-5394-49d7-b953-9d486f4d0257",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 168,
+    "end": 195,
+    "text": "Aber er sagte es ganz leise"
+  },
+  {
+    "anno_id": "ce1ce1ef-3d1b-4eb9-9895-2302195294e1",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 197,
+    "end": 217,
+    "text": "Was konnte sie daf\u00fcr"
+  },
+  {
+    "anno_id": "18e1ec26-31d1-456e-869a-2e0f6bb749f4",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 219,
+    "end": 247,
+    "text": "da\u00df Frauen so schnell altern"
+  },
+  {
+    "anno_id": "2e00558c-7591-4da6-a4bd-7fcaa2f8ec33",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 249,
+    "end": 256,
+    "text": "geistig"
+  },
+  {
+    "anno_id": "b475fb75-3892-4bee-a643-950eba822ff6",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 258,
+    "end": 300,
+    "text": "da\u00df ihr Wachstum \u00fcberraschend bald aufh\u00f6rt"
+  },
+  {
+    "anno_id": "a04fd755-5711-48af-ae6b-63fa5b991c39",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 302,
+    "end": 318,
+    "text": "und da\u00df sie dann"
+  },
+  {
+    "anno_id": "a04fd755-5711-48af-ae6b-63fa5b991c39",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 346,
+    "end": 364,
+    "text": "durchs Leben gehen"
+  },
+  {
+    "anno_id": "7c71ce1d-c0fa-4953-a2e9-cd8ce4b7dfbf",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 320,
+    "end": 344,
+    "text": "ein armselig Zwitterding"
+  },
+  {
+    "anno_id": "782310ac-b975-483c-a88b-41400ae40337",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 366,
+    "end": 427,
+    "text": "Kindisch in allen h\u00f6chsten Dingen; ganz kalter Weltverstand, "
+  },
+  {
+    "anno_id": "782310ac-b975-483c-a88b-41400ae40337",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 427,
+    "end": 484,
+    "text": "sobald der Mann an ihrer Seite einen Schwung wagen m\u00f6chte"
+  },
+  {
+    "anno_id": "6c8827a6-81b0-405f-ba53-ead31e62adf9",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 488,
+    "end": 497,
+    "text": "Er f\u00fchlte"
+  },
+  {
+    "anno_id": "59395ded-a2eb-45e7-a0e4-214a81443416",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 499,
+    "end": 543,
+    "text": "da\u00df er weiterwachsen mu\u00dfte seiner Natur nach"
+  },
+  {
+    "anno_id": "1ba4aaab-e6c9-43f0-b20c-cf5d7492c72d",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 545,
+    "end": 574,
+    "text": "und da\u00df sie es ihm erschwerte"
+  },
+  {
+    "anno_id": "0368e36a-3639-4d09-95d6-7493c4b7b0be",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 576,
+    "end": 644,
+    "text": "und seine Augen wurden schwach \u00fcber dem Anblick der eisernen Pflicht"
+  },
+  {
+    "anno_id": "cdb6786e-d0b7-4145-91d2-9dbe181247db",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 646,
+    "end": 659,
+    "text": "sie fingen an"
+  },
+  {
+    "anno_id": "0acb43f0-59a0-4fe3-bed8-3749cc702cf7",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 661,
+    "end": 712,
+    "text": "hinauszusp\u00e4hen, zu suchen.\r\nIn einem gro\u00dfen Schmerz"
+  },
+  {
+    "anno_id": "80b27895-0043-4c2f-8b77-0e76541cfdcb",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 714,
+    "end": 731,
+    "text": "der ihn betroffen"
+  },
+  {
+    "anno_id": "7e7a3151-25ab-46b6-9636-f8ab99d9301b",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 733,
+    "end": 848,
+    "text": "als Pflegerin, Tr\u00f6sterin, h\u00e4tte die erstarrte Seele seiner Gattin vielleicht wieder weich und fl\u00fcssig werden k\u00f6nnen"
+  },
+  {
+    "anno_id": "b007e4f8-3f14-4889-9aa1-74c72c7b3f31",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 850,
+    "end": 878,
+    "text": "aber die Probe blieb erspart"
+  },
+  {
+    "anno_id": "3454a761-c1ec-4300-9516-384d97ef3bc1",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 880,
+    "end": 932,
+    "text": "es ging Jahr auf Jahr weiter ohne besonderes Ungl\u00fcck"
+  },
+  {
+    "anno_id": "060a2e60-329f-4928-b458-1a11b16d82b1",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 934,
+    "end": 963,
+    "text": "Es waren auch keine Kinder da"
+  },
+  {
+    "anno_id": "8564421f-f079-49d6-bb42-2f7b25ea5998",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 965,
+    "end": 1028,
+    "text": "die durch ihr Leben oder Sterben ein Bindeglied gebildet h\u00e4tten"
+  },
+  {
+    "anno_id": "b3c772c7-98e0-470b-9dcd-3637fe248023",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1031,
+    "end": 1072,
+    "text": "So blieb es bei jenem gef\u00e4hrlichen Suchen"
+  },
+  {
+    "anno_id": "b4c79870-5d0d-4c1b-a17e-7dea90501839",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1074,
+    "end": 1102,
+    "text": "Das Schicksal war ihm gn\u00e4dig"
+  },
+  {
+    "anno_id": "baf7e85d-ed4b-4088-b228-2886b9205612",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1103,
+    "end": 1117,
+    "text": "oder \u2013 grausam"
+  },
+  {
+    "anno_id": "f52dc7db-8f82-4836-ad4a-644cc2c100fb",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1119,
+    "end": 1155,
+    "text": "es f\u00fchrte ihm ein M\u00e4dchen in den Weg"
+  },
+  {
+    "anno_id": "3e30c5c1-8ea3-4232-8d5d-baf528581faf",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1157,
+    "end": 1213,
+    "text": "das gerade Widerspiel seiner Gattin, voll Leben und Saft"
+  },
+  {
+    "anno_id": "465c41fe-2b3d-4ab8-9518-e0687a137b5d",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1215,
+    "end": 1254,
+    "text": "Er str\u00e4ubte sich nicht einen Augenblick"
+  },
+  {
+    "anno_id": "49b3efc7-e330-4f0c-8339-cb7fcf4bab9e",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1256,
+    "end": 1324,
+    "text": "st\u00fcrzte sich mit aller zusammengesparten Glut auf das Gl\u00fccksgeschenk"
+  },
+  {
+    "anno_id": "3fc56ac9-489d-41cc-ba70-1ba5733009a0",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1326,
+    "end": 1352,
+    "text": "bediente sich aller Mittel"
+  },
+  {
+    "anno_id": "6e26eab5-fe6e-4001-beb0-eb0a8436888a",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1354,
+    "end": 1400,
+    "text": "edler und ruchloser, um ihre Liebe zu gewinnen"
+  },
+  {
+    "anno_id": "9f0aa8f5-fd7b-4fc9-a203-7f1efc2c31a3",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1402,
+    "end": 1415,
+    "text": "Es gelang ihm"
+  },
+  {
+    "anno_id": "c5f46ab2-7509-4094-a1bf-7e655588e0ab",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1417,
+    "end": 1432,
+    "text": "sie geh\u00f6rte ihm"
+  },
+  {
+    "anno_id": "18242e51-6103-4dd5-8e7f-f92f71a243a1",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1434,
+    "end": 1478,
+    "text": "er hielt sich f\u00fcr den gl\u00fccklichsten Menschen"
+  },
+  {
+    "anno_id": "f1549d58-c72c-49ca-8cef-1ee9bbd4c2e5",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1481,
+    "end": 1519,
+    "text": "Da\u00df die Geliebte ein ganzer Mensch war"
+  },
+  {
+    "anno_id": "4f1fa56a-2fb2-4e39-8aba-8e4f06d45714",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1520,
+    "end": 1553,
+    "text": "und darum auch ihn ganz verlangte"
+  },
+  {
+    "anno_id": "edb25f1c-882d-4bf3-95dd-bab6de1ff080",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1555,
+    "end": 1609,
+    "text": "da\u00df sie ihn mit Gram und Abscheu in der L\u00fcge leben sah"
+  },
+  {
+    "anno_id": "9633c574-6eda-48ab-8cf0-1d6c0e9d636b",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1611,
+    "end": 1651,
+    "text": "lernte er erst durch ihre Worte erkennen"
+  },
+  {
+    "anno_id": "635283c1-4f36-4b79-b220-07ef73dace41",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1653,
+    "end": 1681,
+    "text": "ja, erst als Jahre vergangen"
+  },
+  {
+    "anno_id": "dce9518c-b5b7-4451-a171-5a4baec5b151",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1682,
+    "end": 1730,
+    "text": "und er die Neigung der Geliebten erkalten f\u00fchlte"
+  },
+  {
+    "anno_id": "61393574-e1c2-44dc-96ba-3b7955f378e6",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1732,
+    "end": 1759,
+    "text": "durchzuckte ihn der Gedanke"
+  },
+  {
+    "anno_id": "671d4871-46a0-4ec8-9875-1360729a7304",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1761,
+    "end": 1808,
+    "text": "da\u00df etwas geschehen, da\u00df er sich befreien m\u00fcsse"
+  },
+  {
+    "anno_id": "7aba1b2a-aebc-4fb5-870b-5df90060a73a",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1810,
+    "end": 1848,
+    "text": "Diese Gewi\u00dfheit verlie\u00df ihn nicht mehr"
+  },
+  {
+    "anno_id": "ef21eab9-ad84-4042-b486-a70ab2a6f618",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1850,
+    "end": 1876,
+    "text": "aber sie ward zu einem Alp"
+  },
+  {
+    "anno_id": "8475525e-304a-4e33-a36b-50d1e3502cd9",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1878,
+    "end": 1921,
+    "text": "der ihm Tag und Nacht auf die Brust dr\u00fcckte"
+  },
+  {
+    "anno_id": "a7c4daf4-b968-45ba-9746-556fa1e77742",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1923,
+    "end": 1946,
+    "text": "Er fand die Worte nicht"
+  },
+  {
+    "anno_id": "6b2dc3c4-bab6-4337-8739-f9fb6226fa8c",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 1948,
+    "end": 1961,
+    "text": "seiner Gattin"
+  },
+  {
+    "anno_id": "a1d4f2f1-1574-4b37-b9bd-fe08c061cba5",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 1963,
+    "end": 2020,
+    "text": "die ihn mit ihren schwarzen Augen so klug und ruhig ansah"
+  },
+  {
+    "anno_id": "4d45a289-606a-49af-b3e5-18630456080c",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2022,
+    "end": 2069,
+    "text": "wenn er ihr aus alter Gewohnheit die Hand k\u00fc\u00dfte"
+  },
+  {
+    "anno_id": "54b90a48-98d0-4355-8187-e321b9d634f1",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2071,
+    "end": 2156,
+    "text": "\u2013 seiner Gattin, die er selbst gew\u00e4hlt, die er zu sch\u00fctzen und zu st\u00fctzen versprochen"
+  },
+  {
+    "anno_id": "e7760ca0-6f75-46ec-b375-bccef448a2dc",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2158,
+    "end": 2205,
+    "text": "und die seinen Schutz auch t\u00e4glich beanspruchte"
+  },
+  {
+    "anno_id": "7baf2640-3c77-4729-aa94-880423ff80ad",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2207,
+    "end": 2273,
+    "text": "wenn sie ins Theater ging oder sp\u00e4t aus einer Gesellschaft heimkam"
+  },
+  {
+    "anno_id": "45ff543d-c12f-43d6-aa6e-a2fcf98886f1",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2276,
+    "end": 2400,
+    "text": "so pl\u00f6tzlich zu erkl\u00e4ren, da\u00df er jetzt eine andre heiraten m\u00fcsse, und da\u00df zwischen ihnen alles zu Ende sei. \u00bbWas \u203aCollage\u2039\u00ab!"
+  },
+  {
+    "anno_id": "22b4dd91-c3b2-4c25-8401-1aac8fa31348",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2401,
+    "end": 2408,
+    "text": "rief er"
+  },
+  {
+    "anno_id": "e943ce49-39df-469a-a969-0a3ce8fe2724",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2409,
+    "end": 2448,
+    "text": "und schleuderte den franz\u00f6sischen Roman"
+  },
+  {
+    "anno_id": "e943ce49-39df-469a-a969-0a3ce8fe2724",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2468,
+    "end": 2482,
+    "text": " auf den Boden"
+  },
+  {
+    "anno_id": "f8773c9f-ab39-434d-bc24-c6e7b33779c8",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2450,
+    "end": 2467,
+    "text": "in dem er gelesen"
+  },
+  {
+    "anno_id": "221b92db-5128-434e-9979-952407930d8e",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 2485,
+    "end": 2514,
+    "text": "die Ehe ist der wahre Collage"
+  },
+  {
+    "anno_id": "7f3252c3-d4fa-47f0-8d28-909495975b1c",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2516,
+    "end": 2540,
+    "text": "Wer mir das gesagt h\u00e4tte"
+  },
+  {
+    "anno_id": "b1433d97-ef3b-42a2-982d-da7831599296",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2542,
+    "end": 2570,
+    "text": "als ich so leicht hineinging"
+  },
+  {
+    "anno_id": "2e901131-eb8d-42e7-b5e9-2ed348631657",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2573,
+    "end": 2617,
+    "text": "Und er vergrub seinen Kopf in die Sofakissen"
+  },
+  {
+    "anno_id": "32f04a33-bb07-4c76-bcbe-8c77b8673754",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2618,
+    "end": 2654,
+    "text": "und schlo\u00df die Augen mit dem Wunsche"
+  },
+  {
+    "anno_id": "c38a043b-9911-457b-a8b8-bf179ceac1c3",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2656,
+    "end": 2679,
+    "text": "sie nie wieder aufzutun"
+  },
+  {
+    "anno_id": "565e1de6-187c-4651-930e-156c6a190667",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2682,
+    "end": 2709,
+    "text": "Um so wacher war seine Frau"
+  },
+  {
+    "anno_id": "c04228dc-445e-4424-b7f6-4a856baf740a",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2711,
+    "end": 2743,
+    "text": "sie beobachtete ihn eifers\u00fcchtig"
+  },
+  {
+    "anno_id": "03879be0-686e-43b4-81cf-8b2c0cbaf9a8",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2744,
+    "end": 2754,
+    "text": "und scharf"
+  },
+  {
+    "anno_id": "56fe9301-cb5e-4ce5-ade3-0b6c4ac0d9cf",
+    "tag_id": "115083cf-9e1c-4fa0-9542-e7388f01a576",
+    "tag_name": "pluperfect",
+    "start": 2756,
+    "end": 2783,
+    "text": "Er hatte die Absicht gehabt"
+  },
+  {
+    "anno_id": "040da6e7-bddf-4428-ac72-35e4f0dfd1ad",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 2785,
+    "end": 2881,
+    "text": "sich allm\u00e4hlich immer weiter von ihr zur\u00fcckzuziehen, damit ihr der letzte Ruck nicht so wehe tue"
+  },
+  {
+    "anno_id": "95c046c6-a123-4424-8cd9-6de2fd8e245b",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2883,
+    "end": 2921,
+    "text": "aber sie ging ihm immer um soviel nach"
+  },
+  {
+    "anno_id": "b0a7eafb-f9ad-484e-bbea-ba98824a16ce",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2923,
+    "end": 2941,
+    "text": "als er ihr auswich"
+  },
+  {
+    "anno_id": "b451a569-f0c2-4d61-9814-a6a3878ee40c",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 2943,
+    "end": 2987,
+    "text": "und so blieb die Entfernung doch die gleiche"
+  },
+  {
+    "anno_id": "53769fe8-793d-4c4e-8f1d-775cce70779b",
+    "tag_id": "115083cf-9e1c-4fa0-9542-e7388f01a576",
+    "tag_name": "pluperfect",
+    "start": 2989,
+    "end": 3033,
+    "text": "Heute hatte sie ihn fast liebreich angesehen"
+  },
+  {
+    "anno_id": "f230d123-e0e5-4722-be98-124a1b044a17",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3034,
+    "end": 3044,
+    "text": "und gesagt"
+  },
+  {
+    "anno_id": "63ac7ded-2b2b-4bc8-83b7-c27523bdfd28",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3047,
+    "end": 3067,
+    "text": "Du arbeitest zu viel"
+  },
+  {
+    "anno_id": "73ad26f8-35ee-44ce-aeb9-98de872c0a9a",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3069,
+    "end": 3106,
+    "text": "schreibst immer bis tief in die Nacht"
+  },
+  {
+    "anno_id": "f6f32fe6-f04c-445c-94fb-d6ab57d07e45",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3108,
+    "end": 3117,
+    "text": "ich denke"
+  },
+  {
+    "anno_id": "90062624-c1e7-4127-a120-d5e42c9083a7",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3119,
+    "end": 3137,
+    "text": "du bist recht bla\u00df"
+  },
+  {
+    "anno_id": "79db24f9-4cee-4387-a02e-4d4b90210017",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3139,
+    "end": 3171,
+    "text": "wollen wir nicht den Arzt fragen"
+  },
+  {
+    "anno_id": "97b8d219-b8bf-46fc-a6e1-00496071743c",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3174,
+    "end": 3217,
+    "text": "Ein roher Mensch w\u00fcrde sie jetzt anschreien"
+  },
+  {
+    "anno_id": "14e3f893-d415-4ce8-ae12-360fd9a2fd5d",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 3219,
+    "end": 3244,
+    "text": "dachte er in Verzweiflung"
+  },
+  {
+    "anno_id": "e4677f4d-dabb-43a6-90f7-c0170941ab28",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3245,
+    "end": 3257,
+    "text": " w\u00fcrde sagen"
+  },
+  {
+    "anno_id": "d9d5f74f-ec49-4974-b342-6a919e808253",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3260,
+    "end": 3280,
+    "text": "du bist mein Ungl\u00fcck"
+  },
+  {
+    "anno_id": "5b5594f7-314e-4a6f-8eb5-b2051daa25b6",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3282,
+    "end": 3302,
+    "text": "du machst mich krank"
+  },
+  {
+    "anno_id": "00fa6b73-321f-48dc-9dbc-a9e1cd0d556c",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3305,
+    "end": 3327,
+    "text": "Aber kann denn ich das"
+  },
+  {
+    "anno_id": "2be496d7-36e8-4679-a3b5-984a6aae4f53",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3329,
+    "end": 3354,
+    "text": "Kann ich ihr so antworten"
+  },
+  {
+    "anno_id": "b6100313-256b-4875-af16-0d13e9c30432",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3356,
+    "end": 3381,
+    "text": "wenn sie mit diesem Blick"
+  },
+  {
+    "anno_id": "d4976ff6-c753-49d3-9d88-433d7c3136ac",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3383,
+    "end": 3440,
+    "text": "diesem Blick aus den ersten Tagen unsrer Ehe mich ansieht"
+  },
+  {
+    "anno_id": "76e22beb-d87c-4875-94e3-e14f002c5d77",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3442,
+    "end": 3443,
+    "text": "O"
+  },
+  {
+    "anno_id": "4af78ba2-e022-41d6-a154-7e22d30b7efd",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3445,
+    "end": 3481,
+    "text": "wie beneide ich diese rohen Menschen"
+  },
+  {
+    "anno_id": "78c2532a-46d8-42b4-813f-f9119beaa641",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 3485,
+    "end": 3539,
+    "text": "Sie entfernte sich von ihm mit einem lauernden L\u00e4cheln"
+  },
+  {
+    "anno_id": "59e24abb-9b52-4e3a-8aeb-ba5a1b432f92",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3541,
+    "end": 3579,
+    "text": "achselzuckend \u00fcber sein Nichtantworten"
+  },
+  {
+    "anno_id": "46738909-e3e1-49cc-8be4-fd2964b5fee1",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 3582,
+    "end": 3599,
+    "text": "Als er allein war"
+  },
+  {
+    "anno_id": "e64b265b-6bc3-4639-976c-c3410f95b94c",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 3601,
+    "end": 3681,
+    "text": "zog er nach vielem \u00e4ngstlichen Umherschauen einen Brief von der Geliebten hervor"
+  },
+  {
+    "anno_id": "8593a8f6-6c93-4c5b-b5bf-00c73b27cbd3",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3683,
+    "end": 3686,
+    "text": "ach"
+  },
+  {
+    "anno_id": "290fc736-3046-41d9-9eba-dca1ca8715f3",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 3688,
+    "end": 3720,
+    "text": "er war schon ein halbes Jahr alt"
+  },
+  {
+    "anno_id": "490eaf1b-8477-4b18-aa6b-0c6802f21a21",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 3722,
+    "end": 3745,
+    "text": "und sie sagte ihm darin"
+  },
+  {
+    "anno_id": "ea386415-c403-491d-9fc2-3ddb24788e15",
+    "tag_id": "fb4638cc-fb22-45b9-97de-22c4827a7102",
+    "tag_name": "undefined",
+    "start": 3747,
+    "end": 3810,
+    "text": "sie sei es m\u00fcde; nicht sowohl des Wartens m\u00fcde, als des Mannes,"
+  },
+  {
+    "anno_id": "e0acf538-3748-4189-b266-b46cf4b6fdb7",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 3811,
+    "end": 3836,
+    "text": "der solches Warten ertrug"
+  },
+  {
+    "anno_id": "5a3b53a9-accb-4e5a-99aa-ac19b70aa9a9",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3839,
+    "end": 3871,
+    "text": "Alles ist gegen mich verschworen"
+  },
+  {
+    "anno_id": "caeb1b84-7ac8-4827-ac0b-0ab41a9a9f9a",
+    "tag_id": "76d1f581-d10e-4855-a722-b377486a0a3d",
+    "tag_name": "perfect",
+    "start": 3873,
+    "end": 3907,
+    "text": "Ich habe nie Gl\u00fcck gehabt im Leben"
+  },
+  {
+    "anno_id": "9cd4b3e5-2717-4414-b743-d6791dbc8549",
+    "tag_id": "95e5c06c-a751-4f8b-993d-19eae9edfcf5",
+    "tag_name": "present",
+    "start": 3909,
+    "end": 3925,
+    "text": "soll keins haben"
+  },
+  {
+    "anno_id": "e352264c-a85e-4fdc-aa56-a7ed9f7ffb51",
+    "tag_id": "e3b60c24-37f7-4c55-b6ae-70d390d49977",
+    "tag_name": "preterite",
+    "start": 3928,
+    "end": 3938,
+    "text": "seufzte er"
+  }
+]

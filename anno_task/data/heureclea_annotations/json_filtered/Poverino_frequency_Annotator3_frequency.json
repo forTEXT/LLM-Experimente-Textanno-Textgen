@@ -1,0 +1,50 @@
+[
+  {
+    "anno_id": "f89f2bf2-e678-4153-a59c-010889794d56",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 12792,
+    "end": 12819,
+    "text": "Sie werden eben aufgeboten,"
+  },
+  {
+    "anno_id": "4ac46fec-f4be-4afc-81b9-e040c8e6cc65",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 12866,
+    "end": 12888,
+    "text": "Sie wurden aufgeboten!"
+  },
+  {
+    "anno_id": "d670b82d-a9ea-4d33-80b7-782c1b1aea87",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 18625,
+    "end": 18640,
+    "text": "und schleudert."
+  },
+  {
+    "anno_id": "7194351f-83a3-467e-9409-6157d690be40",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 18826,
+    "end": 18830,
+    "text": "und "
+  },
+  {
+    "anno_id": "7194351f-83a3-467e-9409-6157d690be40",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 18830,
+    "end": 18840,
+    "text": "wiederholt"
+  },
+  {
+    "anno_id": "7194351f-83a3-467e-9409-6157d690be40",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 18840,
+    "end": 18863,
+    "text": " seinen t\u00f6dlichen Wurf."
+  }
+]

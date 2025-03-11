@@ -1,0 +1,42 @@
+[
+  {
+    "anno_id": "de175189-267d-49b6-b33b-c84308f948a0",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 4192,
+    "end": 4228,
+    "text": "Es war also wieder einmal Weihnacht,"
+  },
+  {
+    "anno_id": "4ee6c33f-3b37-4dd6-bd51-9364ad36a4da",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 4642,
+    "end": 4710,
+    "text": "den Tonfiguren wurden allerhand wundersame Reden in den Mund gelegt,"
+  },
+  {
+    "anno_id": "991f2a5b-d9f8-4e44-aa1b-0b033179165a",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 5111,
+    "end": 5147,
+    "text": "und gebratene Kartoffeln r\u00fcckten an,"
+  },
+  {
+    "anno_id": "b25f75ee-2fc9-4490-b50f-e2b0ad2362ca",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 13463,
+    "end": 13514,
+    "text": "da hielten die kleinen Tonfiguren noch gro\u00dfe Reden,"
+  },
+  {
+    "anno_id": "10d84047-334b-422f-98b2-8d9db396c1e5",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 13515,
+    "end": 13582,
+    "text": "und die gebratenen Kartoffeln sprangen im Backofen herum vor Hitze."
+  }
+]

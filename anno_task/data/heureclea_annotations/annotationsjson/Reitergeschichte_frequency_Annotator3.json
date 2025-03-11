@@ -1,0 +1,130 @@
+[
+  {
+    "anno_id": "aa82e45e-8cf6-4772-9056-d99905903d8c",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 5984,
+    "end": 6099,
+    "text": "und einer Tapetent\u00fcr, durch welche sich ein beleibter, vollst\u00e4ndig rasierter \u00e4lterer Mann im Augenblicke zur\u00fcckzog."
+  },
+  {
+    "anno_id": "d437e365-ad1f-48f0-ae71-1d29b017543f",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 6399,
+    "end": 6445,
+    "text": "einige Abende und halbe N\u00e4chte verbracht hatte"
+  },
+  {
+    "anno_id": "a9ba00a1-6d7c-4a5a-bfdf-77701e33b814",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 7305,
+    "end": 7358,
+    "text": "\u2013 diesen ihren Namen hatte er gewi\u00df seit zehn Jahren "
+  },
+  {
+    "anno_id": "a9ba00a1-6d7c-4a5a-bfdf-77701e33b814",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 7358,
+    "end": 7363,
+    "text": "nicht"
+  },
+  {
+    "anno_id": "a9ba00a1-6d7c-4a5a-bfdf-77701e33b814",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 7363,
+    "end": 7364,
+    "text": " "
+  },
+  {
+    "anno_id": "a9ba00a1-6d7c-4a5a-bfdf-77701e33b814",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 7364,
+    "end": 7370,
+    "text": "wieder"
+  },
+  {
+    "anno_id": "a9ba00a1-6d7c-4a5a-bfdf-77701e33b814",
+    "tag_id": "62b5e93e-11e7-4ff5-9211-1e115f0ce804",
+    "tag_name": "multi_singulative",
+    "start": 7370,
+    "end": 7436,
+    "text": " in den Mund genommen und ihren Taufnamen vollst\u00e4ndig vergessen \u2013,"
+  },
+  {
+    "anno_id": "97b60596-2adc-4e96-be45-6063f89fb09c",
+    "tag_id": "9e3b59ba-b381-4ed2-b36a-7c6f844674d1",
+    "tag_name": "repetitive",
+    "start": 8498,
+    "end": 8569,
+    "text": "Der rasierte, beleibte Mann, der durch die Tapetent\u00fcr verschwunden war,"
+  },
+  {
+    "anno_id": "7558fbf1-8830-4557-b4fc-ddc04d9c242f",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 8851,
+    "end": 8875,
+    "text": "der Hoftratsch erz\u00e4hlte,"
+  },
+  {
+    "anno_id": "7558fbf1-8830-4557-b4fc-ddc04d9c242f",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 8876,
+    "end": 8903,
+    "text": "Tabak und Kapaunen brachte,"
+  },
+  {
+    "anno_id": "7558fbf1-8830-4557-b4fc-ddc04d9c242f",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 8940,
+    "end": 8967,
+    "text": "mu\u00dfte Schweiggelder zahlen,"
+  },
+  {
+    "anno_id": "331eb6cb-a1ce-4d41-9e1f-022241b9d482",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 21793,
+    "end": 21813,
+    "text": "in dem nur dann und "
+  },
+  {
+    "anno_id": "331eb6cb-a1ce-4d41-9e1f-022241b9d482",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 21813,
+    "end": 21817,
+    "text": "wann"
+  },
+  {
+    "anno_id": "331eb6cb-a1ce-4d41-9e1f-022241b9d482",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 21817,
+    "end": 21864,
+    "text": " etwas Gedr\u00fccktes, H\u00fcndisches aufflackerte und "
+  },
+  {
+    "anno_id": "331eb6cb-a1ce-4d41-9e1f-022241b9d482",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 21864,
+    "end": 21870,
+    "text": "wieder"
+  },
+  {
+    "anno_id": "331eb6cb-a1ce-4d41-9e1f-022241b9d482",
+    "tag_id": "f1fc83fb-8c45-4236-aff4-8b926b7aefac",
+    "tag_name": "iterative",
+    "start": 21870,
+    "end": 21882,
+    "text": " verschwand,"
+  }
+]

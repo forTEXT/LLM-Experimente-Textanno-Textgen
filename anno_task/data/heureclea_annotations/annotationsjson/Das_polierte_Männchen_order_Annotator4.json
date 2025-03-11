@@ -1,0 +1,506 @@
+[
+  {
+    "anno_id": "934872d8-50e2-4266-9bc8-4df070956237",
+    "tag_id": "eeccc55e-96a1-4e00-8217-02661717b1e0",
+    "tag_name": "prolepse",
+    "start": 88,
+    "end": 176,
+    "text": "wir konnten uns sp\u00e4ter alle nicht mehr recht besinnen, wann und bei welcher Gelegenheit."
+  },
+  {
+    "anno_id": "16f69575-5d41-4d47-b51d-7f1a92508e20",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 255,
+    "end": 309,
+    "text": "Jeder von uns war aus einem anderen Grunde hergekommen"
+  },
+  {
+    "anno_id": "b278e2c6-ee06-460d-8ce0-7b2ba2b01495",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 1050,
+    "end": 1059,
+    "text": "Das Hotel"
+  },
+  {
+    "anno_id": "b278e2c6-ee06-460d-8ce0-7b2ba2b01495",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 1081,
+    "end": 1109,
+    "text": "war uns zur Heimat geworden,"
+  },
+  {
+    "anno_id": "8035f758-9e34-4efd-ae2c-52aa3e1fe139",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 1395,
+    "end": 1430,
+    "text": "die uns unentbehrlich geworden war."
+  },
+  {
+    "anno_id": "fdd77f05-d8b6-4b1f-8285-25fc90b7d0d4",
+    "tag_id": "eeccc55e-96a1-4e00-8217-02661717b1e0",
+    "tag_name": "prolepse",
+    "start": 2053,
+    "end": 2124,
+    "text": "Wir fingen auch erst an, es zu \u00e4stimieren und unentbehrlich zu finden, "
+  },
+  {
+    "anno_id": "fdd77f05-d8b6-4b1f-8285-25fc90b7d0d4",
+    "tag_id": "eeccc55e-96a1-4e00-8217-02661717b1e0",
+    "tag_name": "prolepse",
+    "start": 2124,
+    "end": 2159,
+    "text": "als es seinen Namen bekommen hatte."
+  },
+  {
+    "anno_id": "9c9f447f-a488-489e-a5b7-4c17dc5b80c2",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 2124,
+    "end": 2159,
+    "text": "als es seinen Namen bekommen hatte."
+  },
+  {
+    "anno_id": "a1f510a3-4de8-4ac0-bf9f-e7bc5c6fc248",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 2256,
+    "end": 2357,
+    "text": "aber wir hatten uns nie dar\u00fcber geeinigt, hatten es noch nicht in unser Gesamtbewu\u00dftsein aufgenommen."
+  },
+  {
+    "anno_id": "c70e2c93-a153-4801-80f7-4ef0a45edcb9",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 2695,
+    "end": 2728,
+    "text": "er war alleine spazieren gegangen"
+  },
+  {
+    "anno_id": "b6a76cad-9499-4a28-bdfb-4230ec2aa243",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 2959,
+    "end": 3095,
+    "text": "Und der unsympathische kleine Herr war uns schon \u00fcber gewesen, wir hatten ihn bald abschaffen wollen wie all unsere anderen Beziehungen,"
+  },
+  {
+    "anno_id": "4c9fb829-c527-443f-8463-bbf408d559b8",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 3174,
+    "end": 3240,
+    "text": "K\u00f6nig hatte ihn entdeckt, als er ihn das polierte M\u00e4nnchen nannte."
+  },
+  {
+    "anno_id": "edbc88a0-21ba-4cbc-a5b3-0e5dfa762d16",
+    "tag_id": "d895d767-a157-4a1a-93c0-fb65fea5653c",
+    "tag_name": "achronic_element",
+    "start": 4767,
+    "end": 4866,
+    "text": "etwa wie wenn die Toten in der Morgue pl\u00f6tzlich einm\u00fctig l\u00e4cheln und einer sogar laut aufquietscht."
+  },
+  {
+    "anno_id": "4f8830c9-d207-4c4d-981a-f702f701876e",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 4767,
+    "end": 4866,
+    "text": "etwa wie wenn die Toten in der Morgue pl\u00f6tzlich einm\u00fctig l\u00e4cheln und einer sogar laut aufquietscht."
+  },
+  {
+    "anno_id": "7c20b3e2-81b7-45dc-a096-3c8a3117b201",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 6555,
+    "end": 6597,
+    "text": "Das polierte M\u00e4nnchen war auch mitgekommen"
+  },
+  {
+    "anno_id": "bfdb18f7-c1c8-4115-8967-3833c4bb0ee1",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 7907,
+    "end": 8057,
+    "text": "wir waren sonst den ganzen Tag von einem Caf\u00e9 in das andere gegangen, hatten unter den Zeltd\u00e4chern und Lorbeerb\u00e4umen gesessen und Vischinada getrunken"
+  },
+  {
+    "anno_id": "bfdb18f7-c1c8-4115-8967-3833c4bb0ee1",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 8100,
+    "end": 8141,
+    "text": "bis es endlich Zeit zur Table d'h\u00f4te war."
+  },
+  {
+    "anno_id": "9dd0a5c3-f10f-438c-9471-147df55dbf80",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 8719,
+    "end": 8746,
+    "text": "wie es bei uns getan hatte,"
+  },
+  {
+    "anno_id": "7951c1ee-3fea-46b9-8384-f9c54622dc37",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 9610,
+    "end": 9643,
+    "text": "mit dem es \u00f6fters ausgeritten war"
+  },
+  {
+    "anno_id": "e14b1f7c-088f-46c7-8233-13576834902a",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 9801,
+    "end": 9916,
+    "text": "Sie hatte halblaut gesprochen, nur f\u00fcr uns berechnet, aber trotzdem hatte man es auf der anderen Tischseite geh\u00f6rt."
+  },
+  {
+    "anno_id": "b3f163bc-359b-4f63-bf65-33242f7963cc",
+    "tag_id": "d895d767-a157-4a1a-93c0-fb65fea5653c",
+    "tag_name": "achronic_element",
+    "start": 10098,
+    "end": 10253,
+    "text": "die kein Ende nehmen wollen, schlie\u00dflich zu einer Art Krampf werden und bei allen Beteiligten ein peinliches Gef\u00fchl von gegenseitiger Blamage hinterlassen."
+  },
+  {
+    "anno_id": "e7424f3e-c3cd-4d4c-bdc5-0444fe459507",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 10098,
+    "end": 10253,
+    "text": "die kein Ende nehmen wollen, schlie\u00dflich zu einer Art Krampf werden und bei allen Beteiligten ein peinliches Gef\u00fchl von gegenseitiger Blamage hinterlassen."
+  },
+  {
+    "anno_id": "aba3fce6-f62a-4ad5-b029-fb4daf4f95fb",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 10655,
+    "end": 10686,
+    "text": "Das Pferd war mit ihm gest\u00fcrzt."
+  },
+  {
+    "anno_id": "af4482e9-3bc8-497b-bf44-74ad8b4d0ecb",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 11070,
+    "end": 11163,
+    "text": "Der Rittmeister hatte sich nur eine Rippe zerbrochen und ein paar Quetschungen davongetragen,"
+  },
+  {
+    "anno_id": "8aed0079-cb3a-403c-92e3-9b69963f3f05",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 11750,
+    "end": 11832,
+    "text": "Aber es war doch etwas anders geworden. Unser sch\u00f6ner, tr\u00f6stlicher D\u00e4mmerzustand, "
+  },
+  {
+    "anno_id": "8aed0079-cb3a-403c-92e3-9b69963f3f05",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 11832,
+    "end": 11962,
+    "text": "an den wir uns so gew\u00f6hnt, den wir geliebt, kultiviert und gegen alle beunruhigenden Einwirkungen von au\u00dfen her verteidigt hatten,"
+  },
+  {
+    "anno_id": "8aed0079-cb3a-403c-92e3-9b69963f3f05",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 11962,
+    "end": 12014,
+    "text": " der \u00fcberhaupt das Band war, das uns zusammenhielt, "
+  },
+  {
+    "anno_id": "8aed0079-cb3a-403c-92e3-9b69963f3f05",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 12014,
+    "end": 12068,
+    "text": "und der uns so viel stummes, intensives Gl\u00fcck gebracht"
+  },
+  {
+    "anno_id": "3e10cf83-1462-4b97-aec2-b457b3bd8d7c",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 11832,
+    "end": 11962,
+    "text": "an den wir uns so gew\u00f6hnt, den wir geliebt, kultiviert und gegen alle beunruhigenden Einwirkungen von au\u00dfen her verteidigt hatten,"
+  },
+  {
+    "anno_id": "3e10cf83-1462-4b97-aec2-b457b3bd8d7c",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 12014,
+    "end": 12068,
+    "text": "und der uns so viel stummes, intensives Gl\u00fcck gebracht"
+  },
+  {
+    "anno_id": "6b6bf670-6fe8-45c4-bbf2-d0bbaf5fe564",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 12421,
+    "end": 12452,
+    "text": "die uns bisher entgangen waren."
+  },
+  {
+    "anno_id": "56f17dcb-e0b6-4def-ba1e-6af7fa6d1bd2",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 12848,
+    "end": 12861,
+    "text": "Doktor K\u00f6nig,"
+  },
+  {
+    "anno_id": "56f17dcb-e0b6-4def-ba1e-6af7fa6d1bd2",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 12895,
+    "end": 13031,
+    "text": "warf einmal die Frage auf, ob es nicht vielleicht ein Schwindler sei. Die M\u00f6glichkeit wurde gr\u00fcndlich beleuchtet, aber wieder verworfen."
+  },
+  {
+    "anno_id": "424812cf-330f-4fc8-be82-2aad525a0337",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 13353,
+    "end": 13401,
+    "text": "So rieten und gr\u00fcbelten wir hoffnungslos weiter."
+  },
+  {
+    "anno_id": "84135526-3766-40a0-af9d-75c7c989da83",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 13745,
+    "end": 13822,
+    "text": "Sie hatten sich in \u00c4gypten getroffen und beim Khedive zusammen Tee getrunken."
+  },
+  {
+    "anno_id": "09cde57a-0ac1-4062-bae2-9714a00475fa",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 14056,
+    "end": 14175,
+    "text": "Es war uns auch sonst schon aufgefallen, da\u00df au\u00dfer in unserem intimen Kreis niemals von dem M\u00e4nnchen gesprochen wurde. "
+  },
+  {
+    "anno_id": "59ad0e59-ab8f-449e-af47-96d247894a50",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 15131,
+    "end": 15222,
+    "text": "die es sich bis dahin auferlegt, oder zu der wir es durch unser Verhalten gezwungen hatten."
+  },
+  {
+    "anno_id": "3822ce81-5e1f-463b-ba82-605c0a2756fb",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 17239,
+    "end": 17535,
+    "text": "er habe beinah den Verstand dar\u00fcber verloren. Er h\u00e4tte es mit den verschiedensten Stellungen und Beleuchtungen versucht, aber das M\u00e4nnchen habe so gegl\u00e4nzt, geblinkt, ja phosphoresziert, da\u00df selbst, wenn er es ganz in den Schatten stellte, keine M\u00f6glichkeit war, auch nur eine Linie festzuhalten."
+  },
+  {
+    "anno_id": "22135bee-0d69-4731-a4c6-d44b4bbf5d47",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 17537,
+    "end": 17669,
+    "text": "Er \u2013 Schmidt \u2013 wu\u00dfte nicht, was er sagen sollte, um sich aus der Aff\u00e4re zu ziehen und stammelte nur ganz verwirrte Entschuldigungen."
+  },
+  {
+    "anno_id": "19ceba5c-01aa-4d1f-af4b-dd50f9f60dda",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 17537,
+    "end": 17669,
+    "text": "Er \u2013 Schmidt \u2013 wu\u00dfte nicht, was er sagen sollte, um sich aus der Aff\u00e4re zu ziehen und stammelte nur ganz verwirrte Entschuldigungen."
+  },
+  {
+    "anno_id": "a35ed1a6-74e3-4907-95a7-eceb36f5d4e3",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 17670,
+    "end": 18216,
+    "text": "Und das M\u00e4nnchen habe ihn t\u00fcckisch angesehen, dann sein Taschentuch hervorgelangt und sei sich damit \u00fcber die blanke Stirn gefahren. Wozu \u2013 wu\u00dfte Schmidt nicht, aber er glaubte in diesem Augenblick, es w\u00fcrde pl\u00f6tzlich aufh\u00f6ren zu gl\u00e4nzen und war auf den schauderhaftesten Spuk gefa\u00dft. Aber statt dessen h\u00fcpfte es nur von dem Podium herunter, griff nach seinem Hut und sagte beflissen ein Mal \u00fcber das andere: \u00bbAlso dann ein anderes Mal, Herr Schmidt \u2013 ein anderes Mal, Herr Schmidt.\u00ab \u2013 Schlie\u00dflich verschwand es mit einem so furchtbaren Gekicher,"
+  },
+  {
+    "anno_id": "1cf60028-785c-45c1-8386-f1205cb39a15",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 18289,
+    "end": 18324,
+    "text": "wir hatten ihn noch nie so gesehen,"
+  },
+  {
+    "anno_id": "4b370804-0a5e-4e28-b653-3e2b3459eec2",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 18456,
+    "end": 18505,
+    "text": "Den Armenier hatten wir in das Geheimnis gezogen,"
+  },
+  {
+    "anno_id": "cf596e88-39d8-4db4-b76d-a8282bc4ef86",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 18805,
+    "end": 18927,
+    "text": "er sei neulich ein St\u00fcck hinter dem polierten M\u00e4nnchen hergegangen und habe sich \u00fcber die sonderbaren Fu\u00dfspuren gewundert,"
+  },
+  {
+    "anno_id": "ad772ed5-1170-4e87-a12c-c82c17b54176",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 19182,
+    "end": 19272,
+    "text": "Es war allm\u00e4hlich, ohne da\u00df wir es wollten, der Sammelpunkt all unserer Gedanken geworden,"
+  },
+  {
+    "anno_id": "ca1a206f-425c-4cad-983b-311d896ba1e4",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 19833,
+    "end": 19880,
+    "text": "wir hatten ein paarmal mit ihm Tennis gespielt."
+  },
+  {
+    "anno_id": "d3fac206-8e68-4349-b600-dd4be4b9e39f",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 21565,
+    "end": 21658,
+    "text": "und als Kind habe ich mir immer eine Art von schauerlichen Flederm\u00e4usen darunter vorgestellt."
+  },
+  {
+    "anno_id": "6b93509a-c6c4-45b9-b43d-ad72789f407f",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 21717,
+    "end": 21791,
+    "text": "der gestern noch mit uns am Tisch gesessen und sich dann erschossen hatte,"
+  },
+  {
+    "anno_id": "7b5abb1b-b868-4c42-b549-fa05a4a8957a",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 22642,
+    "end": 22710,
+    "text": "\u2013 vor knapp dreiviertel Stunden hatte man den Engl\u00e4nder tot gefunden"
+  },
+  {
+    "anno_id": "d477272b-4fc2-4001-9d4a-bf3461028424",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 23766,
+    "end": 23911,
+    "text": "da\u00df der junge Engl\u00e4nder sich erschossen, da\u00df Frau von B. uns einen abscheulichen Traum erz\u00e4hlt hatte, und da\u00df Schmidt am Rande des Wahnsinns war;"
+  },
+  {
+    "anno_id": "890fbd3c-1991-4396-8f31-3d7be6bc6a50",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 24696,
+    "end": 24735,
+    "text": "Das polierte M\u00e4nnchen war verschwunden."
+  },
+  {
+    "anno_id": "d6cb1f07-c83e-4ac6-8b7f-3c4bdfcb6056",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 25376,
+    "end": 25432,
+    "text": "Man hatte sich wohl geeinigt, nicht dar\u00fcber zu sprechen."
+  },
+  {
+    "anno_id": "4fa703a3-e926-4d25-93d7-7c14863c23f5",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 25698,
+    "end": 25745,
+    "text": "er hatte keine nachweisbaren Angeh\u00f6rigen gehabt"
+  },
+  {
+    "anno_id": "1a9da4a6-4823-4a28-9c78-2bf17b19d607",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 25746,
+    "end": 25771,
+    "text": "und niemand war gekommen,"
+  },
+  {
+    "anno_id": "14f24968-b760-4637-bd51-442ada3b95ae",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 25830,
+    "end": 25868,
+    "text": "Wir hatten es inzwischen nicht gesehen"
+  },
+  {
+    "anno_id": "68dc05a1-b6e9-4434-9683-0319d806ed89",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 26009,
+    "end": 26054,
+    "text": "Vayanni Bey hatte alles in die Hand genommen."
+  },
+  {
+    "anno_id": "22ffccca-6aa7-43a1-adb8-f4123e50c930",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 28238,
+    "end": 28310,
+    "text": "da\u00df wir das M\u00e4nnchen in den letzten Tagen gar nicht mehr gesehen hatten."
+  },
+  {
+    "anno_id": "1418e350-9676-4e99-a507-6202213e2999",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 28311,
+    "end": 28351,
+    "text": "Auch an der Abendtafel hatte es gefehlt,"
+  },
+  {
+    "anno_id": "82f9d046-9df6-4445-aca8-aa6e01043a64",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 28560,
+    "end": 28669,
+    "text": "wie wir damals gegangen waren und den Mann mit der Eisenstange gesucht hatten. Den hatten wir nicht gefunden,"
+  },
+  {
+    "anno_id": "75d8a502-a326-4e11-b6f2-f5dd4cb5dc92",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 29204,
+    "end": 29229,
+    "text": "Aber Frau von B. war und "
+  },
+  {
+    "anno_id": "75d8a502-a326-4e11-b6f2-f5dd4cb5dc92",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 29229,
+    "end": 29248,
+    "text": "blieb verschwunden,"
+  },
+  {
+    "anno_id": "015425ea-0da1-4dd8-89f3-9615e42ebebf",
+    "tag_id": "eeccc55e-96a1-4e00-8217-02661717b1e0",
+    "tag_name": "prolepse",
+    "start": 29229,
+    "end": 29248,
+    "text": "blieb verschwunden,"
+  },
+  {
+    "anno_id": "015425ea-0da1-4dd8-89f3-9615e42ebebf",
+    "tag_id": "eeccc55e-96a1-4e00-8217-02661717b1e0",
+    "tag_name": "prolepse",
+    "start": 29248,
+    "end": 29309,
+    "text": " und auch das polierte M\u00e4nnchen kam nie wieder zum Vorschein."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "anno_id": "e3d1d656-3d5b-4b27-86fd-1d2f32c27a7d",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 2373,
+    "end": 2386,
+    "text": "der gro\u00dfe Tag"
+  },
+  {
+    "anno_id": "88233014-ea00-458e-8ae5-c9d2cc196ab2",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 5608,
+    "end": 5618,
+    "text": "Abendtafel"
+  },
+  {
+    "anno_id": "b229ac0c-5aae-48a9-ad66-bb3d2a37e904",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 11347,
+    "end": 11357,
+    "text": "Abendessen"
+  },
+  {
+    "anno_id": "a229e78f-318a-4098-8823-f1fdf55f6bb1",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 13353,
+    "end": 13401,
+    "text": "So rieten und gr\u00fcbelten wir hoffnungslos weiter."
+  },
+  {
+    "anno_id": "81bf936a-77a2-4d8a-9602-b698df018cfb",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 13858,
+    "end": 13926,
+    "text": "wir anfingen, dem polierten M\u00e4nnchen Tod und Verderben zu w\u00fcnschen. "
+  },
+  {
+    "anno_id": "265c2061-af90-4b68-9786-bb15854733b2",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 16398,
+    "end": 16421,
+    "text": "Wir waren schon soweit,"
+  },
+  {
+    "anno_id": "08faf00d-6dbf-4706-b578-f937c605d877",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 16737,
+    "end": 16846,
+    "text": "Wir betrachteten das M\u00e4nnchen noch argw\u00f6hnischer als vorher und gr\u00fcbelten heftiger \u00fcber seine Beschaffenheit."
+  },
+  {
+    "anno_id": "d5af4068-833f-4a04-a121-85235ae0110d",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 20849,
+    "end": 20865,
+    "text": "ersten Fr\u00fchst\u00fcck"
+  },
+  {
+    "anno_id": "c64ecbf2-71ca-411c-ab8c-51c17e9760ca",
+    "tag_id": "c8880f56-765d-4db8-aaee-e61b4339d95d",
+    "tag_name": "event-related-time",
+    "start": 21569,
+    "end": 21577,
+    "text": "als Kind"
+  },
+  {
+    "anno_id": "257ea676-6ce2-48ed-b40f-c5949653d1a2",
+    "tag_id": "2a44adb2-f522-435f-85ca-0fc7543c5eb6",
+    "tag_name": "time-passing",
+    "start": 26741,
+    "end": 26825,
+    "text": "So sa\u00dfen wir in dumpfer Spannung, warteten und sehnten uns nach einer Katastrophe.\r\n"
+  }
+]

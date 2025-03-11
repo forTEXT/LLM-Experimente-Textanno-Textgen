@@ -1,0 +1,242 @@
+[
+  {
+    "anno_id": "493f11e9-e3d3-4b3f-82f4-4b397e7cbdb6",
+    "tag_id": "d895d767-a157-4a1a-93c0-fb65fea5653c",
+    "tag_name": "achronic_element",
+    "start": 303,
+    "end": 328,
+    "text": "aber klar, ist er schwul;"
+  },
+  {
+    "anno_id": "493f11e9-e3d3-4b3f-82f4-4b397e7cbdb6",
+    "tag_id": "d895d767-a157-4a1a-93c0-fb65fea5653c",
+    "tag_name": "achronic_element",
+    "start": 351,
+    "end": 372,
+    "text": "Na, nat\u00fcrlich ist er."
+  },
+  {
+    "anno_id": "9667d6e4-4fad-4239-8af6-56a807717a36",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 303,
+    "end": 328,
+    "text": "aber klar, ist er schwul;"
+  },
+  {
+    "anno_id": "9667d6e4-4fad-4239-8af6-56a807717a36",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 351,
+    "end": 372,
+    "text": "Na, nat\u00fcrlich ist er."
+  },
+  {
+    "anno_id": "d57ea28e-9739-4abd-ac4f-50de1b3ee3a1",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 2655,
+    "end": 2758,
+    "text": "du hast gesagt, da\u00df du's bezahlen w\u00fcrdest, und du hast Geld aus der Kasse genommen, um es zu erledigen,"
+  },
+  {
+    "anno_id": "0278e6e2-b9d6-48b2-8a47-d3879a256a72",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 3094,
+    "end": 3115,
+    "text": "aber dich ging es an."
+  },
+  {
+    "anno_id": "d1fb6aec-c6eb-4b63-ad95-3cbb3ee2a230",
+    "tag_id": "eeccc55e-96a1-4e00-8217-02661717b1e0",
+    "tag_name": "prolepse",
+    "start": 3506,
+    "end": 3539,
+    "text": "Jetzt wird sie immer bei mir sein"
+  },
+  {
+    "anno_id": "6dd9a1a1-fb2a-4ef8-9ebd-d301379cdf32",
+    "tag_id": "eeccc55e-96a1-4e00-8217-02661717b1e0",
+    "tag_name": "prolepse",
+    "start": 3711,
+    "end": 3744,
+    "text": "Jetzt werde ich nie traurig sein."
+  },
+  {
+    "anno_id": "46e8d617-5ca2-42b9-b813-8f16cc1b0d1d",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 4208,
+    "end": 4287,
+    "text": "Aber ich hab die Rechnungen, als du weg warst, von meinem eigenen Geld bezahlt,"
+  },
+  {
+    "anno_id": "591c07fa-dd03-4f3e-a936-016abac0b2c1",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 4567,
+    "end": 4864,
+    "text": "Ich bin die ganze Zeit \u00fcber hier geblieben, w\u00e4hrend du in Spanien warst, und du hattest mich bevollm\u00e4chtigt, all die notwendigen laufenden Ausgaben f\u00fcr's Haus zu bezahlen, und du hast kein Geld geschickt, w\u00e4hrend du weg warst, und ich hab \u00fcber sechshundert Pesos von meinem eigenen Geld ausgelegt,"
+  },
+  {
+    "anno_id": "c22f5ef2-1a48-429b-916e-301d8b83b70c",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 5203,
+    "end": 5374,
+    "text": "Er hatte nur zweimal in Spanien gek\u00e4mpft; man konnte ihn dort nicht ausstehen; man durchschaute ihn schnell genug, und er hatte sich sieben neue Kampfanz\u00fcge machen lassen,"
+  },
+  {
+    "anno_id": "c22f5ef2-1a48-429b-916e-301d8b83b70c",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 5409,
+    "end": 5548,
+    "text": "er lie\u00df sie so schlecht einpacken, da\u00df vier davon auf der R\u00fcckreise vom Seewasser ruiniert wurden und er sie \u00fcberhaupt nicht tragen konnte."
+  },
+  {
+    "anno_id": "e35c617f-9560-4032-a0ed-e74f90277e8f",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 5582,
+    "end": 5688,
+    "text": "du f\u00e4hrst nach Spanien. Du bleibst da die ganze Saison \u00fcber und k\u00e4mpfst nur zweimal. Du gibst alles Geld, "
+  },
+  {
+    "anno_id": "e35c617f-9560-4032-a0ed-e74f90277e8f",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 5688,
+    "end": 5712,
+    "text": "das du mitgenommen hast,"
+  },
+  {
+    "anno_id": "e35c617f-9560-4032-a0ed-e74f90277e8f",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 5712,
+    "end": 5809,
+    "text": " f\u00fcr Anz\u00fcge aus, und dann l\u00e4\u00dft du sie vom Seewasser ruinieren, so da\u00df du sie nicht tragen kannst."
+  },
+  {
+    "anno_id": "1b4176e4-f680-41f6-b169-b0867a41edef",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 5688,
+    "end": 5712,
+    "text": "das du mitgenommen hast,"
+  },
+  {
+    "anno_id": "d7c3c9ec-88d1-47a2-abc2-b9561ee2d5d3",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 6275,
+    "end": 6310,
+    "text": "was mit meiner Mutter geschehen ist"
+  },
+  {
+    "anno_id": "7f0dfee1-0118-4722-970f-387c62bb50cf",
+    "tag_id": "eeccc55e-96a1-4e00-8217-02661717b1e0",
+    "tag_name": "prolepse",
+    "start": 6466,
+    "end": 6504,
+    "text": "Ich werde die Kasse selbst aufbewahren"
+  },
+  {
+    "anno_id": "bfa1632b-a745-4a49-9ae0-fbf08fac8a60",
+    "tag_id": "eeccc55e-96a1-4e00-8217-02661717b1e0",
+    "tag_name": "prolepse",
+    "start": 6519,
+    "end": 6543,
+    "text": "Nein, das wirst du nicht"
+  },
+  {
+    "anno_id": "77aeba47-069c-4cd6-839c-69bc5677273d",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 6845,
+    "end": 6877,
+    "text": "den er nie vorher gesehen hatte,"
+  },
+  {
+    "anno_id": "ee2cbabe-b831-441e-befc-46ca92f8a955",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 7047,
+    "end": 7122,
+    "text": "Du hast mir gerade erz\u00e4hlt, da\u00df du kein Geld hast, um es mir zur\u00fcckzuzahlen"
+  },
+  {
+    "anno_id": "6cda0d23-ab94-42e4-b824-d3b5bba11c09",
+    "tag_id": "eeccc55e-96a1-4e00-8217-02661717b1e0",
+    "tag_name": "prolepse",
+    "start": 7774,
+    "end": 7829,
+    "text": "Ich komme mit dir mit, und ich werd dir das Geld geben."
+  },
+  {
+    "anno_id": "411c3df7-fd86-46a7-9f88-72f018eba3a4",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 8129,
+    "end": 8165,
+    "text": "Dem Schwulen gibst du f\u00fcnfzig Pesos,"
+  },
+  {
+    "anno_id": "de2b7adb-0e85-4a33-8ec6-191006f22f4d",
+    "tag_id": "d895d767-a157-4a1a-93c0-fb65fea5653c",
+    "tag_name": "achronic_element",
+    "start": 8950,
+    "end": 9039,
+    "text": "Das ist das Schlimmste, was man auf spanisch sagen kann, um einen Menschen zu beleidigen."
+  },
+  {
+    "anno_id": "ddaca697-bef4-4c37-9f2d-12278983fbcf",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 8950,
+    "end": 9039,
+    "text": "Das ist das Schlimmste, was man auf spanisch sagen kann, um einen Menschen zu beleidigen."
+  },
+  {
+    "anno_id": "7c81c093-319f-4d23-850f-08b8e3124d89",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 9068,
+    "end": 9112,
+    "text": "Meine arme Mutter starb, als ich so jung war"
+  },
+  {
+    "anno_id": "cacce9dd-c1b8-478f-bf55-71f9921404e4",
+    "tag_id": "d895d767-a157-4a1a-93c0-fb65fea5653c",
+    "tag_name": "achronic_element",
+    "start": 9203,
+    "end": 9457,
+    "text": "Da haben Sie einen Schwulen, wie er im Buch steht. Man kann ihnen nicht beikommen. Nichts, aber auch nichts kann ihnen was anhaben. Sie geben Geld f\u00fcr sich aus oder aus Eitelkeit, aber bezahlen tun sie nie. Versuchen Sie mal, einen zum Zahlen zu kriegen."
+  },
+  {
+    "anno_id": "ec9760a8-9509-4523-83dd-11ddd73c85a1",
+    "tag_id": "3f11915f-272b-49cd-9c24-82e224a3d0b5",
+    "tag_name": "link_theme",
+    "start": 9203,
+    "end": 9457,
+    "text": "Da haben Sie einen Schwulen, wie er im Buch steht. Man kann ihnen nicht beikommen. Nichts, aber auch nichts kann ihnen was anhaben. Sie geben Geld f\u00fcr sich aus oder aus Eitelkeit, aber bezahlen tun sie nie. Versuchen Sie mal, einen zum Zahlen zu kriegen."
+  },
+  {
+    "anno_id": "73efc4b5-dbe7-43c7-915d-66af5ed976d1",
+    "tag_id": "757bf8b0-3a71-44f8-8c75-cde8657d4eb0",
+    "tag_name": "analepse",
+    "start": 9458,
+    "end": 9548,
+    "text": "Ich sagte ihm, was ich von ihm hielt, direkt da auf der Gran Via vor seinen drei Freunden,"
+  },
+  {
+    "anno_id": "836ba5bd-ed87-4090-b026-ed7fc01cd022",
+    "tag_id": "d740c069-76d7-4a91-bdb5-37fd6b88b21e",
+    "tag_name": "disagreement_approved",
+    "start": 9458,
+    "end": 9548,
+    "text": "Ich sagte ihm, was ich von ihm hielt, direkt da auf der Gran Via vor seinen drei Freunden,"
+  }
+]
