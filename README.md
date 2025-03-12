@@ -27,7 +27,7 @@ Das Sprachmodell erhält, neben der Anweisung zur Annotation, den Teil der Annot
 
 #### Experimentreihe 1: Textannotation mit Llama 3.1
 
-Die zweite literaturwissenschaftliche Tätigkeit, für die wir mit entsprechenden Experimenten den Einsatz von LLMs prüfen, ist das Schreiben von wissenschaftlichen Beiträgen. Dafür generieren wir Texte zur Darstellung der Forschungsfrage, -methoden und -ergebnisse der in diesem Beitrag durchgeführten Annotationsexperimente. Für die Textgenerierung greifen wir auf ChatGPT (Version „chatgpt-4o-latest“ vom 03. September 2024)
+Die zweite literaturwissenschaftliche Tätigkeit, für die wir mit entsprechenden Experimenten den Einsatz von LLMs prüfen, ist das Schreiben von wissenschaftlichen Beiträgen. Dafür generieren wir Texte zur Darstellung der Forschungsfrage, -methoden und -ergebnisse der in diesem Beitrag durchgeführten Annotationsexperimente. Für die Textgenerierung nutzen wir ChatGPT (Version „chatgpt-4o-latest“ vom 03. September 2024).
 
 Die Nutzung von ChatGPT für die Textgeneration in diesem Beitrag ist mit folgenden drei Zielen verbunden: 
 - Ausformulieren einer Argumentationsstruktur 
