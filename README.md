@@ -1,4 +1,5 @@
-# LLM-Experimente-Textanno-Textgen
+Dieses Github-Repositorium enthält alle Textdaten, Codes, Prompts, Links zu Chatverläufen mit ChatGPT-4o und Ergebnisse zu den im Beitrag "Literaturwissenschaftlich Arbeiten mit großen Sprachmodellen?" ausgeführten und vorgestellten Experimentreihen. 
+
 
 # Literaturwissenschaftlich Arbeiten mit großen Sprachmodellen?
 ## Zwei Experimentreihen zur Textgenerierung mit Künstlicher Intelligenz
@@ -10,7 +11,9 @@ Autorinnen:
 Dieses Repositorium beinhaltet alle von uns ausgeführten Experimente, Daten und Codes.
 
 ### Zusammenfassung
-In diesem Beitrag untersuchen wir die Nützlichkeit von Künstlicher Intelligenz für die literaturwissenschaftliche Forschung anhand von zwei dafür typischen Tätigkeiten. In zwei Experimentreihen mit großen Sprachmodellen wurden einerseits Annotationen für einem literarischen Text erstellt und andererseits drei Abschnitte dieses Beitrags generiert. Die Gestaltung der Experimente berücksichtigt die technischen Voraussetzungen, die Literaturwissenschaftler*innen typischerweise mitbringen. Damit wollen wir eine Nutzerperspektive beleuchten, die bislang in der Entwicklung und Bewertung von großen Sprachmodellen wenig beachtet wird. Die Experimente zum Schreiben der Abschnitte wurden mit ChatGPT umgesetzt, sodass sie direkt im Browserfenster und ohne technische Vorkenntnisse oder besondere Rechnerkapazitäten umgesetzt werden konnten. Für die Experimentreihe zur Generierung der Textannotationen haben wir einige technische Kenntnisse angenommen, die in der Literaturwissenschaft zwar nicht ganz selbstverständlich, aber in einigen Fällen doch vorhanden sind: Wir haben das generative Sprachmodell Llama 3.1 mit einer Anwendung lokal auf einem Rechner genutzt. Dafür sind neben durchschnittlichen Rechnenkapazitäten auch zumindest grundlegende Programmierkompetenzen erforderlich nötig gewesen. Beide Experimentreihen waren zwar teilweise erfolgreich, insgesamt scheint der aktuelle Stand dieser genutzten großen Sprachmodelleder Technologie allerdings nicht geeignet, um mit begrenzten Möglichkeiten in vertretbarer Zeit zufriedenstellende Ergebnisse zu erreichen. 
+In diesem Beitrag untersuchen wir die Nützlichkeit von Künstlicher Intelligenz für die literaturwissenschaftliche Forschung anhand von zwei dafür typischen Tätigkeiten. In zwei Experimentreihen mit großen Sprachmodellen wurden einerseits Annotationen für einen literarischen Text erstellt und andererseits der Text von drei Abschnitten dieses Beitrags generiert. Im ersten Abschnitt wurden Zusammenfassungen wissenschaftlicher Artikel zu LLMs in der Literaturwissenschaft generiert. Im zweiten Abschnitt ließen wir ChatGPT anhand einer vorgegebenen Struktur eine Beschreibung unserer Experimentreihe zur Annotation ausformulieren, während im dritten Abschnitt die Ergebnisse der Annotationsexperimentreihe für eine ausformulierte Analyse an ChatGPT übergeben wurden. 
+Die Gestaltung der Experimentreihen berücksichtigt die typischen technischen Kenntnisse von Literaturwissenschaftler*innen. Die Experimente zum Schreiben wurden mit ChatGPT über das Chat-Interface im Browser umgesetzt, während für die Annotationen Llama 3.1 lokal verwendet wurde, was zumindest grundlegende Programmierkenntnisse erfordert. Trotz einzelner Erfolge scheint der aktuelle Stand dieser Sprachmodelle nicht geeignet, um mit begrenzten Möglichkeiten in angemessener Zeit zufriedenstellende Ergebnisse zu erreichen. 
+
 
 
 ### Zwei Experimentreihen
@@ -34,41 +37,21 @@ Die Nutzung von ChatGPT für die Textgeneration in diesem Beitrag ist mit folgen
 
 
 ### Ordnerstruktur
-- generate_article_text:
-  - analysis
-  - experiment_setting
-  - SotA_LLMs-Literary_studies
-  - SotA_LLMs_Literary_Studies v2
 
-- preprocess_annotations: (Pre)processing der Annotationen; Standoff Annotationen ohne Text in XML zu Inline-Annotationen (XML) sowie JSON-Dateien
-  - annotationstotxt.py
-  - catmapy.py
-  - spielwiese.py
-  - findindex.py
-
-- annotationtask
-  - oneshot_eg.py
-  - oneshot.py
-  - order_fullshot_results.md
-
-- data:
-  - results: Markdowns/TXTs mit Dokumentation der Prompt-Versuche
-  - annotation: Enthält Ergebnisse von "preprocess_annotations", also Inline-Annotationen, JSONs und alles gefiltert nach ORDER/FREQ/DUR
-  - tags: Tags and ID Infos on Frequency/Duration/Order
-  - guidelines
-  - raw
-  - tags_guidelines_json.py
-  - strategien.txt
-  - guidelinesv2.txt
-  - create_tag_json.py
-
-
-
-
-## Python-Dateien
-- oneshot.ipynb - One Shot Tests
-- zeroshot.ipynb - Zero Shot Tests
-- lmstudio.ipynb
-
+├── anno_task
+│   ├── additional_chatgpt_annotask
+│   ├── code
+│   ├── data
+│   │   ├── guidelines
+│   │   ├── heureclea_annotations
+│   │   ├── raw_data
+│   │   └── tags
+│   └── results
+│       └── annotation_formatted
+└── text_generation_task
+    ├── SotA_LLMs_Literary_Studies
+    ├── SotA_LLMs_Literary_Studies_v2
+    ├── analysis
+    └── experiment_setting
 
 
