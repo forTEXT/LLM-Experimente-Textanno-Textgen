@@ -38,6 +38,7 @@ Die Nutzung von ChatGPT für die Textgeneration in diesem Beitrag ist mit folgen
 
 ### Ordnerstruktur
 
+```
 ├── anno_task
 │   ├── additional_chatgpt_annotask
 │   ├── code
@@ -53,5 +54,5 @@ Die Nutzung von ChatGPT für die Textgeneration in diesem Beitrag ist mit folgen
     ├── SotA_LLMs_Literary_Studies_v2
     ├── analysis
     └── experiment_setting
-
+```
 
