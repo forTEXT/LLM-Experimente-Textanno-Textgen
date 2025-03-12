@@ -18,26 +18,45 @@ Alle prompts + Outputs: https://chatgpt.com/share/671252b8-3528-8004-bec2-c5b955
 
 ### Experiment 2:
 Prompt (und Upload der beiden im Prompt genannten Dateien):
-Schreibe einen Abschnitt eines wissenschaftlichen Artikels über den Einsatz von LLMs für literaturwissenschaftliche Textanalysen. Es geht in diesem Abschnitt um acht One Shot- und Two Shot-Experimente. Die angehängte Datei order_oneshot_twoshot_results_annotation.md enthält die Beschreibung von diesen acht Experimenten, bestehend aus einer kurzen Übersicht, dem Prompt und dem Output des LLMs. In der Datei Auch_ich_war_in_Arkadien_order_Annotator1.json sind die manuell erstellten korrekten Annotationen (Goldstandard). Schreibe folgenden Text: 1. Beschreibe die generelle Ausrichtung dieser Experimente und beurteile die Ergebnisse jedes einzelnen Experiments, indem Du sie mit dem Goldstandard vergleichst. 3. Diskutiere danach Ähnlichkeiten und Unterschiede in der Qualität der Ergebnisse der einzelnen Experimente in Bezug auf den Goldstandard, die auffallend sind. Nenne dabei immer die Textstellen, die korrekt gefunden bzw. nicht gefunden wurden.
+Schreibe einen Abschnitt eines wissenschaftlichen Artikels über den Einsatz von LLMs für literaturwissenschaftliche Textanalysen. Es geht in diesem Abschnitt um 31 Zero Shot-, One Shot-, Two Shot- und Three-Shot-Experimente. Die angehängte Datei all_prompts_results.md enthält eine Übersicht zu diesen 31 Experimenten. Diese sind in der Markdowndatei nummeriert. Die Nummerierung ist der jeweiligen Überschrift zu entnehmen. Unter jeder Überschrift stehen Informationen zu den Experimenten, die durch Aufzählungszeichen markiert sind. Zu diesen Informationen gehören die übergebenen Guidelines, der zu annotierende Text, das/die übergebene(n) Ausgabebeispiel(e), die ausformulierte Promptanfrage, die an das Modell gestellt wurde, sowie die Antwort des Modells. In manchen Fällen gibt es zu Experimenten noch stichpunktartig Notizen oder Beobachtungen, die festgehalten wurden. 
+Außerdem erhältst du die Dateien “Auch_ich_war_in_Arkadien_order_Annotator1.json”, die manuell erstellte, korrekte Annotationen (Goldstandard) enthält.
+Schreibe auf Grundlage der übergebenen Dateien einen Text mit folgenden Inhalten: 1) Beschreibe die generelle Ausrichtung dieser Experimente und 2) beurteile die Ergebnisse jedes einzelnen Experiments, indem Du sie mit dem Goldstandard vergleichst, 3) Diskutiere danach Ähnlichkeiten und Unterschiede in der Qualität der Ergebnisse der einzelnen Experimente in Bezug auf den Goldstandard, die auffallend sind. Nenne dabei immer die Textstellen, die korrekt gefunden bzw. nicht gefunden wurden.
 
-https://chatgpt.com/share/671287ac-2c44-8004-bddb-31707ab5ed21
+Modell-Output:
+
+Einsatz von LLMs für literaturwissenschaftliche Textanalysen: Methodik und Ergebnisbewertung
+Generelle Ausrichtung der Experimente
+
+Die 31 durchgeführten Experimente zur Anwendung von Large Language Models (LLMs) in der literaturwissenschaftlichen Textanalyse wurden mit unterschiedlichen Prompt-Strategien gestaltet, um die Annotationen literarischer Texte zu evaluieren. Dazu wurden Zero-Shot-, One-Shot-, Two-Shot- und Three-Shot-Ansätze gewählt, die variieren, ob und wie viele Beispiele zur Erklärung der Annotationen bereitgestellt wurden. Ziel dieser Experimente war es, die Effektivität und Genauigkeit der LLMs bei der Erkennung spezifischer textueller Merkmale und annotativen Elemente zu prüfen und sie mit manuell erstellten, korrekten Annotationen (Goldstandard) zu vergleichen.
+
+Die Experimente nutzten verschiedene Formen von Anfragen und Guidelines, die den Modellen zur Verfügung gestellt wurden. In den One-, Two- und Three-Shot-Experimenten wurden Beispielausgaben integriert, um das Modell zu steuern und eine präzisere Antwort zu erzielen. Jede Konfiguration zielte darauf ab, die Leistungsfähigkeit des Modells zu bewerten, indem die generierten Antworten auf annotierte Textpassagen überprüft und mit dem Goldstandard abgeglichen wurden.
+
+Beurteilung der Ergebnisse der einzelnen Experimente im Vergleich zum Goldstandard
+
+Die Ergebnisse der einzelnen Experimente wurden mit den manuell erstellten Annotationen des Textes Auch ich war in Arkadien verglichen, die verschiedene Kategorien wie zeitliche und iterative Ausdrücke sowie andere annotative Elemente enthielten. Die Goldstandard-Daten zeigten präzise markierte Stellen, darunter Formulierungen wie „seit langer Zeit“, „Julirevolution“, und „Eines Tages“, die spezifischen annotativen Kategorien zugeordnet waren.
+
+Zero-Shot-Experimente: Diese Experimente, die ohne Beispielanfragen durchgeführt wurden, wiesen in der Regel eine geringere Genauigkeit auf. Viele der annotierten Textstellen wurden entweder nicht erkannt oder nur teilweise erfasst. Beispiele wie „seit langer Zeit“ und „unterdes“ wurden oftmals übersehen oder fehlerhaft kategorisiert.
+One-Shot-Experimente: Mit der Bereitstellung eines einzelnen Beispiels verbesserten sich die Erkennungsraten leicht. Annotationsstellen wie „Julirevolution“ wurden in einigen Fällen korrekt identifiziert, doch blieben die Ergebnisse insgesamt inkonsistent. Der Einfluss des einen Beispiels auf die Modellantwort war spürbar, reichte aber nicht aus, um eine umfassende Abdeckung der Annotationen sicherzustellen.
+Two-Shot- und Three-Shot-Experimente: Die Hinzufügung weiterer Beispiele trug zu einer verbesserten Leistung der LLMs bei. Zwei- und Drei-Shot-Experimente konnten komplexere zeitliche Strukturen wie „in diesem Augenblick“ oder „eh ich mich besinnen konnte“ präziser erkennen. Die Verwendung mehrerer Beispiele führte zu einer deutlicheren Verbesserung der Erkennungsqualität, insbesondere bei der Identifizierung subtiler zeitlicher Hinweise. Dennoch gab es auch hier einige Fehlzuordnungen und fehlende Annotationen im Vergleich zu den vollständigeren Goldstandard-Daten.
+Vergleich der Experimente hinsichtlich der Übereinstimmung mit dem Goldstandard
+
+Die Qualität der LLM-Ergebnisse in den verschiedenen Experimenten zeigte bemerkenswerte Unterschiede. Während die Zero-Shot-Ansätze durch eine niedrigere Erkennungsgenauigkeit geprägt waren, bewiesen die Experimente mit ein oder mehr Beispielanfragen eine zunehmende Robustheit. Textstellen wie „unterdes“, die im Goldstandard als „anaphoric_time-span“ gekennzeichnet waren, wurden beispielsweise in den komplexeren Shot-Experimenten häufiger erkannt.
+
+Ein wiederkehrendes Muster war, dass die Modelle eher kürzere, prägnante Annotationen wie „eh“ oder „nun“ korrekt erfassten, während längere oder kompliziertere Ausdrücke wie „während dicke Sträuße hoher Pfauenfedern von ihrer turmähnlichen Frisur herabnickten“ häufiger übersehen wurden. Eine detaillierte Analyse zeigte zudem, dass iterative Ausdrücke wie „von Zeit zu Zeit“ in den meisten Versuchen nur sporadisch korrekt identifiziert wurden.
+
+Diskussion der Ähnlichkeiten und Unterschiede
+
+Es zeigte sich, dass die LLMs mit zunehmender Anzahl von Beispielen und spezifischen Prompts eine bessere Anpassung an die Annotationen gemäß dem Goldstandard zeigten. Eine zentrale Herausforderung war jedoch die konsistente Erkennung längerer Phrasen und kontextabhängiger Zeitpunkte. Die Diskrepanz zwischen den LLM-Ergebnissen und dem Goldstandard betraf insbesondere komplexe temporale Konstruktionen und seltener vorkommende Ausdrücke, die oft unberücksichtigt blieben.
+
+Trotz der Verbesserungen durch den Einsatz von Beispielen konnte keine vollständige Übereinstimmung mit den Goldstandard-Daten erzielt werden. Dies deutet darauf hin, dass eine weitere Anpassung der Prompts und die Implementierung von Zusatztechniken, wie z.B. das Feintuning der Modelle auf spezifische literaturwissenschaftliche Korpora, erforderlich sein könnte, um eine höhere Übereinstimmungsrate zu erzielen.
+
+Prompt + Output: https://chatgpt.com/share/67288623-0dc8-8004-9758-2d0bbb012f42 (04.11.2024, ChatGPT-4o)
+
+## Experiment 3 - Auswertung in Tabellenform:
+Prompt (und Upload der beiden im Prompt genannten Dateien):
+Schreibe einen Abschnitt eines wissenschaftlichen Artikels über den Einsatz von LLMs für literaturwissenschaftliche Textanalysen. Es geht in diesem Abschnitt um 31 Zero Shot-, One Shot-, Two Shot- und Three-Shot-Experimente. Die angehängte Datei all_prompts_results.md enthält eine Übersicht zu diesen 31 Experimenten. Diese sind in der Markdowndatei nummeriert. Die Nummerierung ist der jeweiligen Überschrift zu entnehmen. Unter jeder Überschrift stehen Informationen zu den Experimenten, die durch Aufzählungszeichen markiert sind. Zu diesen Informationen gehören die übergebenen Guidelines, der zu annotierende Text, das/die übergebene(n) Ausgabebeispiel(e), die ausformulierte Promptanfrage, die an das Modell gestellt wurde, sowie die Antwort des Modells. In manchen Fällen gibt es zu Experimenten noch stichpunktartig Notizen oder Beobachtungen, die festgehalten wurden. 
+Außerdem erhältst du die Dateien “Auch_ich_war_in_Arkadien_order_Annotator1.json”, die manuell erstellte, korrekte Annotationen (Goldstandard) enthält.
+Schreibe auf Grundlage der übergebenen Dateien einen Text mit folgenden Inhalten: 1) Beschreibe die generelle Ausrichtung dieser Experimente und 2) beurteile die Ergebnisse jedes einzelnen Experiments, indem Du sie mit dem Goldstandard vergleichst, 3) Diskutiere danach Ähnlichkeiten und Unterschiede in der Qualität der Ergebnisse der einzelnen Experimente in Bezug auf den Goldstandard, die auffallend sind. Nenne dabei immer die Textstellen, die korrekt gefunden bzw. nicht gefunden wurden. 4) Gib abschließend einen Überblick, in dem Du alle Experimente zusammenfasst und eine Tabelle erstellst, in der die Anzahl der erzeugten Annotationen und in Zahlen und Prozent der Anteil der korrekten Annotationen, der falschen Annotationen und der fehlenden Annotationen für alle 31 Experimente steht.
 
 
-
-**lmstudio mit Meta-Llama-3.1-8B-Instruct-GGUF/Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf**:
-
-Der Einsatz von LLMs (Large Language Models) für literaturwissenschaftliche Textanalysen ist ein vielversprechender Ansatz, um die Analyse und Interpretation von literarischen Werken zu unterstützen. Die Experimente in der Datei "order_oneshot_results_annotation.md" haben sich auf acht One-Shot- und Two-Shot-Versuche konzentriert, wobei das Ziel darin bestand, LLMs zur Erstellung von Annotationen für literarische Texte zu nutzen.
-
-Ein wesentlicher Aspekt dieser Experimente ist die Verwendung von One-Shot- und Two-Shot-Ansätzen. Bei den One-Shot-Versuchen wird eine Anfrage an das LLM gestellt, wobei das Modell aufgefordert wird, eine Annotation für einen bestimmten Text zu erstellen, ohne vorherige Informationen oder Kontext über die Annotationsprozess zu erhalten. Im Gegensatz dazu werden bei den Two-Shot-Versuchen zwei Anfragen an das LLM gestellt: eine mit dem Prompt und einer Beispiel-Ausgabe und eine weitere Anfrage zur Erstellung der tatsächlichen Annotationen.
-
-Die Ergebnisse dieser Experimente sind im angehängten Datei "order_oneshot_results_annotation.md" dokumentiert. Um die Qualität der Ergebnisse zu beurteilen, wurden sie mit den manuell erstellten korrekten Annotationen (Goldstandard) verglichen. In Bezug auf den Goldstandard fallen einige Ähnlichkeiten und Unterschiede in der Qualität der Ergebnisse auf.
-
-Einige auffällige Ähnlichkeiten zwischen den Ergebnissen liegen in der Tatsache, dass die LLMs in vielen Fällen ähnliche Annotationen wie im Goldstandard erstellen konnten. Dies deutet darauf hin, dass das LLM die Anforderungen und Regeln der Annotations-Prozess verstanden hat. 
-
-Einige auffällige Unterschiede zwischen den Ergebnissen liegen jedoch auch vor. Einige LLM-Ergebnisse weisen offensichtliche Fehler oder Unpräzisionen auf, während andere Ergebnisse überhaupt keine Annotationen erstellen konnten. Diese Unterschiede könnten durch die Qualität und Komplexität der verwendeten Trainingsdaten, die Genauigkeit des Modells oder die Art der Anfrage an das LLM bedingt sein.
-
-Insgesamt ergeben diese Experimente jedoch, dass LLMs für literaturwissenschaftliche Textanalysen ein vielversprechender Ansatz darstellen. Durch weitere Verbesserungen und Optimierungen kann das Potenzial von LLMs vollständig ausgeschöpft werden, um die Qualität der Annotationen zu verbessern und den Prozess der Textanalyse effizienter zu machen.
-
-Es ist jedoch wichtig zu beachten, dass diese Ergebnisse auf einem kleinen Satz Experimente basieren und weitere Untersuchungen notwendig sind, um die allgemeine Gültigkeit dieser Ergebnisse zu bestätigen.
-
-
+Prompt + Output: https://chatgpt.com/share/672a40fd-3934-8004-a182-393406b5e757 (04.11.2024, ChatGPT-4o)

@@ -1,5 +1,6 @@
 """
 Catmapy wird importiert, damit Annotationen und Textdaten zusammengeführt werdern können --> Daraus wird XML
+Alle Pfade müssen manuell angepasst werden.
 
 
 """
@@ -37,9 +38,9 @@ def rename_files():
 
 def add_inline_annos():
     """Basierend auf Originaltexten (txt files) und Xml-Dateien (annotationen) wird hier jeweils eine XML-Datei erstellt, die Inline-Annotationen enthält """
-    collections_ordner = "./LLMs/Heurecla/heureclea/heureclea-time-annotations-compared"
-    source_texts_ordner = "./LLMs/Heurecla/heureclea/heureclea-sourcedocuments"
-    output_ordner = "./LLMs/Heurecla/heureclea/annostotxt"
+    collections_ordner = "pathto/heureclea-time-annotations-compared"
+    source_texts_ordner = "pathto/heureclea-sourcedocuments"
+    output_ordner = "pathto/annostotxt"
 
     os.makedirs(output_ordner, exist_ok=True)
 
@@ -149,9 +150,9 @@ def tuple_to_dict(listoftuples):
 
 def annos_to_json():
     """Annotationen werden extrahiert und annotierte Textstellen werden in JSON abgelegt"""
-    collections_ordner = "pathto/heureclea_og_data/heureclea-time-annotations-compared"
-    results_dir = "pathto/heureclea_og_data/annotationsjson_new"
-    source_texts_ordner = "pathto/heureclea_og_data/heureclea-sourcedocuments"
+    collections_ordner = "pathto//heureclea-time-annotations-compared"
+    results_dir = "pathto/annotationsjson_new"
+    source_texts_ordner = "pathto/heureclea-sourcedocuments"
     source_texts = {os.path.splitext(f)[0]: os.path.join(source_texts_ordner, f) for f in os.listdir(source_texts_ordner) if f.endswith('.txt')}
 
 

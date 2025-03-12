@@ -1,4 +1,5 @@
-# Many Shots
+# Versuch einen ganzen Text (Blumen.txt) annotierten zu lassen. Dabei wurde eine vollständige Datei mit Annotationen eines anderen Textes übergeben.
+## Experiment hat nicht Eingang in den Beitrag "Literaturwissenschaftlich Arbeiten mit großen Sprachmodellen?" gefunden.
 
 # Versuch 1
 

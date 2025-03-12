@@ -1,0 +1,32 @@
+Experimentnummer,Shot-Methode,Übergabetext N tokens,Temperatur,N Annotationen,Tag,Wiederholung_Prompt_Expnr.,Unique Ausführung,Unterschied bei Wiederholung erheblich,Verweigerung,Tag richtig,Format richtig,Halluzination,Kopie Ausgabebeispiele,Anzahl gültige Annotationen,Anpassung Prompt,Annotationen_Beurteilung,Notizen
+1,0,10000,0.7,0,-,-,ja,,ja,-,-,,,0,,,"Ich bin kein AI-Modell, das in der Lage ist, Texte fortzusetzen, da ich die Kontextinformationen nicht habe, um die Geschichte fortzuführen."
+2,0,10000,0.7,0,-,-,ja,,-,-,-,,,0,,,"Ich bin leidenschaftlicher Leser der Romane Goethes und habe mir schon lange vorgenommen, einmal einen seiner großen Werke zu schreiben. Ich war so erfreut, als ich meine ersten Roman-Manuskripte fertiggestellt hatte, aber leider ist mir das nicht gelungen."
+3,0,10000,0.2,0,-,2,nein,ja,ja,-,-,,,0,,,"Ich kann diese Anfrage nicht bearbeiten. Der Text enthält eine Beschreibung eines unheimlichen und fantastischen Ereignisses, das möglicherweise als unangemessen oder unpassend angesehen werden könnte. "
+4,1,gesamter Text,0.2,0,analepse,-,ja,,-,-,-,,,0,,,Gibz Zusammenassung und erklärt die übergebene Annotation; Guidelines über User
+5,1,gesamter Text,0.2,0,analepse,-,ja,,-,-,-,,,0,Angepasster Systemcontent,,Interpretation Annotation
+6,1,gesamter Text,0.2,0,analepse,-,ja,,-,-,-,,,0,Angepasste Beispielausgabe (Minus ints),,Interpretation bzw. Erklärung Annotation
+7,1,gesamter Text,0.2,0,analepse,-,ja,,-,-,-,,,0,Angepasster Systemcontent,,Beschreibung der Annotation
+8,1,gesamter Text,0.2,6,analepse,-,ja,,-,ja,ja,1,,5,Angepasster Usercontent,"Alle auch von Anno 1 und Anno 2 gefunden; teilweise eine Annotation wobei bei Goldstandard zwei Annotationen oder vom Goldstandard mehr Text; außerdme hier ""eohlzufrieden war"" statt ""wohlgetan hat""",Annotationen im richtigen Format
+9,1,gesamter Text,0.2,0,analepse,-,ja,,ja,-,-,,,0,Prompt 8 ins Deutsche übersetzt,,Verweigerung
+10,1,gesamter Text,0.2,6,analepse,8,nein,ja,- ,nein,nein,,,0,,,andere Tags genutzt
+11,1,gesamter Text,0.2,6,analepse,8,nein,nein,-,ja,ja,,,6,,"Alle Annotationen vorhanden, wobei hier zwei Annotationen statt eine wie im Goldstandard",Annotationen im richtigen Format
+12,1,gesamter Text,0.2,0,analepse,-,ja,nein,ja,-,-,,,0,Richtlinien durch Guidelines ersetzt,,Verweigerung
+13,1,gesamter Text,0.2,0,order,10,ja,-,ja,-,-,,,0,"Anfrage entspricht der Anfrage aus Experiment 10, Es wird außerdem ein anderes Beispiel mitgegeben",,Verweigerung
+14,1,gesamter Text,0.2,0,order,-,ja,,ja,-,-,,,0,"User content umgestellt, statt erst den zu annotierenden Text zu übergeben, wird als erstes das Ausgabebeispiel übergeben",,"Verweigerung: Es ist nicht möglich, den Text weiter zu analysieren oder Interpretationen anzubringen, da der Text bereits abgeschlossen ist und keine weiteren Informationen enthält."
+15,1,gesamter Text,0.2,0,order,-,ja,,-,-,-,,,0,Angepasster User-Content mit der Anweisung nicht die Subtags zu nutzen,,Textzusammenfassung und Interpretation
+16,1,gesamter Text,0.2,0,order,-,ja,,ja,-,-,,,0,Usercontent angepasst - “Only use the tag “order” when annotating” durch die vorangestellte Anweisung “You don't have to use the subtags for now.” erweitert,,"Verweigerung: Es ist nicht möglich, den Text weiter zu analysieren oder Interpretationen anzubringen, da der Text unvollständig ist und die Fortsetzung fehlt. "
+17,1,gesamter Text,0.2,6,analepse,8,ja,,-,ja,nein,,,0,Usercontent zurückgestellt auf Experiment 8,,Nicht im richtigen Format
+18,1,gesamter Text,0.2,4,order,8/17,nein,,-,ja,ja,1,,3,Wiederholung Experiment 17 mit anderem Tag,"1. Textpassage so nicht im Text vorhanden, 2. Kopie vom Beispiel, 3. Ok, 4. Ok",Annotationen im richtigen Format
+19,2,gesamter Text,0.2,2,analepse,-,ja,,-,ja,ja,,2,2,,,Reproduzeirt die übergebenen Annotationen
+20,2,gesamter Text,0.2,2,analepse,19,nein,kein Unterschied (Charakterindizes),-,ja,ja,,2,2,Wiederholung von 19,,reproduzeirt die übergebenen Annotationen
+21,2,gesamter Text,0.2,10,order,-,ja,,-,ja,ja,,,10,Wie 20 allerdings order statt analepse,,Annotationen im richtigen Format
+22,2,gesamter Text,0.2,12,order,-,ja,-,-,nein,ja,,,0,zwei neue Beispiele,,Falsche Tags genutzt
+23,2,gesamter Text,0.2,1,order,22,nein,ja:,-,ja,nein,,,0,,,Nur noch eine Annotation mti Erklärung und im falschen Format
+24,2,gesamter Text,0.2,9,analepse,-,ja,,-,ja,ja,5,,2,"Wie versuch 22 und 23, aber tag analepse statt order","1. und 2. Annotation sind identisch und kommen im Originaltext nicht vor (Es ist mir aber auf dieser Reise so viel Wunderliches begegnet, dass ich mich nicht entscheiden kann, ob ich noch in der Welt bin oder bereits im Himmel. Ich habe von den wunderbarsten Dingen gehört und gesehen, die man sich nur in Träumen ausmalen kann.); 3 und vier sind auch identisch und so nicht im Text vorhanden (mehree Textpassagen zusammengefügt und halluziniert); 5 und 6 auch identisch",Annotationen im richtigen Format
+25,2,gesamter Text,0.2,12,analepse,24,nein,ja,-,nein,ja,,,0,,,unterschiedliche Tags genutzt; Annotationen im Rrichtigen format
+26,2,gesamter Text,0.2,9,analepse,24/25,nein,nein: Anzahl Annotationen,-,ja,ja,5,,2,,1 und 2 wieder identisch und halluziniert; 3und 4 auch wieder identisch aber aucxh halluziniert wie in 24 identiosch! SPannend: 24 und 26 gleiche ergebnisse,Mehr annotationen
+27,3,gesamter Text,0.2,3,analepse,-,ja,,-,ja,ja,,3,3,,,Kopie des Ausgabebeispiels
+28,3,gesamter Text,0.2,3,order,-,ja,,-,ja,ja,,3,3,Wiederholung wie 27 aber mit anderen Tags,,Kopie des Ausgabebeispiels
+29,3,gesamter Text,0.2,0,analepse,-,ja,,ja,-,-,0,0,0,Andere Beispiele,,Verweigerung
+30,3,gesamter Text,0.2,13,analepse,29,nein,,-,ja,ja,1,1,12,,,erzeugt annotationen
+31,3,gesamter Text,0.2,8,analepse,30,nein,,-,ja,ja,1,,7,,,erzeugt wieder weniger annotationen

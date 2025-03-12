@@ -59,7 +59,7 @@ tag_tuples= {"duration":"CATMA_2CCEA787-42BD-4DE6-BC2E-9AAD95498989",
             }
 
 
-with open("/Users/momamari/Codes/LLMs/Heurecla/Code/data/tags_order.json","w",encoding="UTF-8") as outjson:
+with open("pathto/tags_order.json","w",encoding="UTF-8") as outjson:
     json.dump(tag_tuples,outjson)
 
 

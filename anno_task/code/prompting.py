@@ -1,3 +1,6 @@
+"""Pythonskript, um über LM Studio mit LLM zu annotieren
+Alle Pfade müssen manuell angepasst werden.
+"""
 ############################################################################################### IMPORTS
 import os
 import json
@@ -145,8 +148,7 @@ def call_and_write_llm(baseurl, texttoannotate, guideline_path, anno_example):
     :param anno_example: Beispiel von Annotationen 
     """
     
-    #output_file = "pathto/Code/annotate_ord_freq_dur/order_fullshot_results.md"
-    output_file = "/Users/Gius/github/LLMs_LiLi/annotate_ord_freq_dur/order_fullshot_results.md"
+    output_file = "pathtto/order_fullshot_results.md"
 
 
     # Dateinamen aus den Pfaden extrahieren
@@ -157,7 +159,7 @@ def call_and_write_llm(baseurl, texttoannotate, guideline_path, anno_example):
     guideline_info = f"- Guidelines: {guideline_filename}"
     example_annotations = f"- Input Annotation: {example_annotation_filename}"
 
-    # annotation_text = read_text_to_annotate("pathto/data/raw/heureclea-sourcedocuments/Blumen.txt")
+    # annotation_text = read_text_to_annotate("pathto/heureclea-sourcedocuments/Blumen.txt")
     # print("TYPE OF ANNO TEXT: ", type(annotation_text))
 
     modelanswer = manyshot_call_llm(baseurl, read_text_to_annotate(texttoannotate), read_guidelines(guideline_path), str(clean_json(anno_example)))
@@ -175,9 +177,9 @@ def call_and_write_llm(baseurl, texttoannotate, guideline_path, anno_example):
 # Beispielaufruf der Funktion
 # input_annotation_path = "pathto/data/input_annotations/annotations.txt"
 # custom_string = "Ein Beispiel"
-# output_file = "pathto/Code/annotate_ord_freq_dur/order_fullshot_results.md"
+# output_file = "pathto/order_fullshot_results.md"
 
-# texttobeannotated_path = "pathto/Code/data/annotationen/annotationsjson/Blumen_order_Annotator3.json"
+# texttobeannotated_path = "pathto/annotationsjson/Blumen_order_Annotator3.json"
 
 
 
@@ -185,41 +187,37 @@ def call_and_write_llm(baseurl, texttoannotate, guideline_path, anno_example):
 
 
 # GUIDELINES
-guidelinepath_mari = "pathto/Code/data/guidelines/guideline_order.md"
-guidelinepath_evelyn = "/Users/Gius/github/LLMs_LiLi/data/guidelines/guideline_order.md"
+guidelinepath = "pathto/guideline_order.md"
 
 
 # TEXT TO ANNOTATE
 
-anno_text_mari ="pathto/Code/data/raw/heureclea-sourcedocuments/Blumen.txt"
-anno_text_evelyn = "/Users/Gius/github/LLMs_LiLi/data/raw/heureclea-sourcedocuments/Blumen.txt"
+anno_text_1 ="pathto/heureclea-sourcedocuments/Blumen.txt"
+anno_text_2 = "pathto/heureclea-sourcedocuments/Blumen.txt"
 
 
 # OUTPUT EXAMPLE ANNOTATIONS
-annotation_examples_mari = "pathto/Code/data/annotationen/annotationsjson/Auch_ich_war_in_Arkadien_order_Annotator1.json"
-annotation_examples_evelyn = "/Users/Gius/github/LLMs_LiLi/data/annotationen/annotationsjson/Auch_ich_war_in_Arkadien_order_Annotator1_kurz.json"
+annotation_examples_1= "pathto/annotationsjson/Auch_ich_war_in_Arkadien_order_Annotator1.json"
+annotation_examples_2 = "pathto/annotationsjson/Auch_ich_war_in_Arkadien_order_Annotator1_kurz.json"
 
 
 # OUTPUT EXAMPLE SOURCE TEXT
-anno_example_text =read_text_to_annotate("Heurecla/Code/data/raw/heureclea-sourcedocuments/Auch_ich_war_in_Arkadien.txt")
+anno_example_text =read_text_to_annotate("pathto/heureclea-sourcedocuments/Auch_ich_war_in_Arkadien.txt")
 
 
 
-# marispfad = pathto/Code/data/annotationen/annotationsjson/Auch_ich_war_in_Arkadien_order_Annotator1.json
-# evelyns pfad: /Users/Gius/github/LLMs_LiLi/data/annotationen/annotationsjson/Auch_ich_war_in_Arkadien_order_Annotator1.json"
 
 # baseurls
 
-mari_base_url= "http://localhost:1234/v1"
-evelyn_base_url =  "http://127.0.0.1:1234/v1"
+base_url= "http://localhost:1234/v1"
+
     
 
-#call_and_write_llm(mari_base_url, anno_text_mari, guidelinepath_mari, annotation_examples_mari)
 
-call_and_write_llm(evelyn_base_url, anno_text_evelyn, guidelinepath_evelyn, annotation_examples_evelyn)
+call_and_write_llm(base_url, anno_text_1, guidelinepath, annotation_examples_1)
 
-#print(read_text_to_annotate("pathto/Code/data/raw/heureclea-sourcedocuments/Blumen.txt"))
-#print(type(read_text_to_annotate("pathto/Code/data/raw/heureclea-sourcedocuments/Blumen.txt")))
+#print(read_text_to_annotate("pathto/heureclea-sourcedocuments/Blumen.txt"))
+#print(type(read_text_to_annotate("pathto/heureclea-sourcedocuments/Blumen.txt")))
 
 # Function
 # call llm, Write result to txt, info example text, example annotations an
@@ -270,32 +268,3 @@ output_example = """
 
 #print(first_one_shot)
 
-
-
-############### OLD
-
-# output_example = """
-#     {
-#         "tag_name": "analepse",
-#         "start": 121,
-#         "end": 183,
-#         "text": "Es ist mir aber auf dieser Reise so viel Wunderliches begegnet"
-#     },    
-#     {
-#         "tag_name": "analepse",
-#         "start": 20600,
-#         "end": 20682,
-#         "text": "Währenddes war der Professor allmählich in seiner Redewut fast außer sich geraten."
-#     }.
-#       {
-    
-#     "tag_name": "analepse",
-#     "start": 14975,
-#     "end": 15548,
-#     "text": " so mußte ich ihn jetzt fast vergöttern. Stürzte er doch fünf, sechs Flaschen abgezogener Garantie hinunter, ohne sich zu schütteln, und fand zuletzt alle das Zeug noch nicht scharf genug! Auch ich mußte davon kosten, konnte es aber nicht herunterbringen, so widerlich fuselte der Schnaps. \u00bbAlles Pariser Fabrikat!\u00ab rief mir der Professor zu. \u2013 \u00bbMuß auf dem Transport ein wenig gelitten haben\u00ab, erwiderte ich bescheiden. \u2013 \u00bbKleinigkeit!\u00ab mengte sich der Wirt herein, \u00bbman tut etwas gestoßenen Pfeffer daran, die Leute mögen's nicht, wenn es sie nicht in die Zunge beißt.\u00ab\r\n"
-#   }
-#       """
-
-
-# json_duration = clean_json("duration", "Heurecla/Code/data/annotationen/json_filtered/Auch_ich_war_in_Arkadien_duration_Annotator5_duration.json")
-# json_frequency = clean_json("frequency","Heurecla/Code/data/annotationen/json_filtered/Auch_ich_war_in_Arkadien_frequency_Annotator5_frequency.json")
